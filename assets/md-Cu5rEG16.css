@@ -1,0 +1,76 @@
+
+.pizzas-desenho .pizzas-fatia[data-v-a4784a59] { cursor: pointer;
+}
+.pizzas-desenho.pizzas-pronta .pizzas-fatia[data-v-a4784a59] { transition: fill 0.35s ease, stroke 0.35s ease, fill-opacity 0.25s ease;
+}
+.pizzas-desenho .pizzas-rotulo[data-v-a4784a59] { pointer-events: none;
+}
+.pizzas-desenho .pizzas-uniao[data-v-a4784a59] { pointer-events: none;
+}
+.pizzas-desenho.pizzas-pronta .pizzas-uniao[data-v-a4784a59] { transition: opacity 0.15s ease 0.3s;
+}
+.pizzas-desenho.pizzas-pronta .pizzas-uniao path[data-v-a4784a59] { transition: fill-opacity 0.25s ease;
+}
+.pizzas-desenho .pizzas-anel path[data-v-a4784a59] { cursor: pointer;
+}
+.pizzas-desenho.pizzas-pronta .pizzas-anel[data-v-a4784a59] { transition: opacity 0.35s ease;
+}
+.pizzas-desenho .pizzas-contorno[data-v-a4784a59] { pointer-events: none;
+}
+.pizzas-desenho .pizzas-contorno path[data-v-a4784a59] { fill: none; stroke: #1f2a37; stroke-width: 1.8; stroke-dasharray: 0.1 5; stroke-linecap: round;
+}
+.pizzas-desenho .pizzas-rotulo text[data-v-a4784a59] { font-size: 14px; font-weight: 600; fill: var(--tinta); font-variant-numeric: tabular-nums;
+}
+.pizzas-desenho .pizzas-rotulo text.pizzas-rotulo-nome[data-v-a4784a59] { font-weight: 700;
+}
+.pizzas-desenho .pizzas-rotulo.pizzas-rotulo-escuro text[data-v-a4784a59] { fill: #ffffff;
+}
+.pizzas-desenho .pizzas-miolo-nome[data-v-a4784a59] { font-size: 19px; font-weight: 700; fill: var(--tinta);
+}
+.pizzas-desenho .pizzas-miolo-n[data-v-a4784a59] { font-size: 13px; fill: var(--tinta2);
+}
+.pizzas-desenho .pizzas-miolo-nome.pizzas-miolo-nome-junto[data-v-a4784a59] { font-size: 15px;
+}
+.pizzas-desenho .pizzas-miolo-n.pizzas-miolo-n-junto[data-v-a4784a59] { font-size: 13px;
+}
+.pizzas-desenho .pizzas-cab[data-v-a4784a59] { font-size: 14px; font-weight: 600; fill: var(--tinta);
+}
+.pizzas-desenho .pizzas-cab.pizzas-cab-mudo[data-v-a4784a59] { font-size: 13px; font-weight: 400; fill: var(--tinta2);
+}
+.pizzas-desenho .pizzas-nome[data-v-a4784a59] { font-size: 15px; fill: var(--tinta);
+}
+.pizzas-desenho .pizzas-nota[data-v-a4784a59] { font-size: 13px; fill: var(--tinta2);
+}
+.pizzas-desenho .pizzas-numero[data-v-a4784a59] { font-size: 13px; font-weight: 700; fill: #ffffff; font-variant-numeric: lining-nums tabular-nums; paint-order: stroke; stroke: rgba(0, 0, 0, 0.35); stroke-width: 1.6px;
+}
+.pizzas-desenho .pizzas-valor[data-v-a4784a59] { font-size: 15px; font-weight: 600; fill: var(--tinta); font-variant-numeric: tabular-nums;
+}
+.pizzas-desenho .pizzas-desvio[data-v-a4784a59] { font-size: 13.5px; font-weight: 400; fill: var(--tinta2);
+}
+.pizzas-desenho .pizzas-mediana[data-v-a4784a59] { font-size: 14px; font-weight: 400; fill: var(--tinta); font-variant-numeric: tabular-nums;
+}
+.pizzas-desenho .pizzas-dif[data-v-a4784a59] { font-size: 15px; font-weight: 700; font-variant-numeric: tabular-nums;
+}
+.pizzas-desenho .pizzas-seta[data-v-a4784a59] { fill: none; stroke: var(--tinta2); stroke-width: 1.4; stroke-linecap: round; stroke-linejoin: round;
+}
+.pizzas-desenho .pizzas-soma .pizzas-nome[data-v-a4784a59] { font-size: 16px; font-weight: 700;
+}
+.pizzas-desenho .pizzas-soma .pizzas-valor[data-v-a4784a59] { font-size: 16.5px; font-weight: 700;
+}
+.pizzas-desenho .pizzas-soma .pizzas-mediana[data-v-a4784a59] { font-size: 15px; font-weight: 600;
+}
+.pizzas-desenho .pizzas-soma .pizzas-dif[data-v-a4784a59] { font-size: 16.5px;
+}
+.pizzas-desenho .pizzas-fora[data-v-a4784a59] { pointer-events: none;
+}
+.pizzas-desenho.pizzas-pronta .pizzas-move[data-v-a4784a59] { transition: transform 0.35s ease, opacity 0.25s ease;
+}
+.pizzas-botao-agrupar[aria-pressed='true'][data-v-a4784a59] { background: var(--tinta); color: #fff; border-color: var(--tinta);
+}
+.pizzas-instrucao[data-v-a4784a59] { color: var(--tinta2); font-size: 13px; margin-left: auto;
+}
+.pizzas-amostra-pontilhado[data-v-a4784a59] { display: inline-block; width: 22px; height: 12px; border: 2px dotted #1f2a37; border-radius: 4px; flex: none;
+}
+
+.pizzas-slide-area[data-v-5568fb45] { height: 100%; min-height: 0; position: relative;
+}

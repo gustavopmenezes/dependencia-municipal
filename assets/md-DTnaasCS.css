@@ -1,0 +1,95 @@
+
+.pdf-paginas[data-v-1aa143b2] { margin: 0; display: flex; flex-direction: column; gap: 7px; min-width: 0; width: 100%;
+}
+.pdf-paginas-barra[data-v-1aa143b2] { display: flex; align-items: center; justify-content: space-between; gap: 14px; min-height: 30px;
+}
+.pdf-paginas-nome[data-v-1aa143b2] {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--tinta);
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.pdf-paginas-passo[data-v-1aa143b2] { display: inline-flex; align-items: center; gap: 6px; flex: none;
+}
+.pdf-paginas-contador[data-v-1aa143b2] {
+  font-size: 14.5px;
+  color: var(--tinta2);
+  font-variant-numeric: tabular-nums lining-nums;
+  min-width: 118px;
+  text-align: center;
+}
+.pdf-paginas-seta[data-v-1aa143b2] {
+  width: 28px;
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0 3px;
+  border: 1px solid var(--fio);
+  border-radius: 6px;
+  background: var(--papel, #fff);
+  color: var(--tinta);
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+}
+.pdf-paginas-seta[data-v-1aa143b2]:hover:not([disabled]) { border-color: var(--tinta);
+}
+.pdf-paginas-seta[disabled][data-v-1aa143b2] { color: var(--cinza2, #b0b0ab); cursor: default;
+}
+.pdf-paginas-quadro[data-v-1aa143b2] {
+  width: 100%;
+  box-sizing: border-box;
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  border: 1px solid var(--fio);
+  border-radius: var(--raio, 10px);
+  background: #e9e8e2;
+  padding: 8px 8px 0;
+  scrollbar-gutter: stable;
+}
+.pdf-paginas-quadro[data-v-1aa143b2]:focus-visible { outline: 2px solid var(--tinta); outline-offset: 1px;
+}
+.pdf-paginas-folha[data-v-1aa143b2] {
+  width: 100%;
+  margin: 0 0 8px;
+  background: #fff;
+  border: 1px solid #d6d5cd;
+}
+.pdf-paginas-folha img[data-v-1aa143b2] { display: block; width: 100%; height: auto;
+}
+.pdf-paginas-aviso[data-v-1aa143b2] {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  color: var(--tinta2);
+  font-size: 15px;
+  text-align: center;
+  padding: 16px;
+}
+.pdf-paginas-aviso strong[data-v-1aa143b2] { color: var(--tinta);
+}
+.pdf-paginas-pe[data-v-1aa143b2] { display: flex; align-items: center; flex-wrap: wrap; gap: 6px 18px;
+}
+.pdf-paginas-original[data-v-1aa143b2] { font-size: 14.5px; color: var(--tinta); text-decoration: underline; text-underline-offset: 3px;
+}
+
+.cem-leitura[data-v-778bfcd0] { font-size: 15px; line-height: 1.36;
+}
+.cem-leitura p[data-v-778bfcd0] { margin: 0 0 7px;
+}
+.cem-autor[data-v-778bfcd0] { border-left: 3px solid var(--tinta); padding: 2px 0 2px 12px; margin: 9px 0 8px;
+}
+.cem-autor-rotulo[data-v-778bfcd0] { font-size: 13px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--mudo); margin-bottom: 2px;
+}
+.cem-leitura .cem-fecho[data-v-778bfcd0] { font-weight: 600; font-size: 16px;
+}
+.cem-leitura .cem-vies[data-v-778bfcd0] { font-size: 13.5px; color: var(--tinta2); margin: 0;
+}

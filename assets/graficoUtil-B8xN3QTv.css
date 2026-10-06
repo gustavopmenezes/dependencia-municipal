@@ -1,0 +1,80 @@
+
+.gm { display: flex; flex-direction: column; width: 100%; height: 100%; min-height: 0; min-width: 0; color: var(--tinta); font-family: var(--sans);
+}
+.gm-cab { flex: none; display: flex; align-items: center; justify-content: space-between; gap: 14px;
+}
+.gm-t { min-width: 0; font-size: 17px; font-weight: 600; line-height: 1.25; color: var(--tinta); text-wrap: balance;
+}
+.gm-s { flex: none; font-size: 13.5px; line-height: 1.3; color: var(--tinta2); margin-top: 3px; text-wrap: pretty;
+}
+.gm-ctl { flex: none; display: flex; align-items: center; gap: 8px; margin-left: auto;
+}
+.gm-barra { flex: none; display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin-top: 8px; font-size: 14px;
+}
+.gm-leg { flex: none; display: flex; flex-wrap: wrap; gap: 3px 14px; margin-top: 7px; font-size: 13.5px; line-height: 1.3; color: var(--tinta); text-wrap: pretty;
+}
+.gm-leg-item { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; background: none; border: 0; padding: 1px 2px; font: inherit; color: inherit; border-radius: 4px;
+}
+button.gm-leg-item { cursor: pointer;
+}
+button.gm-leg-item:hover { background: #efeee8;
+}
+button.gm-leg-item:focus-visible { outline: 2px solid var(--tinta); outline-offset: 1px;
+}
+.gm-leg-item.apagado { opacity: 0.4;
+}
+.gm-leg-item.ativo { background: #efeee8; font-weight: 600;
+}
+.gm-q { display: inline-block; width: 11px; height: 11px; flex: none;
+}
+.gm-q.redondo { border-radius: 50%;
+}
+.gm-q.traco { height: 2.5px; width: 16px;
+}
+.gm-q.fino { height: 0; width: 16px; border-top: 1.5px dashed var(--tinta2); background: none !important;
+}
+.gm-area { position: relative; flex: 1 1 0; min-height: 150px; min-width: 0; margin-top: 8px;
+}
+.gm-area > svg { position: absolute; left: 0; top: 0; display: block; overflow: visible; user-select: none; -webkit-user-select: none;
+}
+.gm-area svg text { font-family: var(--sans); fill: var(--tinta2); font-size: 13px;
+}
+.gm-area svg text.forte, .gm-area svg tspan.forte { fill: var(--tinta); font-weight: 600;
+}
+.gm-area svg text.mudo, .gm-area svg tspan.mudo { fill: var(--mudo);
+}
+.gm-area svg .grade { stroke: var(--fio); stroke-width: 1; shape-rendering: crispEdges;
+}
+.gm-area svg .eixo { stroke: var(--cinza3); stroke-width: 1; shape-rendering: crispEdges;
+}
+.gm-area svg .suave { transition: all 0.3s ease;
+}
+.gm-aviso { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; color: var(--mudo); font-size: 16px; border: 1px dashed var(--cinza2); border-radius: var(--raio);
+}
+.gm-dica-t { font-weight: 600;
+}
+.gm-rod { flex: none; margin-top: 6px; font-size: 14px; line-height: 1.35; color: var(--tinta2); text-wrap: pretty;
+}
+.gm-rod strong { color: var(--tinta);
+}
+/* a fonte do slide, no fim da frase de leitura: mesma linha, um tom abaixo */
+.gm-fonte-do-slide { font-size: 13px; font-weight: 400; color: var(--mudo);
+}
+.gm-campo { display: inline-flex; align-items: center; gap: 7px; color: var(--tinta2);
+}
+.gm-campo select { font: inherit; font-size: 14px; color: var(--tinta); background: var(--papel); border: 1px solid var(--cinza2); border-radius: 999px; padding: 4px 9px;
+}
+.gm-campo input[type='range'] { accent-color: #1f2a37; width: 190px;
+}
+.gm-seg { display: inline-flex; border: 1px solid var(--cinza2); border-radius: 999px; overflow: hidden; background: var(--papel);
+}
+.gm-seg button { font: inherit; font-size: 13.5px; font-weight: 600; color: var(--tinta2); background: transparent; border: 0; padding: 5px 11px; cursor: pointer; line-height: 1.1;
+}
+.gm-seg button + button { border-left: 1px solid var(--cinza2);
+}
+.gm-seg button.ativo { background: var(--tinta); color: #fff;
+}
+.gm-seg button:focus-visible { outline: 2px solid var(--tinta); outline-offset: -2px;
+}
+.gm-num { font-variant-numeric: tabular-nums; font-weight: 700; color: var(--tinta); min-width: 3.1em; display: inline-block;
+}

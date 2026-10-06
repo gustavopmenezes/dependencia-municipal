@@ -1,0 +1,13 @@
+
+.discurso-grade[data-v-d0270704] { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 12px 26px; font-size: 15.5px; line-height: 1.36;
+}
+.discurso-rotulo[data-v-d0270704] { font-size: 13px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--mudo); margin-bottom: 2px;
+}
+.discurso-largo[data-v-d0270704] { grid-column: 1 / -1;
+}
+.discurso-confronto[data-v-d0270704] { border-top: 1px solid var(--tinta2); padding-top: 8px;
+}
+.discurso-video[data-v-d0270704] { display: flex; flex-direction: column; align-items: center; gap: 8px;
+}
+.discurso-legenda[data-v-d0270704] { font-size: 13px; line-height: 1.35; color: var(--tinta2); max-width: 300px; text-align: center;
+}

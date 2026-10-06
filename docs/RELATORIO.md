@@ -19,9 +19,9 @@ capa: sim
 
 ## A pergunta
 
-A questão-chave: a proporção entre as fontes de receita dos municípios difere muito entre as Grandes Regiões? A
+A questão-chave: a proporção entre as fontes de receita dos municípios difere muito entre as regiões do Brasil? A
 pergunta de partida: o interior profundo de São Paulo (o oeste do estado e o Vale do Ribeira) dependeria de
-receita externa em maior proporção que o Maranhão? Para responder, o estudo abriu as contas de 2024 dos 3.462 municípios dos 13 estados
+receita externa em maior proporção, tanto quanto o Maranhão? Para responder, o estudo abriu as contas de 2024 dos 3.462 municípios dos 13 estados
 do Nordeste e do Sudeste (3.356 com contas utilizáveis), a série de 2002 a 2025 e as emendas federais pagas em
 2025. A pergunta original falava também em verba de deputado. Ela admite quatro leituras, e cada uma tem resposta
 diferente.
@@ -127,7 +127,7 @@ acompanha este e-book.
 
 # Parte I. O que as contas mostram
 
-Esta parte responde, com as contas de 2024 de 3.356 municípios do Nordeste e do Sudeste e com a série de 2002 a 2025, se o interior profundo de São Paulo dependeria de receita externa em maior proporção que o Maranhão. Essa pergunta de partida admite quatro leituras, e o dado dá uma resposta diferente a cada uma. Aqui, transferências são a receita externa, o que a União e o estado repassam ao município, e verba negociada é a soma de convênio, transferência de capital e emenda. A receita tem oito fontes, seis externas (FPM, FUNDEB, cota do ICMS e do IPVA, SUS, royalties e outras transferências) e duas internas (tributos próprios e demais receitas próprias). O Apêndice A explica cada uma: o que é, quem paga, que regra garante o dinheiro e o que mudou.
+Esta parte responde, com as contas de 2024 de 3.356 municípios do Nordeste e do Sudeste e com a série de 2002 a 2025, se o interior profundo de São Paulo dependeria de receita externa em maior proporção, tanto quanto o Maranhão. Essa pergunta de partida admite quatro leituras, e o dado dá uma resposta diferente a cada uma. Aqui, transferências são a receita externa, o que a União e o estado repassam ao município, e verba negociada é a soma de convênio, transferência de capital e emenda. A receita tem oito fontes, seis externas (FPM, FUNDEB, cota do ICMS e do IPVA, SUS, royalties e outras transferências) e duas internas (tributos próprios e demais receitas próprias). O Apêndice A explica cada uma: o que é, quem paga, que regra garante o dinheiro e o que mudou.
 
 Tabela. As quatro leituras da pergunta e o que as contas de 2024 dizem de cada uma
 

@@ -1,0 +1,13 @@
+
+.referencias-rolagem[data-v-24aff0ae] { height: 100%; overflow-y: auto; padding-right: 14px; border-top: 1px solid var(--fio); border-bottom: 1px solid var(--fio);
+}
+.referencias-colunas[data-v-24aff0ae] { columns: 2; column-gap: 36px; font-size: 12.5px; line-height: 1.36; padding: 10px 0;
+}
+.referencias-colunas h4[data-v-24aff0ae] { font-family: var(--sans); font-size: 12px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--mudo); margin: 0 0 6px; break-after: avoid;
+}
+.referencias-colunas p + h4[data-v-24aff0ae] { margin-top: 14px;
+}
+.referencias-colunas p[data-v-24aff0ae] { margin: 0 0 7px; break-inside: avoid;
+}
+.referencias-colunas a[data-v-24aff0ae] { word-break: break-all; text-decoration: none; color: var(--tinta2);
+}

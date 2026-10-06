@@ -8,7 +8,7 @@ trabalho faz parte do método e por isso fica escrita.
 Gustavo Menezes fez as perguntas, e são elas que dão a forma do estudo:
 
 - a pergunta de partida: o interior profundo de São Paulo (o oeste do estado e o Vale do Ribeira) dependeria de
-  receita externa em maior proporção que o Maranhão? E o palpite de que cerca de 80% dos municípios paulistas têm menos de 50 mil habitantes (são 78,8%);
+  receita externa em maior proporção, tanto quanto o Maranhão? E o palpite de que cerca de 80% dos municípios paulistas têm menos de 50 mil habitantes (são 78,8%);
 - a ideia de pintar cada município pela maior fatia da receita, e de estender a comparação a todo o Nordeste e o
   Sudeste;
 - o pedido de ver a evolução no tempo com dispersão, municípios fora da curva contados e teste estatístico das

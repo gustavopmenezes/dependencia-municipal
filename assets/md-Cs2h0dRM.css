@@ -1,0 +1,29 @@
+
+.lt-marcos { display: flex; gap: 0; width: 100%; border-top: 2px solid var(--cinza3);
+}
+.lt-marco { display: flex; flex-direction: column; justify-content: flex-start; flex: 1 1 0; min-width: 0; position: relative; text-align: left; background: none; border: 0; border-radius: 0 0 6px 6px; padding: 9px 6px 5px 0; font: inherit; color: var(--tinta); cursor: pointer; line-height: 1.2;
+}
+.lt-marco::before { content: ''; position: absolute; left: 0; top: -6px; width: 10px; height: 10px; border-radius: 50%; background: var(--fundo); border: 2px solid var(--cinza3); box-sizing: border-box;
+}
+.lt-marco.ativo::before { background: var(--tinta); border-color: var(--tinta);
+}
+.lt-marco:focus-visible { outline: 2px solid var(--tinta); outline-offset: 1px;
+}
+.lt-ano { display: block; font-size: 14px; font-weight: 700; white-space: nowrap;
+}
+.lt-rot { display: block; font-size: 13px; color: var(--tinta2);
+}
+.lt-marco.ativo .lt-rot { color: var(--tinta);
+}
+.lt-texto { width: 100%; min-height: 4.05em; margin-bottom: 4px; font-size: 14px; line-height: 1.35; color: var(--tinta2);
+}
+.lt-fontes a { color: inherit; text-decoration: underline; text-underline-offset: 2px;
+}
+.lt-marco.passo-mudou { border-radius: 6px;
+}
+.lt-texto strong { color: var(--tinta);
+}
+.lt-nota { font-size: 13px;
+}
+.gm-q.lt-q-parcial { background: repeating-linear-gradient(45deg, #84847f 0 2px, #faf9f6 2px 4px); outline: 1px dashed #1f2a37; outline-offset: 1px;
+}

@@ -26,7 +26,7 @@ estado: São Paulo tem 11 e o Maranhão, 5.
 ## Resposta curta
 
 A pergunta de partida: o interior profundo de São Paulo (o oeste do estado e o Vale do Ribeira) dependeria de
-receita externa em maior proporção que o Maranhão? Ela admite quatro leituras. Os dados respondem sim em uma,
+receita externa em maior proporção, tanto quanto o Maranhão? Ela admite quatro leituras. Os dados respondem sim em uma,
 empate em outra e não em duas.
 
 - **Sim em número de prefeituras, e depende do corte.** São Paulo tem 150 municípios de até 5 mil habitantes;

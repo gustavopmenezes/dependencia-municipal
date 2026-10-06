@@ -1,0 +1,41 @@
+
+.destaque[data-v-b1de6ade] { display: flex; flex-direction: column; min-width: 0;
+}
+.valor[data-v-b1de6ade] {
+  font-family: var(--serifa);
+  font-weight: 600;
+  color: var(--tinta);
+  line-height: 1;
+  letter-spacing: -0.015em;
+  font-variant-numeric: lining-nums tabular-nums;
+  white-space: nowrap;
+}
+/* o valor final, invisível, guarda a largura; o que conta fica por cima, alinhado à esquerda */
+.valor-que-conta[data-v-b1de6ade] { display: inline-grid;
+}
+.valor-que-conta > .valor-final[data-v-b1de6ade],
+.valor-que-conta > .valor-agora[data-v-b1de6ade] { grid-area: 1 / 1;
+}
+.valor-que-conta > .valor-final[data-v-b1de6ade] { visibility: hidden;
+}
+.t-g .valor[data-v-b1de6ade] { font-size: 64px;
+}
+.t-m .valor[data-v-b1de6ade] { font-size: 46px;
+}
+.t-p .valor[data-v-b1de6ade] { font-size: 32px;
+}
+.rotulo[data-v-b1de6ade] {
+  margin-top: 8px;
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--tinta);
+}
+.t-p .rotulo[data-v-b1de6ade] { font-size: 15px; margin-top: 5px;
+}
+.nota-destaque[data-v-b1de6ade] {
+  margin-top: 3px;
+  font-size: 14px;
+  line-height: 1.35;
+  color: var(--mudo);
+}

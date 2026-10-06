@@ -1,0 +1,40 @@
+
+.padrao[data-v-a6725a1e] {
+  display: flex;
+  flex-direction: column;
+}
+.cabeca[data-v-a6725a1e] { flex: none;
+}
+.cabeca .olho[data-v-a6725a1e] { margin-bottom: 8px;
+}
+.cabeca h1[data-v-a6725a1e] { max-width: 1060px;
+}
+.sub[data-v-a6725a1e] {
+  margin: 6px 0 0;
+  font-size: 18px;
+  color: var(--tinta2);
+  max-width: 1000px;
+}
+.corpo[data-v-a6725a1e] {
+  flex: 1 1 0;
+  min-height: 0;
+  display: grid;
+  gap: 32px;
+  margin-top: 20px;
+}
+.texto[data-v-a6725a1e] {
+  min-width: 0;
+  min-height: 0;
+  overflow: hidden;
+}
+.grafico[data-v-a6725a1e] {
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+.linha-fonte[data-v-a6725a1e] {
+  flex: none;
+  margin-top: 8px;
+}

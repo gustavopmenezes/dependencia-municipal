@@ -1,0 +1,211 @@
+
+.fontes-receita-raiz[data-v-8633ad04] {
+  display: grid;
+  grid-template-columns: 236px minmax(0, 1fr);
+  grid-template-rows: minmax(0, 1fr);
+  gap: 16px;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  color: var(--tinta);
+  font-family: var(--sans);
+  font-size: 14.5px;
+  line-height: 1.36;
+}
+.fontes-receita-espera[data-v-8633ad04] { color: var(--mudo); font-size: 16px;
+}
+
+/* ---- lista de botões ---- */
+.fontes-receita-lista[data-v-8633ad04] { display: flex; flex-direction: column; gap: 9px; min-height: 0;
+}
+.fontes-receita-grupo[data-v-8633ad04] { display: flex; flex-direction: column; gap: 4px; min-width: 0;
+}
+.fontes-receita-grupo-titulo[data-v-8633ad04] { font-size: 15px; font-weight: 700; line-height: 1.2;
+}
+.fontes-receita-grupo-nota[data-v-8633ad04] { display: block; font-size: 13px; font-weight: 400; color: var(--tinta2); line-height: 1.25;
+}
+.fontes-receita-botao[data-v-8633ad04] {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  width: 100%;
+  text-align: left;
+  font: inherit;
+  color: var(--tinta);
+  background: var(--papel);
+  border: 1px solid var(--fio);
+  border-radius: 8px;
+  padding: 3px 8px 3px 7px;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+.fontes-receita-botao[data-v-8633ad04]:hover { border-color: var(--cinza3);
+}
+.fontes-receita-botao[data-v-8633ad04]:focus-visible { outline: 2px solid var(--tinta); outline-offset: 2px;
+}
+.fontes-receita-botao-ativo[data-v-8633ad04] { border-color: var(--tinta); box-shadow: inset 4px 0 0 var(--tinta); background: #f4f3ee;
+}
+.fontes-receita-botao-texto[data-v-8633ad04] { display: flex; flex-direction: column; min-width: 0;
+}
+.fontes-receita-botao-nome[data-v-8633ad04] { font-size: 15px; font-weight: 600; line-height: 1.2; white-space: nowrap;
+}
+.fontes-receita-botao-peso[data-v-8633ad04] { font-size: 13px; color: var(--tinta2); font-variant-numeric: tabular-nums; white-space: nowrap; line-height: 1.25;
+}
+/* o número da fonte, na cor dela: o mesmo no deck inteiro */
+.fontes-receita-numero[data-v-8633ad04] {
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1;
+  font-variant-numeric: lining-nums tabular-nums;
+  text-shadow: 0 0 2px rgba(0, 0, 0, 0.6);
+}
+.fontes-receita-numero-grande[data-v-8633ad04] { width: 32px; height: 32px; font-size: 18px;
+}
+.fontes-receita-instrucao[data-v-8633ad04] { margin: auto 0 0; font-size: 13px; line-height: 1.32; color: var(--tinta2); text-wrap: pretty;
+}
+.fontes-receita-instrucao b[data-v-8633ad04] { color: var(--tinta);
+}
+
+/* ---- cartão ---- */
+.fontes-receita-cartao[data-v-8633ad04] {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  min-height: 0;
+  background: var(--papel);
+  border: 1px solid var(--fio);
+  border-radius: var(--raio);
+  padding: 10px 18px 10px;
+  --fontes-receita-letra: 14.5px;
+  --fontes-receita-entrelinha: 1.36;
+  --fontes-receita-vao: 9px;
+}
+.fontes-receita-nivel-1[data-v-8633ad04] { --fontes-receita-letra: 13.8px; --fontes-receita-entrelinha: 1.32; --fontes-receita-vao: 7px;
+}
+.fontes-receita-nivel-2[data-v-8633ad04], .fontes-receita-nivel-3[data-v-8633ad04] { --fontes-receita-letra: 13px; --fontes-receita-entrelinha: 1.29; --fontes-receita-vao: 5px;
+}
+.fontes-receita-cab[data-v-8633ad04] { flex: none; display: flex; align-items: center; gap: 10px; padding-bottom: 8px; border-bottom: 1px solid var(--fio);
+}
+.fontes-receita-nome[data-v-8633ad04] { margin: 0; font-family: var(--serifa); font-size: 21px; font-weight: 600; line-height: 1.2; color: var(--tinta); min-width: 0;
+}
+.fontes-receita-sigla[data-v-8633ad04] { flex: none; font-size: 14px; font-weight: 700; letter-spacing: 0.03em; border: 1px solid var(--cinza2); border-radius: 5px; padding: 1px 7px; white-space: nowrap;
+}
+.fontes-receita-lado[data-v-8633ad04] { flex: none; margin-left: auto; font-size: 13px; color: var(--tinta2); white-space: nowrap;
+}
+.fontes-receita-botao-tabela[data-v-8633ad04] { flex: none;
+}
+.fontes-receita-corpo[data-v-8633ad04] { flex: 1 1 0; min-height: 0; display: grid; grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr); gap: 24px; padding-top: 9px; font-size: var(--fontes-receita-letra); line-height: var(--fontes-receita-entrelinha);
+}
+/* sem rolagem: o que não cabe faz a letra descer um degrau (ver `ajustar`) */
+.fontes-receita-coluna[data-v-8633ad04] { display: flex; flex-direction: column; gap: var(--fontes-receita-vao); min-width: 0; min-height: 0; overflow: hidden;
+}
+.fontes-receita-coluna[data-v-8633ad04] > * { flex: none;
+}
+.fontes-receita-nome-longo[data-v-8633ad04] { font-size: 16.5px; line-height: 1.22;
+}
+.fontes-receita-bloco[data-v-8633ad04] { min-width: 0;
+}
+.fontes-receita-bloco p[data-v-8633ad04] { margin: 0; text-wrap: pretty;
+}
+.fontes-receita-rotulo[data-v-8633ad04] { font-size: 13px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--mudo); line-height: 1.3; margin-bottom: 2px;
+}
+.fontes-receita-dentro[data-v-8633ad04] { margin-top: 4px !important; display: flex; flex-wrap: wrap; align-items: center; gap: 3px 6px; font-size: 13.5px;
+}
+.fontes-receita-dentro-rotulo[data-v-8633ad04] { color: var(--tinta2);
+}
+.fontes-receita-componente[data-v-8633ad04] { border-bottom: 1.5px dotted var(--cinza3); font-weight: 600; cursor: help; padding: 0 1px;
+}
+.fontes-receita-componente[data-v-8633ad04]:focus-visible { outline: 2px solid var(--tinta); outline-offset: 2px;
+}
+.fontes-receita-selo[data-v-8633ad04] { display: inline-block; font-size: 13.5px; font-weight: 700; border: 1.5px solid var(--tinta); border-radius: 5px; padding: 0 8px; margin-right: 8px; line-height: 1.5;
+}
+.fontes-receita-selo-nota[data-v-8633ad04] { color: var(--tinta2);
+}
+.fontes-receita-coluna > .fontes-receita-enderecos[data-v-8633ad04] { margin-top: auto;
+}
+.fontes-receita-enderecos[data-v-8633ad04] { margin: 0; font-size: 13px; color: var(--mudo); line-height: 1.3;
+}
+.fontes-receita-enderecos a[data-v-8633ad04] { color: var(--tinta2);
+}
+.fontes-receita-vazio[data-v-8633ad04] { color: var(--mudo);
+}
+
+/* ---- o que mudou ---- */
+.fontes-receita-tempo[data-v-8633ad04] { list-style: none; margin: 2px 0 0; padding: 0; display: flex; flex-direction: column; gap: 3px;
+}
+.fontes-receita-tempo-item[data-v-8633ad04] { display: grid; grid-template-columns: 38px 15px minmax(0, 1fr); column-gap: 5px; align-items: baseline; margin: 0; padding: 0; line-height: 1.28;
+}
+.fontes-receita-tempo-item[data-v-8633ad04]::before, .fontes-receita-tempo-item[data-v-8633ad04]::marker { content: none; display: none;
+}
+.fontes-receita-tempo-ano[data-v-8633ad04] { font-weight: 700; font-variant-numeric: tabular-nums;
+}
+.fontes-receita-tempo-sinal[data-v-8633ad04] { font-size: 13px; text-align: center;
+}
+.fontes-receita-tempo-frase[data-v-8633ad04] { min-width: 0; text-wrap: pretty;
+}
+.fontes-receita-nao-conferido[data-v-8633ad04] { display: inline-block; font-size: 13px; color: var(--tinta2); border: 1px dashed var(--cinza3); border-radius: 4px; padding: 0 6px; margin-left: 4px; white-space: nowrap; line-height: 1.4;
+}
+.fontes-receita-linha-rotulo[data-v-8633ad04] { display: flex; align-items: baseline; justify-content: space-between; gap: 10px;
+}
+.fontes-receita-linha-rotulo .fontes-receita-rotulo[data-v-8633ad04] { white-space: nowrap;
+}
+.fontes-receita-rotulo-nota[data-v-8633ad04] { font-weight: 400; letter-spacing: 0; text-transform: none; color: var(--tinta2); margin-left: 4px;
+}
+.fontes-receita-tempo-legenda[data-v-8633ad04] { font-size: 13px; color: var(--tinta2); display: flex; gap: 4px; align-items: baseline; white-space: nowrap;
+}
+.fontes-receita-tempo-legenda span[data-v-8633ad04] { margin-left: 6px;
+}
+.fontes-receita-tempo-legenda span[data-v-8633ad04]:first-child { margin-left: 0;
+}
+
+/* ---- tendência: o gráfico fica com a altura que sobra na coluna ---- */
+.fontes-receita-coluna > .fontes-receita-tendencia[data-v-8633ad04] { display: flex; flex-direction: column;
+}
+.fontes-receita-coluna > .fontes-receita-tendencia-grafico[data-v-8633ad04] { flex: 1 1 0; min-height: 0;
+}
+.fontes-receita-tendencia[data-v-8633ad04] > * { flex: none;
+}
+.fontes-receita-tendencia-cab[data-v-8633ad04] { display: flex; align-items: center; justify-content: space-between; gap: 8px;
+}
+.fontes-receita-tendencia-cab .fontes-receita-rotulo[data-v-8633ad04] { white-space: nowrap; margin-bottom: 0;
+}
+.fontes-receita-troca[data-v-8633ad04] { padding: 4px 11px; font-size: 13.5px;
+}
+.fontes-receita-botao-serie[data-v-8633ad04] { margin-left: auto; padding: 3px 9px; font-size: 13px;
+}
+.fontes-receita-tendencia > .fontes-receita-moldura[data-v-8633ad04] { flex: 1 1 0; min-height: 176px; height: auto;
+}
+.fontes-receita-nivel-2 .fontes-receita-tendencia > .fontes-receita-moldura[data-v-8633ad04], .fontes-receita-nivel-3 .fontes-receita-tendencia > .fontes-receita-moldura[data-v-8633ad04] { min-height: 150px;
+}
+.fontes-receita-moldura[data-v-8633ad04] .gm-area { min-height: 96px; margin-top: 4px;
+}
+.fontes-receita-moldura[data-v-8633ad04] .gm-leg { margin-top: 3px; font-size: 13.5px; align-items: center; flex-wrap: nowrap; gap: 3px 12px;
+}
+.fontes-receita-unidade[data-v-8633ad04] { color: var(--tinta2); font-size: 13px; line-height: 1.2; min-width: 0;
+}
+.fontes-receita-moldura[data-v-8633ad04] svg text.fontes-receita-eixo { font-size: 13px; fill: var(--tinta2);
+}
+.fontes-receita-moldura[data-v-8633ad04] svg .fontes-receita-linha-eixo { stroke: var(--cinza3); stroke-width: 1.2;
+}
+.fontes-receita-moldura[data-v-8633ad04] svg text.fontes-receita-valor { font-size: 13.5px; font-weight: 700; fill: var(--tinta); font-variant-numeric: tabular-nums; paint-order: stroke; stroke: #fff; stroke-width: 3px; stroke-linejoin: round;
+}
+.fontes-receita-moldura[data-v-8633ad04] svg .fontes-receita-anotacao path { stroke: var(--tinta); stroke-width: 1.4; stroke-linecap: round; stroke-linejoin: round;
+}
+.fontes-receita-moldura[data-v-8633ad04] svg .fontes-receita-anotacao text { font-size: 13px; font-weight: 600; fill: var(--tinta); paint-order: stroke; stroke: #fff; stroke-width: 3.5px; stroke-linejoin: round;
+}
+.fontes-receita-tendencia-texto[data-v-8633ad04] { margin-top: 4px !important; color: var(--tinta);
+}
+.fontes-receita-dica[data-v-8633ad04] { white-space: normal; max-width: 340px;
+}
+
+.fontes-slide-area[data-v-a2046253] { height: 100%; min-height: 0; position: relative;
+}

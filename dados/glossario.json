@@ -467,7 +467,8 @@
      ],
      "SE": [],
      "NE": []
-    }
+    },
+    "anotacoes": []
    },
    "componentes": [
     {
@@ -545,14 +546,15 @@
      "SP": 0.2118,
      "MA": 0.0047
     }
-   }
+   },
+   "numero": 7
   },
   {
    "chave": "demais_proprias",
    "nome": "Demais receitas próprias",
    "sigla": "",
    "lado": "interna",
-   "o_que_e": "O que a prefeitura ganha sem ser tributo nem repasse de fora: juros do dinheiro aplicado, aluguéis, concessões, tarifas, multas.",
+   "o_que_e": "O que a prefeitura ganha sem ser tributo nem repasse da União ou do estado: juros do dinheiro aplicado, aluguéis, concessões, tarifas, multas.",
    "quem_paga": "Bancos (rendimento das aplicações), concessionárias, usuários de serviço municipal, devedores de multa e doadores privados.",
    "garantia": "mista",
    "base_legal": "Não há garantia de repasse. Depende de lei municipal, de contrato e do saldo em caixa. É classificação contábil (receita patrimonial, de serviços e outras correntes).",
@@ -560,7 +562,8 @@
    "mudancas": [],
    "tendencia": {
     "texto": "Fatia pequena: 6,3% do total em 2024, mediana de 3,3% em São Paulo e de 1,0% no Maranhão. Só o rendimento das aplicações soma R$ 16,7 bilhões, 2,0% do total. A série longa não separa esta fatia; o efeito do juro alto depois de 2021 é hipótese.",
-    "serie": null
+    "serie": null,
+    "anotacoes": []
    },
    "componentes": [
     {
@@ -620,7 +623,8 @@
      "SP": 0.0048,
      "MA": 0.0
     }
-   }
+   },
+   "numero": 8
   },
   {
    "chave": "icms_ipva",
@@ -1859,7 +1863,8 @@
      ],
      "SE": [],
      "NE": []
-    }
+    },
+    "anotacoes": []
    },
    "componentes": [
     {
@@ -1932,7 +1937,8 @@
      "SP": 0.2341,
      "MA": 0.0233
     }
-   }
+   },
+   "numero": 3
   },
   {
    "chave": "royalties",
@@ -1969,7 +1975,8 @@
    ],
    "tendencia": {
     "texto": "Muito concentrada. Soma R$ 28,3 bilhões em 2024, 3,4% do total (4,7% no Sudeste, 0,9% no Nordeste), mas a mediana municipal é 0,1% no Sudeste e zero no Nordeste. É a maior fatia em 58 municípios, 52 deles no Sudeste. Não há série longa no estudo.",
-    "serie": null
+    "serie": null,
+    "anotacoes": []
    },
    "componentes": [
     {
@@ -2035,7 +2042,8 @@
      "SP": 0.0032,
      "MA": 0.0
     }
-   }
+   },
+   "numero": 6
   },
   {
    "chave": "fpm",
@@ -2539,7 +2547,8 @@
      ],
      "SE": [],
      "NE": []
-    }
+    },
+    "anotacoes": []
    },
    "componentes": [
     {
@@ -2604,14 +2613,15 @@
      "SP": 0.5318,
      "MA": 0.0698
     }
-   }
+   },
+   "numero": 1
   },
   {
    "chave": "fundeb",
    "nome": "Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação",
    "sigla": "FUNDEB",
    "lado": "externa",
-   "o_que_e": "Um fundo por estado que junta 20% de várias receitas do estado e das prefeituras e devolve o dinheiro conforme o número de alunos de cada rede pública.",
+   "o_que_e": "Fundo intraestadual: são 27, um por estado e um do Distrito Federal. Cada um junta 20% de uma cesta de impostos e repasses do estado e das prefeituras e devolve o dinheiro conforme o número de alunos de cada rede pública.",
    "quem_paga": "O próprio estado e as próprias prefeituras, com 20% do FPM, do ICMS, do IPVA e de outras receitas. A União completa onde o valor por aluno fica baixo.",
    "garantia": "constitucional",
    "base_legal": "Constituição, art. 212-A (EC 108/2020), e Lei 14.113/2020. Dinheiro carimbado: só educação básica, com no mínimo 70% para pagar os profissionais.",
@@ -2709,7 +2719,8 @@
      "SE": [],
      "NE": []
     },
-    "serie_nota": "Mediana da parcela da receita-base (líquida), municípios de até 20 mil habitantes, contas anuais de 2022 a 2025; só São Paulo e Maranhão."
+    "serie_nota": "Mediana da parcela da receita-base (líquida), municípios de até 20 mil habitantes, contas anuais de 2022 a 2025; só São Paulo e Maranhão.",
+    "anotacoes": []
    },
    "componentes": [
     {
@@ -2772,7 +2783,8 @@
      "SP": 0.0127,
      "MA": 0.893
     }
-   }
+   },
+   "numero": 2
   },
   {
    "chave": "sus",
@@ -2863,7 +2875,8 @@
      "SE": [],
      "NE": []
     },
-    "serie_nota": "Mediana da parcela da receita-base (líquida), municípios de até 20 mil habitantes, contas anuais de 2022 a 2025; só São Paulo e Maranhão."
+    "serie_nota": "Mediana da parcela da receita-base (líquida), municípios de até 20 mil habitantes, contas anuais de 2022 a 2025; só São Paulo e Maranhão.",
+    "anotacoes": []
    },
    "componentes": [
     {
@@ -2922,14 +2935,15 @@
      "SP": 0.0,
      "MA": 0.0047
     }
-   }
+   },
+   "numero": 4
   },
   {
    "chave": "outras_transf",
    "nome": "Outras transferências",
    "sigla": "FNDE, FNAS, ITR, convênios, emendas",
    "lado": "externa",
-   "o_que_e": "O resto do dinheiro que vem de fora do município: merenda e transporte escolar, assistência social, convênios, emendas parlamentares e todo repasse para obra.",
+   "o_que_e": "O resto da receita externa, que vem da União e do estado: merenda e transporte escolar, assistência social, convênios, emendas parlamentares e todo repasse para obra.",
    "quem_paga": "A União e o estado, por programas e por emendas de deputados e senadores.",
    "garantia": "mista",
    "base_legal": "Parte é obrigatória por lei: salário-educação (Constituição, art. 212, §§ 5º e 6º), merenda e dinheiro direto na escola (Lei 11.947/2009), assistência social fundo a fundo (Lei 8.742/1993, art. 30-A), ITR (art. 158, II). Parte é negociada: convênios e emendas (Constituição, arts. 166 e 166-A; LC 210/2024).",
@@ -2987,7 +3001,8 @@
    ],
    "tendencia": {
     "texto": "Fatia de 5,9% do total em 2024 (R$ 49,2 bilhões), com mediana municipal de 8,8% em São Paulo e 7,3% no Maranhão: pesa mais no município pequeno. É a parte menos previsível. A série longa e o painel de 2022 a 2025 não a isolam.",
-    "serie": null
+    "serie": null,
+    "anotacoes": []
    },
    "componentes": [
     {
@@ -3073,7 +3088,8 @@
      "SP": 0.0016,
      "MA": 0.0047
     }
-   }
+   },
+   "numero": 5
   }
  ],
  "fpm_passos": [
@@ -3118,13 +3134,13 @@
   {
    "rotulo": "Estado e prefeituras separam 20%",
    "valor": "20%",
-   "texto": "Do FPM, da cota do ICMS, do IPVA, do ITR e do IPI-exportação. IPTU, ISS, ITBI e as cotas extras do FPM ficam fora.",
+   "texto": "De uma cesta de impostos e repasses. Do estado: ICMS, IPVA, imposto sobre herança e doação e FPE. Das prefeituras: FPM e as cotas do ICMS, do IPVA, do ITR e do IPI-exportação. IPTU, ISS, ITBI e as cotas extras do FPM ficam fora.",
    "conferido": true
   },
   {
-   "rotulo": "Um fundo por estado",
+   "rotulo": "27 fundos independentes",
    "valor": "27",
-   "texto": "O dinheiro paulista fica em São Paulo e o maranhense no Maranhão. Não há transferência entre estados.",
+   "texto": "Um por estado e um do Distrito Federal. O dinheiro não passa de um estado para outro: o FUNDEB é intraestadual. A regra é nacional; cada fundo reparte só dentro do seu estado.",
    "conferido": true
   },
   {
