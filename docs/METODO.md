@@ -12,6 +12,19 @@ passo só com este arquivo e o código em `src/mf/`.
 - Vocabulário: receita externa é o que a União e o estado repassam (FPM, FUNDEB, cota do ICMS e do IPVA, SUS,
   royalties e outras transferências); receita interna, ou própria, é o que o município arrecada (tributos
   próprios e demais receitas próprias). Dependência é a soma das seis fontes externas sobre a receita.
+- Grandes Regiões: as cinco do IBGE (Norte, Nordeste, Sudeste, Sul e Centro-Oeste). O estudo compara duas,
+  Sudeste e Nordeste, com 13 estados. Nos textos do estudo, "região" sem adjetivo é sempre uma Grande Região.
+- Região geográfica intermediária: divisão do IBGE de 2017, dentro de cada estado; substituiu a mesorregião.
+  São Paulo tem 11 (São Paulo, Sorocaba, Bauru, Marília, Presidente Prudente, Araçatuba, São José do Rio Preto,
+  Ribeirão Preto, Araraquara, Campinas e São José dos Campos) e o Maranhão, 5 (São Luís, Santa Inês-Bacabal,
+  Caxias, Presidente Dutra e Imperatriz). Depois da primeira vez, "região intermediária"; nunca só "região".
+- Região geográfica imediata: a divisão menor de 2017; substituiu a microrregião. O estudo não usa.
+- Fonte das três definições: API de localidades do IBGE (`servicodados.ibge.gov.br/api/docs/localidades` e
+  `/api/v1/localidades/estados/SP/regioes-intermediarias`), consultada em 06/10/2026, e o texto de divulgação do
+  IBGE de 2017.
+- Interior profundo não é divisão oficial. O que foi assumido: o oeste paulista são as quatro regiões
+  intermediárias de Presidente Prudente, Marília, Araçatuba e São José do Rio Preto, medidas em conjunto; o Vale
+  do Ribeira não tem região intermediária própria e aparece no mapa.
 
 ## Fontes
 

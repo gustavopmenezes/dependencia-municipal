@@ -9,8 +9,9 @@ Autor: Gustavo Menezes (gustavopmenezes@usp.br).
 
 ## O que é
 
-Um estudo que pergunta se a proporção entre as fontes de receita dos municípios difere muito entre regiões, e se
-o interior de São Paulo depende de receita externa tanto quanto o Maranhão. Usa as contas anuais de 2024 dos
+A questão-chave: a proporção entre as fontes de receita dos municípios difere muito entre as Grandes Regiões do
+IBGE? A pergunta de partida: o interior profundo de São Paulo (o oeste do estado e o Vale do Ribeira) dependeria
+de receita externa em maior proporção que o Maranhão? O estudo compara duas Grandes Regiões, Sudeste e Nordeste. Usa as contas anuais de 2024 dos
 municípios dos 13 estados do Nordeste e do Sudeste (Tesouro Nacional, SICONFI), a série municipal de 2002 a 2025
 (IPEADATA), o Censo 2022 (IBGE) e as emendas federais pagas em 2025 (Portal da Transparência).
 

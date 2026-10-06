@@ -7,8 +7,8 @@ trabalho faz parte do método e por isso fica escrita.
 
 Gustavo Menezes fez as perguntas, e são elas que dão a forma do estudo:
 
-- a tese de partida: o interior de São Paulo depende de verba de fora e de deputado tanto quanto o Maranhão, e o
-  palpite de que cerca de 80% dos municípios paulistas têm menos de 50 mil habitantes (são 78,8%);
+- a pergunta de partida: o interior profundo de São Paulo (o oeste do estado e o Vale do Ribeira) dependeria de
+  receita externa em maior proporção que o Maranhão? E o palpite de que cerca de 80% dos municípios paulistas têm menos de 50 mil habitantes (são 78,8%);
 - a ideia de pintar cada município pela maior fatia da receita, e de estender a comparação a todo o Nordeste e o
   Sudeste;
 - o pedido de ver a evolução no tempo com dispersão, municípios fora da curva contados e teste estatístico das
@@ -19,7 +19,12 @@ Gustavo Menezes fez as perguntas, e são elas que dão a forma do estudo:
   público, com o pedido de ler todos com a mesma desconfiança;
 - as perguntas da terceira rodada: se a proporção entre as fontes de receita difere muito entre as regiões, o que
   é cada fonte e que mecanismo a garante, quanto do território os municípios pequenos administram, e de quem era
-  o projeto de 2019 que a imprensa chamou de extinção de municípios.
+  o projeto de 2019 que a imprensa chamou de extinção de municípios;
+- as perguntas da quarta rodada: se o gráfico da capa melhoraria mais largo, com um histograma atrás do outro,
+  em quantidade ou em % dos municípios, e no acumulado; como usar o termo "regiões" sem confundir (Grandes
+  Regiões e regiões geográficas intermediárias do IBGE); e o pedido de trocar a suspeita de partida por uma
+  pergunta de partida, imparcial, com um balão de confundidores: como a pergunta redigida pode ir para direções
+  diferentes conforme a leitura das palavras, e o que precisou ser assumido.
 
 Também decidiu a forma (mapa estático com geopandas, preto e branco onde há uma variável só, cor onde há
 comparação), o vocabulário (receita externa e receita interna; "interior profundo" para o oeste paulista e o

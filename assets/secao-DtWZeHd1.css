@@ -1,0 +1,55 @@
+
+.icone-chave-secao[data-v-751ef353] {
+  width: 26px;
+  height: 26px;
+  flex: none;
+  fill: none;
+  stroke: var(--tinta);
+  stroke-width: 1.9px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transform-origin: 50% 50%;
+}
+
+.abre-secao[data-v-82fa80b3] {
+  display: flex;
+  align-items: center;
+}
+.bloco[data-v-82fa80b3] { max-width: 900px;
+}
+.ponto[data-v-82fa80b3] { margin: 0 0.5em;
+}
+.olho-com-icone-secao[data-v-82fa80b3] { display: flex; align-items: center;
+}
+.olho-com-icone-secao .icone-chave-secao[data-v-82fa80b3] { margin-right: 10px;
+}
+.regua[data-v-82fa80b3] {
+  width: 64px;
+  height: 2px;
+  background: var(--tinta);
+  margin: 18px 0 22px;
+}
+.abre-secao h1[data-v-82fa80b3] {
+  white-space: pre-line; /* o título pode trazer quebra de linha ("\n" no frontmatter) */
+  font-size: 50px;
+  line-height: 1.1;
+}
+.apoio[data-v-82fa80b3] {
+  margin-top: 22px;
+  font-size: 22px;
+  line-height: 1.4;
+  color: var(--tinta2);
+  max-width: 760px;
+}
+
+/* com segunda coluna: o bloco estreita e o título desce de corpo para caber ao lado do balão */
+.abre-secao-com-lado[data-v-82fa80b3] { gap: 44px;
+}
+.abre-secao-com-lado .bloco[data-v-82fa80b3] { flex: 0 0 500px; max-width: 500px;
+}
+.abre-secao-com-lado h1[data-v-82fa80b3] { font-size: 40px; line-height: 1.12;
+}
+.abre-secao-com-lado .apoio[data-v-82fa80b3] { font-size: 20px;
+}
+.lado-da-secao[data-v-82fa80b3] { flex: 1 1 0; min-width: 0;
+}

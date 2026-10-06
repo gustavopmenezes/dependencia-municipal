@@ -1,0 +1,179 @@
+
+.fontes-receita-raiz[data-v-02dfd477] {
+  display: grid;
+  grid-template-columns: 318px minmax(0, 1fr);
+  gap: 18px;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
+  color: var(--tinta);
+  font-family: var(--sans);
+  font-size: 14.5px;
+  line-height: 1.36;
+}
+.fontes-receita-espera[data-v-02dfd477] { color: var(--mudo); font-size: 16px;
+}
+
+/* ---- lista de botões ---- */
+.fontes-receita-lista[data-v-02dfd477] { display: flex; flex-direction: column; min-height: 0;
+}
+.fontes-receita-colunas[data-v-02dfd477] { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; align-items: start;
+}
+.fontes-receita-grupo[data-v-02dfd477] { display: flex; flex-direction: column; gap: 6px; min-width: 0;
+}
+.fontes-receita-grupo-titulo[data-v-02dfd477] { font-size: 15px; font-weight: 700; line-height: 1.2;
+}
+.fontes-receita-grupo-nota[data-v-02dfd477] { font-size: 13px; color: var(--tinta2); line-height: 1.25; margin: -4px 0 3px; min-height: 32px;
+}
+.fontes-receita-botao[data-v-02dfd477] {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  width: 100%;
+  text-align: left;
+  font: inherit;
+  color: var(--tinta);
+  background: var(--papel);
+  border: 1px solid var(--fio);
+  border-radius: 8px;
+  padding: 5px 9px 5px 10px;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+.fontes-receita-botao[data-v-02dfd477]:hover { border-color: var(--cinza3);
+}
+.fontes-receita-botao[data-v-02dfd477]:focus-visible { outline: 2px solid var(--tinta); outline-offset: 2px;
+}
+.fontes-receita-botao-ativo[data-v-02dfd477] { border-color: var(--tinta); box-shadow: inset 4px 0 0 var(--tinta); background: #f4f3ee;
+}
+.fontes-receita-botao-nome[data-v-02dfd477] { display: flex; align-items: baseline; gap: 7px; font-size: 15px; font-weight: 600; line-height: 1.2;
+}
+.fontes-receita-botao-peso[data-v-02dfd477] { font-size: 13px; color: var(--tinta2); font-variant-numeric: tabular-nums; padding-left: 18px; white-space: nowrap;
+}
+.fontes-receita-quadrado[data-v-02dfd477] { display: inline-block; flex: none; width: 11px; height: 11px; border-radius: 2px;
+}
+.fontes-receita-quadrado-grande[data-v-02dfd477] { width: 16px; height: 16px; border-radius: 3px;
+}
+.fontes-receita-lista-pe[data-v-02dfd477] { margin-top: auto; display: flex; flex-direction: column; align-items: flex-start; gap: 8px; padding-top: 10px;
+}
+
+/* ---- cartão ---- */
+.fontes-receita-cartao[data-v-02dfd477] {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  min-height: 0;
+  background: var(--papel);
+  border: 1px solid var(--fio);
+  border-radius: var(--raio);
+  padding: 12px 18px 12px;
+}
+.fontes-receita-cab[data-v-02dfd477] { flex: none; display: flex; align-items: center; gap: 10px; padding-bottom: 9px; border-bottom: 1px solid var(--fio);
+}
+.fontes-receita-nome[data-v-02dfd477] { margin: 0; font-family: var(--serifa); font-size: 21px; font-weight: 600; line-height: 1.2; color: var(--tinta); min-width: 0;
+}
+.fontes-receita-sigla[data-v-02dfd477] { flex: none; font-size: 14px; font-weight: 700; letter-spacing: 0.03em; border: 1px solid var(--cinza2); border-radius: 5px; padding: 1px 7px; white-space: nowrap;
+}
+.fontes-receita-lado[data-v-02dfd477] { flex: none; margin-left: auto; font-size: 13px; color: var(--tinta2); white-space: nowrap;
+}
+.fontes-receita-corpo[data-v-02dfd477] { flex: 1 1 0; min-height: 0; display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr); gap: 22px; padding-top: 10px;
+}
+/* cada coluna rola sozinha quando o texto da fonte passa da altura do cartão (classe rolagem-permitida) */
+.fontes-receita-colwrap[data-v-02dfd477] { position: relative; display: flex; flex-direction: column; min-width: 0; min-height: 0;
+}
+.fontes-receita-coluna[data-v-02dfd477] { flex: 1 1 0; display: flex; flex-direction: column; gap: 10px; min-width: 0; min-height: 0; overflow-y: auto; scrollbar-width: thin; scrollbar-color: var(--cinza3) transparent; padding-right: 8px; padding-bottom: 26px;
+}
+/* aviso visível de que a coluna continua (no lugar do esmaecido) */
+.fontes-receita-role[data-v-02dfd477] { position: absolute; left: 0; right: 10px; bottom: 0; text-align: center; font-size: 13px; font-weight: 600; line-height: 1.5; color: var(--tinta2); background: var(--papel); border-top: 1px solid var(--fio); pointer-events: none;
+}
+.fontes-receita-coluna[data-v-02dfd477] > * { flex: none;
+}
+.fontes-receita-nome-longo[data-v-02dfd477] { font-size: 16.5px; line-height: 1.22;
+}
+.fontes-receita-bloco[data-v-02dfd477] { min-width: 0;
+}
+.fontes-receita-bloco p[data-v-02dfd477] { margin: 0;
+}
+.fontes-receita-rotulo[data-v-02dfd477] { font-size: 13px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--mudo); line-height: 1.3; margin-bottom: 2px;
+}
+.fontes-receita-dentro[data-v-02dfd477] { margin-top: 5px !important; display: flex; flex-wrap: wrap; align-items: center; gap: 5px 6px; font-size: 13.5px;
+}
+.fontes-receita-dentro-rotulo[data-v-02dfd477] { color: var(--tinta2);
+}
+.fontes-receita-componente[data-v-02dfd477] { border-bottom: 1.5px dotted var(--cinza3); font-weight: 600; cursor: help; padding: 0 1px;
+}
+.fontes-receita-componente[data-v-02dfd477]:focus-visible { outline: 2px solid var(--tinta); outline-offset: 2px;
+}
+.fontes-receita-selo[data-v-02dfd477] { display: inline-block; font-size: 13.5px; font-weight: 700; border: 1.5px solid var(--tinta); border-radius: 5px; padding: 0 8px; margin-right: 8px; line-height: 1.5;
+}
+.fontes-receita-selo-nota[data-v-02dfd477] { color: var(--tinta2);
+}
+.fontes-receita-base[data-v-02dfd477] { font-size: 13.5px; color: var(--tinta2);
+}
+.fontes-receita-enderecos[data-v-02dfd477] { margin: 0; font-size: 13px; color: var(--mudo); line-height: 1.35;
+}
+.fontes-receita-enderecos a[data-v-02dfd477] { color: var(--tinta2);
+}
+.fontes-receita-vazio[data-v-02dfd477] { color: var(--mudo);
+}
+
+/* ---- o que mudou ---- */
+.fontes-receita-tempo[data-v-02dfd477] { list-style: none; margin: 2px 0 0; padding: 0; display: flex; flex-direction: column; gap: 4px;
+}
+.fontes-receita-tempo-item[data-v-02dfd477] { display: grid; grid-template-columns: 40px 16px minmax(0, 1fr); column-gap: 6px; align-items: baseline; margin: 0; padding: 0; line-height: 1.3;
+}
+.fontes-receita-tempo-item[data-v-02dfd477]::before, .fontes-receita-tempo-item[data-v-02dfd477]::marker { content: none; display: none;
+}
+.fontes-receita-tempo-ano[data-v-02dfd477] { font-weight: 700; font-variant-numeric: tabular-nums;
+}
+.fontes-receita-tempo-sinal[data-v-02dfd477] { font-size: 13px; text-align: center;
+}
+.fontes-receita-tempo-frase[data-v-02dfd477] { min-width: 0;
+}
+.fontes-receita-nao-conferido[data-v-02dfd477] { display: inline-block; font-size: 13px; color: var(--tinta2); border: 1px dashed var(--cinza3); border-radius: 4px; padding: 0 6px; margin-left: 4px; white-space: nowrap; line-height: 1.4;
+}
+.fontes-receita-linha-rotulo[data-v-02dfd477] { display: flex; align-items: baseline; justify-content: space-between; gap: 10px;
+}
+.fontes-receita-tempo-legenda[data-v-02dfd477] { font-size: 13px; color: var(--tinta2); display: flex; gap: 4px; align-items: baseline; white-space: nowrap;
+}
+.fontes-receita-tempo-legenda span[data-v-02dfd477] { margin-left: 8px;
+}
+.fontes-receita-tempo-legenda span[data-v-02dfd477]:first-child { margin-left: 0;
+}
+
+/* ---- tendência ---- */
+.fontes-receita-tendencia[data-v-02dfd477] { display: flex; flex-direction: column;
+}
+.fontes-receita-tendencia-cab[data-v-02dfd477] { flex: none; display: flex; align-items: center; justify-content: space-between; gap: 8px;
+}
+.fontes-receita-tendencia-cab .fontes-receita-rotulo[data-v-02dfd477] { white-space: nowrap; margin-bottom: 0;
+}
+.fontes-receita-troca[data-v-02dfd477] { padding: 5px 11px; font-size: 13.5px;
+}
+.fontes-receita-botao-serie[data-v-02dfd477] { margin-left: auto; padding: 4px 10px; font-size: 13.5px;
+}
+.fontes-receita-moldura[data-v-02dfd477] { flex: none; height: 196px;
+}
+.fontes-receita-moldura[data-v-02dfd477] .gm-area { min-height: 96px; margin-top: 4px;
+}
+.fontes-receita-moldura[data-v-02dfd477] .gm-leg { margin-top: 3px; font-size: 13.5px; align-items: center;
+}
+.fontes-receita-unidade[data-v-02dfd477] { flex-basis: 100%; color: var(--tinta2);
+}
+.fontes-receita-moldura[data-v-02dfd477] svg text.fontes-receita-eixo { font-size: 13px; fill: var(--tinta2);
+}
+.fontes-receita-moldura[data-v-02dfd477] svg text.fontes-receita-valor { font-size: 13.5px; font-weight: 700; fill: var(--tinta); font-variant-numeric: tabular-nums; paint-order: stroke; stroke: #fff; stroke-width: 3px; stroke-linejoin: round;
+}
+.fontes-receita-tendencia-texto[data-v-02dfd477] { flex: none; margin-top: 4px !important; font-size: 14px; line-height: 1.33; color: var(--tinta);
+}
+.fontes-receita-dica[data-v-02dfd477] { white-space: normal; max-width: 340px;
+}
+
+.pilha-slide[data-v-5ff90ec0] { display: flex; flex-direction: column; height: 100%;
+}
+.pilha-grafico[data-v-5ff90ec0] { flex: 1 1 0; min-height: 0; position: relative;
+}
+.como-interagir[data-v-5ff90ec0] { flex: none; font-size: 14px; margin: 6px 0 0;
+}

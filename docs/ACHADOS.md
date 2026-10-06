@@ -14,29 +14,36 @@ que a União e o estado repassam: FPM, FUNDEB, cota do ICMS e do IPVA, SUS, roya
 **Receita interna**, ou própria, é o que o município arrecada: tributos próprios e demais receitas próprias.
 **Dependência** é a soma das seis fontes externas sobre a receita. Parte da receita externa tem destino
 obrigatório (o FUNDEB vai para a escola, o SUS para a saúde). **Verba negociada** é convênio, transferência de
-capital e emenda, na medida restrita, sem o SUS. **Interior profundo** é como o autor chama o oeste paulista e
-o Vale do Ribeira.
+capital e emenda, na medida restrita, sem o SUS. **Interior profundo** é o oeste paulista e o Vale do Ribeira.
+Não é divisão oficial. Aqui foi assumido assim: o oeste são as quatro regiões geográficas intermediárias de
+Presidente Prudente, Marília, Araçatuba e São José do Rio Preto, medidas em conjunto (seção 12); o Vale do
+Ribeira não tem região intermediária própria e aparece no mapa.
+
+**Região**, sem adjetivo, é sempre uma das Grandes Regiões do IBGE; o estudo compara duas das cinco, Sudeste e
+Nordeste. **Região intermediária** é a região geográfica intermediária, divisão do IBGE de 2017 dentro de cada
+estado: São Paulo tem 11 e o Maranhão, 5.
 
 ## Resposta curta
 
-A tese "o interior profundo de São Paulo depende de verba externa e de deputado tanto quanto, ou mais que, o
-Maranhão" tem uma parte que vale em número de prefeituras, uma que empata e duas que caem.
+A pergunta de partida: o interior profundo de São Paulo (o oeste do estado e o Vale do Ribeira) dependeria de
+receita externa em maior proporção que o Maranhão? Ela admite quatro leituras. Os dados respondem sim em uma,
+empate em outra e não em duas.
 
-- **Vale em número de prefeituras, e depende do corte.** São Paulo tem 150 municípios de até 5 mil habitantes;
+- **Sim em número de prefeituras, e depende do corte.** São Paulo tem 150 municípios de até 5 mil habitantes;
   o Maranhão tem 5. Nos paulistas, 90% da receita é externa e cada morador recebe em torno de R$ 9,2 mil por
   ano de fora do município, 72% a mais que no município maranhense típico (R$ 5,4 mil). Acima de 80% de
   dependência há mais prefeituras em São Paulo: 338 (53,8% das paulistas) contra 210 no Maranhão (97,7% das
   maranhenses). Acima de 90%, o Maranhão tem o dobro: 184 (85,6%) contra 92 em São Paulo (14,6%). Em proporção
   dos municípios, o Maranhão fica acima em todo corte de 50% a 95% (seção 13). O FPM é a maior fonte em 53% dos
   municípios paulistas e em 7% dos maranhenses; com o FUNDEB contado pelo saldo, em 55% e 35%.
-- **Empata em reais por habitante no município minúsculo, entre as regiões.** Até 5 mil habitantes, Sudeste e
+- **Empate em reais por habitante no município minúsculo, entre as regiões.** Até 5 mil habitantes, Sudeste e
   Nordeste recebem o mesmo por habitante (R$ 8,9 mil e R$ 8,5 mil; diferença indistinguível de zero). Para São
   Paulo contra o Maranhão nessa faixa não dá para dizer: são cinco municípios maranhenses. De 5 a 50 mil
   habitantes, o paulista recebe de 9% a 12% a menos que o maranhense do mesmo tamanho, conforme o recorte e os
   anos.
-- **Cai em parcela da receita.** Em toda faixa de população o município maranhense depende mais: 13,5 pontos
+- **Não em parcela da receita.** Em toda faixa de população o município maranhense depende mais: 13,5 pontos
   percentuais a mais até 50 mil habitantes. O Nordeste, 6,7 pontos a mais que o Sudeste.
-- **Cai na verba de deputado federal.** As emendas federais pagas em 2025 dão R$ 149 por habitante na mediana
+- **Não na verba de deputado federal.** As emendas federais pagas em 2025 dão R$ 149 por habitante na mediana
   dos municípios paulistas de até 20 mil habitantes, a menor entre os 13 estados; no Maranhão, R$ 357; em
   Sergipe, R$ 670. O que São Paulo tem a mais é convênio com o governo do estado: 2,5% da receita, contra 0,0%
   na mediana maranhense.
@@ -47,7 +54,7 @@ Maranhão é um caso à parte dentro do próprio Nordeste (quase tudo vem do FUN
 minúsculo). Essa semelhança depende da contabilidade: com o FUNDEB pelo saldo, o FPM lidera em mais municípios
 do Nordeste que do Sudeste (2.3).
 
-Na pizza do município médio as duas regiões se parecem mais do que a tese e a antítese supõem: a receita
+Na pizza do município médio as duas regiões se parecem mais do que o sim e o não à pergunta supõem: a receita
 externa é 83% no Sudeste e 91% no Nordeste, e o FPM pesa o mesmo, 30% e 30%. A diferença está em qual fonte
 externa completa a conta (15.5).
 
@@ -299,7 +306,7 @@ conta própria da emenda Pix registra 68% do valor pago em São Paulo e 24% no
 Maranhão, onde o dinheiro aparece em "outras transferências da União". Para emenda, vale só o Portal.
 
 6.6. O que falta medir: emenda de deputado estadual e convênio estadual por município e por programa. É a peça
-que decide a versão "verba de deputado" da tese.
+que decide a versão "verba de deputado" da pergunta.
 
 6.7. Na média de 2023 a 2025 (São Paulo e Maranhão, 671 municípios de até 50 mil habitantes) o resultado se
 mantém: 2,0 pontos a mais de verba estadual em São Paulo (1,9 a 2,2) e 1,0 ponto a menos de verba federal (0,7
@@ -394,7 +401,7 @@ do Sudeste, 0,3.
 somando os 17 degraus, 546 municípios estão até 2% acima de um degrau e 189 até 2% abaixo (74% acima; o acaso
 daria perto de 50%). Só no degrau de 10.188 habitantes são 104 acima e 20 abaixo. No Censo 2010 o padrão é o
 mesmo (479 e 157). O excesso resiste a janela fixa em habitantes, não aparece em degraus falsos deslocados e
-existe nas cinco regiões (teste F1, binomial, e `revisao/claude/testes.md`).
+existe nas cinco Grandes Regiões (teste F1, binomial, e `revisao/claude/testes.md`).
 
 10.2. A soma não quer dizer que cada degrau tenha excesso. O GPT rodou um teste de densidade degrau a degrau
 (`rddensity`, de Cattaneo, Jansson e Ma; `revisao/gpt/PARCIAL-TEMPO.md`, seção 6; não refeito por mim, o pacote
@@ -525,7 +532,7 @@ e `31_` a `33_` (IFGF, 2013 a 2024). Cada painel
 traz a mediana, as manchas de P25 a P75 e de P10 a P90, os municípios fora da cerca de Tukey e a contagem deles
 por ano; as mesmas contas estão em `docs/tabelas/`.
 
-## 12. O interior paulista por região
+## 12. O interior paulista por região intermediária
 
 | Região intermediária | Municípios | Habitantes (mediana) | FPM é a maior fatia | Transferências sobre a receita (mediana) | Idem, só de 5 a 10 mil hab. (municípios) |
 |---|---|---|---|---|---|
@@ -541,15 +548,15 @@ por ano; as mesmas contas estão em `docs/tabelas/`.
 | Campinas | 87 | 31.328 | 35,6% | 72,3% | 76,9% (11) |
 | São Paulo | 50 | 149.477 | 14,0% | 65,6% | nenhum |
 
-12.1. As quatro regiões de cima são as do oeste do estado e são as de município menor: o município mediano tem
-de 5 a 7 mil habitantes e 85% a 87% da receita vem de transferência. Nenhuma região do Maranhão fica abaixo de
+12.1. As quatro regiões intermediárias de cima são as do oeste do estado e são as de município menor: o município mediano tem
+de 5 a 7 mil habitantes e 85% a 87% da receita vem de transferência. Nenhuma região intermediária do Maranhão fica abaixo de
 92%.
 
 12.2. A tamanho igual, o oeste não se separa do resto. Olhando só os municípios de 5 a 10 mil habitantes, nove
-das dez regiões ficam entre 83% e 88%; só Campinas fica abaixo (77%). Na regressão com a população, as quatro
-regiões do oeste dependem 0,9 ponto a mais que o resto do estado, com intervalo de -0,2 a +2,0, que não se
+das dez regiões intermediárias ficam entre 83% e 88%; só Campinas fica abaixo (77%). Na regressão com a população, as quatro
+regiões intermediárias do oeste dependem 0,9 ponto a mais que o resto do estado, com intervalo de -0,2 a +2,0, que não se
 distingue de zero (teste R1). O "interior profundo" paulista tem endereço porque é lá que estão os municípios
-pequenos, não porque o oeste dependa mais que um município do mesmo tamanho em outra região.
+pequenos, não porque o oeste dependa mais que um município do mesmo tamanho em outra região intermediária.
 
 ## 13. Dependência como classe única
 
@@ -592,8 +599,8 @@ zerar.
 13.2. Essa igualdade é vazia de conteúdo. Ela diz que todo município pequeno dos dois estados recebe mais da
 metade da receita de fora. Isso vale para quase todo município pequeno do país e é desenho do federalismo
 fiscal brasileiro: o imposto se arrecada onde está a atividade econômica e se redistribui por fórmula. Uma
-classe em que cabem todos não separa ninguém. Assim que o corte passa a separar, separa a favor da tese
-contrária: com 80%, 82% dos paulistas e 98% dos maranhenses de até 20 mil habitantes; com 90%, 24% e 94%.
+classe em que cabem todos não separa ninguém. Assim que o corte passa a separar, a resposta é
+não: com 80%, 82% dos paulistas e 98% dos maranhenses de até 20 mil habitantes; com 90%, 24% e 94%.
 
 13.3. Entre as regiões, nos municípios de até 20 mil habitantes, as duas curvas são praticamente iguais com
 cortes de 50% a 61%: a diferença alterna de -0,02 a +0,26 ponto (conta do GPT, não refeita aqui). É questão de
@@ -799,7 +806,7 @@ mil habitantes com contas utilizáveis em 2024, o mesmo recorte de 6.1:
 | Nordeste | 1.151 | 6,0% | 6,7% |
 | Sudeste | 1.096 | 2,9% | 3,2% |
 
-São Paulo segue em último. A parte da tese que fala de verba de deputado federal cai também com os treze
+São Paulo segue em último. Na verba de deputado federal a resposta continua não com os treze
 estados e com o denominador do mesmo ano.
 
 15.4. **A conta da FNP refeita.** A matéria da BBC de 30/09/2024 define o indicador: transferências de estados
@@ -863,7 +870,7 @@ O dado descreve quem administra o território. Não mede demanda nem custo de se
 
 - *Reforma tributária* (Gobetti e Monteiro, IPEA, 2023, tabela 2 e tabela A.1; conferido na fonte). No cenário
   estático da nota, 480 dos 645 municípios paulistas ganham e 165 perdem; no Maranhão, 204 de 217 ganham.
-  Sandovalina, na região de Presidente Prudente, está na lista de 32 cidades com risco de queda, que são em
+  Sandovalina, na região intermediária de Presidente Prudente, está na lista de 32 cidades com risco de queda, que são em
   geral sedes de refinaria ou de hidrelétrica. A simulação usou 85% por população. A regra aprovada reparte a
   cota municipal do IBS assim: 80% por população, 10% por educação, 5% por preservação ambiental e 5% em partes
   iguais (Constituição, art. 158, § 2º).
@@ -996,7 +1003,7 @@ confiança dele de 0 a 10; quando há duas, a primeira é do número e a segunda
 | 9. Saúde fiscal | feita | não olhou | percentuais (8); contestou "igualmente saudáveis" (4) |
 | 10. Degraus do FPM | feita | confirma com teste de densidade; contestou "cada degrau" | contagem (8), causa (3); trouxe as liminares |
 | 11. Evolução | feita | confirma 11.7 e a conta de 11.1, não a causa; não refez 11.2 a 11.6 | nota 6; trouxe a EC 112/2021 |
-| 12. Interior paulista por região | feita | não olhou | tabela (8); contestou "efeito do oeste" (4), com razão (12.2) |
+| 12. Interior paulista por região intermediária | feita | não olhou | tabela (8); contestou "efeito do oeste" (4), com razão (12.2) |
 | 13. Dependência como classe única | seção nova, feita nesta rodada | a ideia é dele; números refeitos e iguais | não olhou |
 
 Os números das duas tabelas acima que dependem da medida restrita já são os da base refeita na rodada 2
