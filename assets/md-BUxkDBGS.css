@@ -1,0 +1,15 @@
+
+.saidas-tabela[data-v-58007ca2] { width: 100%; font-size: 17.5px; line-height: 1.38; table-layout: fixed;
+}
+.saidas-tabela th[data-v-58007ca2] { font-size: 13px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--mudo); padding-bottom: 6px;
+}
+.saidas-tabela td[data-v-58007ca2] { vertical-align: top; padding: 11px 20px 11px 0;
+}
+.saidas-tabela th[data-v-58007ca2]:nth-child(1) { width: 19%;
+}
+.saidas-tabela th[data-v-58007ca2]:nth-child(2) { width: 26%;
+}
+.saidas-tabela th[data-v-58007ca2]:nth-child(3) { width: 28%;
+}
+.saidas-fecho[data-v-58007ca2] { margin-top: 20px; font-size: 18.5px;
+}

@@ -1,0 +1,103 @@
+
+.arte-capa[data-v-7b3e788e] { margin: 0; display: flex; flex-direction: column; gap: 6px; height: 100%; justify-content: center;
+}
+svg[data-v-7b3e788e] { width: 100%; height: auto; max-height: 590px; display: block; overflow: visible;
+}
+.espera[data-v-7b3e788e] { height: 590px;
+}
+.eixo[data-v-7b3e788e] { font-size: 11.5px; fill: #898781; font-variant-numeric: lining-nums;
+}
+.med[data-v-7b3e788e] { font-size: 12px; fill: #1f2a37; font-weight: 600;
+}
+.rot[data-v-7b3e788e] { font-size: 15px; font-weight: 600; fill: #1f2a37;
+}
+.cont[data-v-7b3e788e] { font-size: 13px; fill: #898781;
+}
+figcaption[data-v-7b3e788e] { text-align: left;
+}
+
+.capa[data-v-dbbce09a] {
+  display: grid;
+  grid-template-columns: 690px minmax(0, 1fr);
+  gap: 44px;
+  padding: 44px 56px 44px 64px;
+}
+.esquerda[data-v-dbbce09a] {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-width: 0;
+}
+.alto[data-v-dbbce09a] {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+.faixa[data-v-dbbce09a] {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--tinta2);
+  border: 1px dashed var(--cinza3);
+  border-radius: 999px;
+  padding: 4px 11px;
+  line-height: 1.2;
+}
+.capa h1[data-v-dbbce09a] {
+  font-size: 62px;
+  line-height: 1.04;
+  font-weight: 600;
+  letter-spacing: -0.012em;
+}
+.comparativo[data-v-dbbce09a] {
+  margin: 24px 0 0;
+  font-size: 21px;
+  font-weight: 600;
+  color: var(--tinta);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 12px;
+}
+.comparativo b[data-v-dbbce09a] { font-weight: 400; color: var(--mudo); margin: 0 0.25em;
+}
+.comparativo .sep[data-v-dbbce09a] { color: var(--mudo); font-weight: 400;
+}
+.comparativo .par[data-v-dbbce09a] { white-space: nowrap;
+}
+.pergunta[data-v-dbbce09a] {
+  margin: 18px 0 0;
+  font-family: var(--serifa);
+  font-style: italic;
+  font-size: 25px;
+  line-height: 1.3;
+  color: var(--tinta2);
+  max-width: 600px;
+  text-wrap: balance;
+}
+.acoes[data-v-dbbce09a] { margin-top: 26px;
+}
+.baixo[data-v-dbbce09a] {
+  border-top: 1px solid var(--fio);
+  padding-top: 14px;
+  font-size: 17px;
+  line-height: 1.4;
+}
+.autor[data-v-dbbce09a] { font-weight: 600;
+}
+.contato[data-v-dbbce09a] { font-weight: 400; color: var(--tinta2);
+}
+.local[data-v-dbbce09a] { color: var(--mudo);
+}
+.arte[data-v-dbbce09a] {
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.resto[data-v-dbbce09a] { display: none;
+}

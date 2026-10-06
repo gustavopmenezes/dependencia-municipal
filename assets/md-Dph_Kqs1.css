@@ -1,0 +1,13 @@
+
+.quatro-leituras[data-v-0dcd955f] { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 18px; height: 100%; align-content: start;
+}
+.leitura-cartao[data-v-0dcd955f] { display: flex; flex-direction: column; padding: 14px 18px 13px;
+}
+.leitura-cartao p[data-v-0dcd955f] { font-size: 16px; line-height: 1.38; margin: 6px 0 0; color: var(--tinta2);
+}
+.leitura-numero[data-v-0dcd955f] { font-family: var(--serifa); font-weight: 600; font-size: 34px; line-height: 1.1; margin-top: 7px; letter-spacing: -0.01em;
+}
+.leitura-veredito[data-v-0dcd955f] { margin-top: 10px; padding-top: 8px; border-top: 1px solid var(--fio); font-size: 16px;
+}
+.par-marca[data-v-0dcd955f] { white-space: nowrap; color: var(--tinta);
+}

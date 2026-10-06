@@ -1,0 +1,5 @@
+
+.debate-grade-de-cartoes[data-v-26c08994] { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px;
+}
+.debate-linha-comum[data-v-26c08994] { margin: 12px 0 0; font-size: 17px; font-weight: 600;
+}

@@ -1,0 +1,26 @@
+
+.abre-secao[data-v-ced04cf2] {
+  display: flex;
+  align-items: center;
+}
+.bloco[data-v-ced04cf2] { max-width: 900px;
+}
+.ponto[data-v-ced04cf2] { margin: 0 0.5em;
+}
+.regua[data-v-ced04cf2] {
+  width: 64px;
+  height: 2px;
+  background: var(--tinta);
+  margin: 18px 0 22px;
+}
+.abre-secao h1[data-v-ced04cf2] {
+  font-size: 50px;
+  line-height: 1.1;
+}
+.apoio[data-v-ced04cf2] {
+  margin-top: 22px;
+  font-size: 22px;
+  line-height: 1.4;
+  color: var(--tinta2);
+  max-width: 760px;
+}

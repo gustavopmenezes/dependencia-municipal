@@ -1,0 +1,39 @@
+
+.pdf-embutido[data-v-647038c5] { margin: 0; display: flex; flex-direction: column; gap: 6px; min-width: 0;
+}
+.barra[data-v-647038c5] { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 30px;
+}
+.nome[data-v-647038c5] { font-size: 14px; font-weight: 600; color: var(--tinta2);
+}
+.quadro[data-v-647038c5] {
+  width: 100%;
+  border: 1px solid var(--fio);
+  border-radius: var(--raio);
+  overflow: hidden;
+  background: #efeee8;
+}
+iframe[data-v-647038c5] { width: 100%; height: 100%; border: 0; display: block;
+}
+.aviso[data-v-647038c5] {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  color: var(--tinta2);
+  font-size: 15px;
+  text-align: center;
+  padding: 16px;
+}
+.aviso strong[data-v-647038c5] { color: var(--tinta);
+}
+
+.cem-leitura[data-v-7eb267a6] { font-size: 16.5px; line-height: 1.4;
+}
+.cem-leitura p[data-v-7eb267a6] { margin: 0 0 10px;
+}
+.cem-autor[data-v-7eb267a6] { border-left: 2px solid var(--tinta); padding-left: 10px;
+}
+.cem-vies[data-v-7eb267a6] { font-size: 14.5px; color: var(--tinta2);
+}

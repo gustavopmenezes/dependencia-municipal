@@ -1,0 +1,9 @@
+
+.fecho-bloco[data-v-5b9749a7] { display: flex; flex-direction: column; gap: 22px; max-width: 860px; margin-top: 10px;
+}
+.fecho-contato[data-v-5b9749a7] { font-size: 20px; line-height: 1.5;
+}
+.fecho-enderecos[data-v-5b9749a7] { font-size: 17px; line-height: 1.6;
+}
+.fecho-aviso[data-v-5b9749a7] { font-size: 16px; color: var(--tinta2); margin: 0;
+}

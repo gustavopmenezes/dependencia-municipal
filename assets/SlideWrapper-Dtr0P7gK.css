@@ -1,0 +1,232 @@
+
+.slidev-slide-container[data-v-3f6a97cf] {
+  position:relative;width:100%;height:100%;overflow:hidden;
+}
+.slidev-slide-content[data-v-3f6a97cf] {
+  --slidev-slide-container-scale: var(--slidev-slide-scale);
+  transform: translate(-50%, -50%) scale(var(--slidev-slide-scale));
+  position:absolute;left:50%;top:50%;overflow:hidden;--un-bg-opacity:1;background-color:rgb(255 255 255 / var(--un-bg-opacity));
+}.dark .slidev-slide-content[data-v-3f6a97cf]{--un-bg-opacity:1;background-color:rgb(18 18 18 / var(--un-bg-opacity));}
+
+.tabela-dados[data-v-9728c09d] {
+  position: absolute;
+  inset: 0;
+  z-index: 60;
+  background: rgba(31, 42, 55, 0.22);
+  display: flex;
+  align-items: flex-end;
+  font-family: var(--sans);
+  color: var(--tinta);
+}
+.gaveta[data-v-9728c09d] {
+  width: 100%;
+  height: 80%;
+  background: var(--fundo);
+  border-top: 1px solid var(--cinza3);
+  border-radius: 14px 14px 0 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+.topo[data-v-9728c09d] {
+  flex: none;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 16px 32px 12px;
+  border-bottom: 1px solid var(--fio);
+}
+.titulos[data-v-9728c09d] { min-width: 0;
+}
+.titulos .olho[data-v-9728c09d] { font-size: 11.5px;
+}
+.titulos h2[data-v-9728c09d] {
+  font-family: var(--serifa);
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 1.2;
+  margin: 2px 0 0;
+}
+.nota-tabela[data-v-9728c09d] { margin: 3px 0 0; font-size: 14px; color: var(--tinta2);
+}
+.controles[data-v-9728c09d] { display: flex; align-items: center; gap: 8px; flex: none;
+}
+.busca[data-v-9728c09d] {
+  width: 230px;
+  font: inherit;
+  font-size: 15px;
+  color: var(--tinta);
+  background: var(--papel);
+  border: 1px solid var(--cinza2);
+  border-radius: 999px;
+  padding: 6px 14px;
+  outline: none;
+}
+.busca[data-v-9728c09d]:focus { border-color: var(--tinta);
+}
+.busca[data-v-9728c09d]::placeholder { color: var(--mudo);
+}
+kbd[data-v-9728c09d] {
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--mudo);
+  border: 1px solid var(--cinza2);
+  border-radius: 4px;
+  padding: 1px 4px;
+}
+.rolagem[data-v-9728c09d] {
+  flex: 1 1 0;
+  min-height: 0;
+  overflow: auto;
+  padding: 0 32px;
+  outline: none;
+  scrollbar-width: thin;
+  scrollbar-color: var(--cinza2) transparent;
+}
+table[data-v-9728c09d] {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 15px;
+  line-height: 1.3;
+  font-variant-numeric: tabular-nums lining-nums;
+}
+thead th[data-v-9728c09d] {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--fundo);
+  border-bottom: 1px solid var(--tinta2);
+  padding: 0;
+  text-align: left;
+  white-space: nowrap;
+}
+thead th button[data-v-9728c09d] {
+  font: inherit;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--tinta2);
+  background: none;
+  border: 0;
+  padding: 9px 22px 7px 0;
+  cursor: pointer;
+  width: 100%;
+  text-align: inherit;
+}
+thead th.ativa button[data-v-9728c09d] { color: var(--tinta);
+}
+thead th button[data-v-9728c09d]:hover { color: var(--tinta); text-decoration: underline;
+}
+.seta[data-v-9728c09d] { display: inline-block; width: 1.1em; font-size: 9px; text-align: right; vertical-align: 1px;
+}
+th.num[data-v-9728c09d], td.num[data-v-9728c09d] { text-align: right;
+}
+th.num button[data-v-9728c09d] { padding: 9px 22px 7px 12px;
+}
+td[data-v-9728c09d] {
+  padding: 5px 22px 5px 0;
+  border-bottom: 1px solid var(--fio);
+  white-space: nowrap;
+  max-width: 420px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+td.num[data-v-9728c09d] { padding: 5px 22px 5px 12px;
+}
+thead th:last-child button[data-v-9728c09d], td[data-v-9728c09d]:last-child { padding-right: 0;
+}
+tbody tr:hover td[data-v-9728c09d] { background: #f1f0ea;
+}
+tr.clicavel[data-v-9728c09d] { cursor: pointer;
+}
+.vazio[data-v-9728c09d] { color: var(--mudo); padding: 18px 0; text-align: left;
+}
+.pe[data-v-9728c09d] {
+  flex: none;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 8px 32px 10px;
+  border-top: 1px solid var(--fio);
+  font-size: 13px;
+  color: var(--tinta2);
+}
+.dica-pe[data-v-9728c09d] { margin-left: auto; color: var(--mudo);
+}
+.elo[data-v-9728c09d] {
+  font: inherit;
+  color: var(--tinta);
+  background: none;
+  border: 0;
+  padding: 0;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.gaveta-enter-active[data-v-9728c09d], .gaveta-leave-active[data-v-9728c09d] { transition: opacity 0.2s ease;
+}
+.gaveta-enter-active .gaveta[data-v-9728c09d], .gaveta-leave-active .gaveta[data-v-9728c09d] { transition: transform 0.25s ease;
+}
+.gaveta-enter-from[data-v-9728c09d], .gaveta-leave-to[data-v-9728c09d] { opacity: 0;
+}
+.gaveta-enter-from .gaveta[data-v-9728c09d], .gaveta-leave-to .gaveta[data-v-9728c09d] { transform: translateY(24px);
+}
+
+.rodape[data-v-f2b263fe] {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 44px;
+  padding: 0 32px 6px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  font-family: var(--sans);
+  font-size: 13px;
+  line-height: 1;
+  color: var(--mudo);
+  pointer-events: none;
+  z-index: 5;
+}
+.pilula[data-v-f2b263fe] {
+  font-size: 11.5px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--tinta2);
+  border: 1px solid var(--cinza2);
+  border-radius: 999px;
+  padding: 5px 11px 4px;
+  background: var(--fundo);
+  white-space: nowrap;
+}
+.credito[data-v-f2b263fe] {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.contador[data-v-f2b263fe] {
+  font-variant-numeric: tabular-nums;
+  color: var(--tinta2);
+  font-weight: 600;
+}
+
+.disable-view-transition[data-v-e82d7056] * {
+  view-transition-name: none !important;
+}
+.slidev-page[data-v-e82d7056] {
+  position: absolute;
+  inset: 0;
+
+  /* Zoom handling */
+  --slidev-slide-zoom-scale: 1;
+  width: calc(100% / var(--slidev-slide-zoom-scale));
+  height: calc(100% / var(--slidev-slide-zoom-scale));
+  transform-origin: top left;
+  scale: var(--slidev-slide-zoom-scale);
+  /* slide scale = container scale * zoom scale */
+  --slidev-slide-scale: calc(var(--slidev-slide-container-scale) * var(--slidev-slide-zoom-scale));
+}
