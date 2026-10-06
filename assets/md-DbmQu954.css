@@ -1,0 +1,9 @@
+
+.limites-grade[data-v-a8929df8] { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; font-size: 18px; line-height: 1.4;
+}
+.limites-grade h3[data-v-a8929df8] { font-size: 23px; margin: 0 0 8px;
+}
+.limites-grade .cartao[data-v-a8929df8] { padding: 18px 22px;
+}
+.limites-fecho[data-v-a8929df8] { margin: 18px 0 0; font-size: 19px; font-weight: 600;
+}

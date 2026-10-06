@@ -1,0 +1,7 @@
+
+.guardar-grade[data-v-ae90ebcb] { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px;
+}
+.guardar-grade .cartao[data-v-ae90ebcb] { padding: 14px 16px;
+}
+.guardar-fecho[data-v-ae90ebcb] { margin: 14px 0 0; font-size: 17px; font-weight: 600;
+}

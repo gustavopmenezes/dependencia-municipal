@@ -1,0 +1,138 @@
+
+.ficha-municipio[data-v-552d5c51] {
+  box-sizing: border-box;
+  height: 100%;
+  background: var(--papel);
+  border: 1px solid var(--fio);
+  border-radius: var(--raio);
+  padding: 12px 16px 10px;
+  font-size: 14.5px;
+  line-height: 1.35;
+  color: var(--tinta);
+  overflow: hidden;
+}
+.ficha-municipio.vazia[data-v-552d5c51] { display: flex; align-items: center;
+}
+.sem-selecao[data-v-552d5c51] { margin: 0; color: var(--tinta2); font-size: 15px;
+}
+header[data-v-552d5c51] { display: flex; align-items: flex-start; justify-content: space-between; gap: 8px;
+}
+h3[data-v-552d5c51] { margin: 0 !important; font-size: 22px !important; line-height: 1.15 !important;
+}
+.fechar[data-v-552d5c51] {
+  flex: none;
+  width: 24px;
+  height: 24px;
+  border: 1px solid var(--fio);
+  border-radius: 50%;
+  background: transparent;
+  color: var(--tinta2);
+  font-size: 16px;
+  line-height: 1;
+  cursor: pointer;
+}
+.fechar[data-v-552d5c51]:hover { border-color: var(--tinta); color: var(--tinta);
+}
+.onde[data-v-552d5c51] { margin: 2px 0 0 !important; color: var(--tinta2); font-size: 14.5px;
+}
+.rotulo-secao[data-v-552d5c51] {
+  margin-top: 6px;
+  margin-bottom: 3px;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--mudo);
+}
+.barra[data-v-552d5c51] {
+  display: flex;
+  height: 26px;
+  border-radius: 3px;
+  overflow: hidden;
+  gap: 1px;
+  background: var(--papel);
+}
+.trecho[data-v-552d5c51] {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  transition: width 0.3s ease;
+}
+.trecho b[data-v-552d5c51] { font-size: 13px; font-weight: 700;
+}
+.trecho b.sobre-hachura[data-v-552d5c51] { background: #fff; border-radius: 2px; padding: 0 3px;
+}
+.fatias[data-v-552d5c51] {
+  margin: 7px 0 0 !important;
+  padding: 0 !important;
+  list-style: none;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1px 0;
+}
+.fatias li[data-v-552d5c51] {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  margin: 0 !important;
+  padding: 0 !important;
+  font-size: 14px;
+  line-height: 1.22;
+}
+.fatias li[data-v-552d5c51]::before { content: none !important;
+}
+.fatias .amostra[data-v-552d5c51] { flex: none; width: 11px; height: 11px; border-radius: 2px;
+}
+.fatias .nome[data-v-552d5c51] { flex: 1 1 auto; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.fatias .valor[data-v-552d5c51] { flex: none; font-variant-numeric: tabular-nums;
+}
+.fatias li.maior[data-v-552d5c51] { font-weight: 700;
+}
+.numeros[data-v-552d5c51] {
+  margin: 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0 12px;
+}
+.numeros dt[data-v-552d5c51], .numeros dd[data-v-552d5c51] {
+  margin: 0;
+  padding: 1px 0;
+  line-height: 1.22;
+  border-bottom: 1px solid var(--fio);
+  font-size: 14px;
+}
+.numeros dd[data-v-552d5c51] { text-align: right; font-variant-numeric: tabular-nums; font-weight: 600;
+}
+.regua[data-v-552d5c51] {
+  position: relative;
+  height: 6px;
+  margin: 7px 6px 6px;
+  border-radius: 3px;
+  background: var(--cinza1);
+}
+.marca-regua[data-v-552d5c51] {
+  position: absolute;
+  top: -4px;
+  width: 4px;
+  height: 14px;
+  margin-left: -2px;
+  border-radius: 1px;
+  background: var(--tinta);
+  transition: left 0.3s ease;
+}
+.posicao[data-v-552d5c51] { margin: 0 !important; font-size: 13.5px; line-height: 1.35; color: var(--tinta2);
+}
+.posicao strong[data-v-552d5c51] { color: var(--tinta);
+}
+.aviso[data-v-552d5c51] {
+  margin-top: 11px;
+  padding: 9px 11px;
+  border: 1px solid var(--cinza3);
+  border-left: 4px solid var(--tinta);
+  border-radius: 4px;
+  font-size: 14px;
+  line-height: 1.4;
+  background: #f4f3ee;
+}

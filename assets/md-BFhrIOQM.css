@@ -1,0 +1,21 @@
+
+.tres-gestos[data-v-b5811d9f] { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 6px;
+}
+.gesto-cartao[data-v-b5811d9f] { padding: 20px 22px 18px;
+}
+.gesto-cartao h3[data-v-b5811d9f] { font-family: var(--serifa); font-size: 24px; font-weight: 600; margin: 12px 0 6px; line-height: 1.2;
+}
+.gesto-cartao p[data-v-b5811d9f] { font-size: 17px; line-height: 1.4; margin: 0; color: var(--tinta2);
+}
+.gesto-icone[data-v-b5811d9f] { width: 62px; height: 62px; display: block;
+}
+.frase-entrada[data-v-b5811d9f] { margin: 22px 0 0; font-size: 19px; line-height: 1.4;
+}
+.linha-teclas[data-v-b5811d9f] { margin-top: 16px; font-size: 18px; display: flex; align-items: center; flex-wrap: wrap; gap: 6px;
+}
+.tecla-deck[data-v-b5811d9f] { display: inline-block; min-width: 30px; text-align: center; border: 1px solid var(--tinta2); border-bottom-width: 2px; border-radius: 5px; padding: 1px 7px; font-size: 16px; font-weight: 600; background: #fff;
+}
+.separa-tecla[data-v-b5811d9f] { margin: 0 8px; color: var(--mudo);
+}
+.aviso-selecao[data-v-b5811d9f] { margin-top: 12px;
+}

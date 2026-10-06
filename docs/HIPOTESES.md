@@ -89,7 +89,7 @@ os de evolução no tempo são confirmatórios.
   reamostragem. O motivo é só tempo de máquina; os dois são intervalos de 95% para a mesma quantidade.
 
 - 05/10/2026, antes de rodar: as transferências de instituições privadas, de pessoas e do exterior saíram do
-  grupo de transferências (não são dinheiro de outro governo).
+  grupo de transferências (não são repasse da União nem do estado).
 - 05/10/2026, depois da primeira rodada de testes e da conferência independente (`revisao/claude/`). Tudo o que
   segue foi decidido vendo resultado, e por isso as linhas novas de `docs/TESTES.md` levam a marca
   "pós-verificação":
@@ -132,6 +132,31 @@ os de evolução no tempo são confirmatórios.
 - Ainda não foi feito do que a conciliação listou: teste de densidade nos degraus dentro do pipeline (o pacote
   `rddensity` não está no ambiente; vale o do GPT), regras por plano de contas antes de 2022 e a harmonização
   dos depósitos não identificados (1.7.9.2).
+- 06/10/2026, rodada 2 da revisão cruzada (auditoria do GPT, revisão do Grok e duas pesquisas profundas;
+  `revisao/claude/CONCILIACAO-RODADA-2.md` e `revisao/claude/r3/PIPELINE-RODADA-3.md`). Tudo decidido vendo
+  resultado:
+  - B1 da conciliação: os convênios de capital da saúde (2.4.1.4.50 e 2.4.2.2.50, R$ 435,4 milhões entre os
+    municípios utilizáveis) saíram da medida restrita de D1 e continuam na ampla. D1e entre São Paulo e Maranhão
+    foi de +2,32 (2,09 a 2,55) para +2,24 pontos (2,01 a 2,46); D1u, de -0,91 para -0,88 (-1,27 a -0,49). Entre
+    as regiões, D1e foi de +2,11 para +2,08 e D1u de -1,29 para -1,24 (-1,44 a -1,03), com p de Holm de 0,066
+    para 0,058: segue sem se distinguir de zero. Nenhum teste mudou de lado. Os testes A, B, C e E e os
+    coeficientes da medida ampla (D1am, D1uam, D1eam) não mudaram; três valores-p de Holm da família D mexeram
+    por arrasto (D1-SP-20 de 0,046 para 0,031; D1-Su-20 e D1uam-Su de 0,066 para 0,050), sem mudar de lado;
+  - B2 da conciliação: `rec_corrente_liq` e `poupanca_corrente` deixaram de contar a transferência de capital
+    de instituições privadas (R$ 3,346 bilhões em 107 municípios). Nenhuma hipótese registrada usa as duas
+    colunas;
+  - triênio de 2023 a 2025 para os 13 estados (`revisao/claude/apoio/r3_trienio_13_estados.py`, 3.261
+    municípios): não estava no registro. Foi feito para responder se o ano de eleição distorce o retrato entre
+    as regiões. Serve de faixa ao lado de 2024, não de teste novo: A1 regional dá 6,7 pontos em 2024 e 7,1 no
+    triênio. O intervalo agrupado por estado dessa conta usa t com 12 graus de liberdade; o valor-p agrupado
+    de `docs/TESTES.md` usa a normal;
+  - a pizza média por região, o acumulado de população e a parcela do território por tamanho de município
+    (`docs/ACHADOS.md` 15.5 e 15.6) são descritivos, sem teste;
+  - a comparação entre São Paulo e Maranhão continua exploratória. Os 13,5 pontos de A1 entre os dois estados
+    não são confirmação; o teste registrado antes de ver o dado é o regional, de 6,7 pontos.
+- Ainda não foi feito: a série de emendas pelo ano do pagamento por tipo (conciliação da rodada 2, seção 6) e,
+  sugestão vinda da pesquisa profunda do ChatGPT, checar se todas as regressões "a tamanho igual" têm versão
+  com efeito fixo de estado.
 
 ## O que derruba a tese do dono, dito antes
 

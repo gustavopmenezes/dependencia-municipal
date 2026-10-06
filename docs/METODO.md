@@ -6,8 +6,12 @@ passo só com este arquivo e o código em `src/mf/`.
 ## Recorte
 
 - Municípios dos nove estados do Nordeste e dos quatro do Sudeste: 3.462 pela lista do IBGE.
-- Retrato: exercício de 2024. Série: 2022 a 2025 no mesmo plano de contas; 2013 a 2021 entra quando o download
-  terminar e os dois planos de contas antigos forem mapeados.
+- Retrato: exercício de 2024. Série: 2022 a 2025 no mesmo plano de contas, com os 13 estados nos quatro anos
+  (3.352, 3.360, 3.356 e 3.371 municípios utilizáveis). Os anos de 2013 a 2021 entram quando os planos de contas
+  antigos forem mapeados; os dados de 2019 a 2021 já estão em disco.
+- Vocabulário: receita externa é o que a União e o estado repassam (FPM, FUNDEB, cota do ICMS e do IPVA, SUS,
+  royalties e outras transferências); receita interna, ou própria, é o que o município arrecada (tributos
+  próprios e demais receitas próprias). Dependência é a soma das seis fontes externas sobre a receita.
 
 ## Fontes
 
@@ -19,6 +23,8 @@ passo só com este arquivo e o código em `src/mf/`.
 | CAPAG dos municípios (posição de 01/09/2026) | Tesouro Transparente | `docs/pesquisa/saude-fiscal.md` |
 | IFGF por município, 2013 a 2024 | Firjan, edição 2025 | idem |
 | Coeficientes do FPM por município, 2024 a 2026 | TCU, Decisões Normativas | `docs/pesquisa/fpm.md` |
+| Cadeiras de deputado federal por estado | Câmara dos Deputados, página "Número de deputados por estado", conferida em 06/10/2026 (27 bancadas, soma 513) | `docs/pesquisa/representacao.md`, `dados/processado/representacao_uf.csv` |
+| Área dos municípios (território por tamanho) | IBGE, Censo 2022, SIDRA 4714 | `revisao/claude/apoio/r3_territorio.py` |
 
 A API do SICONFI recusa mais de cerca de uma requisição por segundo. O robô se ajusta sozinho a esse limite e
 pode ser interrompido e retomado.
@@ -49,7 +55,7 @@ pode ser interrompido e retomado.
 | Fatia | O que entra (código de natureza da receita, plano de 2022) |
 |---|---|
 | Tributos próprios | Impostos, taxas e contribuição de melhoria (1.1: IPTU, ISS, ITBI, IR retido na fonte, taxas) e a contribuição de iluminação pública (1.2.4) |
-| Demais receitas próprias | Outras contribuições, receita patrimonial (inclui juros das aplicações), serviços, outras receitas correntes e as transferências correntes de instituições privadas, de pessoas e do exterior (não são dinheiro de outro governo) |
+| Demais receitas próprias | Outras contribuições, receita patrimonial (inclui juros das aplicações), serviços, outras receitas correntes e as transferências correntes de instituições privadas, de pessoas e do exterior (não são repasse da União nem do estado) |
 | ICMS e IPVA | Participação na receita dos estados (1.7.2.1: ICMS, IPVA, IPI-exportação, CIDE) e o ICMS e o IPI que a prefeitura lançou como imposto próprio (1.1.1.4.50 e 1.1.1.4.01), ver nota adiante |
 | Royalties | Compensações financeiras por petróleo, mineração e recursos hídricos (1.7.1.2 e 1.7.2.2), menos o Fundo Especial do Petróleo, que é rateado entre todos |
 | FPM | 1.7.1.1.51, cota mensal e cotas extras |
@@ -61,8 +67,9 @@ A tabela completa, código por código, está em `src/mf/classificar.py` (`REGRA
 
 **O que é "SUS" na pizza.** A fatia SUS é o repasse fundo a fundo corrente. O SUS que chega por convênio ou
 como transferência de capital fica em "outras transferências", em categorias próprias: convênio corrente da
-União (1.7.1.7.50) e do estado (1.7.2.4.50), capital fundo a fundo da União (2.4.1.1), do estado (2.4.2.1) e de
-outros municípios (2.4.3.1 e 2.4.3.2.50). Somam R$ 3,058 bilhões em 2.142 municípios. A dependência não muda
+União (1.7.1.7.50) e do estado (1.7.2.4.50), convênio de capital da União (2.4.1.4.50) e do estado (2.4.2.2.50),
+capital fundo a fundo da União (2.4.1.1), do estado (2.4.2.1) e de outros municípios (2.4.3.1 e 2.4.3.2.50).
+Somam R$ 3,493 bilhões em 2.339 municípios. A dependência não muda
 com essa escolha; a maior fatia mudaria em até 10 municípios se tudo fosse para a fatia SUS.
 
 **Imposto de outro ente lançado como próprio.** Município não cobra ICMS nem IPI. Onde a prefeitura lançou
@@ -125,12 +132,13 @@ principal responde "o que entrou no caixa, com que rótulo". As colunas terminam
 | `dep_transf` | transferências correntes e de capital ÷ receita-base |
 | `autonomia` | tributos próprios ÷ receita-base |
 | `autonomia_sem_irrf` | idem, sem o imposto de renda retido na fonte, que é imposto federal sobre a folha do próprio município |
-| `pct_voluntarias_restrita` | **medida principal da verba negociada**: convênios da União e do estado, transferências especiais e transferências de capital ÷ receita-base, sem o SUS (convênio e capital fundo a fundo) e sem o convênio corrente estadual de educação (1.7.2.4.51). Mede convênio e obra; não enxerga a emenda paga a fundo de saúde |
+| `pct_voluntarias_restrita` | **medida principal da verba negociada**: convênios da União e do estado, transferências especiais e transferências de capital ÷ receita-base, sem o SUS (convênio corrente, convênio de capital e capital fundo a fundo) e sem o convênio corrente estadual de educação (1.7.2.4.51). Mede convênio e obra; não enxerga a emenda paga a fundo de saúde |
 | `pct_vol_uniao_restrita`, `pct_vol_estado_restrita` | a mesma conta separada por quem paga |
 | `voluntarias_restrita_sobre_invest` | a medida restrita ÷ investimento empenhado |
 | `pct_voluntarias`, `pct_vol_uniao`, `pct_vol_estado` | medida ampla, a que o estudo usava até 05/10/2026: a restrita mais o SUS de convênio e de capital e o convênio corrente estadual de educação. No texto ela se chama "convênios e transferências de capital"; fica como sensibilidade. `pct_vol_estado_sem_saude_educ` é a ampla do estado sem os dois convênios correntes |
 | `emenda_2025_pc`, `emenda_2025_sobre_base` | emendas federais pagas em 2025 a prefeituras e fundos municipais ÷ população, e ÷ receita-base do ano da linha (Portal da Transparência; não vem da DCA). Na base de 2024 o denominador é a receita de 2024 |
-| `emenda_2025_sobre_base_2025` | a mesma emenda ÷ receita-base de 2025, onde a base de 2025 existe e é utilizável (em 06/10/2026: SP, MA, BA, PI, PB, CE, PE, RN, AL e SE; faltam MG, ES e RJ) |
+| `emenda_2025_sobre_base_2025` | a mesma emenda ÷ receita-base de 2025, onde a base de 2025 é utilizável (3.371 municípios, os 13 estados) |
+| `rec_corrente_liq`, `poupanca_corrente` | receita líquida sem operação de crédito, venda de bens e toda transferência de capital, inclusive a de instituições privadas (corrigido em 06/10/2026, ver os limites); e (essa receita − despesa corrente) ÷ essa receita. Nenhum achado usa as duas colunas |
 | `maquina_pc` | despesa empenhada nas funções 01 (Legislativa) e 04 (Administração) ÷ população |
 | `proprios_sobre_maquina` | tributos próprios ÷ despesa nas funções 01 e 04 |
 | `pessoal_sobre_base`, `invest_sobre_base` | despesa de pessoal (grupo 3.1) e investimentos (grupo 4.4) ÷ receita-base |
@@ -143,18 +151,39 @@ População das faixas: Censo 2022. Valores por habitante: estimativa do IBGE do
 
 **Por que duas medidas de verba negociada.** A Lei de Responsabilidade Fiscal, art. 25, define transferência
 voluntária como a que não decorre de determinação constitucional ou legal nem se destina ao SUS. A medida ampla
-tinha R$ 3,058 bilhões do SUS dentro (2.142 municípios) e R$ 2,352 bilhões de convênio corrente estadual de
-educação (1.286 municípios), que pode ser repasse regular e não pleito. A restrita tira os dois. Nenhuma das
-duas é a "transferência voluntária" da lei: as duas contêm transferência de capital que pode ser legal ou
-obrigatória, e a restrita ainda contém os convênios de capital para o SUS (2.4.1.4.50 e 2.4.2.2.50), que não
-têm categoria separada. Por isso o texto fala em "convênios e transferências de capital".
+tinha R$ 3,493 bilhões do SUS dentro (2.339 municípios) e R$ 2,352 bilhões de convênio corrente estadual de
+educação (1.286 municípios), que pode ser repasse regular e não pleito. A restrita tira os dois. Até 06/10/2026
+a restrita ainda continha os convênios de capital para o SUS (2.4.1.4.50 e 2.4.2.2.50, R$ 435 milhões entre os
+municípios utilizáveis); saíram na rodada 2 da revisão (achado do GPT), com categorias próprias em
+`src/mf/classificar.py` (`convenios_uniao_cap_sus` e `convenios_estado_cap_sus`). Continuam na ampla e na
+dependência. Nenhuma das duas é a "transferência voluntária" da lei: as duas contêm transferência de capital
+que pode ser legal ou obrigatória. Por isso o texto fala em "convênios e transferências de capital".
+
+O que a correção mudou: a verba estadual a tamanho igual entre São Paulo e Maranhão foi de +2,3 para +2,2
+pontos (2,0 a 2,5); a mediana estadual paulista até 20 mil habitantes, de 2,54% para 2,45%; a verba negociada
+sobre o investimento no paulista de até 5 mil habitantes, de 53% para 49%; as prefeituras maranhenses de até
+20 mil habitantes com zero de verba estadual, de 84 para 90 de 127. Não mudaram a receita-base, as oito fatias,
+a dependência, a maior fatia nem a medida ampla (`revisao/claude/r3/PIPELINE-RODADA-3.md`).
+
+## Campos do deck
+
+`src/mf/exportar_deck.py` grava os JSON de `deck/public/dados/`. Dois campos mudaram na rodada 2 da revisão:
+
+| Campo | Coluna da base | Por quê |
+|---|---|---|
+| `dep` | `dep_transf`, com 8 casas decimais | Com 4 casas o componente classificava depois de arredondar, e a contagem de municípios acima de um corte errava de 1 a 2 em 13 combinações de grupo e corte (28 contando o seletor de tamanho). O corte de 80% não mudava |
+| `rb` | `base`, a receita-base em reais | É o peso da composição por faixa. Antes o peso era a receita por habitante, arredondada ao real, vezes a população do Censo; o erro chegava a 0,03 ponto em São Paulo e Maranhão e a 0,15 entre as regiões |
+
+O valor por habitante usa a população estimada do ano (campo `pop24`); o Censo 2022 define a faixa de tamanho.
+O arredondamento fica para a tela.
 
 ## Limites que já se conhecem
 
 - A DCA é declarada pela prefeitura. Convênio e emenda são classificados de modo desigual: a conta própria da
-  emenda Pix registra 69% do valor pago em SP e 24% no MA, onde o dinheiro aparece em "outras transferências da
-  União" (`revisao/claude/emendas-voluntarias.md`). E cerca de 60% da emenda vai para o fundo municipal de
-  saúde e entra na conta do SUS. Por isso a emenda é medida só pelo Portal da Transparência.
+  emenda Pix registra 68% do valor pago em SP e 24% no MA, onde o dinheiro aparece em "outras transferências da
+  União" (`revisao/claude/emendas-voluntarias.md`). E cerca de dois terços da emenda paga a prefeituras e fundos
+  municipais vão para o fundo municipal de saúde (60% nos municípios de até 20 mil habitantes) e entram na conta
+  do SUS. Por isso a emenda é medida só pelo Portal da Transparência.
 - O custo da máquina pela função 01 mais a 04 não é comparável entre estados. Em São Paulo quase toda a
   administração geral está na função 04; fora de São Paulo, a administração da saúde e da educação é lançada
   dentro dessas funções (subfunção 122), e a medida vira um piso. Somar a subfunção 122 de todas as funções dá
@@ -170,9 +199,19 @@ têm categoria separada. Por isso o texto fala em "convênios e transferências 
   entre o valor-p robusto e o agrupado por estado.
 - A cota-parte do ICMS mistura devolução (valor adicionado, 74% em SP e 65% no MA) com redistribuição. Sem o
   índice de participação por componente não dá para separar as duas partes município a município.
-- 2024 foi ano de eleição municipal. Em São Paulo e no Maranhão o retrato não muda com a média de 2023 a 2025
-  (`docs/ACHADOS.md` 11.7 e 11.8), e 2024 foi fraco de convênio federal, não forte (6.7). Nos outros onze estados
-  essa conferência ainda não foi feita.
+- 2024 foi ano de eleição municipal. Com a média de 2023 a 2025, no painel de 3.261 municípios utilizáveis nos
+  três anos, o retrato entre as regiões não muda: a dependência a tamanho igual vai de 6,7 para 7,1 pontos, o
+  FPM como maior fatia fica em 65% no Sudeste e 47% no Nordeste, e a verba negociada e o custo da máquina ficam
+  iguais (`revisao/claude/apoio/r3_trienio_13_estados.py`; `docs/ACHADOS.md` 11.8 e 15.2). O investimento é a
+  exceção: no Nordeste, 2024 é o pico dos três anos. Os alertas de FPM e de FUNDEB só existem para 2024. No
+  intervalo agrupado por estado do triênio usa-se t com 12 graus de liberdade.
+- Convênio entra em pacote, num ano sim e noutro não. A mediana da média de três anos fica acima da mediana de
+  cada ano e não serve para dizer que um ano foi fraco ou forte.
+- `rec_corrente_liq` e `poupanca_corrente` contavam, até 06/10/2026, a transferência de capital de instituições
+  privadas (R$ 3,346 bilhões em 107 municípios). Foi corrigido; nenhum achado usava as duas colunas.
+- `docs/pesquisa/apoio/cem_confronto.py` e `revisao/claude/apoio/dm_3.py` somam as duas categorias de convênio
+  de capital pelo nome antigo. Se forem rodados de novo sem ajuste, perdem os R$ 435 milhões que mudaram de
+  categoria.
 - Consórcios intermunicipais e gasto do estado feito direto no município não aparecem nas contas da prefeitura.
 - É o universo dos municípios, não uma amostra: o valor-p pesa menos que o tamanho do efeito.
 
@@ -218,6 +257,14 @@ $py = 'C:\dev\municipios-fiscal\.venv\Scripts\python.exe'
 & $py C:\dev\municipios-fiscal\src\mf\figuras_tempo.py dca
 & $py C:\dev\municipios-fiscal\src\mf\exportar_deck.py
 & $py C:\dev\municipios-fiscal\revisao\claude\apoio\r1_numeros_extras.py   # triênio, cortes e outras contas citadas em ACHADOS
+& $py C:\dev\municipios-fiscal\revisao\claude\apoio\r3_trienio_13_estados.py   # triênio dos 13 estados (ACHADOS 15.2)
+& $py C:\dev\municipios-fiscal\revisao\claude\apoio\r3_territorio.py           # área e população por tamanho (docs\tabelas\territorio_por_tamanho_2022.csv)
+& $py C:\dev\municipios-fiscal\revisao\claude\apoio\r3_numeros_slides_novos.py # pizza média e acumulado de população (docs\tabelas)
+& $py C:\dev\municipios-fiscal\revisao\claude\apoio\r3_fnp_definicao.py        # a conta da FNP refeita com a série do IPEADATA (ACHADOS 15.4)
+& $py C:\dev\municipios-fiscal\docs\pesquisa\apoio\glossario_tendencias.py     # números do glossário das oito fontes de receita
 ```
 
 A base de 2025 é montada antes das outras, porque é o denominador de `emenda_2025_sobre_base_2025`.
+`r1_numeros_extras.py` filtrava mal o estado na conta do triênio de São Paulo e Maranhão: só dava certo
+enquanto 2023 só tinha os dois estados. Foi corrigido em 06/10/2026. O relatório da execução da rodada 2 está
+em `revisao/claude/r3/PIPELINE-RODADA-3.md`.

@@ -1,0 +1,62 @@
+
+.pizzas-desenho .pizzas-fatia[data-v-6326c1ad] { cursor: pointer;
+}
+.pizzas-desenho.pizzas-pronta .pizzas-fatia[data-v-6326c1ad] { transition: fill 0.35s ease, stroke 0.35s ease, fill-opacity 0.25s ease;
+}
+.pizzas-desenho .pizzas-rotulo[data-v-6326c1ad] { pointer-events: none;
+}
+.pizzas-desenho .pizzas-uniao[data-v-6326c1ad] { pointer-events: none;
+}
+.pizzas-desenho.pizzas-pronta .pizzas-uniao[data-v-6326c1ad] { transition: opacity 0.15s ease 0.3s;
+}
+.pizzas-desenho.pizzas-pronta .pizzas-uniao path[data-v-6326c1ad] { transition: fill-opacity 0.25s ease;
+}
+.pizzas-desenho .pizzas-anel path[data-v-6326c1ad] { cursor: pointer;
+}
+.pizzas-desenho.pizzas-pronta .pizzas-anel[data-v-6326c1ad] { transition: opacity 0.35s ease;
+}
+.pizzas-desenho .pizzas-rotulo text[data-v-6326c1ad] { font-size: 14px; font-weight: 600; fill: var(--tinta); font-variant-numeric: tabular-nums;
+}
+.pizzas-desenho .pizzas-rotulo text.pizzas-rotulo-nome[data-v-6326c1ad] { font-weight: 700;
+}
+.pizzas-desenho .pizzas-rotulo.pizzas-rotulo-escuro text[data-v-6326c1ad] { fill: #ffffff;
+}
+.pizzas-desenho .pizzas-miolo-nome[data-v-6326c1ad] { font-size: 19px; font-weight: 700; fill: var(--tinta);
+}
+.pizzas-desenho .pizzas-miolo-n[data-v-6326c1ad] { font-size: 14px; fill: var(--tinta2);
+}
+.pizzas-desenho .pizzas-cab[data-v-6326c1ad] { font-size: 14px; font-weight: 600; fill: var(--tinta);
+}
+.pizzas-desenho .pizzas-cab.pizzas-cab-mudo[data-v-6326c1ad] { font-weight: 400; fill: var(--tinta2);
+}
+.pizzas-desenho .pizzas-nome[data-v-6326c1ad] { font-size: 15px; fill: var(--tinta);
+}
+.pizzas-desenho .pizzas-nota[data-v-6326c1ad] { font-size: 13px; fill: var(--tinta2);
+}
+.pizzas-desenho .pizzas-valor[data-v-6326c1ad] { font-size: 15px; font-weight: 600; fill: var(--tinta); font-variant-numeric: tabular-nums;
+}
+.pizzas-desenho .pizzas-desvio[data-v-6326c1ad] { font-size: 13.5px; font-weight: 400; fill: var(--tinta2);
+}
+.pizzas-desenho .pizzas-dif[data-v-6326c1ad] { font-size: 15px; font-weight: 700; font-variant-numeric: tabular-nums;
+}
+.pizzas-desenho .pizzas-seta[data-v-6326c1ad] { fill: none; stroke: var(--tinta2); stroke-width: 1.4; stroke-linecap: round; stroke-linejoin: round;
+}
+.pizzas-desenho .pizzas-soma .pizzas-nome[data-v-6326c1ad] { font-size: 16px; font-weight: 700;
+}
+.pizzas-desenho .pizzas-soma .pizzas-valor[data-v-6326c1ad] { font-size: 16.5px; font-weight: 700;
+}
+.pizzas-desenho .pizzas-soma .pizzas-dif[data-v-6326c1ad] { font-size: 16.5px;
+}
+.pizzas-desenho .pizzas-fora[data-v-6326c1ad] { pointer-events: none;
+}
+.pizzas-desenho.pizzas-pronta .pizzas-move[data-v-6326c1ad] { transition: transform 0.35s ease, opacity 0.25s ease;
+}
+.pizzas-botao-agrupar[aria-pressed='true'][data-v-6326c1ad] { background: var(--tinta); color: #fff; border-color: var(--tinta);
+}
+
+.pilha-slide[data-v-e601a6f3] { display: flex; flex-direction: column; height: 100%;
+}
+.pilha-grafico[data-v-e601a6f3] { flex: 1 1 0; min-height: 0; position: relative;
+}
+.como-interagir[data-v-e601a6f3] { flex: none; font-size: 14px; margin: 6px 0 0;
+}

@@ -1,0 +1,15 @@
+
+.trienio-quadro[data-v-dc00b503] { max-width: 1100px; font-size: 19px; line-height: 1.45;
+}
+.trienio-quadro p[data-v-dc00b503] { margin: 0 0 14px;
+}
+.trienio-tabela[data-v-dc00b503] { width: 100%; border-collapse: collapse; font-size: 18.5px; margin: 6px 0 20px; font-variant-numeric: tabular-nums;
+}
+.trienio-tabela th[data-v-dc00b503] { text-align: right; font-weight: 600; font-size: 15px; color: var(--tinta2); border-bottom: 1px solid var(--cinza2); padding: 6px 8px;
+}
+.trienio-tabela td[data-v-dc00b503] { text-align: right; padding: 11px 8px; border-bottom: 1px solid var(--fio);
+}
+.trienio-tabela th[data-v-dc00b503]:first-child, .trienio-tabela td[data-v-dc00b503]:first-child { text-align: left; padding-left: 0;
+}
+.trienio-tabela tr.trienio-excecao td[data-v-dc00b503] { border-top: 2px solid var(--cinza2);
+}

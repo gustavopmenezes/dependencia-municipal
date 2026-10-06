@@ -1,0 +1,15 @@
+
+.saidas-tabela[data-v-e7b6460e] { width: 100%; font-size: 16px; line-height: 1.36; table-layout: fixed;
+}
+.saidas-tabela th[data-v-e7b6460e] { font-size: 13px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--mudo); padding-bottom: 6px;
+}
+.saidas-tabela td[data-v-e7b6460e] { vertical-align: top; padding: 9px 18px 9px 0;
+}
+.saidas-tabela th[data-v-e7b6460e]:nth-child(1) { width: 19%;
+}
+.saidas-tabela th[data-v-e7b6460e]:nth-child(2) { width: 27%;
+}
+.saidas-tabela th[data-v-e7b6460e]:nth-child(3) { width: 27%;
+}
+.saidas-legenda[data-v-e7b6460e] { margin: 12px 0 0; font-size: 15px; line-height: 1.38; color: var(--tinta2);
+}

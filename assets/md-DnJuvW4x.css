@@ -1,0 +1,17 @@
+
+.pec-texto[data-v-e6542874] { font-size: 15px; line-height: 1.37;
+}
+.pec-texto p[data-v-e6542874] { margin: 0 0 8px;
+}
+.pec-autor[data-v-e6542874] { border-left: 3px solid var(--tinta); padding: 2px 0 2px 12px; margin: 10px 0 0;
+}
+.pec-autor-rotulo[data-v-e6542874] { font-size: 13px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--mudo); margin-bottom: 2px;
+}
+.pec-coluna[data-v-e6542874] { display: flex; flex-direction: column; gap: 12px; height: 100%;
+}
+.pec-video[data-v-e6542874] { width: 100%; aspect-ratio: 16 / 9; max-height: 310px; border: 0; border-radius: 8px; background: #ecebe6;
+}
+.pec-contagens[data-v-e6542874] { display: flex; gap: 36px; align-items: flex-start;
+}
+.pec-nota[data-v-e6542874] { font-size: 14px; line-height: 1.38; color: var(--tinta2);
+}

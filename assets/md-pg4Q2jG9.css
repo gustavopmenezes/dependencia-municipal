@@ -1,0 +1,13 @@
+
+.dois-pares[data-v-d496bac6] { display: flex; flex-direction: column; gap: 14px; padding-top: 14px;
+}
+.par-linha[data-v-d496bac6] { display: grid; grid-template-columns: 200px 1fr 1fr; gap: 16px; align-items: center;
+}
+.par-cabeca[data-v-d496bac6] { font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--mudo); padding: 0 18px;
+}
+.par-linha.cartao[data-v-d496bac6] { padding: 28px 18px;
+}
+.par-nome[data-v-d496bac6] { font-size: 20px; font-weight: 600; line-height: 1.25;
+}
+.par-nome small[data-v-d496bac6] { display: block; font-size: 14px; font-weight: 400; color: var(--mudo); margin-top: 5px;
+}

@@ -1,0 +1,7 @@
+
+.pendencias-grade[data-v-937d3b2b] { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; font-size: 16.5px; line-height: 1.4;
+}
+.pendencias-grade h3[data-v-937d3b2b] { font-size: 20px; line-height: 1.2; margin: 0 0 6px;
+}
+.pendencias-grade .cartao[data-v-937d3b2b] { padding: 16px 18px;
+}
