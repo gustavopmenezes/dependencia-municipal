@@ -1,0 +1,49 @@
+
+.pergunta-partida[data-v-006f9b3c] { margin: 0;
+}
+.pergunta-partida b[data-v-006f9b3c] { color: var(--tinta); font-weight: 600;
+}
+.pergunta-quem-responde[data-v-006f9b3c] { margin: 14px 0 0; color: var(--tinta); font-weight: 600;
+}
+.estados-em-foco[data-v-006f9b3c] { display: flex; align-items: center; gap: 30px; margin-top: 22px;
+}
+.estados-em-foco-legenda[data-v-006f9b3c] { margin: 8px 0 0; font-size: 14px; line-height: 1.35; color: var(--tinta2);
+}
+.balao-confundidores[data-v-006f9b3c] { position: relative; background: var(--papel); border: 1px solid var(--cinza2); border-radius: var(--raio); padding: 14px 22px 12px; font-size: 15px; line-height: 1.36; color: var(--tinta2);
+}
+.balao-confundidores[data-v-006f9b3c]::before { content: ''; position: absolute; left: -9px; top: 50%; width: 16px; height: 16px; margin-top: -8px; background: var(--papel); border-left: 1px solid var(--cinza2); border-bottom: 1px solid var(--cinza2); transform: rotate(45deg);
+}
+.balao-confundidores h3[data-v-006f9b3c] { font-family: var(--serifa); font-size: 23px; font-weight: 600; line-height: 1.2; margin: 0; color: var(--tinta);
+}
+.balao-confundidores-oque[data-v-006f9b3c] { margin: 4px 0 0; font-size: 15px;
+}
+.balao-confundidores dl[data-v-006f9b3c] { margin: 10px 0 0;
+}
+.balao-confundidores-linha[data-v-006f9b3c] { display: grid; grid-template-columns: 128px minmax(0, 1fr); column-gap: 14px; padding: 5px 0; border-top: 1px solid var(--fio);
+}
+.balao-confundidores dt[data-v-006f9b3c] { font-weight: 700; color: var(--tinta); font-size: 15px;
+}
+.balao-confundidores dd[data-v-006f9b3c] { margin: 0;
+}
+.balao-confundidores-aqui[data-v-006f9b3c] { color: var(--tinta);
+}
+.balao-confundidores-aqui b[data-v-006f9b3c] { font-weight: 700; border-bottom: 2px solid var(--cinza2);
+}
+.balao-confundidores-autor[data-v-006f9b3c] { margin: 0; padding: 6px 0 7px; border-top: 1px solid var(--fio); color: var(--tinta2);
+}
+.balao-confundidores-rotulo[data-v-006f9b3c] { display: block; font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--mudo); margin-bottom: 2px;
+}
+.balao-confundidores-brasil[data-v-006f9b3c] { color: var(--tinta); font-weight: 700; font-size: 16.5px; white-space: nowrap;
+}
+.balao-confundidores-fecho[data-v-006f9b3c] { white-space: nowrap;
+}
+.bandeira-br[data-v-006f9b3c] { display: inline-block; width: 24px; height: 17px; vertical-align: -3px; margin-left: 6px;
+}
+.balao-confundidores-fato[data-v-006f9b3c] { margin: 0; padding: 6px 0 7px; border-top: 1px solid var(--fio); font-size: 14px; line-height: 1.34; color: var(--tinta2);
+}
+.balao-confundidores-fato b[data-v-006f9b3c] { color: var(--tinta); font-weight: 700;
+}
+.balao-confundidores-asterisco[data-v-006f9b3c] { font-size: 13px;
+}
+.balao-confundidores-pe[data-v-006f9b3c] { margin: 0; padding-top: 7px; border-top: 1px solid var(--tinta2); font-size: 14px; line-height: 1.36;
+}

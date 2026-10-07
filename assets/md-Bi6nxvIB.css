@@ -1,0 +1,15 @@
+
+.metodo-duas[data-v-e9703d82] { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr); gap: 36px; font-size: 16px; line-height: 1.36;
+}
+.metodo-duas h3[data-v-e9703d82] { margin: 0 0 6px; font-size: 21px;
+}
+.metodo-duas ul[data-v-e9703d82] { margin: 0;
+}
+.metodo-tabela[data-v-e9703d82] { font-size: 16px; width: 100%;
+}
+.metodo-tabela td[data-v-e9703d82] { vertical-align: top; padding: 4px 12px 4px 0;
+}
+.metodo-aviso[data-v-e9703d82] { margin: 12px 0 0; font-size: 16px; line-height: 1.36; border-left: 2px solid var(--tinta); padding-left: 10px;
+}
+.metodo-numeros[data-v-e9703d82] { display: flex; gap: 34px; margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--fio);
+}

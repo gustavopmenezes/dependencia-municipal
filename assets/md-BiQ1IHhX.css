@@ -1,0 +1,23 @@
+
+.teto-texto[data-v-ee52ac53] { font-size: 19px; line-height: 1.42;
+}
+.teto-texto p[data-v-ee52ac53] { margin: 0 0 14px; text-wrap: pretty;
+}
+.teto-texto .destaque[data-v-ee52ac53] { margin-top: 28px;
+}
+.teto-reais[data-v-ee52ac53] { height: 100%; padding-left: 28px; border-left: 1px solid var(--fio); display: flex; flex-direction: column; justify-content: flex-start;
+}
+.teto-rotulo[data-v-ee52ac53] { font-size: 13px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--mudo); margin-bottom: 8px;
+}
+.teto-tabela[data-v-ee52ac53] { width: 100%; font-size: 18.5px; line-height: 1.38; table-layout: fixed;
+}
+.teto-tabela td[data-v-ee52ac53] { vertical-align: top; padding: 15px 16px 15px 0; text-wrap: pretty;
+}
+.teto-tabela td[data-v-ee52ac53]:nth-child(1) { width: 25%;
+}
+.teto-tabela td[data-v-ee52ac53]:nth-child(3) { width: 30%;
+}
+.teto-marca[data-v-ee52ac53] { font-size: 15px; color: var(--tinta2);
+}
+.teto-comparacao[data-v-ee52ac53] { margin: 22px 0 0; font-size: 19px; line-height: 1.42; font-weight: 600; text-wrap: pretty;
+}

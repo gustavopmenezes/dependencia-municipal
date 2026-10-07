@@ -1,0 +1,27 @@
+
+.verba-posicao[data-v-39caeaca] { display: grid; grid-template-columns: 320px minmax(0, 1fr); column-gap: 30px; align-items: start; margin-top: 6px;
+}
+.verba-posicao-autor[data-v-39caeaca] { position: relative; background: var(--papel); border: 1px solid var(--cinza2); border-radius: var(--raio); padding: 14px 18px 12px; font-size: 15.5px; line-height: 1.38; color: var(--tinta2);
+}
+.verba-posicao-autor[data-v-39caeaca]::after { content: ''; position: absolute; right: -9px; top: 46px; width: 16px; height: 16px; background: var(--papel); border-right: 1px solid var(--cinza2); border-top: 1px solid var(--cinza2); transform: rotate(45deg);
+}
+.verba-posicao-rotulo[data-v-39caeaca] { display: block; font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--mudo); margin-bottom: 6px;
+}
+.verba-posicao-autor p[data-v-39caeaca] { margin: 0 0 9px;
+}
+.verba-posicao-autor strong[data-v-39caeaca] { color: var(--tinta);
+}
+.verba-posicao-autor p.verba-posicao-vies[data-v-39caeaca] { margin: 0; padding-top: 9px; border-top: 1px solid var(--fio); color: var(--tinta); font-weight: 600;
+}
+.verba-posicao-critica[data-v-39caeaca] { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.55fr) minmax(0, 1.12fr); column-gap: 22px;
+}
+.verba-posicao-bloco[data-v-39caeaca] { border-top: 2px solid var(--tinta); padding-top: 9px; font-size: 15.5px; line-height: 1.38; color: var(--tinta2);
+}
+.verba-posicao-bloco h3[data-v-39caeaca] { font-family: var(--serifa); font-size: 18px; font-weight: 600; line-height: 1.2; margin: 0 0 8px; color: var(--tinta);
+}
+.verba-posicao-bloco p[data-v-39caeaca] { margin: 0 0 9px;
+}
+.verba-posicao-bloco strong[data-v-39caeaca] { color: var(--tinta);
+}
+.verba-posicao-sobe[data-v-39caeaca] { color: #008300; font-weight: 600; white-space: nowrap;
+}

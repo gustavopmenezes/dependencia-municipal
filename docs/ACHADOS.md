@@ -644,8 +644,12 @@ Senado (conta própria; as cadeiras por estado foram conferidas em 06/10/2026 na
 27 de 27 bancadas, soma 513). Para 1998, Samuels e Snyder (2001, p. 660 a 662) dão 0,0913 na Câmara e 0,4039 no
 Senado, o segundo mais desproporcional da lista deles. Razão entre cadeiras
 e população na Câmara: Norte 1,48; Nordeste 1,09; Sudeste 0,84. A São Paulo faltam 42 cadeiras. Pela regra de
-2025, a emenda dá R$ 73 por habitante em São Paulo, R$ 193 no Maranhão e R$ 1.463 em Roraima, e essa ordem tem
-correlação de 0,81 com a mediana municipal da seção 6. A sobrerrepresentação é do Norte de estados pequenos e do
+2025, medida pelo autorizado (R$ 24,6 bilhões de emendas individuais e R$ 14,3 bilhões de bancada impositiva,
+igual por estado), a emenda dá cerca de R$ 75 por habitante em São Paulo, cerca de R$ 207 no Maranhão e cerca
+de R$ 1.621 em Roraima. Corrigido em 06/10/2026, na rodada 3 dos revisores: a conta anterior (R$ 73, R$ 193 e
+R$ 1.463) somava a cota individual com o valor empenhado das bancadas, que não é a dotação; os mesmos 10
+estados ganhariam com a repartição por habitante (`docs/pesquisa/r5-numeros-1.md`, parte e). A correlação de 0,81 com a mediana municipal da seção 6 foi
+calculada com a conta anterior e não foi refeita. A sobrerrepresentação é do Norte de estados pequenos e do
 Senado, não do Nordeste como bloco. O gráfico dessa conta tem um ponto por estado, não por município.
 
 14.4. **Emendas no tempo** (`emendas-linha-do-tempo.md`; seção 14). A preços de 2025, o empenhado foi de R$ 17,5

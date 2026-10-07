@@ -178,6 +178,42 @@ sobre o investimento no paulista de até 5 mil habitantes, de 53% para 49%; as p
 20 mil habitantes com zero de verba estadual, de 84 para 90 de 127. Não mudaram a receita-base, as oito fatias,
 a dependência, a maior fatia nem a medida ampla (`revisao/claude/r3/PIPELINE-RODADA-3.md`).
 
+### Receita com destino obrigatório
+
+Não é coluna da base: sai de `revisao/claude/apoio/r5_n2_a_destino.py` e fica em
+`docs/tabelas/r5_n2_destino_*.csv`. A descrição inteira, com o que fica de fora, está em
+`docs/pesquisa/r5-numeros-2.md`, parte (a).
+
+Parcela com destino = (origem + mínimo de educação + mínimo de saúde) ÷ receita-base.
+
+- **Origem**: FUNDEB recebido, com a complementação da União; FNDE; convênio corrente do estado para educação;
+  SUS fundo a fundo corrente e de capital; convênios de saúde; FNAS.
+- **R**, a receita de impostos e de transferências de impostos, como o script a monta: soma das rubricas
+  **líquidas** de IPTU, ITBI, ISS, IR retido na fonte e outros impostos; mais as líquidas de FPM, ITR, ICMS,
+  IPVA e IPI-exportação; mais o ICMS e o IPI que a prefeitura declarou como imposto próprio; mais todo o aporte
+  ao FUNDEB. Até 06/10/2026 o texto dizia "antes da dedução do FUNDEB", que não é a mesma operação. Aplicada ao
+  pé da letra, a redação antiga muda uma casa num dos quatro grupos (Sudeste, de 42,3% para 42,4%) e até 6
+  pontos em município isolado.
+- **Mínimo de educação** dentro da receita-base: o maior entre zero e 25% de R menos o aporte ao FUNDEB.
+- **Mínimo de saúde**: 15% de R.
+
+Medianas de 2024: 42,2% em São Paulo, 67,4% no Maranhão, 42,3% no Sudeste e 58,2% no Nordeste. Limites, apontados
+pelo Codex na rodada 3 dos revisores (06/10/2026) e conferidos nas saídas dele (`revisao/gpt/rodada3/`):
+
+- **Piso da saúde.** A Lei Complementar 141/2012, art. 7º, não põe na base as cotas extraordinárias do FPM. A
+  conta aplica os 15% sobre o FPM inteiro. Sem as cotas que as contas abrem em rubrica própria: 41,8%, 67,0%,
+  41,9% e 57,7%. É sensibilidade parcial: 159 dos 3.356 municípios não abrem a rubrica.
+- **É vinculação de receita, não gasto obrigatório.** Com pessoal, juros e amortização sobre a receita-base, as
+  medianas são 46,1%, 53,3%, 46,0% e 50,8%, e a correlação de postos com a dependência é de −0,02 (com a
+  receita vinculada, +0,38). As duas medidas se sobrepõem e não se somam.
+- **Dois sinais.** A correlação de postos entre dependência e parcela com destino é +0,38 no conjunto, −0,20
+  dentro de São Paulo e −0,11 dentro do Sudeste (+0,15 no Nordeste, +0,20 no Maranhão). O resultado entre os
+  estados não vale como regra dentro de cada um.
+- **Composição, não causa.** A medida diz de que é feita a receita. Não diz por que o município depende, nem
+  quanto sobra depois das despesas.
+- "Com endereço na chegada" vale só para a parte pela origem (57,7% no Maranhão, 23,9% em São Paulo). O total
+  é receita com finalidade restringida pela origem ou pelos pisos.
+
 ## Campos do deck
 
 `src/mf/exportar_deck.py` grava os JSON de `deck/public/dados/`. Dois campos mudaram na rodada 2 da revisão:
@@ -241,6 +277,12 @@ ficam alguns pontos acima dos da base principal; a série serve para tendência.
 - As comparações começam em 2002: até 2001 o imposto de renda retido na fonte entrava como transferência e a
   função Administração tinha outra classificação.
 - O grupo de tamanho usa a população de 2022 em todos os anos. Com a de 2010 a diferença máxima é de 0,4 ponto.
+- Nos anos de salto, a variação de cada parte é a mediana das variações dos municípios, não a variação da
+  mediana; onde o valor de partida é zero a variação não se define e o município sai da conta.
+- Os efeitos isolados de numerador e de denominador (`docs/tabelas/r5_n2_saltos_decomposicao.csv`) não se
+  somam: falta a interação. Em Alagoas, de 2021 a 2022, somam −5,2 pontos para uma queda de 13,5. A decomposição
+  simétrica, que soma a mudança da mediana (+20,8 do numerador e −34,3 do denominador nesse caso), está em
+  `docs/pesquisa/r5-numeros-2.md`, parte (b). Ela diz qual lado da conta mexeu, não a causa.
 
 ## Figuras
 

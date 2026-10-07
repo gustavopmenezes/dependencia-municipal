@@ -1,0 +1,19 @@
+
+.pacto-duas[data-v-a357e9f0] { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 44px; font-size: 19px; line-height: 1.4;
+}
+.pacto-duas h3[data-v-a357e9f0] { margin: 0 0 8px; font-size: 26px;
+}
+.pacto-duas ul[data-v-a357e9f0] { margin: 0;
+}
+.pacto-duas li + li[data-v-a357e9f0] { margin-top: 6px;
+}
+.pacto-fecho[data-v-a357e9f0] { margin: 14px 0 0; padding-top: 12px; border-top: 1px solid var(--tinta2); font-size: 19px; line-height: 1.4;
+}
+.pacto-autor[data-v-a357e9f0] { margin-top: 10px; padding: 0 0 0 12px; border-left: 2px solid var(--tinta); font-size: 16px; line-height: 1.36;
+}
+.pacto-autor p[data-v-a357e9f0] { margin: 0 0 5px;
+}
+.pacto-autor p[data-v-a357e9f0]:last-child { margin-bottom: 0;
+}
+.pacto-rotulo[data-v-a357e9f0] { font-family: var(--sans); font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--mudo); margin-bottom: 2px;
+}

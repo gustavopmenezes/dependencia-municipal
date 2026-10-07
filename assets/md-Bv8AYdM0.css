@@ -1,0 +1,20 @@
+
+.composicao-segmento[data-v-e457a7b1] { transform-box: view-box;
+}
+.composicao-segmento-suave[data-v-e457a7b1] { transition: transform 0.35s ease, fill 0.35s ease;
+}
+.composicao-legenda-classe[data-v-e457a7b1] { white-space: normal;
+}
+.composicao-quebra[data-v-e457a7b1] { flex-basis: 100%; height: 0;
+}
+.composicao-cabecalho[data-v-e457a7b1] { font-size: 13px; fill: var(--tinta2);
+}
+.composicao-contagem[data-v-e457a7b1] { font-size: 13px; fill: var(--tinta); font-variant-numeric: tabular-nums;
+}
+.gm-area svg text.composicao-numero-fonte[data-v-e457a7b1] { font-size: 13px; font-weight: 700; fill: var(--tinta);
+}
+
+.par-marca[data-v-5900e4fd] { white-space: nowrap;
+}
+.como-interagir[data-v-5900e4fd] { font-size: 14px;
+}

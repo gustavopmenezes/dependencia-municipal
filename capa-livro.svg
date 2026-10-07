@@ -11,79 +11,81 @@
 <rect x="226.8" y="454.0" width="15" height="15" fill="#8f84e0"/>
 <text x="250.8" y="470.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:25px;font-weight:600" fill="#faf9f6" text-anchor="start">Nordeste</text>
 <text x="84.0" y="503.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:21px;font-weight:400" fill="#c3c8cf" text-anchor="start">com São Paulo e Maranhão em detalhe</text>
-<rect x="107.9" y="712.9" width="19.4" height="1.6" fill="#eb6834"/>
-<rect x="130.3" y="712.1" width="19.4" height="2.4" fill="#eb6834"/>
-<rect x="152.7" y="713.3" width="19.4" height="1.2" fill="#eb6834"/>
-<rect x="152.7" y="717.5" width="19.4" height="0.8" fill="#8f84e0"/>
-<rect x="175.1" y="713.7" width="19.4" height="0.8" fill="#eb6834"/>
-<rect x="175.1" y="717.5" width="19.4" height="0.8" fill="#8f84e0"/>
-<rect x="197.5" y="710.5" width="19.4" height="4.0" fill="#eb6834"/>
-<rect x="219.9" y="712.9" width="19.4" height="1.6" fill="#eb6834"/>
-<rect x="242.3" y="710.1" width="19.4" height="4.4" fill="#eb6834"/>
-<rect x="242.3" y="717.5" width="19.4" height="0.8" fill="#8f84e0"/>
-<rect x="264.7" y="709.3" width="19.4" height="5.2" fill="#eb6834"/>
-<rect x="264.7" y="717.5" width="19.4" height="1.5" fill="#8f84e0"/>
-<rect x="287.1" y="707.3" width="19.4" height="7.2" fill="#eb6834"/>
-<rect x="287.1" y="717.5" width="19.4" height="1.5" fill="#8f84e0"/>
-<rect x="309.5" y="708.5" width="19.4" height="6.0" fill="#eb6834"/>
-<rect x="331.9" y="708.5" width="19.4" height="6.0" fill="#eb6834"/>
+<rect x="107.9" y="713.0" width="19.4" height="1.5" fill="#eb6834"/>
+<rect x="130.3" y="712.3" width="19.4" height="2.2" fill="#eb6834"/>
+<rect x="152.7" y="713.4" width="19.4" height="1.1" fill="#eb6834"/>
+<rect x="152.7" y="717.5" width="19.4" height="0.7" fill="#8f84e0"/>
+<rect x="175.1" y="713.8" width="19.4" height="0.7" fill="#eb6834"/>
+<rect x="175.1" y="717.5" width="19.4" height="0.7" fill="#8f84e0"/>
+<rect x="197.5" y="710.8" width="19.4" height="3.7" fill="#eb6834"/>
+<rect x="219.9" y="713.0" width="19.4" height="1.5" fill="#eb6834"/>
+<rect x="242.3" y="710.4" width="19.4" height="4.1" fill="#eb6834"/>
+<rect x="242.3" y="717.5" width="19.4" height="0.7" fill="#8f84e0"/>
+<rect x="264.7" y="709.6" width="19.4" height="4.9" fill="#eb6834"/>
+<rect x="264.7" y="717.5" width="19.4" height="1.4" fill="#8f84e0"/>
+<rect x="287.1" y="707.8" width="19.4" height="6.7" fill="#eb6834"/>
+<rect x="287.1" y="717.5" width="19.4" height="1.4" fill="#8f84e0"/>
+<rect x="309.5" y="708.9" width="19.4" height="5.6" fill="#eb6834"/>
+<rect x="331.9" y="708.9" width="19.4" height="5.6" fill="#eb6834"/>
 <rect x="331.9" y="717.5" width="19.4" height="1.1" fill="#8f84e0"/>
-<rect x="354.3" y="705.2" width="19.4" height="9.3" fill="#eb6834"/>
-<rect x="354.3" y="717.5" width="19.4" height="2.7" fill="#8f84e0"/>
-<rect x="376.7" y="705.6" width="19.4" height="8.9" fill="#eb6834"/>
-<rect x="376.7" y="717.5" width="19.4" height="2.3" fill="#8f84e0"/>
-<rect x="399.1" y="697.6" width="19.4" height="16.9" fill="#eb6834"/>
-<rect x="399.1" y="717.5" width="19.4" height="2.3" fill="#8f84e0"/>
-<rect x="421.5" y="698.8" width="19.4" height="15.7" fill="#eb6834"/>
-<rect x="421.5" y="717.5" width="19.4" height="3.4" fill="#8f84e0"/>
-<rect x="443.9" y="697.2" width="19.4" height="17.3" fill="#eb6834"/>
-<rect x="443.9" y="717.5" width="19.4" height="4.6" fill="#8f84e0"/>
-<rect x="466.3" y="687.9" width="19.4" height="26.6" fill="#eb6834"/>
-<rect x="466.3" y="717.5" width="19.4" height="4.6" fill="#8f84e0"/>
-<rect x="488.7" y="685.9" width="19.4" height="28.6" fill="#eb6834"/>
-<rect x="488.7" y="717.5" width="19.4" height="6.5" fill="#8f84e0"/>
-<rect x="511.1" y="685.9" width="19.4" height="28.6" fill="#eb6834"/>
-<rect x="511.1" y="717.5" width="19.4" height="11.1" fill="#8f84e0"/>
-<rect x="533.5" y="677.9" width="19.4" height="36.6" fill="#eb6834"/>
-<rect x="533.5" y="717.5" width="19.4" height="12.6" fill="#8f84e0"/>
-<rect x="555.9" y="674.7" width="19.4" height="39.8" fill="#eb6834"/>
-<rect x="555.9" y="717.5" width="19.4" height="16.0" fill="#8f84e0"/>
-<rect x="578.3" y="668.2" width="19.4" height="46.3" fill="#eb6834"/>
-<rect x="578.3" y="717.5" width="19.4" height="22.1" fill="#8f84e0"/>
-<rect x="600.7" y="654.9" width="19.4" height="59.6" fill="#eb6834"/>
-<rect x="600.7" y="717.5" width="19.4" height="31.3" fill="#8f84e0"/>
-<rect x="623.1" y="644.5" width="19.4" height="70.0" fill="#eb6834"/>
-<rect x="623.1" y="717.5" width="19.4" height="55.7" fill="#8f84e0"/>
-<rect x="645.5" y="639.7" width="19.4" height="74.8" fill="#eb6834"/>
-<rect x="645.5" y="717.5" width="19.4" height="77.8" fill="#8f84e0"/>
-<rect x="667.9" y="628.0" width="19.4" height="86.5" fill="#eb6834"/>
-<rect x="667.9" y="717.5" width="19.4" height="158.3" fill="#8f84e0"/>
-<rect x="690.3" y="672.2" width="19.4" height="42.3" fill="#eb6834"/>
-<rect x="690.3" y="717.5" width="19.4" height="172.0" fill="#8f84e0"/>
-<rect x="712.7" y="709.7" width="19.4" height="4.8" fill="#eb6834"/>
-<rect x="712.7" y="717.5" width="19.4" height="60.3" fill="#8f84e0"/>
-<rect x="735.1" y="717.5" width="19.4" height="6.5" fill="#8f84e0"/>
+<rect x="354.3" y="705.9" width="19.4" height="8.6" fill="#eb6834"/>
+<rect x="354.3" y="717.5" width="19.4" height="2.5" fill="#8f84e0"/>
+<rect x="376.7" y="706.3" width="19.4" height="8.2" fill="#eb6834"/>
+<rect x="376.7" y="717.5" width="19.4" height="2.1" fill="#8f84e0"/>
+<rect x="399.1" y="698.8" width="19.4" height="15.7" fill="#eb6834"/>
+<rect x="399.1" y="717.5" width="19.4" height="2.1" fill="#8f84e0"/>
+<rect x="421.5" y="699.9" width="19.4" height="14.6" fill="#eb6834"/>
+<rect x="421.5" y="717.5" width="19.4" height="3.2" fill="#8f84e0"/>
+<rect x="443.9" y="698.4" width="19.4" height="16.1" fill="#eb6834"/>
+<rect x="443.9" y="717.5" width="19.4" height="4.3" fill="#8f84e0"/>
+<rect x="466.3" y="689.8" width="19.4" height="24.7" fill="#eb6834"/>
+<rect x="466.3" y="717.5" width="19.4" height="4.3" fill="#8f84e0"/>
+<rect x="488.7" y="687.9" width="19.4" height="26.6" fill="#eb6834"/>
+<rect x="488.7" y="717.5" width="19.4" height="6.0" fill="#8f84e0"/>
+<rect x="511.1" y="687.9" width="19.4" height="26.6" fill="#eb6834"/>
+<rect x="511.1" y="717.5" width="19.4" height="10.3" fill="#8f84e0"/>
+<rect x="533.5" y="680.4" width="19.4" height="34.1" fill="#eb6834"/>
+<rect x="533.5" y="717.5" width="19.4" height="11.7" fill="#8f84e0"/>
+<rect x="555.9" y="677.4" width="19.4" height="37.1" fill="#eb6834"/>
+<rect x="555.9" y="717.5" width="19.4" height="14.9" fill="#8f84e0"/>
+<rect x="578.3" y="671.5" width="19.4" height="43.0" fill="#eb6834"/>
+<rect x="578.3" y="717.5" width="19.4" height="20.6" fill="#8f84e0"/>
+<rect x="600.7" y="659.1" width="19.4" height="55.4" fill="#eb6834"/>
+<rect x="600.7" y="717.5" width="19.4" height="29.1" fill="#8f84e0"/>
+<rect x="623.1" y="649.4" width="19.4" height="65.1" fill="#eb6834"/>
+<rect x="623.1" y="717.5" width="19.4" height="51.8" fill="#8f84e0"/>
+<rect x="645.5" y="644.9" width="19.4" height="69.6" fill="#eb6834"/>
+<rect x="645.5" y="717.5" width="19.4" height="72.4" fill="#8f84e0"/>
+<rect x="667.9" y="634.0" width="19.4" height="80.5" fill="#eb6834"/>
+<rect x="667.9" y="717.5" width="19.4" height="147.2" fill="#8f84e0"/>
+<rect x="690.3" y="675.2" width="19.4" height="39.3" fill="#eb6834"/>
+<rect x="690.3" y="717.5" width="19.4" height="160.0" fill="#8f84e0"/>
+<rect x="712.7" y="710.0" width="19.4" height="4.5" fill="#eb6834"/>
+<rect x="712.7" y="717.5" width="19.4" height="56.1" fill="#8f84e0"/>
+<rect x="735.1" y="717.5" width="19.4" height="6.0" fill="#8f84e0"/>
 <rect x="84" y="715.25" width="672" height="1.5" fill="#faf9f6"/>
-<rect x="602.2" y="528.0" width="1.5" height="188.0" fill="#faf9f6"/>
-<text x="603.0" y="520.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:600" fill="#faf9f6" text-anchor="middle">mediana 86%</text>
-<rect x="675.9" y="716.0" width="1.5" height="188.0" fill="#faf9f6"/>
-<text x="676.7" y="926.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:600" fill="#faf9f6" text-anchor="middle">mediana 93%</text>
+<rect x="602.2" y="540.0" width="1.5" height="176.0" fill="#faf9f6"/>
+<text x="603.0" y="511.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:600" fill="#faf9f6" text-anchor="middle">mediana 86%</text>
+<text x="603.0" y="532.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:17px;font-weight:400" fill="#faf9f6" text-anchor="middle">média 83% ± 11</text>
+<rect x="675.9" y="716.0" width="1.5" height="176.0" fill="#faf9f6"/>
+<text x="676.7" y="914.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:600" fill="#faf9f6" text-anchor="middle">mediana 93%</text>
+<text x="676.7" y="935.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:17px;font-weight:400" fill="#faf9f6" text-anchor="middle">média 91% ± 7</text>
 <rect x="84" y="608.0" width="16" height="16" fill="#eb6834"/>
 <text x="109.0" y="624.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:23px;font-weight:600" fill="#faf9f6" text-anchor="start">Sudeste</text>
 <text x="109.0" y="649.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="start">1.633 municípios</text>
 <rect x="84" y="804.0" width="16" height="16" fill="#8f84e0"/>
 <text x="109.0" y="820.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:23px;font-weight:600" fill="#faf9f6" text-anchor="start">Nordeste</text>
 <text x="109.0" y="845.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="start">1.723 municípios</text>
-<rect x="83.5" y="922.0" width="1" height="8" fill="#c3c8cf"/>
-<text x="84.0" y="950.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="start">40%</text>
-<rect x="307.5" y="922.0" width="1" height="8" fill="#c3c8cf"/>
-<text x="308.0" y="950.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="middle">60%</text>
-<rect x="531.5" y="922.0" width="1" height="8" fill="#c3c8cf"/>
-<text x="532.0" y="950.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="middle">80%</text>
-<rect x="755.0" y="922.0" width="1" height="8" fill="#c3c8cf"/>
-<text x="756.0" y="950.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="end">100%</text>
-<text x="420.0" y="977.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="middle" font-style="italic">parcela da receita que vem de fora do município</text>
-<text x="420.0" y="1000.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="middle" font-style="italic">cada coluna conta os municípios com essa parcela</text>
+<rect x="83.5" y="930.0" width="1" height="8" fill="#c3c8cf"/>
+<text x="84.0" y="958.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="start">40%</text>
+<rect x="307.5" y="930.0" width="1" height="8" fill="#c3c8cf"/>
+<text x="308.0" y="958.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="middle">60%</text>
+<rect x="531.5" y="930.0" width="1" height="8" fill="#c3c8cf"/>
+<text x="532.0" y="958.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="middle">80%</text>
+<rect x="755.0" y="930.0" width="1" height="8" fill="#c3c8cf"/>
+<text x="756.0" y="958.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="end">100%</text>
+<text x="420.0" y="983.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="middle" font-style="italic">parcela da receita que vem de fora do município</text>
+<text x="420.0" y="1005.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:18px;font-weight:400" fill="#c3c8cf" text-anchor="middle" font-style="italic">cada coluna conta os municípios com essa parcela</text>
 <rect x="84" y="1064" width="672" height="1" fill="#4b5766"/>
 <text x="84.0" y="1042.0" style="font-family:'Source Serif 4', 'Source Serif Pro', Georgia, 'Times New Roman', serif;font-size:23px;font-weight:400" fill="#faf9f6" text-anchor="start" font-style="italic">Contas municipais de 2024 · série de 2002 a 2025</text>
 <text x="84.0" y="1112.0" style="font-family:'Source Sans 3', 'Source Sans Pro', 'Segoe UI', Arial, sans-serif;font-size:28px;font-weight:600" fill="#faf9f6" text-anchor="start">Gustavo Menezes</text>

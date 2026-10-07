@@ -1,0 +1,19 @@
+
+.guardar-grade[data-v-c6553989] { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px;
+}
+.guardar-grade .cartao[data-v-c6553989] { padding: 9px 16px;
+}
+.guardar-nota[data-v-c6553989] { margin-top: 4px; font-size: 14px; line-height: 1.36; color: var(--tinta2);
+}
+.guardar-nota strong[data-v-c6553989] { color: var(--tinta);
+}
+.guardar-pergunta[data-v-c6553989] { margin: 10px 0 0; font-size: 14.5px; line-height: 1.34;
+}
+.guardar-pergunta p[data-v-c6553989] { margin: 0 0 6px; font-size: 16px;
+}
+.guardar-leituras[data-v-c6553989] { display: grid; grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.45fr) minmax(0, 1.2fr) minmax(0, 0.8fr); gap: 18px;
+}
+.guardar-leituras > div[data-v-c6553989] { border-top: 2px solid var(--tinta); padding-top: 4px;
+}
+.guardar-leitura[data-v-c6553989] { font-family: var(--sans); font-size: 13px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--mudo); margin-bottom: 2px;
+}

@@ -1,0 +1,34 @@
+
+.destino-leg[data-v-ece43244] { white-space: normal; align-items: baseline;
+}
+.destino-leg .gm-q[data-v-ece43244] { transform: translateY(1px);
+}
+.destino-q-clara[data-v-ece43244] { box-shadow: inset 0 0 0 1px #b0b0ab;
+}
+.destino-nome[data-v-ece43244] { font-size: 15px;
+}
+.destino-n[data-v-ece43244] { font-size: 13px; font-weight: 400;
+}
+.destino-estat[data-v-ece43244] { font-size: 13.5px; fill: var(--tinta); font-variant-numeric: tabular-nums;
+}
+.destino-valor[data-v-ece43244] { font-size: 14px; font-weight: 600; pointer-events: none;
+}
+.destino-valor-menor[data-v-ece43244] { font-size: 13px; font-weight: 600; pointer-events: none;
+}
+.destino-cab[data-v-ece43244] { font-size: 13px; fill: var(--tinta2);
+}
+.destino-contagem[data-v-ece43244] { font-size: 13px; fill: var(--tinta); font-variant-numeric: tabular-nums;
+}
+
+.destino-rotulo[data-v-2c6557b5] { display: block; font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--mudo); margin-bottom: 2px;
+}
+.destino-bloco[data-v-2c6557b5] { font-size: 15px; line-height: 1.38; color: var(--tinta2); margin-top: 9px; padding-top: 8px; border-top: 1px solid var(--fio);
+}
+.destino-bloco b[data-v-2c6557b5] { color: var(--tinta); font-weight: 700; white-space: nowrap;
+}
+.destino-pergunta[data-v-2c6557b5] { margin-top: 0; padding: 9px 13px 10px; background: var(--papel); border: 1px solid var(--cinza2); border-radius: var(--raio); color: var(--tinta);
+}
+.destino-limite[data-v-2c6557b5] { font-size: 13.5px;
+}
+.junto[data-v-2c6557b5] { white-space: nowrap;
+}

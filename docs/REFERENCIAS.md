@@ -2,9 +2,11 @@
 
 Lista única das referências do estudo, montada em 6 out. 2026 a partir das seções de referências e das fichas de `docs/pesquisa/*.md`, de `fontes/INDICE.md` e da seção "Fontes" de `docs/METODO.md`. Critério: nos grupos de "Dados" a "Imprensa, vídeos e redes" só entra o que foi aberto e conferido na fonte durante a pesquisa, ou o que é fonte primária de dado usado no cálculo. O que os arquivos de pesquisa marcam como "de memória", "não conferido", "não aberto", "em revisão" ou incompleto fica no grupo "Citadas mas não conferidas" e não entra em entrega enquanto a pendência indicada não for resolvida. As referências seguem a ABNT NBR 6023:2018, em ordem alfabética dentro de cada grupo. A data de acesso é a registrada no arquivo de pesquisa (5 out. 2026 na primeira montagem; 6 out. 2026 no que entrou ou foi corrigido na rodada 2 da revisão, a partir de `docs/pesquisa/pesquisa-profunda-gemini.md`, `pesquisa-profunda-chatgpt.md`, `fatos-rodada-3.md` e `glossario-receitas.md`; os arquivos de `fontes/arquivos/` foram baixados em 5 e 6 out. 2026). Onde só a referência bibliográfica ou só o resumo foi conferido, a entrada diz isso entre colchetes, e número nenhum dessa obra entra em entrega sem a marca do arquivo de pesquisa. Onde falta um elemento, a referência traz o que há e termina com "[dado incompleto: falta X]"; nenhum dado bibliográfico foi completado de memória. Em periódico estrangeiro sem local registrado na pesquisa usa-se [*S. l.*].
 
-Total: 217 referências conferidas (20 de dados, 44 de normas e decisões, 60 de livros, artigos e textos para discussão, 29 de notas técnicas e documentos de entidades, 64 de imprensa, vídeos e redes) e 78 itens citados mas não conferidos (linhas do grupo, algumas com mais de um documento). Antes da camada 2 da rodada 5 eram 171 e 77. Na montagem de 5 out. 2026 eram 108 e 72 (o texto dizia 107; os parágrafos somavam 108); a rodada 2 da revisão acrescentou 63 conferidas, corrigiu seis (Brollo *et al.*, Corbi, Papaioannou e Surico, Samuels e Snyder, Tomio, a Lei Complementar nº 198 e a matéria da Agência Senado de 15 jan. 2026) e passou seis linhas das não conferidas para as conferidas.
+Total: 226 referências conferidas (20 de dados, 45 de normas e decisões, 64 de livros, artigos e textos para discussão, 30 de notas técnicas e documentos de entidades, 67 de imprensa, vídeos e redes) e 77 itens citados mas não conferidos (linhas do grupo, algumas com mais de um documento). Antes da rodada 3 de revisão eram 217 e 78; antes da camada 2 da rodada 5, 171 e 77. Na montagem de 5 out. 2026 eram 108 e 72 (o texto dizia 107; os parágrafos somavam 108); a rodada 2 da revisão acrescentou 63 conferidas, corrigiu seis (Brollo *et al.*, Corbi, Papaioannou e Surico, Samuels e Snyder, Tomio, a Lei Complementar nº 198 e a matéria da Agência Senado de 15 jan. 2026) e passou seis linhas das não conferidas para as conferidas.
 
 A camada 2 da rodada 5 (6 out. 2026) acrescentou 46 conferidas: as fontes novas dos slides e do e-book, listadas em `revisao/claude/camada2-fontes-novas.json`. Autor, título e data das notícias foram lidos na página em 6 out. 2026. A matéria da Agência Brasil de 16 ago. 2024, que estava pelo título, passou a entrar pelo autor (RICHTER, 2024c). As páginas do Planalto não abriram nessa data (conexão recusada): a Emenda Constitucional nº 128, a Lei Complementar nº 173 e a Lei nº 14.041 entram com número e data, e a descrição depois da editora vem dos arquivos de pesquisa, não da ementa lida. Quatro obras foram lidas só por resumo automático da página (Arretche, 2013; Costa e Benvindo, 2013; Dantas, 2020; Godoy e Tranjan, 2023), e a entrada diz. O e-book cita (RICHTER, 2026) para a matéria que aqui é (RICHTER, 2026a), e (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, 2025) para a que aqui é 2025a, porque esta lista tem mais uma obra do mesmo autor e ano. A nota informativa do Senado recebeu a chave (BRASIL, 2025b); (BRASIL, 2025) segue sendo o Projeto de Lei Complementar nº 177. As fotografias e pinturas das aberturas de seção têm crédito em `fontes/imagens/CREDITOS.md` e não entram nesta lista.
+
+A rodada 3 de revisão (6 out. 2026) acrescentou nove conferidas, abertas em `docs/pesquisa/r6-fontes-fatos.md` e `r6-fontes-literatura.md` ou na auditoria do GPT: a decisão de 9 set. 2026 na ADPF 854 (BRASIL, 2026k), lida na cópia hospedada pelo Consultor Jurídico; a Nota Técnica Conjunta nº 5/2025 (BRASIL, 2025c); Arcaute *et al.* (2015), que saiu das não conferidas; Contel (2014), lido por leitor automático; Madison (1787); Montesquieu (edição de 1892); Fernandes (2019); Kaucz (2026); e Mali (2019). Leitão *et al.* (2016) e o vídeo da Gazeta do Povo tiveram a ficha conferida de novo. Stasavage (2020), Dahl e Tufte (1973) e as duas notícias do UOL de novembro de 2019 não entram: os dois livros não foram abertos e as notícias não abriram.
 
 ## Dados
 
@@ -126,6 +128,8 @@ BRASIL. Senado Federal. **Proposta de Emenda à Constituição nº 188, de 2019*
 
 BRASIL. Senado Federal. **Projeto de Lei Complementar nº 177, de 2023**. Fixa o número de Deputados Federais; estabelece normas para a distribuição das vagas da Câmara dos Deputados entre os Estados e o Distrito Federal; e revoga a Lei Complementar nº 78, de 30 de dezembro de 1993. Brasília, DF: Senado Federal, 2025. Ficha de tramitação. Disponível em: https://www25.senado.leg.br/web/atividade/materias/-/materia/168472. Acesso em: 5 out. 2026.
 
+BRASIL. Supremo Tribunal Federal. **Arguição de Descumprimento de Preceito Fundamental nº 854**. Decisão do relator, de acompanhamento do plano de trabalho sobre transparência e rastreabilidade das emendas parlamentares. Relator: Min. Flávio Dino. Brasília, DF, 9 set. 2026. 56 p. Cópia hospedada pelo Consultor Jurídico; código de autenticação do STF no rodapé: 5AD9-7898-6478-8450. Disponível em: https://conjur.com.br/wp-content/uploads/2026/09/downloadPeca-5.pdf. Acesso em: 6 out. 2026. [código não conferido no autenticador do STF]
+
 BRASIL. Tribunal de Contas da União. **Decisão Normativa nº 207, de 2023**. Coeficientes do Fundo de Participação dos Municípios para o exercício de 2024. Brasília, DF: TCU, 2023. Disponível em: https://portal.tcu.gov.br/gestao-financeira-e-transferencias/coeficientes-fpe-e-fpm. Acesso em: 5 out. 2026. [dado incompleto: falta dia e mês da decisão e a ementa oficial]
 
 BRASIL. Tribunal de Contas da União. **Decisão Normativa nº 213, de 2024**. Coeficientes do Fundo de Participação dos Municípios para o exercício de 2025. Brasília, DF: TCU, 2024. Disponível em: https://portal.tcu.gov.br/gestao-financeira-e-transferencias/coeficientes-fpe-e-fpm. Acesso em: 5 out. 2026. [dado incompleto: falta dia e mês da decisão e a ementa oficial]
@@ -145,6 +149,8 @@ ALESINA, Alberto; SPOLAORE, Enrico. On the number and size of nations. **The Qua
 ALLERS, Maarten A.; GEERTSEMA, J. Bieuwe. The effects of local government amalgamation on public spending, taxation, and service levels: evidence from 15 years of municipal consolidation. **Journal of Regional Science**, [*s. l.*], v. 56, n. 4, p. 659-682, 2016. DOI: 10.1111/jors.12268. Disponível em: https://www.coelo.nl/images/artikelen/The_effects_of_local_government_amalgamation_on_public_spending_taxation_and_service_levels.pdf. Acesso em: 6 out. 2026.
 
 AMARAL, Silvâni Maria Sehnem do; BLATT, Carine Raquel. Consórcio intermunicipal para a aquisição de medicamentos: impacto no desabastecimento e no custo. **Revista de Saúde Pública**, São Paulo, v. 45, n. 4, 2011. DOI: 10.1590/S0034-89102011005000016. Disponível em: http://www.scielo.br/j/rsp/a/thRk93KQnmCGM4TVypsQhSy/?lang=pt. Acesso em: 6 out. 2026. [dado incompleto: faltam as páginas; só o resumo foi lido]
+
+ARCAUTE, Elsa; HATNA, Erez; FERGUSON, Peter; YOUN, Hyejin; JOHANSSON, Anders; BATTY, Michael. Constructing cities, deconstructing scaling laws. **Journal of the Royal Society Interface**, [*s. l.*], v. 12, n. 102, 2015. DOI: 10.1098/rsif.2014.0745. Versão consultada: texto integral no Europe PMC (PMC4277074) e arXiv:1301.1674. Disponível em: https://arxiv.org/abs/1301.1674. Acesso em: 6 out. 2026.
 
 ARRETCHE, Marta. Federalismo e igualdade territorial: uma contradição em termos? **Dados**, Rio de Janeiro, v. 53, n. 3, p. 587-620, 2010. DOI: 10.1590/S0011-52582010000300003. Disponível em: https://doi.org/10.1590/S0011-52582010000300003. Acesso em: 5 out. 2026.
 
@@ -182,6 +188,8 @@ BYRNES, Joel; DOLLERY, Brian. Do economies of scale exist in Australian local go
 
 CASELLI, Francesco; MICHAELS, Guy. Do oil windfalls improve living standards? Evidence from Brazil. **American Economic Journal: Applied Economics**, [*s. l.*], v. 5, n. 1, p. 208-238, 2013. DOI: 10.1257/app.5.1.208. Disponível em: https://doi.org/10.1257/app.5.1.208. Acesso em: 6 out. 2026. [só o resumo foi lido; trata de royalties de petróleo, não de fusão de municípios]
 
+CONTEL, Fabio Betioli. As divisões regionais do IBGE no século XX (1942, 1970 e 1990). **Terra Brasilis** (Nova Série), [*s. l.*], n. 3, 2014. DOI: 10.4000/terrabrasilis.990. Disponível em: https://journals.openedition.org/terrabrasilis/990. Acesso em: 6 out. 2026. [lido por leitor automático; frases literais, números de parágrafo e o ato de 1970 a conferir no navegador]
+
 CORBI, Raphael; PAPAIOANNOU, Elias; SURICO, Paolo. Regional transfer multipliers. **The Review of Economic Studies**, [*s. l.*], v. 86, n. 5, p. 1901-1934, 2019. DOI: 10.1093/restud/rdy069. Disponível em: https://lbsresearch.london.edu/id/eprint/1037/9/Regional_Transfer_Multipliers_Rev_Econ_Stud_2019_86.pdf. Acesso em: 6 out. 2026.
 
 COSTA, Alexandre Araújo; BENVINDO, Juliano Zaiden. **A quem interessa o controle concentrado de constitucionalidade?** O descompasso entre teoria e prática na defesa dos direitos fundamentais. [*S. l.*]: Arcos, 2013. Disponível em: https://arcos.org.br/a-quem-interessa-o-controle-concentrado-de-constitucionalidade/. Acesso em: 6 out. 2026. Lido por resumo automático da página.
@@ -208,7 +216,7 @@ HIROI, Taeko. Paradox of redistribution: legislative overrepresentation and regi
 
 HOOGHE, Liesbet; MARKS, Gary. **Community, scale, and regional governance**. Oxford: Oxford University Press, 2016. Versão consultada: prova de revisão. Disponível em: https://hooghe.web.unc.edu/wp-content/uploads/sites/11492/2021/02/Hooghe-Marks_2016_Community-Scale-and-Regional-Governance.pdf. Acesso em: 6 out. 2026.
 
-LEITÃO, J. C.; MIOTTO, J. M.; GERLACH, M.; ALTMANN, E. G. Is this scaling nonlinear? **Royal Society Open Science**, London, v. 3, 150649, 2016. DOI: 10.1098/rsos.150649. Versão consultada: arXiv:1604.02872. Disponível em: https://arxiv.org/abs/1604.02872. Acesso em: 5 out. 2026.
+LEITÃO, J. C.; MIOTTO, J. M.; GERLACH, M.; ALTMANN, E. G. Is this scaling nonlinear? **Royal Society Open Science**, London, v. 3, n. 7, 150649, 2016. DOI: 10.1098/rsos.150649. Versão consultada: texto integral no Europe PMC (PMC4968456) e arXiv:1604.02872. Disponível em: https://arxiv.org/abs/1604.02872. Acesso em: 6 out. 2026.
 
 LITSCHIG, Stephan. Are rules-based government programs shielded from special-interest politics? Evidence from revenue-sharing transfers in Brazil. **Journal of Public Economics**, [*s. l.*], v. 96, n. 11-12, p. 1047-1060, 2012. DOI: 10.1016/j.jpubeco.2012.08.010. Versão consultada: Barcelona Economics Working Paper n. 483, 2010. Disponível em: https://bse.eu/sites/default/files/working_paper_pdfs/483.pdf. Acesso em: 6 out. 2026.
 
@@ -216,11 +224,15 @@ LITSCHIG, Stephan; MORRISON, Kevin M. The impact of intergovernmental transfers 
 
 LUDUVICE, Felipe; DE BIASE, Pietrangelo. Efeitos fiscais das subdivisões municipais no Brasil após 1988. **Cadernos de Finanças Públicas**, Brasília, DF, v. 20, n. 2, p. 1-25, set. 2020. Disponível em: https://publicacoes.tesouro.gov.br/index.php/cadernos/article/view/74. Acesso em: 5 out. 2026.
 
+MADISON, James. The Federalist n. 10: The same subject continued: the Union as a safeguard against domestic faction and insurrection. **New York Packet**, Nova York, 23 nov. 1787. Texto do Avalon Project, Yale Law School. Disponível em: https://avalon.law.yale.edu/18th_century/fed10.asp. Acesso em: 6 out. 2026.
+
 MEIRELLES, João; RODRIGUES NETO, Camilo; FERREIRA, Fernando Fagundes; RIBEIRO, Fabiano Lemes; BINDER, Claudia Rebeca. Evolution of urban scaling: evidence from Brazil. **PLoS ONE**, San Francisco, v. 13, n. 10, e0204574, 2018. DOI: 10.1371/journal.pone.0204574. Disponível em: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204574. Acesso em: 5 out. 2026.
 
 MENDES, Marcos; MIRANDA, Rogério Boueri; COSIO, Fernando Blanco. **Transferências intergovernamentais no Brasil**: diagnóstico e proposta de reforma. Brasília, DF: Senado Federal, Consultoria Legislativa, abr. 2008. (Texto para Discussão, n. 40). Disponível em: https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/textos-para-discussao/td-40-transferencias-intergovernamentais-no-brasil-diagnostico-e-proposta-de-reforma/@@download/file/TD40-MarcosMendes_RogerioBoueri_FernandoB.Cosio.pdf. Acesso em: 5 out. 2026.
 
 MONASTERIO, Leonardo Monteiro. **O FPM e a estranha distribuição da população dos pequenos municípios brasileiros**. Brasília, DF: Ipea, mar. 2013. (Texto para Discussão, n. 1818). Disponível em: https://www.econstor.eu/bitstream/10419/91464/1/745123341.pdf. Acesso em: 5 out. 2026.
+
+MONTESQUIEU. **Esprit des lois**. Introdução e notas de Paul Janet. 2. ed. Paris: Librairie Ch. Delagrave, 1892. Livro VIII, caps. XVI, XIX e XX. Project Gutenberg, eBook n. 27573. Disponível em: https://www.gutenberg.org/ebooks/27573. Acesso em: 6 out. 2026.
 
 NICOLAU, Jairo Marconi. As distorções na representação dos estados na Câmara dos Deputados brasileira. **Dados**, Rio de Janeiro, v. 40, n. 3, p. 441-464, 1997. DOI: 10.1590/S0011-52581997000300006. Disponível em: https://doi.org/10.1590/S0011-52581997000300006. Acesso em: 5 out. 2026.
 
@@ -273,6 +285,8 @@ BASSI, Camillo de Moraes. **PEC do Pacto Federativo – PEC nº 188/2019**: uma 
 BRASIL. Controladoria-Geral da União. **Alice**. Brasília, DF: CGU, [202-]. Disponível em: https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao/alice. Acesso em: 5 out. 2026.
 
 BRASIL. Secretaria do Tesouro Nacional. **Cartilha do FPM**. Brasília, DF: STN, [20--]. Disponível em: https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/28549_909191/anexos/6370_978491/Cartilha%20FPM.pdf. Acesso em: 5 out. 2026. [dado incompleto: faltam o título exato da capa e a data de publicação]
+
+BRASIL. Congresso Nacional. **Nota Técnica Conjunta nº 5/2025**. Brasília, DF: Câmara dos Deputados; Senado Federal, 2025. Nota das consultorias de orçamento das duas Casas sobre o projeto de lei orçamentária de 2026; usada a tabela 8.27, coluna da lei orçamentária de 2025 (p. 80 do PDF). Disponível em: https://www2.camara.leg.br/orcamento-da-uniao/estudos/2025/notatecnicaconjunta_ploa-2026. Acesso em: 6 out. 2026. [aberta pelo auditor (GPT) na rodada 3 de revisão; dado incompleto: título completo e nomes dos órgãos autores não transcritos]
 
 BRASIL. Senado Federal. **Nota informativa**: decisões do STF sobre emendas parlamentares (ADPF 854, ADI 7688, 7695, 7697): posição em 26/02/2025 e desdobramentos. Brasília, DF: Senado Federal, 27 fev. 2025. 26 p. Disponível em: https://www12.senado.leg.br/orcamento/documentos/estudos/tipos-de-estudos/notas-tecnicas-e-informativos/nota-informativa-decisoes-stf-versao-final.pdf. Acesso em: 6 out. 2026.
 
@@ -336,7 +350,7 @@ APÓS aprovação da PEC, 1.254 cidades brasileiras podem ser extintas. **Correi
 
 AS "15 SEMANAS" de Paulo Guedes. **Gazeta do Povo**, Curitiba, 8 mar. 2020. Editorial. Disponível em: https://www.gazetadopovo.com.br/opiniao/editoriais/as-15-semanas-de-paulo-guedes/. Acesso em: 6 out. 2026.
 
-AS CIDADES que Paulo Guedes pode tirar do mapa | Gazeta Notícias. Curitiba: Gazeta do Povo, 6 nov. 2019. 1 vídeo (3 min 32 s). Publicado pelo canal Gazeta do Povo. Disponível em: https://www.youtube.com/watch?v=07sAUPw8LLI. Acesso em: 5 out. 2026.
+AS CIDADES que Paulo Guedes pode tirar do mapa | Gazeta Notícias. Curitiba: Gazeta do Povo, 6 nov. 2019. 1 vídeo (3 min 32 s). Publicado pelo canal Gazeta do Povo no YouTube. Disponível em: https://www.youtube.com/watch?v=07sAUPw8LLI. Acesso em: 6 out. 2026.
 
 ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO. **[Notícia sobre as emendas individuais impositivas]**. São Paulo: Alesp, [202-]. Disponível em: https://www.al.sp.gov.br/noticia/?id=444664. Acesso em: 5 out. 2026. [dado incompleto: faltam o título e a data da notícia]
 
@@ -368,6 +382,8 @@ ESTUDO aponta desigualdade fiscal entre municípios no Brasil. **Poder360**, Bra
 
 EXTINÇÃO de municípios não é ponto de honra, diz Bolsonaro. **Agência Brasil**, Brasília, DF, 4 dez. 2019. Disponível em: https://agenciabrasil.ebc.com.br/politica/noticia/2019-12/extincao-de-municipios-nao-e-ponto-de-honra-diz-bolsonaro. Acesso em: 6 out. 2026. [dado incompleto: título deduzido do endereço]
 
+FERNANDES, Augusto. Bolsonaro diz que população vai ter de concordar sobre fusão de municípios. **Correio Braziliense**, Brasília, DF, 6 nov. 2019. Disponível em: https://www.correiobraziliense.com.br/app/noticia/politica/2019/11/06/interna_politica,804236/bolsonaro-diz-que-populacao-vai-ter-de-concordar-sobre-fusao-de-munici.shtml. Acesso em: 6 out. 2026.
+
 FUSÃO de municípios poderia reduzir desigualdades municipais e aumentar a autonomia local, aponta estudo. **Ciência na Rua**, [*s. l.*], 31 jul. 2025. Disponível em: https://ciencianarua.net/fusao-de-municipios-poderia-reduzir-desigualdades-municipais-e-aumentar-a-autonomia-local-aponta-estudo/. Acesso em: 5 out. 2026.
 
 GANDRA, Alana. Leilão de dois blocos de saneamento de Alagoas arrecada R$ 1,6 bilhão. **Agência Brasil**, Rio de Janeiro, 13 dez. 2021. Disponível em: https://agenciabrasil.ebc.com.br/economia/noticia/2021-12/leilao-de-dois-blocos-de-saneamento-de-alagoas-arrecada-r-16-bilhao. Acesso em: 6 out. 2026.
@@ -380,11 +396,15 @@ GOVERNO propõe extinção de um quarto dos municípios brasileiros. **Exame**, 
 
 GOVERNO propõe extinguir municípios incapazes de se manterem. **CartaCapital**, São Paulo, 5 nov. 2019. Texto da Agência Brasil. Disponível em: https://www.cartacapital.com.br/economia/governo-propoe-extinguir-municipios-incapazes-de-se-manterem/. Acesso em: 6 out. 2026.
 
+KAUCZ, Lavínia. Dino diz que deve liberar julgamento sobre emendas após eleições. **O Tempo**, Belo Horizonte, 22 set. 2026. Texto da Estadão Conteúdo. Disponível em: https://www.otempo.com.br/politica/judiciario/2026/9/22/dino-diz-que-deve-liberar-julgamento-sobre-emendas-parlamentares-no-stf-apos-eleicoes. Acesso em: 6 out. 2026.
+
 LABOISSIÈRE, Paula. Frente de prefeitos apresenta carta com propostas aos presidenciáveis. **Agência Brasil**, Brasília, DF, 30 set. 2026. Disponível em: https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/frente-de-prefeitos-apresenta-carta-com-propostas-aos-presidenciaveis. Acesso em: 6 out. 2026.
 
 LULA veta projeto que aumenta de 513 para 531 o número de deputados federais. **Agência Câmara de Notícias**, Brasília, DF, 17 jul. 2025. Disponível em: https://www.camara.leg.br/noticias/1181279-LULA-VETA-PROJETO-QUE-AUMENTA-DE-513-PARA-531-O-NUMERO-DE-DEPUTADOS-FEDERAIS. Acesso em: 5 out. 2026.
 
 MAIS de 90% dos municípios com menos de 5 mil habitantes estão sob ameaça de serem extintos. **Terra**, [*s. l.*], 15 jan. 2020. Conteúdo distribuído por DINO Divulgador de Notícias. Disponível em: https://www.terra.com.br/noticias/dino/mais-de-90-dos-municipios-com-menos-de-5-mil-habitantes-estao-sob-ameaca-de-serem-extintos,f4e6b789a2f6db4ed7fec776ed5f43bcb2xc4b27.html. Acesso em: 5 out. 2026.
+
+MALI, Tiago. 57% dos municípios que Guedes propõe extinguir deram vitória a Haddad em 2018. **Poder360**, Brasília, DF, 12 nov. 2019. Disponível em: https://www.poder360.com.br/brasil/57-dos-municipios-que-guedes-propoe-extinguir-deram-vitoria-a-haddad-em-2018/. Acesso em: 6 out. 2026.
 
 MÁXIMO, Wellton. Dino anula emendas indicadas por dirigentes partidários sem mandato. **Agência Brasil**, Brasília, DF, 23 ago. 2026. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/dino-anula-emendas-indicadas-por-dirigentes-partidarios-sem-mandato. Acesso em: 6 out. 2026.
 
@@ -458,7 +478,6 @@ Cada linha traz a obra como aparece no arquivo de pesquisa e o que falta para el
 
 - AMES, Barry. **Os entraves da democracia no Brasil**. Rio de Janeiro: Editora FGV, 2003. Falta: abrir a obra; referência de memória (`representacao.md`).
 - ANDRADE, R.; CALDAS, A. Federalismo fiscal e transferências voluntárias da União aos municípios brasileiros. **Revista Políticas Públicas & Cidades**, v. 14, n. 1, e1449, 2025. DOI: 10.23900/2359-1552v14n1-79-2025. Falta: ler o artigo; referenciado como aparece na nota do CEM (`cem-nt23.md`); faltam os prenomes.
-- ARCAUTE, Elsa *et al.* Constructing cities, deconstructing scaling laws. **Journal of the Royal Society Interface**, v. 12, n. 102, 20140745, 2015. Falta: conferir volume, número e DOI; só a versão arXiv:1301.1674 foi consultada (`escala-urbana.md`).
 - ARRETCHE, Marta. **Democracia, federalismo e centralização no Brasil**. Rio de Janeiro: Editora FGV; Editora Fiocruz, 2012. Falta: abrir a obra; referência de memória.
 - BAIÃO, A.; CUNHA, A.; SOUZA, F. Papel das transferências intergovernamentais na equalização fiscal dos municípios brasileiros. **Revista do Serviço Público**, Brasília, v. 68, n. 3, p. 583-610, 2017. Falta: ler o artigo; o DOI 10.21874/rsp.v68i3.140 não resolveu em 5 out. 2026.
 - BETTENCOURT, Luís M. A. The origins of scaling in cities. **Science**, v. 340, n. 6139, p. 1438-1441, 2013. DOI: 10.1126/science.1235823. Falta: abrir o artigo; a página não abriu.
@@ -592,6 +611,7 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (AMM, [2024]) | AMM | Imprensa |
 | (AMORIM, 2026) | AMORIM | Imprensa |
 | (APÓS..., 2019) | APÓS | Imprensa |
+| (ARCAUTE *et al.*, 2015) | ARCAUTE | Livros e artigos |
 | (ARRETCHE, 2010) | ARRETCHE | Livros e artigos |
 | (ARRETCHE, 2013) | ARRETCHE | Livros e artigos |
 | (ARRETCHE; RODDEN, 2004) | ARRETCHE | Livros e artigos |
@@ -656,6 +676,7 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (BRASIL, 2024b) | BRASIL. Tribunal de Contas da União. Decisão Normativa nº 213 | Normas |
 | (BRASIL, 2025) | BRASIL. Senado Federal. Projeto de Lei Complementar nº 177 | Normas |
 | (BRASIL, 2025b) | BRASIL. Senado Federal. Nota informativa | Notas técnicas |
+| (BRASIL, 2025c) | BRASIL. Congresso Nacional. Nota Técnica Conjunta nº 5/2025 | Notas técnicas |
 | (BRASIL, 2026a) | BRASIL. Controladoria-Geral da União. Portal da Transparência | Dados |
 | (BRASIL, [2026]b) | BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. Transferegov.br | Dados |
 | (BRASIL, 2026c) | BRASIL. Secretaria do Tesouro Nacional. Capag Municípios | Dados |
@@ -666,6 +687,7 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (BRASIL, [2026]h) | BRASIL. Câmara dos Deputados. Número de deputados por estado | Dados |
 | (BRASIL, [2026]i) | BRASIL. Lei nº 8.742, texto compilado | Normas |
 | (BRASIL, [2026]j) | BRASIL. Lei nº 9.478, texto compilado | Normas |
+| (BRASIL, 2026k) | BRASIL. Supremo Tribunal Federal. ADPF 854, decisão de 9 set. 2026 | Normas |
 | (BREMAEKER, 2026) | BREMAEKER | Notas técnicas |
 | (BROLLO *et al.*, 2013) | BROLLO | Livros e artigos |
 | (BUGARIN; MARCINIUK, 2017) | BUGARIN | Livros e artigos |
@@ -680,6 +702,7 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS, 2025) | CONFEDERAÇÃO (Nota técnica sobre o IBS) | Notas técnicas |
 | (CONGRESSO..., 2025) | CONGRESSO | Imprensa |
 | (CONSELHO NACIONAL DE JUSTIÇA, 2025) | CONSELHO | Notas técnicas |
+| (CONTEL, 2014) | CONTEL | Livros e artigos |
 | (CORBI; PAPAIOANNOU; SURICO, 2019) | CORBI | Livros e artigos |
 | (COSTA; BENVINDO, 2013) | COSTA | Livros e artigos |
 | (CRUZ, 2026) | CRUZ | Imprensa |
@@ -689,6 +712,7 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (ESTUDO..., 2025) | ESTUDO aponta | Imprensa |
 | (ESTUDO..., 2026) | ESTUDO analisa | Imprensa |
 | (EXTINÇÃO..., 2019) | EXTINÇÃO | Imprensa |
+| (FERNANDES, 2019) | FERNANDES | Imprensa |
 | (FIRJAN, 2025a) | FIRJAN (evolução por indicador, planilha) | Dados |
 | (FIRJAN, 2025b) | FIRJAN (IFGF 2025, estudo) | Notas técnicas |
 | (FIRJAN, 2025c) | FIRJAN (anexo metodológico) | Notas técnicas |
@@ -725,13 +749,16 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (IBGE, [2026]f) | IBGE (Produto Interno Bruto dos Municípios) | Dados |
 | (IPEA, 2026a) | IPEA (Ipeadata) | Dados |
 | (IPEA, 2026b) | IPEA (Para onde vai o Pix?) | Notas técnicas |
+| (KAUCZ, 2026) | KAUCZ | Imprensa |
 | (LABOISSIÈRE, 2026) | LABOISSIÈRE | Imprensa |
 | (LEITÃO *et al.*, 2016) | LEITÃO | Livros e artigos |
 | (LITSCHIG, 2012) | LITSCHIG (Are rules-based government programs) | Livros e artigos |
 | (LITSCHIG; MORRISON, 2013) | LITSCHIG (The impact of intergovernmental transfers) | Livros e artigos |
 | (LUDUVICE; DE BIASE, 2020) | LUDUVICE | Livros e artigos |
 | (LULA..., 2025) | LULA | Imprensa |
+| (MADISON, 1787) | MADISON | Livros e artigos |
 | (MAIS..., 2020) | MAIS | Imprensa |
+| (MALI, 2019) | MALI | Imprensa |
 | (MÁXIMO, 2026) | MÁXIMO | Imprensa |
 | (MEIRELLES *et al.*, 2018) | MEIRELLES | Livros e artigos |
 | (MENDES, 2020) | MENDES (Folha de S.Paulo) | Imprensa |
@@ -741,6 +768,7 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (MINISTRA..., 2021) | MINISTRA | Imprensa |
 | (MINISTRO..., 2024) | MINISTRO | Imprensa |
 | (MONASTERIO, 2013) | MONASTERIO | Livros e artigos |
+| (MONTESQUIEU, 1892) | MONTESQUIEU | Livros e artigos |
 | (MORAES, 2026) | MORAES | Imprensa |
 | (MUNICÍPIOS..., 2019) | MUNICÍPIOS que poderiam ser extintos | Imprensa |
 | (MUNICÍPIOS..., 2025) | MUNICÍPIOS pequenos recebem | Imprensa |
@@ -804,12 +832,12 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | Grupo | Referências |
 |---|---|
 | Dados | 20 |
-| Normas e decisões | 44 |
-| Livros, artigos e textos para discussão | 60 |
-| Notas técnicas, relatórios e documentos de entidades | 29 |
-| Imprensa, vídeos e redes | 64 |
-| Total conferido | 217 |
-| Citadas mas não conferidas (linhas) | 78 |
+| Normas e decisões | 45 |
+| Livros, artigos e textos para discussão | 64 |
+| Notas técnicas, relatórios e documentos de entidades | 30 |
+| Imprensa, vídeos e redes | 67 |
+| Total conferido | 226 |
+| Citadas mas não conferidas (linhas) | 77 |
 
-Contagem refeita em 6 out. 2026, depois da camada 2 da rodada 5, contando os parágrafos de cada grupo. A tabela de
-chaves tem uma linha por referência conferida (217).
+Contagem refeita em 6 out. 2026, depois da rodada 3 de revisão, contando os parágrafos de cada grupo. A tabela de
+chaves tem uma linha por referência conferida (226).

@@ -1,0 +1,11 @@
+
+/* item de legenda não escolhido: o texto fica em cinza médio (legível no impresso); só a marca apaga */
+.gm-leg-item.rep-leg.apagado { opacity: 1; color: #5f5f5a;
+}
+.gm-leg-item.rep-leg.apagado .gm-q { opacity: 0.35;
+}
+
+.tres-leituras[data-v-38fe1054] { margin: 0 0 10px; padding-left: 20px;
+}
+.tres-leituras li[data-v-38fe1054] { margin: 0 0 5px;
+}

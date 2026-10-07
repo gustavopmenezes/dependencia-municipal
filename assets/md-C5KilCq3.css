@@ -1,0 +1,98 @@
+
+.esc-cid[data-v-44052356] { display: flex; flex-direction: column; gap: 6px; min-height: 0;
+}
+.esc-cid-topo[data-v-44052356] { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 6px 14px;
+}
+.esc-cid-seg[data-v-44052356] { display: inline-flex; border: 1px solid var(--cinza2); border-radius: 999px; overflow: hidden; background: var(--papel);
+}
+.esc-cid-seg button[data-v-44052356] { font: inherit; font-size: 14px; font-weight: 600; color: var(--tinta2); background: transparent; border: 0; padding: 5px 13px; cursor: pointer; line-height: 1.15;
+}
+.esc-cid-seg button + button[data-v-44052356] { border-left: 1px solid var(--cinza2);
+}
+.esc-cid-seg button.ativo[data-v-44052356] { background: var(--tinta); color: #fff;
+}
+.esc-cid-seg button[data-v-44052356]:focus-visible { outline: 2px solid var(--tinta); outline-offset: -2px;
+}
+.esc-cid-legenda[data-v-44052356] { display: inline-flex; gap: 16px; font-size: 14px; color: var(--tinta2); white-space: nowrap;
+}
+.esc-cid-chave[data-v-44052356] { display: inline-block; width: 18px; height: 10px; margin-right: 6px; border-radius: 2px;
+}
+.esc-cid-grade[data-v-44052356] { display: flex; flex-direction: column;
+}
+.esc-cid-cabeca[data-v-44052356], .esc-cid-linha[data-v-44052356], .esc-cid-eixo[data-v-44052356], .esc-cid-nome-do-eixo[data-v-44052356] { display: grid; grid-template-columns: 236px minmax(0, 1fr) 64px; column-gap: 10px; align-items: center;
+}
+.esc-cid-cabeca[data-v-44052356] { grid-template-columns: minmax(0, 1fr) 64px; padding: 4px 0 3px; border-bottom: 1px solid var(--cinza2); margin-bottom: 2px;
+}
+.esc-cid-cabeca-2[data-v-44052356] { margin-top: 8px;
+}
+.esc-cid-grupo[data-v-44052356] { font-size: 15px; font-weight: 700; color: var(--tinta); line-height: 1.25;
+}
+.esc-cid-de[data-v-44052356] { font-weight: 400; font-size: 13.5px; color: var(--tinta2); margin-left: 6px; white-space: nowrap;
+}
+.esc-cid-col-beta[data-v-44052356] { font-size: 13px; font-weight: 600; color: var(--tinta2); text-align: right;
+}
+.esc-cid-linha[data-v-44052356] { height: 23px;
+}
+.esc-cid-linha-estudo[data-v-44052356] { height: 34px;
+}
+.esc-cid-nome[data-v-44052356] { font-size: 14.5px; line-height: 1.15; color: var(--tinta); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.esc-cid-onde[data-v-44052356] { font-size: 13px; color: var(--mudo); margin-left: 3px;
+}
+.esc-cid-linha-estudo .esc-cid-nome[data-v-44052356] { font-weight: 600;
+}
+.esc-cid-pistas[data-v-44052356] { display: flex; flex-direction: column; justify-content: center; gap: 2px; height: 100%; min-width: 0;
+}
+.esc-cid-pista[data-v-44052356] { position: relative; display: block; height: 15px; min-width: 0;
+}
+.esc-cid-linha-estudo .esc-cid-pista[data-v-44052356] { height: 19px;
+}
+.esc-cid-linha-dupla .esc-cid-pista[data-v-44052356] { height: 15px;
+}
+.esc-cid-zero[data-v-44052356] { position: absolute; top: -4px; bottom: -4px; width: 1.5px; margin-left: -0.75px; background: var(--tinta);
+}
+.esc-cid-linha-dupla .esc-cid-zero[data-v-44052356] { top: -1px; bottom: -1px;
+}
+.esc-cid-barra[data-v-44052356] { position: absolute; top: 1px; bottom: 1px; border-radius: 1.5px; background: var(--cinza2); transition: left 0.45s ease, width 0.45s ease;
+}
+.esc-cid-sobe[data-v-44052356] { background: #008300;
+}
+.esc-cid-cai[data-v-44052356] { background: #e34948;
+}
+.esc-cid-valor[data-v-44052356] { position: absolute; top: 50%; transform: translateY(-50%); padding: 0 6px; font-size: 14px; font-weight: 700; line-height: 1; white-space: nowrap; font-variant-numeric: tabular-nums; color: var(--tinta2);
+}
+.esc-cid-linha-dupla .esc-cid-valor[data-v-44052356] { font-size: 13px;
+}
+.esc-cid-t-sobe[data-v-44052356] { color: #008300;
+}
+.esc-cid-t-cai[data-v-44052356] { color: #cf3a39;
+}
+.esc-cid-regiao[data-v-44052356] { position: absolute; top: 50%; transform: translateY(-50%); padding: 0 7px; font-size: 13px; line-height: 1; color: var(--tinta2); white-space: nowrap;
+}
+.esc-cid-beta[data-v-44052356] { display: flex; flex-direction: column; justify-content: center; gap: 2px; text-align: right; font-size: 14.5px; font-weight: 600; font-variant-numeric: tabular-nums; color: var(--tinta); line-height: 15px;
+}
+.esc-cid-linha-dupla .esc-cid-beta[data-v-44052356] { font-size: 13px;
+}
+.esc-cid-eixo[data-v-44052356] { margin-top: 3px; border-top: 0; height: 20px; align-items: start;
+}
+.esc-cid-marcas[data-v-44052356] { height: 20px; border-top: 1px solid var(--cinza2);
+}
+.esc-cid-marcas span[data-v-44052356] { position: absolute; top: 3px; transform: translateX(-50%); font-size: 13px; color: var(--tinta2); white-space: nowrap; font-variant-numeric: tabular-nums;
+}
+.esc-cid-marcas span[data-v-44052356]::before { content: ''; position: absolute; left: 50%; top: -4px; width: 1px; height: 4px; background: var(--cinza2);
+}
+.esc-cid-nome-do-eixo[data-v-44052356] { font-size: 13.5px; color: var(--tinta2); text-align: center; line-height: 1.2;
+}
+html.sem-animacao .esc-cid-barra[data-v-44052356] { transition: none;
+}
+
+.escala-rotulo[data-v-e11401d1] { display: block; font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--mudo); margin-bottom: 2px;
+}
+.escala-posicao[data-v-e11401d1], .escala-dados[data-v-e11401d1] { font-size: 15px; line-height: 1.38; color: var(--tinta2);
+}
+.escala-posicao[data-v-e11401d1] { background: var(--papel); border: 1px solid var(--cinza2); border-radius: var(--raio); padding: 11px 15px 12px;
+}
+.escala-dados[data-v-e11401d1] { margin-top: 11px; padding-top: 9px; border-top: 1px solid var(--fio);
+}
+.escala-posicao b[data-v-e11401d1], .escala-dados b[data-v-e11401d1] { color: var(--tinta); font-weight: 700; white-space: nowrap;
+}
