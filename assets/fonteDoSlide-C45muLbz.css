@@ -1,0 +1,20 @@
+
+.nota-ast[data-v-b9cd3b59] { color: var(--tinta2);
+}
+.nota-ast-vazia[data-v-b9cd3b59] { display: none;
+}
+
+.fonte-texto-link { color: inherit; text-decoration: underline; text-decoration-color: var(--cinza2); text-underline-offset: 2px;
+}
+.fonte-texto-link:hover { text-decoration-color: currentColor;
+}
+
+/* no título a bandeira fica um pouco menor que a letra e o nome guarda o peso do título */
+.titulo-slide[data-v-d3cecb93] .titulo-slide-uf .uf-selo-bandeira {
+  width: 0.8em;
+  height: 0.8em;
+  vertical-align: -0.04em;
+  margin-right: 0.2em;
+}
+.titulo-slide[data-v-d3cecb93] .titulo-slide-uf .uf-selo-sigla { font-weight: inherit;
+}

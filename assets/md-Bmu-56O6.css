@@ -1,0 +1,15 @@
+
+.discurso-blocos[data-v-f4980d89] { display: grid; gap: 18px; font-size: 18px; line-height: 1.4;
+}
+.discurso-rotulo[data-v-f4980d89] { font-size: 13px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--mudo); margin-bottom: 3px;
+}
+.discurso-confronto[data-v-f4980d89] { border-top: 1px solid var(--tinta2); padding-top: 12px;
+}
+.discurso-video[data-v-f4980d89] { display: flex; flex-direction: column; align-items: center; gap: 8px;
+}
+.discurso-quadro[data-v-f4980d89] { width: 250px;
+}
+.discurso-blocos > div[data-v-f4980d89] { text-wrap: pretty;
+}
+.discurso-legenda[data-v-f4980d89] { font-size: 13px; line-height: 1.35; color: var(--tinta2); max-width: 300px; text-align: center;
+}

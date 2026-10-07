@@ -1,0 +1,1 @@
+import{B as e,E as t,b as n}from"./modules/shiki-BXSdFfIy.js";import{st as r,xt as i}from"./index-C_cHrteH.js";var a={class:`ast`,"data-termo-gloss":`asterisco`},o=i(t({__name:`Ast`,setup(t){let{$slidev:i,$nav:o,$clicksContext:s,$clicks:c,$page:l,$renderContext:u,$frontmatter:d}=r();return(t,r)=>(e(),n(`span`,a,`*`))}}),[[`__scopeId`,`data-v-e8deb54b`]]);export{o as t};

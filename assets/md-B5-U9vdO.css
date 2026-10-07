@@ -1,0 +1,13 @@
+
+.ia-duas[data-v-f0426366] { display: grid; grid-template-columns: 1.3fr 1fr; gap: 48px; font-size: 23px; line-height: 1.42;
+}
+.ia-duas p[data-v-f0426366] { margin: 0 0 10px;
+}
+.ia-rotulo[data-v-f0426366] { font-size: 14px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--mudo); margin-bottom: 8px;
+}
+.ia-ressalva[data-v-f0426366] { font-size: 19.5px; color: var(--tinta2);
+}
+.ia-riscos[data-v-f0426366] { margin-top: 30px; padding-top: 20px; border-top: 1px solid var(--tinta2);
+}
+.ia-riscos-grade[data-v-f0426366] { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 26px; font-size: 20.5px; line-height: 1.42;
+}

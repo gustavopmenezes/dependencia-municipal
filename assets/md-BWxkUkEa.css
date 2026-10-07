@@ -1,0 +1,18 @@
+
+.composicao-segmento[data-v-af51830b] { transform-box: view-box;
+}
+.composicao-segmento-suave[data-v-af51830b] { transition: transform 0.35s ease, fill 0.35s ease;
+}
+.composicao-legenda-classe[data-v-af51830b] { white-space: normal;
+}
+.composicao-quebra[data-v-af51830b] { flex-basis: 100%; height: 0;
+}
+.composicao-cabecalho[data-v-af51830b] { font-size: 13px; fill: var(--tinta2);
+}
+.composicao-contagem[data-v-af51830b] { font-size: 13px; fill: var(--tinta); font-variant-numeric: tabular-nums;
+}
+.gm-area svg text.composicao-numero-fonte[data-v-af51830b] { font-size: 13px; font-weight: 700; fill: var(--tinta);
+}
+
+.par-marca[data-v-068ced0e] { white-space: nowrap;
+}

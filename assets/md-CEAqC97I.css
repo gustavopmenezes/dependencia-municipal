@@ -1,0 +1,31 @@
+
+.verba-posicao[data-v-bd36f2fb] { display: grid; grid-template-columns: 410px minmax(0, 1fr); column-gap: 44px; align-items: start; margin-top: 12px;
+}
+.verba-posicao-autor[data-v-bd36f2fb] { position: relative; background: var(--papel); border: 1px solid var(--cinza2); border-radius: var(--raio); padding: 18px 22px 16px; font-size: 17px; line-height: 1.42; color: var(--tinta2);
+}
+.verba-posicao-autor[data-v-bd36f2fb]::after { content: ''; position: absolute; right: -9px; top: 46px; width: 16px; height: 16px; background: var(--papel); border-right: 1px solid var(--cinza2); border-top: 1px solid var(--cinza2); transform: rotate(45deg);
+}
+.verba-posicao-rotulo[data-v-bd36f2fb] { display: block; font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--mudo); margin-bottom: 6px;
+}
+.verba-posicao-autor p[data-v-bd36f2fb] { margin: 0 0 11px;
+}
+.verba-posicao-autor strong[data-v-bd36f2fb] { color: var(--tinta);
+}
+.verba-posicao-autor p.verba-posicao-vies[data-v-bd36f2fb] { margin: 0; padding-top: 11px; border-top: 1px solid var(--fio); color: var(--tinta); font-weight: 600;
+}
+.verba-posicao-critica[data-v-bd36f2fb] { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); column-gap: 36px; row-gap: 14px;
+}
+.verba-posicao-bloco[data-v-bd36f2fb] { border-top: 2px solid var(--tinta); padding-top: 12px; font-size: 18px; line-height: 1.42; color: var(--tinta2);
+}
+.verba-posicao-bloco h3[data-v-bd36f2fb] { font-family: var(--serifa); font-size: 23px; font-weight: 600; line-height: 1.2; margin: 0 0 12px; color: var(--tinta);
+}
+.verba-posicao-bloco p[data-v-bd36f2fb] { margin: 0 0 13px;
+}
+.verba-posicao-bloco p[data-v-bd36f2fb]:last-child { margin-bottom: 0;
+}
+.verba-posicao-bloco strong[data-v-bd36f2fb] { color: var(--tinta);
+}
+.verba-posicao-bloco p.verba-posicao-resposta[data-v-bd36f2fb] { font-family: var(--serifa); font-size: 25px; line-height: 1.24; color: var(--tinta); margin-bottom: 15px;
+}
+.verba-posicao-sobe[data-v-bd36f2fb] { color: #008300; font-weight: 600; white-space: nowrap;
+}

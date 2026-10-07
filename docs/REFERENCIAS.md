@@ -2,11 +2,13 @@
 
 Lista única das referências do estudo, montada em 6 out. 2026 a partir das seções de referências e das fichas de `docs/pesquisa/*.md`, de `fontes/INDICE.md` e da seção "Fontes" de `docs/METODO.md`. Critério: nos grupos de "Dados" a "Imprensa, vídeos e redes" só entra o que foi aberto e conferido na fonte durante a pesquisa, ou o que é fonte primária de dado usado no cálculo. O que os arquivos de pesquisa marcam como "de memória", "não conferido", "não aberto", "em revisão" ou incompleto fica no grupo "Citadas mas não conferidas" e não entra em entrega enquanto a pendência indicada não for resolvida. As referências seguem a ABNT NBR 6023:2018, em ordem alfabética dentro de cada grupo. A data de acesso é a registrada no arquivo de pesquisa (5 out. 2026 na primeira montagem; 6 out. 2026 no que entrou ou foi corrigido na rodada 2 da revisão, a partir de `docs/pesquisa/pesquisa-profunda-gemini.md`, `pesquisa-profunda-chatgpt.md`, `fatos-rodada-3.md` e `glossario-receitas.md`; os arquivos de `fontes/arquivos/` foram baixados em 5 e 6 out. 2026). Onde só a referência bibliográfica ou só o resumo foi conferido, a entrada diz isso entre colchetes, e número nenhum dessa obra entra em entrega sem a marca do arquivo de pesquisa. Onde falta um elemento, a referência traz o que há e termina com "[dado incompleto: falta X]"; nenhum dado bibliográfico foi completado de memória. Em periódico estrangeiro sem local registrado na pesquisa usa-se [*S. l.*].
 
-Total: 226 referências conferidas (20 de dados, 45 de normas e decisões, 64 de livros, artigos e textos para discussão, 30 de notas técnicas e documentos de entidades, 67 de imprensa, vídeos e redes) e 77 itens citados mas não conferidos (linhas do grupo, algumas com mais de um documento). Antes da rodada 3 de revisão eram 217 e 78; antes da camada 2 da rodada 5, 171 e 77. Na montagem de 5 out. 2026 eram 108 e 72 (o texto dizia 107; os parágrafos somavam 108); a rodada 2 da revisão acrescentou 63 conferidas, corrigiu seis (Brollo *et al.*, Corbi, Papaioannou e Surico, Samuels e Snyder, Tomio, a Lei Complementar nº 198 e a matéria da Agência Senado de 15 jan. 2026) e passou seis linhas das não conferidas para as conferidas.
+Total: 232 referências conferidas (20 de dados, 46 de normas e decisões, 69 de livros, artigos e textos para discussão, 30 de notas técnicas e documentos de entidades, 67 de imprensa, vídeos e redes) e 77 itens citados mas não conferidos (linhas do grupo, algumas com mais de um documento). Antes da conferência das fontes de centralização, na noite de 6 out. 2026, eram 226 e 77; antes da rodada 3 de revisão, 217 e 78; antes da camada 2 da rodada 5, 171 e 77. Na montagem de 5 out. 2026 eram 108 e 72 (o texto dizia 107; os parágrafos somavam 108); a rodada 2 da revisão acrescentou 63 conferidas, corrigiu seis (Brollo *et al.*, Corbi, Papaioannou e Surico, Samuels e Snyder, Tomio, a Lei Complementar nº 198 e a matéria da Agência Senado de 15 jan. 2026) e passou seis linhas das não conferidas para as conferidas.
 
 A camada 2 da rodada 5 (6 out. 2026) acrescentou 46 conferidas: as fontes novas dos slides e do e-book, listadas em `revisao/claude/camada2-fontes-novas.json`. Autor, título e data das notícias foram lidos na página em 6 out. 2026. A matéria da Agência Brasil de 16 ago. 2024, que estava pelo título, passou a entrar pelo autor (RICHTER, 2024c). As páginas do Planalto não abriram nessa data (conexão recusada): a Emenda Constitucional nº 128, a Lei Complementar nº 173 e a Lei nº 14.041 entram com número e data, e a descrição depois da editora vem dos arquivos de pesquisa, não da ementa lida. Quatro obras foram lidas só por resumo automático da página (Arretche, 2013; Costa e Benvindo, 2013; Dantas, 2020; Godoy e Tranjan, 2023), e a entrada diz. O e-book cita (RICHTER, 2026) para a matéria que aqui é (RICHTER, 2026a), e (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, 2025) para a que aqui é 2025a, porque esta lista tem mais uma obra do mesmo autor e ano. A nota informativa do Senado recebeu a chave (BRASIL, 2025b); (BRASIL, 2025) segue sendo o Projeto de Lei Complementar nº 177. As fotografias e pinturas das aberturas de seção têm crédito em `fontes/imagens/CREDITOS.md` e não entram nesta lista.
 
 A rodada 3 de revisão (6 out. 2026) acrescentou nove conferidas, abertas em `docs/pesquisa/r6-fontes-fatos.md` e `r6-fontes-literatura.md` ou na auditoria do GPT: a decisão de 9 set. 2026 na ADPF 854 (BRASIL, 2026k), lida na cópia hospedada pelo Consultor Jurídico; a Nota Técnica Conjunta nº 5/2025 (BRASIL, 2025c); Arcaute *et al.* (2015), que saiu das não conferidas; Contel (2014), lido por leitor automático; Madison (1787); Montesquieu (edição de 1892); Fernandes (2019); Kaucz (2026); e Mali (2019). Leitão *et al.* (2016) e o vídeo da Gazeta do Povo tiveram a ficha conferida de novo. Stasavage (2020), Dahl e Tufte (1973) e as duas notícias do UOL de novembro de 2019 não entram: os dois livros não foram abertos e as notícias não abriram.
+
+A conferência das fontes sobre país grande, centralização e Judiciário (6 out. 2026, à noite; `docs/pesquisa/r6-fontes-centralizacao.md`) acrescentou seis conferidas, todas abertas no original: Stasavage (2010); Oliveira, F. (2016), de onde vêm os 61% e a taxa de 45% contra 11%; Oliveira, V. (2009); Couto e Absher-Bellon (2018); Arguelhes e Ribeiro (2018); e o Decreto nº 67.647, de 1970, lido por leitor automático na página da Câmara dos Deputados (`r6-fontes-literatura.md`, item 10). Com duas autoras de sobrenome Oliveira, a chamada leva a inicial; no e-book só entra a de 2016, sem inicial. A mesma conferência corrigiu quatro fichas: Costa e Benvindo (relatório de pesquisa da UnB, de 2013, publicado em Arcos em 2020) e Dantas (número do artigo, e1964), que deixam de estar marcados como lidos por resumo; Hooghe e Marks (subtítulo, colaboradores e ISBN); e Pickard (DOI). Arretche (2013) e Godoy e Tranjan (2023) seguem lidos por resumo automático.
 
 ## Dados
 
@@ -75,6 +77,8 @@ BRASIL. [Constituição (1988)]. **Emenda Constitucional nº 126, de 21 de dezem
 BRASIL. [Constituição (1988)]. **Emenda Constitucional nº 128, de 22 de dezembro de 2022**. Brasília, DF: Presidência da República, 2022. Acrescenta o § 7º ao art. 167 da Constituição Federal. Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc128.htm. Acesso em: 6 out. 2026.
 
 BRASIL. [Constituição (1988)]. **Emenda Constitucional nº 132, de 2023**. Brasília, DF: Presidência da República, 2023. Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm. Acesso em: 5 out. 2026. [dado incompleto: falta dia e mês da emenda e a ementa]
+
+BRASIL. Decreto nº 67.647, de 23 de novembro de 1970. Estabelece nova Divisão Regional do Brasil para fins estatísticos. **Diário Oficial da União**: seção 1, Brasília, DF, p. 9987, 24 nov. 1970. Disponível em: https://www2.camara.leg.br/legin/fed/decret/1970-1979/decreto-67647-23-novembro-1970-409148-publicacaooriginal-1-pe.html. Acesso em: 6 out. 2026.
 
 BRASIL. **Decreto-Lei nº 1.881, de 1981**. Brasília, DF: Presidência da República, 1981. Disponível em: https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del1881.htm. Acesso em: 5 out. 2026. [dado incompleto: falta dia e mês do decreto-lei e a ementa]
 
@@ -152,6 +156,8 @@ AMARAL, Silvâni Maria Sehnem do; BLATT, Carine Raquel. Consórcio intermunicipa
 
 ARCAUTE, Elsa; HATNA, Erez; FERGUSON, Peter; YOUN, Hyejin; JOHANSSON, Anders; BATTY, Michael. Constructing cities, deconstructing scaling laws. **Journal of the Royal Society Interface**, [*s. l.*], v. 12, n. 102, 2015. DOI: 10.1098/rsif.2014.0745. Versão consultada: texto integral no Europe PMC (PMC4277074) e arXiv:1301.1674. Disponível em: https://arxiv.org/abs/1301.1674. Acesso em: 6 out. 2026.
 
+ARGUELHES, Diego Werneck; RIBEIRO, Leandro Molhano. Ministrocracia: o Supremo Tribunal individual e o processo democrático brasileiro. **Novos Estudos CEBRAP**, São Paulo, v. 37, n. 1, p. 13-32, jan./abr. 2018. DOI: 10.25091/S01013300201800010003. Disponível em: https://www.scielo.br/j/nec/a/GsYDWpRwSKzRGsyVY9zPSCP/?lang=pt. Acesso em: 6 out. 2026.
+
 ARRETCHE, Marta. Federalismo e igualdade territorial: uma contradição em termos? **Dados**, Rio de Janeiro, v. 53, n. 3, p. 587-620, 2010. DOI: 10.1590/S0011-52582010000300003. Disponível em: https://doi.org/10.1590/S0011-52582010000300003. Acesso em: 5 out. 2026.
 
 ARRETCHE, Marta. Quando instituições federativas fortalecem o governo central? **Novos Estudos CEBRAP**, São Paulo, n. 95, p. 37-53, mar. 2013. DOI: 10.1590/S0101-33002013000100003. Disponível em: https://www.scielo.br/j/nec/a/GJnGZZNXJ8cTyRHTkcgtCqc/?lang=pt. Acesso em: 6 out. 2026. [lido por resumo automático da página]
@@ -192,9 +198,11 @@ CONTEL, Fabio Betioli. As divisões regionais do IBGE no século XX (1942, 1970 
 
 CORBI, Raphael; PAPAIOANNOU, Elias; SURICO, Paolo. Regional transfer multipliers. **The Review of Economic Studies**, [*s. l.*], v. 86, n. 5, p. 1901-1934, 2019. DOI: 10.1093/restud/rdy069. Disponível em: https://lbsresearch.london.edu/id/eprint/1037/9/Regional_Transfer_Multipliers_Rev_Econ_Stud_2019_86.pdf. Acesso em: 6 out. 2026.
 
-COSTA, Alexandre Araújo; BENVINDO, Juliano Zaiden. **A quem interessa o controle concentrado de constitucionalidade?** O descompasso entre teoria e prática na defesa dos direitos fundamentais. [*S. l.*]: Arcos, 2013. Disponível em: https://arcos.org.br/a-quem-interessa-o-controle-concentrado-de-constitucionalidade/. Acesso em: 6 out. 2026. Lido por resumo automático da página.
+COSTA, Alexandre Araújo; BENVINDO, Juliano Zaiden. **A quem interessa o controle concentrado de constitucionalidade?** O descompasso entre teoria e prática na defesa dos direitos fundamentais. Relatório de pesquisa (CNPq, 2011-2013). Brasília: Universidade de Brasília, 2013. Publicado em Arcos em 2020. Disponível em: https://arcos.org.br/a-quem-interessa-o-controle-concentrado-de-constitucionalidade/. Acesso em: 6 out. 2026. [conferido no texto da página em 6 out. 2026, em `docs/pesquisa/r6-fontes-centralizacao.md`]
 
-DANTAS, Andrea de Quadros. O STF como árbitro da federação: uma análise empírica dos conflitos federativos em sede de ACO. **Revista Direito GV**, São Paulo, v. 16, n. 2, 2020. DOI: 10.1590/2317-6172201964. Disponível em: https://scielo.br/j/rdgv/a/vjcH8FNWDYMRRWcQRHKC6JJ/?lang=pt. Acesso em: 6 out. 2026. Lido por resumo automático da página.
+COUTO, Cláudio Gonçalves; ABSHER-BELLON, Gabriel Luan. Imitação ou coerção? Constituições estaduais e centralização federativa no Brasil. **Revista de Administração Pública**, Rio de Janeiro, v. 52, n. 2, p. 321-344, mar./abr. 2018. DOI: 10.1590/0034-761220170061. Disponível em: https://www.scielo.br/j/rap/a/B349z6yPjNSrShWfgtXyVmD/?lang=pt. Acesso em: 6 out. 2026.
+
+DANTAS, Andrea de Quadros. O STF como árbitro da federação: uma análise empírica dos conflitos federativos em sede de ACO. **Revista Direito GV**, São Paulo, v. 16, n. 2, e1964, 2020. DOI: 10.1590/2317-6172201964. Disponível em: https://scielo.br/j/rdgv/a/vjcH8FNWDYMRRWcQRHKC6JJ/?lang=pt. Acesso em: 6 out. 2026. [conferido no texto da página em 6 out. 2026, em `docs/pesquisa/r6-fontes-centralizacao.md`]
 
 DANTAS JUNIOR, Amarando Francisco; DINIZ, Josedilton Alves. Arranjos federativos e federalismo fiscal: uma proposta de fusão municipal no Brasil. **Cadernos Gestão Pública e Cidadania**, São Paulo, v. 30, e92857, 2025. DOI: 10.12660/cgpc.v30.92857. Disponível em: https://periodicos.fgv.br/cgpc/article/view/92857. Acesso em: 5 out. 2026.
 
@@ -214,7 +222,7 @@ HANSSON, Gustav; OLSSON, Ola. **Country size and the rule of law**: resuscitatin
 
 HIROI, Taeko. Paradox of redistribution: legislative overrepresentation and regional development in Brazil. **Publius: The Journal of Federalism**, [*s. l.*], v. 49, n. 4, p. 642-670, 2019. DOI: 10.1093/publius/pjy043. Disponível em: https://doi.org/10.1093/publius/pjy043. Acesso em: 5 out. 2026.
 
-HOOGHE, Liesbet; MARKS, Gary. **Community, scale, and regional governance**. Oxford: Oxford University Press, 2016. Versão consultada: prova de revisão. Disponível em: https://hooghe.web.unc.edu/wp-content/uploads/sites/11492/2021/02/Hooghe-Marks_2016_Community-Scale-and-Regional-Governance.pdf. Acesso em: 6 out. 2026.
+HOOGHE, Liesbet; MARKS, Gary. **Community, scale, and regional governance**: a postfunctionalist theory of governance, volume II. Com Arjan H. Schakel, Sara Niedzwiecki, Sandra Chapman Osterkatz e Sarah Shair-Rosenfield. Oxford: Oxford University Press, 2016. ISBN 978-0-19-876697-1. Versão consultada: prova de revisão de jul. 2016. Disponível em: https://hooghe.web.unc.edu/wp-content/uploads/sites/11492/2021/02/Hooghe-Marks_2016_Community-Scale-and-Regional-Governance.pdf. Acesso em: 6 out. 2026.
 
 LEITÃO, J. C.; MIOTTO, J. M.; GERLACH, M.; ALTMANN, E. G. Is this scaling nonlinear? **Royal Society Open Science**, London, v. 3, n. 7, 150649, 2016. DOI: 10.1098/rsos.150649. Versão consultada: texto integral no Europe PMC (PMC4968456) e arXiv:1604.02872. Disponível em: https://arxiv.org/abs/1604.02872. Acesso em: 6 out. 2026.
 
@@ -240,9 +248,13 @@ NZOBONIMPA, Stany; SAVARD, Jean-François; LAWARÉE, Justin. Generative AI in pu
 
 OLIVEIRA, Débora Tazinasso de; OLIVEIRA, Antonio Gonçalves de. (In)sustentabilidade financeira municipal: a frágil metodologia proposta pela PEC do Pacto Federativo. **Revista de Administração Pública**, Rio de Janeiro, v. 57, n. 5, e2023-0012, 2023. DOI: 10.1590/0034-761220230012. Disponível em: https://www.scielo.br/j/rap/a/qC49PCkNPfLKqGxsVS4JmkR/?lang=pt. Acesso em: 5 out. 2026.
 
+OLIVEIRA, Fabiana Luci. Agenda suprema: interesses em disputa no controle de constitucionalidade das leis no Brasil. **Tempo Social**, São Paulo, v. 28, n. 1, p. 105-133, abr. 2016. DOI: 10.11606/0103-2070.ts.2016.106021. Disponível em: https://doi.org/10.11606/0103-2070.ts.2016.106021. Acesso em: 6 out. 2026.
+
+OLIVEIRA, Vanessa Elias de. Poder Judiciário: árbitro dos conflitos constitucionais entre estados e União. **Lua Nova**, São Paulo, n. 78, p. 223-250, 2009. DOI: 10.1590/S0102-64452009000300011. Disponível em: https://www.scielo.br/j/ln/a/CjPhvXgGpjNSGcRvLRshYMM/?lang=pt. Acesso em: 6 out. 2026.
+
 PERES, Ursula Dias. Governança do orçamento de São Paulo revisitada pós 2014: da escassez à sobra de recursos. **Estudos Avançados**, São Paulo, v. 38, n. 111, p. 7-29, maio/ago. 2024. DOI: 10.1590/s0103-4014.202438111.002. Disponível em: https://www.scielo.br/j/ea/a/VYtmwZ6zyHVjPDgMDV5W34B/?lang=pt. Acesso em: 5 out. 2026.
 
-PICKARD, Harry. Explaining fiscal decentralization and the role of ethnic diversity. **Scottish Journal of Political Economy**, [*s. l.*], v. 67, n. 5, p. 469-485, 2020. Disponível em: https://eprints.whiterose.ac.uk/id/eprint/159160/15/sjpe.12246.pdf. Acesso em: 6 out. 2026.
+PICKARD, Harry. Explaining fiscal decentralization and the role of ethnic diversity. **Scottish Journal of Political Economy**, [*s. l.*], v. 67, n. 5, p. 469-485, 2020. DOI: 10.1111/sjpe.12246. Disponível em: https://eprints.whiterose.ac.uk/id/eprint/159160/15/sjpe.12246.pdf. Acesso em: 6 out. 2026.
 
 POPELIER, P.; BIELEN, S. How courts decide federalism disputes. **Publius: The Journal of Federalism**, [*s. l.*], 2018. Versão consultada: cópia em PDF. Disponível em: https://fiscalfederalism.eu/wp-content/uploads/2020/05/BE-Lit-2018-Popelier-Bielen-How-Courts-Decide-Federalism-Disputes-1.pdf. Acesso em: 6 out. 2026. [dado incompleto: faltam volume, número e páginas]
 
@@ -259,6 +271,8 @@ SIQUEIRA, Claudia Gomes de. **Emancipação municipal pós Constituição de 198
 SNYDER, Richard; SAMUELS, David. Devaluing the vote in Latin America. **Journal of Democracy**, [*s. l.*], v. 12, n. 1, p. 146-159, 2001. DOI: 10.1353/jod.2001.0016. Disponível em: https://doi.org/10.1353/jod.2001.0016. Acesso em: 5 out. 2026.
 
 SOARES, Márcia Miranda; LOURENÇO, Luiz Cláudio. A representação política dos estados na federação brasileira. **Revista Brasileira de Ciências Sociais**, São Paulo, v. 19, n. 56, p. 113-127, 2004. DOI: 10.1590/S0102-69092004000300008. Disponível em: https://doi.org/10.1590/S0102-69092004000300008. Acesso em: 5 out. 2026.
+
+STASAVAGE, David. When distance mattered: geographic scale and the development of European representative assemblies. **American Political Science Review**, [*s. l.*], v. 104, n. 4, p. 625-643, nov. 2010. DOI: 10.1017/S0003055410000444. Disponível em: https://stasavage.com/research/. Acesso em: 6 out. 2026.
 
 STEPAN, Alfred. Federalism and democracy: beyond the U.S. model. **Journal of Democracy**, [*s. l.*], v. 10, n. 4, p. 19-34, 1999a. DOI: 10.1353/jod.1999.0072. Disponível em: https://doi.org/10.1353/jod.1999.0072. Acesso em: 5 out. 2026.
 
@@ -612,6 +626,7 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (AMORIM, 2026) | AMORIM | Imprensa |
 | (APÓS..., 2019) | APÓS | Imprensa |
 | (ARCAUTE *et al.*, 2015) | ARCAUTE | Livros e artigos |
+| (ARGUELHES; RIBEIRO, 2018) | ARGUELHES | Livros e artigos |
 | (ARRETCHE, 2010) | ARRETCHE | Livros e artigos |
 | (ARRETCHE, 2013) | ARRETCHE | Livros e artigos |
 | (ARRETCHE; RODDEN, 2004) | ARRETCHE | Livros e artigos |
@@ -635,6 +650,7 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (BONILHA, 2020) | BONILHA | Imprensa |
 | (BRANDT, 2008) | BRANDT (Impacto da criação) | Livros e artigos |
 | (BRANDT, 2010) | BRANDT (A criação de municípios) | Livros e artigos |
+| (BRASIL, 1970) | BRASIL. Decreto nº 67.647 | Normas |
 | (BRASIL, 1981) | BRASIL. Decreto-Lei nº 1.881 | Normas |
 | (BRASIL, 1990a) | BRASIL. Lei Complementar nº 63 | Normas |
 | (BRASIL, 1990b) | BRASIL. Lei nº 8.142 | Normas |
@@ -705,6 +721,7 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (CONTEL, 2014) | CONTEL | Livros e artigos |
 | (CORBI; PAPAIOANNOU; SURICO, 2019) | CORBI | Livros e artigos |
 | (COSTA; BENVINDO, 2013) | COSTA | Livros e artigos |
+| (COUTO; ABSHER-BELLON, 2018) | COUTO | Livros e artigos |
 | (CRUZ, 2026) | CRUZ | Imprensa |
 | (DANTAS, 2020) | DANTAS | Livros e artigos |
 | (DANTAS JUNIOR; DINIZ, 2025) | DANTAS JUNIOR | Livros e artigos |
@@ -778,6 +795,8 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (NZOBONIMPA; SAVARD; LAWARÉE, 2026) | NZOBONIMPA | Livros e artigos |
 | (OCDE; CGLU, 2022a) | OCDE (2022 synthesis report) | Notas técnicas |
 | (OCDE; CGLU, 2022b) | OCDE (Brazil: country and territory profiles) | Notas técnicas |
+| (OLIVEIRA, F., 2016) | OLIVEIRA, Fabiana Luci | Livros e artigos |
+| (OLIVEIRA, V., 2009) | OLIVEIRA, Vanessa Elias de | Livros e artigos |
 | (OLIVEIRA; OLIVEIRA, 2023) | OLIVEIRA | Livros e artigos |
 | (OLIVON, 2026) | OLIVON | Imprensa |
 | (ORÇAMENTO..., 2026) | ORÇAMENTO | Imprensa |
@@ -813,6 +832,7 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (SIQUEIRA, 2008) | SIQUEIRA (Campinas, seus distritos) | Livros e artigos |
 | (SNYDER; SAMUELS, 2001) | SNYDER | Livros e artigos |
 | (SOARES; LOURENÇO, 2004) | SOARES | Livros e artigos |
+| (STASAVAGE, 2010) | STASAVAGE | Livros e artigos |
 | (STEPAN, 1999a) | STEPAN (Federalism and democracy) | Livros e artigos |
 | (STEPAN, 1999b) | STEPAN (Para uma nova análise) | Livros e artigos |
 | (STF..., 2022) | STF invalida forma de cálculo | Imprensa |
@@ -832,12 +852,12 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | Grupo | Referências |
 |---|---|
 | Dados | 20 |
-| Normas e decisões | 45 |
-| Livros, artigos e textos para discussão | 64 |
+| Normas e decisões | 46 |
+| Livros, artigos e textos para discussão | 69 |
 | Notas técnicas, relatórios e documentos de entidades | 30 |
 | Imprensa, vídeos e redes | 67 |
-| Total conferido | 226 |
+| Total conferido | 232 |
 | Citadas mas não conferidas (linhas) | 77 |
 
-Contagem refeita em 6 out. 2026, depois da rodada 3 de revisão, contando os parágrafos de cada grupo. A tabela de
-chaves tem uma linha por referência conferida (226).
+Contagem refeita em 6 out. 2026, depois da conferência das fontes de centralização, contando os parágrafos de cada grupo. A tabela de
+chaves tem uma linha por referência conferida (232).

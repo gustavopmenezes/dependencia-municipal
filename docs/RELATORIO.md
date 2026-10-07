@@ -57,22 +57,25 @@ Tabela. A pergunta em quatro leituras
    mesmo nas duas regiões, 30%. A diferença está no FUNDEB (12% no Sudeste e 29% no Nordeste), na cota do ICMS
    e do IPVA (18% e 9%) e nos tributos próprios (13% e 7%). Até 5 mil habitantes, a receita externa é 91% e 94%.
 3. O FPM é a maior fonte de receita em **53%** das prefeituras paulistas e em **7%** das maranhenses. No
-   Maranhão, o FUNDEB lidera em 89%. Quem parece com o interior paulista é Minas Gerais, onde o FPM lidera em 82%
-   dos municípios, e também o Rio Grande do Norte, a Paraíba e o Piauí.
+   Maranhão, o FUNDEB lidera em 89%. Quem parece com o interior paulista nisso é Minas Gerais, onde o FPM lidera
+   em 82% dos municípios. E não é só Minas: o FPM lidera na maioria dos municípios de vários estados do Nordeste,
+   por exemplo o Rio Grande do Norte, a Paraíba, Pernambuco, Sergipe e o Piauí. A semelhança é a fonte que
+   lidera, e não a composição inteira da receita.
 4. Não existe corte de dependência, de 50% a 95%, em que a parcela de municípios dependentes se iguale entre São
-   Paulo e Maranhão. A igualdade só aparece quando a classe inclui todo mundo, e uma classe em que cabem todos
-   não separa ninguém.
+   Paulo e Maranhão. A igualdade só aparece nas classes triviais, a vazia e a que inclui todos os municípios, e
+   nenhuma das duas separa ninguém.
 5. Por município ou por morador, a conta muda. **54%** das prefeituras paulistas recebem mais de 80% da receita
    de fora, mas nelas moram **7,1%** dos paulistas. No Maranhão, 98% das prefeituras e 78,5% da população.
 6. Uma prefeitura paulista de até 5 mil habitantes gasta **R$&nbsp;1.764** por habitante com Câmara e administração,
    na mediana (média R$&nbsp;1.997 ± 955)\*. Uma de 20 a 50 mil gasta R$&nbsp;618 (média R$&nbsp;743 ± 541)\*. O desenho é compatível com custo fixo: o gasto por habitante cai depressa até perto de 20 mil
    habitantes e depois para de cair.
 7. **93%** dos municípios paulistas de até 5 mil habitantes põem no FUNDEB mais do que recebem dele.
-8. Há **546** municípios logo acima dos degraus de população do FPM e **189** logo abaixo, no Censo de 2022. O
-   estudo mede a concentração e não afirma a causa.
+8. Há **546** municípios logo acima dos degraus de população do FPM e **189** logo abaixo, no Censo de 2022. A
+   conta é do país inteiro, numa janela de 2% da população em volta de cada degrau. O estudo mede a concentração
+   e não afirma a causa.
 9. De 2002 a 2025 a dependência quase não saiu do lugar: de 89,1% para 86,3% no município paulista de até 20 mil
    habitantes, de 97,7% para 94,7% no maranhense. O que mudou foi a composição: o FPM caiu de 52% para 29% da
-   receita no Maranhão e ficou perto de 36% em São Paulo.
+   receita no Maranhão e de 37,5% para 35,5% em São Paulo.
 10. A emenda segue a cadeira, não o habitante. Pela regra, com os valores autorizados no orçamento de 2025, são
     cerca de **R$&nbsp;75** por habitante em São Paulo, R$&nbsp;207 no Maranhão e R$&nbsp;1.621 em Roraima. O Nordeste como bloco tem 1,09 vez o peso da sua população na
     Câmara. Quem tem cadeira a mais é o Norte de estados pequenos (1,48), e quem tem a menos é São Paulo, a quem
@@ -1178,9 +1181,11 @@ O **FPM** não tem região. As alíneas do artigo 159 que tratam dele não citam
 
 > **Posição do autor.** As regiões são um agrupamento do IBGE, feito para a estatística. Para o autor, não deveriam virar critério político nem fiscal. A regra deveria olhar o município, e não em qual das cinco regiões ele está.
 
+**O que o ato diz.** A divisão em cinco regiões que se usa hoje foi fixada por decreto em 1970 "para fins estatísticos", expressão que aparece na ementa e no artigo 1º, e cada região é uma lista de estados e territórios inteiros (BRASIL, 1970). Nisso o ato dá razão ao autor: a divisão segue as divisas dos estados e não foi criada para repartir dinheiro. O uso fiscal veio depois, na Constituição de 1988, com os fundos constitucionais de financiamento do Norte, do Nordeste e do Centro-Oeste (artigo 159, I, "c"). O texto do decreto foi lido na página da Câmara dos Deputados por leitor automático; as páginas do IBGE não abriram. Onde a história da divisão não dá razão a ele: a de 1942 partiu da região natural (relevo, hidrografia, clima e vegetação), escolhida por ser estável para comparar estatísticas, e a de 1970 partiu da organização da produção (CONTEL, 2014; artigo aberto por leitor automático, com as frases literais por conferir). As regiões nasceram, portanto, de critério geográfico e econômico. O autor tinha deixado a dúvida escrita: "não condizem nem com relevo (ou condizem)".
+
 **O que os dados dizem.** A posição tem apoio na regra principal. O FPM, o FUNDEB e a cota do ICMS não têm região. E, a tamanho igual, o repasse empata: até 5 mil habitantes, a mediana da receita externa é de **R$&nbsp;8,9 mil** por habitante no Sudeste (média R$&nbsp;9,6 mil ± 3,4 mil)\* e de **R$&nbsp;8,5 mil** no Nordeste (média R$&nbsp;9,0 mil ± 2,2 mil)\*.
 
-**Onde a posição não fecha.** A própria Constituição põe a redução da desigualdade regional entre os objetivos da República. E tirar a região da regra não tira a diferença do dado: a tamanho igual, o município do Nordeste depende **6,7 pontos** a mais que o do Sudeste, e os tributos próprios são 13% da receita no município médio do Sudeste e 7% no do Nordeste (seção 3). Um critério só por município, pela necessidade, mandaria mais por habitante para o Nordeste sem citar a região (seção 15.11).
+**Onde a posição não fecha.** A própria Constituição põe a redução da desigualdade regional entre os objetivos da República. E tirar a região da regra não tira a diferença do dado: a tamanho igual, o município do Nordeste depende **6,7 pontos** a mais que o do Sudeste, e os tributos próprios são 13% da receita no município médio do Sudeste e 7% no do Nordeste (seção 3). Um critério só por município, pela necessidade, mandaria mais por habitante para o Nordeste sem citar a região (seção 15.11). E a divisa de estado, que é a da região, não é a divisa do dado: nos municípios de até 20 mil habitantes, o norte de Minas Gerais tem o nível de dependência do interior da Bahia e a composição de receita de Minas (seção 22.3). É um argumento a favor de olhar o município, como o autor pede, e contra tratar a região como bloco.
 
 \* A mediana é o município do meio; a média pesa os extremos; o desvio diz quanto os municípios se espalham.
 
@@ -1439,7 +1444,7 @@ Nem a nota nem este estudo medem demanda: custo de um pacote padrão de serviço
 
 **O que os dados não sustentam.** Outras três. A direção da nota está certa e se repete em 2024. No município de até 5 mil habitantes a diferença é grande (58% acima das faixas de 10 a 50 mil habitantes, no Sudeste), e é a faixa em que São Paulo tem mais prefeituras. E este estudo, como a nota, não mede demanda: não pode afirmar que o pequeno recebe o que deveria.
 
-Tabela. Afirmações que circularam, o que a nota diz e o que este estudo encontra
+Tabela. Afirmações que circularam, o que a nota diz e o que este estudo encontra {quebra}
 
 | Afirmação que circulou | O que a nota diz de fato | O que este estudo encontra |
 |---|---|---|
@@ -1987,7 +1992,7 @@ município no Maranhão veio como 4 a 5 mil habitantes, quando as duas fontes do
 mesmo de São Paulo. Das duas pesquisas só entrou o que foi aberto na fonte.
 
 A conferência também corrigiu o autor. Ele lembrava o vídeo de 2019 como parte de um contexto anti-bolsonarista,
-e as fontes não sustentam isso para o jornal que o publicou (seção 16.11). Mais quatro correções vieram na rodada seguinte. O relatório de iniciação científica dele, de 2023, dizia que 89% dos municípios paulistas têm menos de 50 mil habitantes; a conta refeita dá **78,8%** (seção 1.1). A hipótese de que a dependência viria de receita não vinculada deu o contrário (seção 3.4). A leitura de que a disputa das emendas foi só troca de nome se sustenta pela metade (seção 14.5). E a ideia de que país grande tende a centralizar vai contra a literatura localizada (seção 21.6). As posições dele continuam no texto, em caixa própria, com a crítica logo depois.
+e as fontes não sustentam isso para o jornal que o publicou (seção 16.11). Mais quatro correções vieram na rodada seguinte. O relatório de iniciação científica dele, de 2023, dizia que 89% dos municípios paulistas têm menos de 50 mil habitantes; a conta refeita dá **78,8%** (seção 1.1). A hipótese de que a dependência viria de receita não vinculada deu o contrário (seção 3.4). A leitura de que a disputa das emendas foi só troca de nome se sustenta pela metade (seção 14.5). E a ideia de que país grande tende a centralizar vai contra as duas medidas de governo regional localizadas e tem apoio parcial em outras, de Estado de direito e de história (seção 21.6). As posições dele continuam no texto, em caixa própria, com a crítica logo depois.
 
 ### 20.3 O que isso permite afirmar
 
@@ -2077,24 +2082,35 @@ O autor escreveu, como reflexão, o que acha que trava a revisão do pacto feder
 
 **O que a literatura diz, no sentido contrário.**
 
-- País populoso tende a ter governos regionais mais fortes, e não mais fracos. Em 80 países, a correlação entre a população e a autoridade dos governos regionais é de **0,68**, em 2010 (HOOGHE; MARKS, 2016, p. 29 e 60-61 do arquivo consultado). O índice mede estados e províncias; não mede municípios. E os autores testam a própria teoria com o próprio índice.
-- País extenso tende a dar mais autonomia tributária e de endividamento aos governos regionais: em 78 países, a área tem efeito positivo sobre essas duas medidas (PICKARD, 2020). A medida não é a fatia do gasto, como dizia a versão anterior deste texto; a correção é da auditoria do GPT, que abriu o artigo. Esse estudo não põe a população ao lado da área.
+- País populoso tende a ter governos regionais mais fortes, e não mais fracos. Em 80 países, a correlação entre a população e a autoridade dos governos regionais é de **0,68**, em 2010 (HOOGHE; MARKS, 2016, p. 29 e 60-61 do arquivo consultado). O índice mede estados e províncias; não mede municípios. E os autores testam a própria teoria com o próprio índice. A amostra cobre a Europa, as Américas, o Sudeste Asiático e o Pacífico: não tem China, Índia nem país africano (p. 78 do arquivo consultado).
+- País extenso tende a dar mais autonomia tributária e de endividamento aos governos regionais: em 78 países, a área tem efeito positivo sobre essas duas medidas (PICKARD, 2020). A medida não é a fatia do gasto, como dizia a versão anterior deste texto; a correção é da auditoria do GPT e foi conferida no artigo (PICKARD, 2020, p. 472-473). Esse estudo não põe a população ao lado da área, e usa 78 dos 81 países da base de Hooghe e Marks, com a mesma falta.
 - O Brasil gasta de forma descentralizada. Estados e municípios fizeram **44,4%** do gasto público em 2020, e os municípios sozinhos, **19,2%** (OCDE; CGLU, 2022b). A média dos países federais é de 41,9% (OCDE; CGLU, 2022a). O ano é de pandemia.
-- No modelo de Alesina e Spolaore (1997, p. 1046), o que centraliza é o regime, e não o tamanho: aplicado para dentro de um país, o resultado deles implica que ditaduras devem ser mais centralizadas que democracias.
+- No modelo de Alesina e Spolaore (1997), regime e tamanho andam juntos, mas com a causa ao contrário da que o autor propõe: é a ditadura que forma países maiores e em menor número (p. 1043-1044). Numa nota final, não testada, eles dizem que o resultado implica ditaduras mais centralizadas que democracias (p. 1046).
 - No volume, o Judiciário brasileiro é estadual: **62,2 milhões** dos 80,6 milhões de processos pendentes em dezembro de 2024 estavam na Justiça Estadual (CONSELHO NACIONAL DE JUSTIÇA, 2025). Os tribunais estaduais aplicam, na maior parte, lei federal.
 - Nenhum estudo localizado testa tamanho do país contra centralização do Judiciário. Uma síntese sobre tribunais em federações diz que as cortes supremas tendem a favorecer o centro em federações de qualquer tamanho, e que as exceções mais citadas são países com mais de uma nação dentro, como Bélgica, Canadá e Espanha (POPELIER; BIELEN, 2018).
 
 **O que se sustenta em parte.**
 
-- Área e população pesam de modo diferente, como o autor intuiu. Na autoridade dos governos regionais conta a população, e a área quase some quando as duas entram juntas (HOOGHE; MARKS, 2016, p. 151 do arquivo consultado). Na nota de Estado de direito conta a área: numa base de 127 ex-colônias, quanto maior o território, pior a nota, e a população não acompanha (HANSSON; OLSSON, 2006, p. 17-18 do arquivo consultado). Só que nenhum dos dois resultados aponta para mais centralização. O mecanismo de Hansson e Olsson é o centro que não alcança o interior.
-- O STF centraliza quando julga lei estadual. Em 4.727 ações diretas de 1988 a 2012, as leis estaduais são o alvo mais frequente e o que mais cai (COSTA; BENVINDO, 2013). Quando a disputa é por dinheiro, é o contrário: nos conflitos diretos entre a União e os estados julgados de 1988 a 2019, os estados venceram cerca de **79%** dos julgamentos de mérito (DANTAS, 2020). Na pandemia, o tribunal reconheceu a competência de estados e municípios em 19 de 24 ações (GODOY; TRANJAN, 2023).
+- Área e população pesam de modo diferente, como o autor intuiu. Na autoridade dos governos regionais conta a população, e a área quase some quando as duas entram juntas (HOOGHE; MARKS, 2016, p. 151 do arquivo consultado). Na nota de Estado de direito conta a área: numa base de 127 ex-colônias, quanto maior o território, pior a nota; a população, sozinha, também vem com nota pior, mas perde o efeito ao lado da área (HANSSON; OLSSON, 2006, p. 14 e 16-18). Nenhum dos dois estudos mede centralização. A explicação de Hansson e Olsson é um poder concentrado na capital que chega fraco ao interior. É a explicação deles, não uma medida.
+- Há um estudo histórico a favor da intuição do autor. Em 24 Estados europeus, entre 1250 e 1750, quanto maior o território, menor a chance de existir uma assembleia que controlasse o gasto do governante: a chance estimada cai de 42%, num Estado de cerca de 30 mil km², para 20% no Estado mediano e 4% nos de território grande (STASAVAGE, 2010, p. 634). A explicação é o custo de viajar e de vigiar o representante. A população, medida pela das cidades, não mudou o resultado. O próprio autor diz que hoje, nos países ricos, a tecnologia permite assembleias ativas em países grandes (p. 642), e deixa escrita a dúvida sobre a causa (p. 635). O estudo não trata de tribunais. No livro de Hooghe e Marks, o que aparece ligado à centralização é o regime: "oitenta por cento de todas as reformas centralizadoras acontecem sob um regime autoritário" (HOOGHE; MARKS, 2016, p. 60 da paginação impressa, 76 do arquivo; tradução deste estudo), medido pela escala Polity IV. E o Brasil é um dos quatro países federais que ficaram um pouco mais centralizados de 1950 a 2010, ainda acima da média (p. 45 da paginação impressa).
+- O STF centraliza quando julga lei estadual. Em 4.727 ações diretas de 1988 a 2012, as leis estaduais são o alvo mais frequente e o que mais cai: mais de 80% dos atos anulados (COSTA; BENVINDO, 2013). Em outra contagem, a das ações diretas com decisão final de 1988 a 2014, o tribunal aceitou, no todo ou em parte, 45% das ações contra norma estadual e 11% das ações contra norma federal (OLIVEIRA, 2016, p. 122; números lidos no gráfico). Nas disputas diretas, quase todas por dinheiro, o resultado é outro: nas ações cíveis originárias ajuizadas de 1988 a 2019, os estados venceram cerca de **79%** dos 316 julgamentos de mérito (DANTAS, 2020). São ações de outro tipo, e a conta não se soma à das ações diretas. Na pandemia, o tribunal reconheceu a competência de estados e municípios em 19 de 24 ações (GODOY; TRANJAN, 2023).
 - A regra é centralizada no Brasil, e o caminho é o Congresso mais que o tribunal. Arretche (2013) sustenta que a União tem poder amplo de legislar e que os estados não têm veto no Congresso. É o elo com este estudo: a regra do FPM e a cota das emendas são feitas ali (seção 13).
 
-**Onde a posição não fecha.** O autor já diz que os dois fatores nem sempre andam juntos, e nisso a pesquisa lhe dá razão. A direção que ele propõe não aparece nas medidas que os estudos abertos usam: neles, país maior vem com governos regionais mais fortes ou com mais autonomia tributária, e não com poder mais centralizado. São correlações entre países, não causa, e são medidas de governo regional e de dinheiro, não de tribunal. No Brasil, dinheiro, lei e tribunal não andam juntos: o gasto é descentralizado, a lei é centralizada e o tribunal decide para os dois lados conforme o assunto.
+**Onde a posição não fecha.** O autor já diz que os dois fatores nem sempre andam juntos, e nisso a pesquisa lhe dá razão. A direção que ele propõe não aparece nas duas medidas de governo regional que os estudos abertos usam: nelas, país maior vem com governos regionais mais fortes ou com mais autonomia tributária, e não com poder mais centralizado, numa amostra sem China, Índia e África. Em outras medidas, país maior aparece pior: na nota de Estado de direito das ex-colônias e, na Europa de 1250 a 1750, no controle do gasto do governante. São correlações entre países, não causa, e nenhuma é medida de tribunal. No Brasil, dinheiro, lei e tribunal não andam juntos: o gasto é descentralizado, a lei é centralizada e o tribunal decide para os dois lados conforme o assunto.
 
-"Autoritário" não foi medido. Os estudos abertos medem a autoridade dos governos regionais, a autonomia tributária, o gasto e o resultado de ações no tribunal. Nenhum mede o tipo de regime nem a concentração de poder no Judiciário, e nenhum liga uma coisa ou outra ao tamanho do país. Por isso eles não sustentam a hipótese do autor sobre o Judiciário, e também não a refutam. O conceito pode ser definido e medido com indicadores; esse teste não foi feito aqui. Montesquieu fica do lado do autor e Madison, do outro. O próprio Montesquieu aponta a federação como saída para o país grande.
+"Judiciário autoritário" não foi medido. Os estudos abertos medem a autoridade dos governos regionais, a autonomia tributária, o gasto, a percepção do Estado de direito e o resultado de ações no tribunal. O regime autoritário tem medida comparada e entra neles como controle: é com a escala Polity IV que Hooghe e Marks contam as reformas centralizadoras. Nenhum mede a concentração de poder no Judiciário, e nenhum testa se o tamanho do país muda o regime ou o tribunal. O mais próximo do que o autor chama de autoritário é o poder de um ministro decidir sozinho, sem o colegiado: de 2010 a 2017 foram 20.830 decisões individuais sobre liminares, contra 177 do plenário e das turmas (ARGUELHES; RIBEIRO, 2018). Esse artigo analisa casos escolhidos e não trata de federação nem de tamanho de país. Por isso os estudos não sustentam a hipótese do autor sobre o Judiciário, e também não a refutam. O teste direto, que cruza a área e a população dos países com uma classificação de regimes e com índices de Judiciário, usa dado aberto e não foi feito aqui. Montesquieu fica do lado do autor e Madison, do outro. O próprio Montesquieu aponta a federação como saída para o país grande.
 
-> **Ressalva.** Os três artigos brasileiros sobre o STF e o de Arretche foram lidos por resumo automático da página, e os números deles pedem conferência no texto. Vários clássicos do tema não abriram e ficam fora: Oates, Panizza, Arzaghi e Henderson, Aroney e Kincaid. Montesquieu, no livro VIII, e o artigo n. 10 de Madison foram abertos no original em 6 de outubro de 2026, e a tradução das frases é deste estudo. Do livro de Dahl e Tufte sobre tamanho e democracia só a ficha foi aberta, e ele fica como leitura. A pesquisa foi feita por modelo de linguagem, em um dia.
+Tabela. O que o conjunto das fontes abertas permite dizer, enunciado por enunciado
+
+| Enunciado | O que as fontes abertas dizem |
+|---|---|
+| País grande tende a regime autoritário | Clássico: Montesquieu. Modelo: Alesina e Spolaore, com a causa invertida (a ditadura faz o país grande). História: Stasavage, território grande com menos controle sobre o gasto do governante, na Europa de 1250 a 1750. Hoje: Hansson e Olsson, território grande com nota pior de Estado de direito. Nenhum teste direto, com medida de regime e países de hoje, foi aberto |
+| País grande tende a centralizar o território | Contra, nas duas medidas de governo regional (Hooghe e Marks; Pickard), numa amostra sem China, Índia e África |
+| País grande tende a ter Judiciário centralizado ou autoritário | Nenhum estudo aberto testa |
+| No Brasil, o Judiciário centraliza | A regra, sim: 45% das ações contra norma estadual são aceitas e 11% das ações contra norma federal; mais de 80% das anulações são de lei estadual. O dinheiro, não: nos conflitos diretos os estados vencem 79%. E há o poder individual dos ministros |
+| Área e população pesam separadas | Sim, em três estudos. Área: Estado de direito e controle do gasto. População: força dos governos regionais. São estudos de épocas e amostras diferentes: serve como leitura, não como resultado |
+
+> **Ressalva.** Os artigos de Costa e Benvindo e de Dantas foram conferidos no texto da página em 6 de outubro de 2026, com os de Pickard, Hansson e Olsson, Hooghe e Marks, Stasavage, Oliveira, Arguelhes e Ribeiro e Alesina e Spolaore. O de Godoy e Tranjan e o de Arretche (2013) não entraram nessa conferência e seguem lidos por resumo automático da página. O texto de Hansson e Olsson é a versão de trabalho de 2006, e o livro de Hooghe e Marks, uma prova de revisão. Vários clássicos do tema não abriram e ficam fora: Oates, Panizza, Arzaghi e Henderson, Aroney e Kincaid. Montesquieu, no livro VIII, e o artigo n. 10 de Madison foram abertos no original em 6 de outubro de 2026, e a tradução das frases é deste estudo. Do livro de Dahl e Tufte sobre tamanho e democracia só a ficha foi aberta, e ele fica como leitura. A pesquisa foi feita por modelo de linguagem, em um dia.
 
 ## 22. E se fosse o contrário? Oito contrafactuais
 
@@ -2353,6 +2369,8 @@ AMORIM, Ricardo. **menos prefeiturasV2_REELS.mp4**. [*S. l.*], 2 mar. 2026. 1 v�
 
 ARCAUTE, Elsa; HATNA, Erez; FERGUSON, Peter; YOUN, Hyejin; JOHANSSON, Anders; BATTY, Michael. Constructing cities, deconstructing scaling laws. **Journal of the Royal Society Interface**, [*s. l.*], v. 12, n. 102, 2015. DOI: 10.1098/rsif.2014.0745. Versão consultada: texto integral no Europe PMC (PMC4277074) e arXiv:1301.1674. Disponível em: https://arxiv.org/abs/1301.1674. Acesso em: 6 out. 2026.
 
+ARGUELHES, Diego Werneck; RIBEIRO, Leandro Molhano. Ministrocracia: o Supremo Tribunal individual e o processo democrático brasileiro. **Novos Estudos CEBRAP**, São Paulo, v. 37, n. 1, p. 13-32, jan./abr. 2018. DOI: 10.25091/S01013300201800010003. Disponível em: https://www.scielo.br/j/nec/a/GsYDWpRwSKzRGsyVY9zPSCP/?lang=pt. Acesso em: 6 out. 2026.
+
 ARRETCHE, Marta. Quando instituições federativas fortalecem o governo central? **Novos Estudos CEBRAP**, São Paulo, n. 95, p. 37-53, mar. 2013. DOI: 10.1590/S0101-33002013000100003. Disponível em: https://www.scielo.br/j/nec/a/GJnGZZNXJ8cTyRHTkcgtCqc/?lang=pt. Acesso em: 6 out. 2026.
 
 ARRETCHE, Marta; RODDEN, Jonathan. Política distributiva na Federação: estratégias eleitorais, barganhas legislativas e coalizões de governo. **Dados**, Rio de Janeiro, v. 47, n. 3, p. 549-576, 2004. DOI: 10.1590/S0011-52582004000300004. Disponível em: https://doi.org/10.1590/S0011-52582004000300004. Acesso em: 5 out. 2026.
@@ -2384,6 +2402,8 @@ BRASIL. [Constituição (1988)]. **Constituição da República Federativa do Br
 BRASIL. Controladoria-Geral da União. **Alice**. Brasília, DF: CGU, [202-]. Disponível em: https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao/alice. Acesso em: 5 out. 2026.
 
 BRASIL. Controladoria-Geral da União. **Portal da Transparência**: emendas parlamentares. Brasília, DF: CGU, 2026a. Arquivo em lote EmendasParlamentares.zip, com arquivos datados de 1 out. 2026 (emendas de 2014 a 2026). Disponível em: https://portaldatransparencia.gov.br/download-de-dados/emendas-parlamentares. Acesso em: 5 out. 2026.
+
+BRASIL. Decreto nº 67.647, de 23 de novembro de 1970. Estabelece nova Divisão Regional do Brasil para fins estatísticos. **Diário Oficial da União**: seção 1, Brasília, DF, p. 9987, 24 nov. 1970. Disponível em: https://www2.camara.leg.br/legin/fed/decret/1970-1979/decreto-67647-23-novembro-1970-409148-publicacaooriginal-1-pe.html. Acesso em: 6 out. 2026.
 
 BRASIL. **Emenda Constitucional nº 62, de 2009**. Brasília, DF: Presidência da República, 2009. Altera o art. 100 da Constituição e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias. Trecho lido pela pesquisa deste estudo no texto do Planalto; endereço não conferido, não aberto nesta rodada.
 
@@ -2435,13 +2455,15 @@ CONSELHO NACIONAL DE JUSTIÇA. **Justiça em números 2025**: sumário executivo
 
 CONSULTORIA de Orçamento da Câmara divulga Raio X do autógrafo do Orçamento 2025. **Câmara dos Deputados**, Brasília, DF, 7 abr. 2025. Texto da assessoria de imprensa. Disponível em: https://www.camara.leg.br/assessoria-de-imprensa/1148102-consultoria-de-orcamento-da-camara-divulga-raio-x-do-autografo-do-orcamento-2025/. Acesso em: 6 out. 2026.
 
+CONTEL, Fabio Betioli. As divisões regionais do IBGE no século XX (1942, 1970 e 1990). **Terra Brasilis** (Nova Série), n. 3, 2014. DOI: 10.4000/terrabrasilis.990. Disponível em: https://journals.openedition.org/terrabrasilis/990. Acesso em: 6 out. 2026.
+
 CORBI, Raphael; PAPAIOANNOU, Elias; SURICO, Paolo. Regional transfer multipliers. **The Review of Economic Studies**, [*s. l.*], v. 86, n. 5, p. 1901-1934, 2019. DOI: 10.1093/restud/rdy069. Disponível em: https://lbsresearch.london.edu/id/eprint/1037/9/Regional_Transfer_Multipliers_Rev_Econ_Stud_2019_86.pdf. Acesso em: 6 out. 2026.
 
-COSTA, Alexandre Araújo; BENVINDO, Juliano Zaiden. **A quem interessa o controle concentrado de constitucionalidade?** O descompasso entre teoria e prática na defesa dos direitos fundamentais. [*S. l.*]: Arcos, 2013. Disponível em: https://arcos.org.br/a-quem-interessa-o-controle-concentrado-de-constitucionalidade/. Acesso em: 6 out. 2026.
+COSTA, Alexandre Araújo; BENVINDO, Juliano Zaiden. **A quem interessa o controle concentrado de constitucionalidade?** O descompasso entre teoria e prática na defesa dos direitos fundamentais. Relatório de pesquisa (CNPq, 2011-2013). Brasília: Universidade de Brasília, 2013. Publicado em Arcos em 2020. Disponível em: https://arcos.org.br/a-quem-interessa-o-controle-concentrado-de-constitucionalidade/. Acesso em: 6 out. 2026.
 
 CRUZ, Paulo. Uma "Gazeta do Povo" incomoda muita gente. **Gazeta do Povo**, Curitiba, 12 ago. 2026. Coluna. Disponível em: https://www.gazetadopovo.com.br/vozes/paulo-cruz/gazeta-do-povo-guilherme-cunha-pereira-orientacao-editorial/. Acesso em: 6 out. 2026.
 
-DANTAS, Andrea de Quadros. O STF como árbitro da federação: uma análise empírica dos conflitos federativos em sede de ACO. **Revista Direito GV**, São Paulo, v. 16, n. 2, 2020. DOI: 10.1590/2317-6172201964. Disponível em: https://scielo.br/j/rdgv/a/vjcH8FNWDYMRRWcQRHKC6JJ/?lang=pt. Acesso em: 6 out. 2026.
+DANTAS, Andrea de Quadros. O STF como árbitro da federação: uma análise empírica dos conflitos federativos em sede de ACO. **Revista Direito GV**, São Paulo, v. 16, n. 2, e1964, 2020. DOI: 10.1590/2317-6172201964. Disponível em: https://scielo.br/j/rdgv/a/vjcH8FNWDYMRRWcQRHKC6JJ/?lang=pt. Acesso em: 6 out. 2026.
 
 DANTAS JUNIOR, Amarando Francisco; DINIZ, Josedilton Alves. Arranjos federativos e federalismo fiscal: uma proposta de fusão municipal no Brasil. **Cadernos Gestão Pública e Cidadania**, São Paulo, v. 30, e92857, 2025. DOI: 10.12660/cgpc.v30.92857. Disponível em: https://periodicos.fgv.br/cgpc/article/view/92857. Acesso em: 5 out. 2026.
 
@@ -2477,7 +2499,7 @@ HANSSON, Gustav; OLSSON, Ola. **Country size and the rule of law**: resuscitatin
 
 HIROI, Taeko. Paradox of redistribution: legislative overrepresentation and regional development in Brazil. **Publius: The Journal of Federalism**, [*s. l.*], v. 49, n. 4, p. 642-670, 2019. DOI: 10.1093/publius/pjy043. Disponível em: https://doi.org/10.1093/publius/pjy043. Acesso em: 5 out. 2026.
 
-HOOGHE, Liesbet; MARKS, Gary. **Community, scale, and regional governance**. Oxford: Oxford University Press, 2016. Versão consultada: prova de revisão. Disponível em: https://hooghe.web.unc.edu/wp-content/uploads/sites/11492/2021/02/Hooghe-Marks_2016_Community-Scale-and-Regional-Governance.pdf. Acesso em: 6 out. 2026.
+HOOGHE, Liesbet; MARKS, Gary. **Community, scale, and regional governance**: a postfunctionalist theory of governance, volume II. Com Arjan H. Schakel, Sara Niedzwiecki, Sandra Chapman Osterkatz e Sarah Shair-Rosenfield. Oxford: Oxford University Press, 2016. ISBN 978-0-19-876697-1. Versão consultada: prova de revisão de jul. 2016. Disponível em: https://hooghe.web.unc.edu/wp-content/uploads/sites/11492/2021/02/Hooghe-Marks_2016_Community-Scale-and-Regional-Governance.pdf. Acesso em: 6 out. 2026.
 
 IBGE. **Censo Demográfico 2022**: população residente e área territorial. Rio de Janeiro: IBGE, 2023. Tabela 4714 do SIDRA. Disponível em: https://sidra.ibge.gov.br/tabela/4714. Acesso em: 5 out. 2026.
 
@@ -2529,6 +2551,8 @@ OCDE; CGLU. **Brazil**: country and territory profiles. [*S. l.*]: World Observa
 
 OLIVEIRA, Débora Tazinasso de; OLIVEIRA, Antonio Gonçalves de. (In)sustentabilidade financeira municipal: a frágil metodologia proposta pela PEC do Pacto Federativo. **Revista de Administração Pública**, Rio de Janeiro, v. 57, n. 5, e2023-0012, 2023. DOI: 10.1590/0034-761220230012. Disponível em: https://www.scielo.br/j/rap/a/qC49PCkNPfLKqGxsVS4JmkR/?lang=pt. Acesso em: 5 out. 2026.
 
+OLIVEIRA, Fabiana Luci. Agenda suprema: interesses em disputa no controle de constitucionalidade das leis no Brasil. **Tempo Social**, São Paulo, v. 28, n. 1, p. 105-133, abr. 2016. DOI: 10.11606/0103-2070.ts.2016.106021. Disponível em: https://doi.org/10.11606/0103-2070.ts.2016.106021. Acesso em: 6 out. 2026.
+
 ORÇAMENTO 2026 é sancionado com previsão de superávit de R$&nbsp;34,2 bi. **Agência Senado**, Brasília, DF, 15 jan. 2026. Disponível em: https://www12.senado.leg.br/noticias/materias/2026/01/15/orcamento-2026-e-sancionado-com-previsao-de-superavit-de-rs-34-2-bi. Acesso em: 6 out. 2026.
 
 PADRÃO de distribuição de emendas parlamentares prejudica cidades grandes. **Agência FAPESP**, São Paulo, 29 set. 2025. Disponível em: https://agencia.fapesp.br/padrao-de-distribuicao-de-emendas-parlamentares-prejudica-cidades-grandes/55979. Acesso em: 5 out. 2026.
@@ -2539,7 +2563,7 @@ PEREIRA, Roger. Governo fala em extinguir municípios com menos de 5 mil habitan
 
 PERES, Ursula Dias; MARQUES, Eduardo; ARMANI, Gabriela. **Municípios e a questão fiscal no Brasil**: mais do que heterogêneos? São Paulo: Centro de Estudos da Metrópole, 2025. (Nota Técnica Políticas Públicas, Cidades e Desigualdades, n. 23). Disponível em: https://centrodametropole.fflch.usp.br/sites/centrodametropole.fflch.usp.br/files/inline-files/nt23.pdf. Acesso em: 5 out. 2026.
 
-PICKARD, H. Explaining fiscal decentralization and the role of ethnic diversity. **Scottish Journal of Political Economy**, [*s. l.*], v. 67, n. 5, p. 469-485, 2020. Disponível em: https://eprints.whiterose.ac.uk/id/eprint/159160/15/sjpe.12246.pdf. Acesso em: 6 out. 2026.
+PICKARD, Harry. Explaining fiscal decentralization and the role of ethnic diversity. **Scottish Journal of Political Economy**, [*s. l.*], v. 67, n. 5, p. 469-485, 2020. DOI: 10.1111/sjpe.12246. Disponível em: https://eprints.whiterose.ac.uk/id/eprint/159160/15/sjpe.12246.pdf. Acesso em: 6 out. 2026.
 
 POPELIER, P.; BIELEN, S. How courts decide federalism disputes. **Publius: The Journal of Federalism**, [*s. l.*], 2018. Versão consultada: cópia em PDF. Disponível em: https://fiscalfederalism.eu/wp-content/uploads/2020/05/BE-Lit-2018-Popelier-Bielen-How-Courts-Decide-Federalism-Disputes-1.pdf. Acesso em: 6 out. 2026. Volume, número e páginas não conferidos.
 
@@ -2572,6 +2596,8 @@ SIQUEIRA, Claudia Gomes de. **Campinas, seus distritos e seus desmembramentos**:
 SIQUEIRA, Claudia Gomes de. **Emancipação municipal pós Constituição de 1988**: um estudo sobre o processo de criação dos novos municípios paulistas. 2003. 236 p. Dissertação (Mestrado) – Instituto de Filosofia e Ciências Humanas, Universidade Estadual de Campinas, Campinas, 2003. Disponível em: https://hdl.handle.net/20.500.12733/1594298. Acesso em: 5 out. 2026.
 
 SOARES, Márcia Miranda; LOURENÇO, Luiz Cláudio. A representação política dos estados na federação brasileira. **Revista Brasileira de Ciências Sociais**, São Paulo, v. 19, n. 56, p. 113-127, 2004. DOI: 10.1590/S0102-69092004000300008. Disponível em: https://doi.org/10.1590/S0102-69092004000300008. Acesso em: 5 out. 2026.
+
+STASAVAGE, David. When distance mattered: geographic scale and the development of European representative assemblies. **American Political Science Review**, [*s. l.*], v. 104, n. 4, p. 625-643, nov. 2010. DOI: 10.1017/S0003055410000444. Disponível em: https://stasavage.com/research/. Acesso em: 6 out. 2026.
 
 STEPAN, Alfred. Federalism and democracy: beyond the U.S. model. **Journal of Democracy**, [*s. l.*], v. 10, n. 4, p. 19-34, 1999a. DOI: 10.1353/jod.1999.0072. Disponível em: https://doi.org/10.1353/jod.1999.0072. Acesso em: 5 out. 2026.
 

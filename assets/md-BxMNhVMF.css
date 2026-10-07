@@ -1,0 +1,17 @@
+
+.pacto-autor[data-v-2318083c] { padding: 2px 0 2px 16px; border-left: 3px solid var(--tinta); font-size: 23px; line-height: 1.4; max-width: 1040px;
+}
+.pacto-autor p[data-v-2318083c] { margin: 0; text-wrap: pretty;
+}
+.pacto-rotulo[data-v-2318083c] { font-family: var(--sans); font-size: 14px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--mudo); margin-bottom: 6px;
+}
+.pacto-resposta[data-v-2318083c] { margin-top: 34px; font-size: 23px; line-height: 1.4;
+}
+.pacto-linha[data-v-2318083c] { display: grid; grid-template-columns: 150px minmax(0, 1fr); align-items: baseline; padding: 14px 0; border-top: 1px solid var(--fio); max-width: 1120px;
+}
+.pacto-linha b[data-v-2318083c] { font-family: var(--serifa); font-size: 26px; font-weight: 600; color: var(--tinta);
+}
+.pacto-linha span[data-v-2318083c] { text-wrap: pretty;
+}
+.pacto-pendente[data-v-2318083c] { margin: 14px 0 0; font-size: 17px; color: var(--tinta2);
+}

@@ -1,0 +1,11 @@
+
+.limites-grade[data-v-3e6464f2] { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; font-size: 18px; line-height: 1.4;
+}
+.limites-grade h3[data-v-3e6464f2] { font-size: 22px; margin: 0 0 8px;
+}
+.limites-grade .cartao[data-v-3e6464f2] { padding: 16px 18px; text-wrap: pretty;
+}
+.limites-fecho[data-v-3e6464f2] { margin: 20px 0 0; font-size: 19px; font-weight: 600; line-height: 1.38;
+}
+.limites-proxima[data-v-3e6464f2] { display: block; margin-top: 4px; font-weight: 400;
+}

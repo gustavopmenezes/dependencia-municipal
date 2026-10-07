@@ -1,0 +1,19 @@
+
+.metodo-duas[data-v-dc2c7fd3] { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 44px; font-size: 19px; line-height: 1.38;
+}
+.metodo-duas h3[data-v-dc2c7fd3] { margin: 0 0 8px; font-size: 24px;
+}
+.metodo-duas li + li[data-v-dc2c7fd3] { margin-top: 6px;
+}
+.metodo-duas ul[data-v-dc2c7fd3] { margin: 0;
+}
+.metodo-tabela[data-v-dc2c7fd3] { font-size: 19px; width: 100%;
+}
+.metodo-tabela td[data-v-dc2c7fd3] { vertical-align: top; padding: 7px 14px 7px 0;
+}
+.metodo-tabela td[data-v-dc2c7fd3]:first-child { width: 27%;
+}
+.metodo-aviso[data-v-dc2c7fd3] { margin: 14px 0 0; font-size: 19px; line-height: 1.4; border-left: 2px solid var(--tinta); padding-left: 10px;
+}
+.metodo-numeros[data-v-dc2c7fd3] { display: flex; gap: 34px; margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--fio);
+}

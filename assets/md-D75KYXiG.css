@@ -1,0 +1,13 @@
+
+.vozes-grade[data-v-df3fa6f6] { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px;
+}
+.vozes-cartao[data-v-df3fa6f6] { display: flex; flex-direction: column; gap: 6px; min-width: 0; font-size: 16.5px; line-height: 1.36; padding: 14px 18px 16px; text-wrap: pretty;
+}
+.vozes-cartao .olho[data-v-df3fa6f6] { font-size: 13px;
+}
+.vozes-cartao h3[data-v-df3fa6f6] { font-family: var(--serifa); font-weight: 600; font-size: 19px; line-height: 1.22; margin: 0 0 2px; min-height: 2.44em;
+}
+.vozes-de-onde[data-v-df3fa6f6] { margin-top: auto; padding-top: 4px; font-size: 14.5px; color: var(--tinta2);
+}
+.vozes-origem[data-v-df3fa6f6] { margin: 16px 0 0; font-size: 17px; line-height: 1.36;
+}

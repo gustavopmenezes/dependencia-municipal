@@ -1,0 +1,9 @@
+
+.degraus-campo-passo { border-radius: 999px;
+}
+.degraus-passeio { display: inline-flex; align-items: center; gap: 6px; border-radius: 999px; color: var(--tinta2); white-space: nowrap;
+}
+.degraus-passeio-nome { font-size: 13.5px;
+}
+.gm-leg-item.degraus-indicador { margin-left: auto; padding: 1px 9px; border-radius: 999px; font-weight: 600; font-variant-numeric: tabular-nums;
+}

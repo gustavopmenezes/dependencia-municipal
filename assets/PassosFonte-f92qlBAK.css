@@ -1,0 +1,97 @@
+
+.passos-fonte-raiz[data-v-185952ec] {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 16px;
+  width: 100%;
+  min-height: 0;
+  color: var(--tinta);
+  font-family: var(--sans);
+}
+.passos-fonte-aviso[data-v-185952ec] { color: var(--mudo); font-size: 16px; border: 1px dashed var(--cinza2); border-radius: var(--raio); padding: 40px; text-align: center;
+}
+.passos-fonte-grade[data-v-185952ec] { display: grid; grid-template-rows: auto auto; row-gap: 12px; width: 100%;
+}
+.passos-fonte-caixa[data-v-185952ec] {
+  grid-row: 1;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 0;
+  padding: 14px 14px 16px;
+  background: var(--papel);
+  border-radius: 10px;
+}
+.passos-fonte-contorno[data-v-185952ec] { position: absolute; left: 0; top: 0; overflow: visible; pointer-events: none;
+}
+.passos-fonte-contorno-traco[data-v-185952ec] { width: calc(100% - 2px); height: calc(100% - 2px); stroke: var(--tinta); stroke-width: 1.6; transition: stroke-width 0.15s;
+}
+.passos-fonte-em-foco .passos-fonte-contorno-traco[data-v-185952ec] { stroke-width: 2.6;
+}
+.passos-fonte-numero[data-v-185952ec] {
+  flex: none;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: var(--tinta);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 28px;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+.passos-fonte-rotulo[data-v-185952ec] { font-size: 15.5px; font-weight: 600; line-height: 1.25; color: var(--tinta2); text-wrap: balance;
+}
+.passos-fonte-valor[data-v-185952ec] { margin-top: auto; font-family: var(--serifa); font-size: 25px; font-weight: 700; line-height: 1.12; color: var(--tinta); font-variant-numeric: lining-nums; text-wrap: balance;
+}
+.passos-fonte-apertado .passos-fonte-valor[data-v-185952ec] { font-size: 21px;
+}
+.passos-fonte-unidade[data-v-185952ec] { display: block; margin-top: 2px; font-family: var(--sans); font-size: 14px; font-weight: 600; line-height: 1.2; color: var(--tinta2);
+}
+.passos-fonte-apertado .passos-fonte-rotulo[data-v-185952ec] { font-size: 15px;
+}
+.passos-fonte-apertado .passos-fonte-caixa[data-v-185952ec] { padding: 12px 12px 14px;
+}
+.passos-fonte-seta[data-v-185952ec] { position: absolute; top: 50%; margin-top: -9px; overflow: visible; pointer-events: none;
+}
+.passos-fonte-seta line[data-v-185952ec] { stroke: var(--tinta); stroke-width: 1.8; stroke-linecap: round;
+}
+.passos-fonte-seta path[data-v-185952ec] { fill: var(--tinta);
+}
+.passos-fonte-texto[data-v-185952ec] { grid-row: 2; margin: 0; padding: 0 2px; font-size: 15px; line-height: 1.38; color: var(--tinta2); min-width: 0; transition: color 0.15s; text-wrap: pretty;
+}
+.passos-fonte-apertado .passos-fonte-texto[data-v-185952ec] { font-size: 15px; line-height: 1.38;
+}
+.passos-fonte-texto.passos-fonte-em-foco[data-v-185952ec] { color: var(--tinta);
+}
+.passos-fonte-nao-conferido[data-v-185952ec] { display: inline-block; font-size: 13px; color: var(--tinta2); border: 1px dashed var(--cinza3); border-radius: 4px; padding: 0 6px; margin-left: 4px; white-space: nowrap; line-height: 1.4;
+}
+/* uma caixa por vista: a da vez em destaque, as que ainda vêm apagadas */
+.passos-fonte-caixa[data-v-185952ec], .passos-fonte-texto[data-v-185952ec] { transition: opacity 0.35s ease, color 0.15s, background 0.35s ease;
+}
+.passos-fonte-caixa.passos-fonte-vez[data-v-185952ec] { background: #f4f3ee;
+}
+.passos-fonte-caixa.passos-fonte-vez .passos-fonte-contorno-traco[data-v-185952ec] { stroke-width: 3;
+}
+.passos-fonte-caixa.passos-fonte-vez .passos-fonte-rotulo[data-v-185952ec] { color: var(--tinta);
+}
+.passos-fonte-texto.passos-fonte-vez[data-v-185952ec] { color: var(--tinta);
+}
+/* as que ainda vêm: apagadas, mas legíveis na tela e no papel em preto e branco */
+.passos-fonte-caixa.passos-fonte-depois[data-v-185952ec], .passos-fonte-texto.passos-fonte-depois[data-v-185952ec] { opacity: 0.76;
+}
+.passos-fonte-caixa.passos-fonte-depois .passos-fonte-contorno-traco[data-v-185952ec] { stroke-dasharray: 0.012 0.008; stroke-width: 1.3;
+}
+.passos-fonte-caixa.passos-fonte-depois .passos-fonte-numero[data-v-185952ec] { background: var(--tinta2);
+}
+.passos-fonte-topo[data-v-185952ec] { display: flex; align-items: center; justify-content: space-between; gap: 16px;
+}
+.passos-fonte-fonte[data-v-185952ec] { display: inline-flex; align-items: center; gap: 9px; font-size: 15px; font-weight: 600; color: var(--tinta2);
+}
+.passos-fonte-numero-da-fonte[data-v-185952ec] {
+  flex: none; display: inline-flex; align-items: center; justify-content: center; width: 26px; height: 26px; border-radius: 50%;
+  color: #fff; font-size: 15px; font-weight: 700; line-height: 1; font-variant-numeric: lining-nums tabular-nums; text-shadow: 0 0 2px rgba(0, 0, 0, 0.6);
+}

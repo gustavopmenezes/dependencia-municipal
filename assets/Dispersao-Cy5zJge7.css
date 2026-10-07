@@ -1,0 +1,26 @@
+
+/* a legenda de baixo: uma linha por grupo; com dois grupos a altura das duas linhas fica reservada, para o desenho
+   não pular quando a seta separa */
+.dispersao-legenda { display: flex; flex-direction: column; gap: 2px; margin-bottom: 3px; color: var(--tinta2);
+}
+.dispersao-legenda.dupla { min-height: calc(2 * 1.35em + 2px);
+}
+.dispersao-legenda-linha { display: flex; flex-wrap: wrap; align-items: center; gap: 2px 18px;
+}
+.dispersao-chave { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap;
+}
+.dispersao-chave b { color: var(--tinta); font-weight: 700; font-variant-numeric: lining-nums tabular-nums;
+}
+.dispersao-legenda-grupo { min-width: 112px; font-weight: 600; color: var(--tinta);
+}
+.dispersao-mudo { color: var(--mudo);
+}
+.gm-q.dispersao-faixa { width: 22px; height: 12px; border-radius: 2px; opacity: 0.3;
+}
+.gm-q.traco.dispersao-leg-outro { height: 1.5px; background: var(--tinta2);
+}
+/* amostra da linha de referência: traço vertical tracejado */
+.gm-q.dispersao-leg-ref { width: 0; height: 13px; border-left: 1.5px dashed #52524e; background: none;
+}
+.dispersao-leg-tri { display: inline-block; width: 0; height: 0; flex: none; border-left: 4.5px solid transparent; border-right: 4.5px solid transparent; border-bottom: 8px solid #52524e;
+}

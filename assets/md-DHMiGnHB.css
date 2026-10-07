@@ -1,0 +1,49 @@
+
+.pais-grade[data-v-969451d5] { display: grid; grid-template-columns: 468px minmax(0, 1fr); gap: 30px; font-size: 15px; line-height: 1.38;
+}
+.pais-texto[data-v-969451d5] { min-width: 0;
+}
+.pais-autor[data-v-969451d5] { border-left: 3px solid var(--tinta); padding: 2px 0 2px 12px; margin: 0 0 4px;
+}
+.pais-rotulo[data-v-969451d5] { font-size: 13px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--mudo); margin: 16px 0 5px;
+}
+.pais-autor .pais-rotulo[data-v-969451d5] { margin-top: 0;
+}
+.pais-lista[data-v-969451d5] { margin: 0; padding: 0; list-style: none;
+}
+.pais-lista li[data-v-969451d5] { margin: 0 0 8px; padding-left: 12px; border-left: 2px solid var(--cinza2); text-wrap: pretty;
+}
+.pais-autor[data-v-969451d5], .pais-quadro p[data-v-969451d5] { text-wrap: pretty;
+}
+.pais-quadro .pais-ficcao[data-v-969451d5] { margin: 10px 0 0; padding-top: 9px; border-top: 1px solid var(--fio); font-size: 15px; line-height: 1.38; color: var(--tinta2);
+}
+.pais-quadro[data-v-969451d5] { min-width: 0;
+}
+.pais-quadro-titulo[data-v-969451d5] { font-family: var(--serifa); font-weight: 600; font-size: 19px; line-height: 1.2; color: var(--tinta);
+}
+.pais-legenda[data-v-969451d5] { display: flex; flex-wrap: wrap; gap: 4px 18px; margin: 5px 0 9px; font-size: 13.5px; color: var(--tinta2);
+}
+.pais-legenda span[data-v-969451d5] { display: inline-flex; align-items: center; gap: 6px;
+}
+.pais-chave[data-v-969451d5] { display: inline-block; width: 16px; height: 16px; border-radius: 3px; box-sizing: border-box;
+}
+.pais-matriz[data-v-969451d5] { display: grid; grid-template-columns: 98px repeat(3, minmax(0, 1fr)); gap: 8px;
+}
+.pais-medida[data-v-969451d5] { display: flex; flex-direction: column; gap: 1px; font-size: 13px; line-height: 1.3; color: var(--tinta2); padding-bottom: 2px;
+}
+.pais-medida b[data-v-969451d5] { font-size: 15px; line-height: 1.22; color: var(--tinta);
+}
+.pais-fator[data-v-969451d5] { display: flex; align-items: center; font-family: var(--serifa); font-weight: 600; font-size: 19px; color: var(--tinta);
+}
+.pais-celula[data-v-969451d5] { display: flex; flex-direction: column; justify-content: center; gap: 3px; min-height: 70px; padding: 6px 12px; border-radius: 6px; box-sizing: border-box; font-size: 13.5px; line-height: 1.3;
+}
+.pais-celula b[data-v-969451d5] { font-size: 15.5px; line-height: 1.22;
+}
+.pais-pesa[data-v-969451d5] { background: var(--cinza5); color: #fff;
+}
+.pais-nao[data-v-969451d5] { background: var(--cinza1); color: var(--tinta);
+}
+.pais-vazio[data-v-969451d5] { background: var(--papel); color: var(--tinta2); border: 1.5px dashed var(--cinza3);
+}
+.pais-quadro .pais-leitura[data-v-969451d5] { margin: 12px 0 0; font-size: 15.5px; line-height: 1.38; color: var(--tinta);
+}

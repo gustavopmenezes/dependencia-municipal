@@ -1,0 +1,56 @@
+
+.gm-area svg text.evo-leitura { font-size: 13px; fill: var(--tinta2); font-variant-numeric: tabular-nums;
+}
+.gm-area svg text.evo-numero { font-size: 13px; font-weight: 700; fill: #fff;
+}
+.evo-leg-num { font-size: 13px; font-weight: 600; color: var(--tinta);
+}
+.evo-leg-num.evo-leg-mudo { color: var(--mudo);
+}
+button.gm-leg-item.evo-liga-media { border: 1px solid var(--cinza2); border-radius: 999px; padding: 1px 9px;
+}
+button.gm-leg-item.evo-liga-media.ativo { background: var(--tinta); color: #fff; font-weight: 600;
+}
+button.gm-leg-item.evo-liga-media.ativo .gm-q.fino { border-top-color: #fff;
+}
+/* chave de leitura embaixo do eixo (um ou dois painéis), como na capa */
+.evo-chave { display: flex; flex-direction: column; gap: 3px; margin: 0 0 8px; color: var(--tinta); font-size: 14px; line-height: 1.3;
+}
+.evo-chave-linha { display: flex; flex-wrap: wrap; align-items: center; gap: 2px 16px;
+}
+.evo-chave-grupo { display: inline-flex; align-items: center; gap: 6px; min-width: 150px; font-weight: 600; white-space: nowrap;
+}
+.evo-chave-item { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; font: inherit; color: inherit; background: none; border: 0; padding: 1px 0;
+}
+.evo-chave-item b { font-weight: 700; font-variant-numeric: lining-nums tabular-nums;
+}
+.evo-chave-manchas { font-size: 13px; color: var(--tinta2);
+}
+.evo-traco { display: inline-block; width: 20px; height: 0; border-top: 3px solid var(--tinta);
+}
+.evo-traco.evo-traco-media { border-top: 2px dashed #1f2a37;
+}
+button.evo-chave-item.evo-liga-media { cursor: pointer; border: 1px solid var(--cinza2); border-radius: 999px; padding: 0 9px;
+}
+button.evo-chave-item.evo-liga-media:hover { background: #efeee8;
+}
+button.evo-chave-item.evo-liga-media.ativo { background: var(--tinta); color: #fff;
+}
+button.evo-chave-item.evo-liga-media.ativo .evo-traco-media { border-top-color: #fff;
+}
+.evo-foco-lado { position: absolute; top: 0; font-size: 17px; line-height: 1.45; color: var(--tinta);
+}
+.evo-foco-lado .evo-foco-titulo { margin: 0 0 6px; font-size: 19px; font-weight: 700; line-height: 1.2;
+}
+.evo-foco-lado p { margin: 0 0 9px; text-wrap: pretty;
+}
+.evo-foco-lado .evo-foco-rotulo { display: block; font-size: 13px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: var(--tinta2);
+}
+.evo-foco-lado a, .evo-marcos a { color: inherit; text-decoration: underline; text-underline-offset: 2px; white-space: nowrap;
+}
+.evo-marcos { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 4px 18px; margin-bottom: 6px; color: var(--tinta); font-size: 14px; line-height: 1.35;
+}
+.evo-marco { display: grid; grid-template-columns: 22px minmax(0, 1fr); gap: 6px; align-items: start; text-wrap: pretty;
+}
+.evo-marco-n { display: inline-flex; align-items: center; justify-content: center; width: 20px; height: 20px; border-radius: 50%; background: var(--tinta); color: #fff; font-size: 13px; font-weight: 700; line-height: 1; margin-top: 1px;
+}

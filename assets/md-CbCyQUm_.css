@@ -1,0 +1,34 @@
+
+.acum-desenho .acum-eixo[data-v-9a41f87f] { font-size: 13px; fill: var(--tinta2);
+}
+.acum-desenho .acum-eixo.acum-mudo[data-v-9a41f87f] { fill: var(--mudo);
+}
+.acum-desenho .acum-rotulo[data-v-9a41f87f] { font-size: 14.5px; fill: var(--tinta);
+}
+.acum-desenho .acum-forte[data-v-9a41f87f] { font-weight: 700; fill: var(--tinta);
+}
+.acum-desenho .acum-numero[data-v-9a41f87f] { font-variant-numeric: tabular-nums;
+}
+.acum-desenho .acum-halo[data-v-9a41f87f] { paint-order: stroke; stroke: var(--fundo, #faf9f6); stroke-width: 4px; stroke-linejoin: round;
+}
+.acum-desenho .acum-fundo-rotulo[data-v-9a41f87f] { fill: var(--fundo, #faf9f6); fill-opacity: 0.92; pointer-events: none;
+}
+.acum-desenho .acum-pega[data-v-9a41f87f] { outline: none;
+}
+.acum-desenho .acum-pega .acum-anel[data-v-9a41f87f] { stroke: transparent; stroke-width: 2;
+}
+.acum-desenho .acum-pega:focus-visible .acum-anel[data-v-9a41f87f] { stroke: var(--tinta);
+}
+.acum-arrastando[data-v-9a41f87f] { cursor: grabbing;
+}
+.acum-par-botao[data-v-9a41f87f] { display: inline-flex; align-items: center; gap: 5px;
+}
+.acum-vezes[data-v-9a41f87f] { font-weight: 400; opacity: 0.7;
+}
+.acum-passeio-pe[data-v-9a41f87f] { font-weight: 600; color: var(--tinta2);
+}
+.acum-botao-pop[aria-pressed='true'][data-v-9a41f87f] { background: var(--tinta); color: #fff; border-color: var(--tinta);
+}
+
+.par-marca[data-v-18f983d6] { white-space: nowrap;
+}
