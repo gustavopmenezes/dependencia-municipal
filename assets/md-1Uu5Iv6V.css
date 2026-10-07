@@ -1,0 +1,23 @@
+
+.trienio-quadro[data-v-f2be26c4] { max-width: 1140px; font-size: 19px; line-height: 1.45;
+}
+.trienio-quadro p[data-v-f2be26c4] { margin: 0 0 14px;
+}
+.trienio-tabela[data-v-f2be26c4] { width: 100%; border-collapse: collapse; font-size: 18.5px; margin: 4px 0 14px; font-variant-numeric: tabular-nums;
+}
+.trienio-tabela th[data-v-f2be26c4] { text-align: right; font-weight: 600; font-size: 15px; color: var(--tinta2); border-bottom: 1px solid var(--cinza2); padding: 5px 8px;
+}
+.trienio-tabela td[data-v-f2be26c4] { text-align: right; padding: 8px 8px; border-bottom: 1px solid var(--fio); line-height: 1.3;
+}
+.trienio-tabela td + td[data-v-f2be26c4] { white-space: nowrap;
+}
+.trienio-tabela th[data-v-f2be26c4]:first-child, .trienio-tabela td[data-v-f2be26c4]:first-child { text-align: left; padding-left: 0;
+}
+.trienio-tabela td small[data-v-f2be26c4] { display: block; font-size: 14px; color: var(--tinta2);
+}
+.trienio-tabela tr.trienio-excecao td[data-v-f2be26c4] { border-top: 2px solid var(--cinza2);
+}
+.tempo-desce[data-v-f2be26c4] { color: #e34948; font-weight: 600; white-space: nowrap;
+}
+.tempo-sobe[data-v-f2be26c4] { color: #008300; font-weight: 600; white-space: nowrap;
+}

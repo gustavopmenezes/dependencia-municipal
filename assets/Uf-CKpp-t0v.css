@@ -1,0 +1,50 @@
+
+.uf-selo[data-v-5af0f0a8] {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  white-space: nowrap;
+  vertical-align: baseline;
+  color: inherit;
+}
+.uf-selo-bandeira[data-v-5af0f0a8] {
+  flex: none;
+  display: block;
+  object-fit: cover;
+  background: var(--cinza1);
+  box-shadow: 0 0 0 1px var(--cinza2);
+  max-width: none;
+}
+.uf-selo-circulo .uf-selo-bandeira[data-v-5af0f0a8] { border-radius: 50%;
+}
+
+/* pequeno: acompanha a letra em volta; o texto fica na linha de base e a bandeira desce um pouco */
+.uf-selo-p[data-v-5af0f0a8] { display: inline;
+}
+.uf-selo-p .uf-selo-bandeira[data-v-5af0f0a8] {
+  display: inline-block;
+  width: 1.12em;
+  height: 1.12em;
+  vertical-align: -0.2em;
+  margin-right: 0.28em;
+}
+.uf-selo-p .uf-selo-sigla[data-v-5af0f0a8] { font-weight: 600;
+}
+.uf-selo-p.uf-selo-quadrado .uf-selo-bandeira[data-v-5af0f0a8] { border-radius: 0.2em;
+}
+.uf-selo-p.uf-selo-sozinho .uf-selo-bandeira[data-v-5af0f0a8] { margin-right: 0;
+}
+
+/* grande: a apresentação do estado */
+.uf-selo-g[data-v-5af0f0a8] { gap: 12px; vertical-align: middle;
+}
+.uf-selo-g .uf-selo-bandeira[data-v-5af0f0a8] { width: 56px; height: 56px;
+}
+.uf-selo-g.uf-selo-quadrado .uf-selo-bandeira[data-v-5af0f0a8] { border-radius: 8px;
+}
+.uf-selo-textos[data-v-5af0f0a8] { display: inline-flex; flex-direction: column; line-height: 1.15;
+}
+.uf-selo-nome[data-v-5af0f0a8] { font-family: var(--serifa); font-size: 22px; font-weight: 600; color: var(--tinta);
+}
+.uf-selo-sigla-menor[data-v-5af0f0a8] { font-size: 14px; font-weight: 600; letter-spacing: 0.06em; color: var(--tinta2);
+}

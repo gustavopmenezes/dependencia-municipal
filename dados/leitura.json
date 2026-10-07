@@ -1,0 +1,10 @@
+{
+  "palavras": 24129,
+  "slides": 69,
+  "vistas": 195,
+  "vistas_de_desenho": 160,
+  "minutos": 142.0,
+  "minutos_titulos": 30.8,
+  "regra": "200 palavras por minuto mais 8 s por vista de desenho; a passada rápida conta só o olho e o título de cada slide e 8 s por vista",
+  "origem": "capturas/final/vistas"
+}

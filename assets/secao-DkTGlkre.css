@@ -1,0 +1,211 @@
+
+.icone-chave-secao[data-v-4451a335] {
+  width: 26px;
+  height: 26px;
+  flex: none;
+  fill: none;
+  stroke: var(--tinta);
+  stroke-width: 1.9px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  transform-origin: 50% 50%;
+}
+
+.interrogacao-grande-deck {
+  width: 0.62em;
+  height: 0.86em;
+  perspective: 1100px;
+  font-family: var(--serifa);
+  font-weight: 700;
+  line-height: 1;
+  user-select: none;
+  -webkit-user-select: none;
+  pointer-events: none;
+}
+/* a inclinação fica fora do giro: o eixo é que está torto */
+.interrogacao-grande-eixo {
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transform: rotateZ(-11deg) rotateX(9deg);
+}
+.interrogacao-grande-giro {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transform: rotateY(-26deg);
+  animation: interrogacao-grande-gira 13s linear infinite;
+}
+.interrogacao-grande-camada {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -0.11em;
+  text-align: center;
+  color: var(--cinza2);
+}
+/* o sinal vem do CSS, não do texto: é enfeite. Assim as 13 camadas não entram no texto copiado, na leitura do
+   texto da página nem no leitor de tela (a raiz também leva aria-hidden); o texto alternativo é vazio. */
+.interrogacao-grande-camada::before { content: '?'; content: '?' / '';
+}
+.interrogacao-grande-face { color: var(--tinta);
+}
+.interrogacao-grande-clara .interrogacao-grande-camada { color: #6b6a66;
+}
+.interrogacao-grande-clara .interrogacao-grande-face { color: #faf9f6;
+}
+@keyframes interrogacao-grande-gira {
+from { transform: rotateY(-26deg);
+}
+to { transform: rotateY(334deg);
+}
+}
+html.sem-animacao .interrogacao-grande-giro { animation: none;
+}
+@media print {
+.interrogacao-grande-giro { animation: none;
+}
+}
+@media (prefers-reduced-motion: reduce) {
+.interrogacao-grande-giro { animation: none;
+}
+}
+
+.abre-secao[data-v-f412d1a8] {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.bloco[data-v-f412d1a8] { max-width: 900px;
+}
+.ponto[data-v-f412d1a8] { margin: 0 0.5em;
+}
+.emoji-da-secao[data-v-f412d1a8] { margin-right: 0.45em; letter-spacing: 0; font-size: 15px;
+}
+.olho-com-icone-secao[data-v-f412d1a8] { display: flex; align-items: center;
+}
+.olho-com-icone-secao .icone-chave-secao[data-v-f412d1a8] { margin-right: 10px;
+}
+.regua[data-v-f412d1a8] {
+  width: 64px;
+  height: 2px;
+  background: var(--tinta);
+  margin: 18px 0 22px;
+}
+.abre-secao h1[data-v-f412d1a8] {
+  white-space: pre-line; /* o título pode trazer quebra de linha ("\n" no frontmatter) */
+  font-size: 50px;
+  line-height: 1.1;
+}
+/* letra de abertura: sobe da linha de base da primeira linha, grossa, com o corpo de duas linhas e meia */
+.capitular-da-secao[data-v-f412d1a8] {
+  font-family: var(--serifa);
+  font-weight: 700;
+  font-size: 2.5em;
+  line-height: 0.82;
+  letter-spacing: -0.01em;
+  margin-right: 0.005em;
+  color: var(--tinta);
+}
+/* em bloco de linha, a caixa da letra passa a contar na altura da primeira linha: a de baixo desce o que a perna pede */
+.capitular-que-desce[data-v-f412d1a8] {
+  display: inline-block;
+  padding-bottom: 0.13em;
+}
+.apoio[data-v-f412d1a8] {
+  margin-top: 26px;
+  font-size: 22px;
+  line-height: 1.4;
+  color: var(--tinta2);
+  max-width: 760px;
+}
+
+/* com segunda coluna: o bloco estreita e o título desce de corpo para caber ao lado do balão */
+.abre-secao-com-lado[data-v-f412d1a8] { gap: 44px;
+}
+.abre-secao-com-lado .bloco[data-v-f412d1a8] { flex: 0 0 500px; max-width: 500px;
+}
+.abre-secao-com-lado h1[data-v-f412d1a8] { font-size: 40px; line-height: 1.12;
+}
+.abre-secao-com-lado .apoio[data-v-f412d1a8] { font-size: 20px;
+}
+.lado-da-secao[data-v-f412d1a8] { flex: 1 1 0; min-width: 0;
+}
+
+/* com interrogação: o bloco cede a faixa da direita */
+.abre-secao-com-pergunta[data-v-f412d1a8] { gap: 36px;
+}
+.abre-secao-com-pergunta .bloco[data-v-f412d1a8] { flex: 0 1 800px; max-width: 800px; min-width: 0;
+}
+.interrogacao-da-secao[data-v-f412d1a8] {
+  flex: 1 1 0;
+  min-width: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* com imagem: coluna da direita, do alto do slide até o rodapé, recortada. A imagem ocupa a coluna inteira; a
+   legenda e o crédito ficam por cima dela, numa faixa escura embaixo, legível sobre imagem clara ou escura.
+   `imagemPosicao` no frontmatter (ex.: "30% 50%") escolhe o trecho da imagem que fica à mostra. */
+.abre-secao-com-imagem .bloco[data-v-f412d1a8] { max-width: none; min-width: 0;
+}
+.imagem-da-secao[data-v-f412d1a8] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: var(--rodape);
+  overflow: hidden;
+  background: var(--tinta);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  color: #fff;
+}
+/* só a imagem da coluna; a bandeira de um <Uf> dentro da legenda fica como está */
+.imagem-da-secao[data-v-f412d1a8] img:not(.uf-selo-bandeira) {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  object-fit: cover;
+  object-position: var(--imagem-posicao, 50% 50%);
+  z-index: 0;
+}
+.imagem-da-secao[data-v-f412d1a8] p {
+  position: relative;
+  z-index: 2;
+  margin: 0;
+  padding: 0 16px;
+  font-size: 14px;
+  line-height: 1.35;
+  color: #fff;
+  background: rgba(22, 29, 38, 0.82);
+  text-wrap: pretty;
+}
+.imagem-da-secao[data-v-f412d1a8] p:has(> img) { position: static; height: 0; padding: 0; background: none;
+}
+.imagem-da-secao[data-v-f412d1a8] p:not(:has(> img)) { padding-top: 9px;
+}
+.imagem-da-secao[data-v-f412d1a8] p:not(:has(> img)) ~ p { padding-top: 2px;
+}
+.imagem-da-secao[data-v-f412d1a8] p:last-of-type { padding-bottom: 10px;
+}
+.imagem-da-secao[data-v-f412d1a8] small {
+  display: block;
+  margin-top: 3px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.84);
+}
+.imagem-da-secao[data-v-f412d1a8] a { color: inherit; text-decoration-color: currentColor;
+}
+.interrogacao-sobre-a-imagem[data-v-f412d1a8] {
+  position: absolute;
+  z-index: 2;
+  /* left e top vêm do frontmatter (interrogacaoPosicao); a margem centra o sinal no ponto escolhido */
+  margin: -0.43em 0 0 -0.31em;
+  filter: drop-shadow(0 6px 18px rgba(0, 0, 0, 0.45));
+}

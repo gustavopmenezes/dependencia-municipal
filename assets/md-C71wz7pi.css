@@ -1,0 +1,25 @@
+
+.texto-lado[data-v-f432c4c8] { font-size: 17.5px; line-height: 1.42;
+}
+.como-interagir[data-v-f432c4c8] { font-size: 14px; margin-top: 12px;
+}
+.faixas-quadro[data-v-f432c4c8] { width: 100%; margin: 12px 0 0; border-collapse: collapse; font-size: 15.5px; line-height: 1.3; font-variant-numeric: tabular-nums lining-nums;
+}
+.faixas-quadro caption[data-v-f432c4c8] { caption-side: top; text-align: left; font-size: 13px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--mudo); padding-bottom: 5px;
+}
+.faixas-quadro th[data-v-f432c4c8], .faixas-quadro td[data-v-f432c4c8] { padding: 4px 4px; border: 0; border-bottom: 1px solid var(--fio); text-align: right; white-space: nowrap; background: transparent;
+}
+.faixas-quadro th[data-v-f432c4c8]:first-child, .faixas-quadro td[data-v-f432c4c8]:first-child { text-align: left;
+}
+.faixas-quadro thead th[data-v-f432c4c8] { font-size: 14px; font-weight: 600; color: var(--tinta2); border-bottom: 1.5px solid var(--tinta);
+}
+.faixas-quadro tbody td[data-v-f432c4c8] { color: var(--tinta2);
+}
+.faixas-quadro tbody td b[data-v-f432c4c8], .faixas-quadro tfoot td b[data-v-f432c4c8] { color: var(--tinta);
+}
+.faixas-quadro tbody td[data-v-f432c4c8]:first-child { color: var(--tinta);
+}
+.faixas-quadro tfoot td[data-v-f432c4c8] { border-bottom: 0; font-weight: 600;
+}
+.faixas-quadro .tom[data-v-f432c4c8] { display: inline-block; width: 12px; height: 12px; margin-right: 7px; vertical-align: -1px; border: 1px solid var(--cinza3);
+}

@@ -1,0 +1,39 @@
+
+.lt-marcos { display: flex; justify-content: space-between; gap: 0; width: 100%; border-top: 2px solid var(--cinza3);
+}
+.lt-marco { display: flex; flex-direction: column; justify-content: flex-start; flex: 0 1 auto; min-width: 0; position: relative; text-align: left; background: none; border: 0; border-radius: 0 0 6px 6px; padding: 8px 5px 3px 0; font: inherit; color: var(--tinta2); cursor: pointer; line-height: 1.2;
+}
+.lt-marco.ativo { color: var(--tinta);
+}
+.lt-marco::before { content: ''; position: absolute; left: 0; top: -6px; width: 10px; height: 10px; border-radius: 50%; background: var(--fundo); border: 2px solid var(--cinza3); box-sizing: border-box;
+}
+.lt-marco.ativo::before { background: var(--tinta); border-color: var(--tinta);
+}
+.lt-marco:focus-visible { outline: 2px solid var(--tinta); outline-offset: 1px;
+}
+.lt-ano { display: block; font-size: 13.5px; font-weight: 600; white-space: nowrap;
+}
+.lt-marco.ativo .lt-ano { font-weight: 700; text-decoration: underline; text-underline-offset: 3px;
+}
+.lt-texto { width: 100%; min-height: 5.4em; margin-bottom: 4px; font-size: 14px; line-height: 1.35; color: var(--tinta2);
+}
+.lt-fontes a { color: inherit; text-decoration: underline; text-underline-offset: 2px;
+}
+.lt-marco.passo-mudou { border-radius: 6px;
+}
+.lt-texto strong { color: var(--tinta);
+}
+.lt-nota { font-size: 13px;
+}
+/* tipo não realçado: o texto da legenda fica em cinza médio (legível no impresso); só a marca apaga */
+.gm-leg-item.lt-leg.apagado { opacity: 1; color: #5f5f5a;
+}
+.gm-leg-item.lt-leg.apagado .gm-q { opacity: 0.4;
+}
+
+.verba-linha-autor[data-v-99935c5e] { margin: 2px 0 8px; padding: 7px 12px 8px; background: var(--papel); border: 1px solid var(--cinza2); border-radius: var(--raio); font-size: 14px; line-height: 1.34; color: var(--tinta2);
+}
+.verba-linha-rotulo[data-v-99935c5e] { display: block; font-size: 13px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--mudo);
+}
+.verba-linha-dados[data-v-99935c5e] { margin-top: 5px;
+}

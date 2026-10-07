@@ -1,0 +1,33 @@
+
+.gm-area svg text.evo-leitura { font-size: 13px; fill: var(--tinta2); font-variant-numeric: tabular-nums;
+}
+.gm-area svg text.evo-numero { font-size: 13px; font-weight: 700; fill: #fff;
+}
+.evo-leg-num { font-size: 13px; font-weight: 600; color: var(--tinta);
+}
+.evo-leg-num.evo-leg-mudo { color: var(--mudo);
+}
+button.gm-leg-item.evo-liga-media { border: 1px solid var(--cinza2); border-radius: 999px; padding: 1px 9px;
+}
+button.gm-leg-item.evo-liga-media.ativo { background: var(--tinta); color: #fff; font-weight: 600;
+}
+button.gm-leg-item.evo-liga-media.ativo .gm-q.fino { border-top-color: #fff;
+}
+.evo-foco-lado { position: absolute; top: 0; font-size: 15px; line-height: 1.4; color: var(--tinta);
+}
+.evo-foco-lado .evo-foco-titulo { margin: 0 0 6px; font-size: 19px; font-weight: 700; line-height: 1.2;
+}
+.evo-foco-lado p { margin: 0 0 9px; text-wrap: pretty;
+}
+.evo-foco-lado .evo-foco-rotulo { display: block; font-size: 13px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: var(--tinta2);
+}
+.evo-foco-lado a, .evo-marcos a { color: inherit; text-decoration: underline; text-underline-offset: 2px; white-space: nowrap;
+}
+.evo-marcos { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 4px 18px; margin-bottom: 6px; color: var(--tinta); font-size: 13.5px; line-height: 1.35;
+}
+.evo-marco { display: grid; grid-template-columns: 22px minmax(0, 1fr); gap: 6px; align-items: start; text-wrap: pretty;
+}
+.evo-marco-n { display: inline-flex; align-items: center; justify-content: center; width: 20px; height: 20px; border-radius: 50%; background: var(--tinta); color: #fff; font-size: 13px; font-weight: 700; line-height: 1; margin-top: 1px;
+}
+.evo-asterisco { font-size: 13px; color: var(--mudo);
+}

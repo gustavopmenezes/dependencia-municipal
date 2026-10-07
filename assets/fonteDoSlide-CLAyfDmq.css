@@ -1,0 +1,5 @@
+
+.fonte-texto-link { color: inherit; text-decoration: underline; text-decoration-color: var(--cinza2); text-underline-offset: 2px;
+}
+.fonte-texto-link:hover { text-decoration-color: currentColor;
+}

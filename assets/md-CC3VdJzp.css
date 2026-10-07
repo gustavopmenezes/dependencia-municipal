@@ -1,0 +1,21 @@
+
+.pares-80[data-v-033a956e] { display: flex; flex-direction: column; gap: 8px; padding-top: 6px;
+}
+.p80-linha[data-v-033a956e] { display: grid; grid-template-columns: minmax(0, 1.5fr) 1fr 1fr; gap: 16px; align-items: center;
+}
+.p80-cabeca[data-v-033a956e] { font-size: 13px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--mudo); padding: 0 18px;
+}
+.p80-linha.cartao[data-v-033a956e] { padding: 9px 18px;
+}
+.p80-junto[data-v-033a956e] { border-left: 4px solid var(--tinta);
+}
+.p80-vao[data-v-033a956e] { margin-top: 12px;
+}
+.p80-nome[data-v-033a956e] { font-size: 17px; font-weight: 600; line-height: 1.25;
+}
+.p80-nome > span[data-v-033a956e] { display: flex; align-items: center; gap: 4px; flex-wrap: wrap;
+}
+.p80-nome small[data-v-033a956e] { display: block; font-size: 13.5px; font-weight: 400; color: var(--mudo); margin-top: 3px;
+}
+.p80-linha b[data-v-033a956e] { font-size: 30px; font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums;
+}

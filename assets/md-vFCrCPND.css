@@ -1,0 +1,23 @@
+
+.pec-texto[data-v-79262053] { font-size: 15px; line-height: 1.37;
+}
+.pec-texto p[data-v-79262053] { margin: 0 0 8px;
+}
+.pec-autor[data-v-79262053] { border-left: 3px solid var(--tinta); padding: 2px 0 2px 12px; margin: 10px 0 0; text-wrap: pretty;
+}
+.pec-texto p[data-v-79262053] { text-wrap: pretty;
+}
+.sem-quebra[data-v-79262053] { white-space: nowrap;
+}
+.pec-autor-rotulo[data-v-79262053] { font-size: 13px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--mudo); margin-bottom: 2px;
+}
+.pec-coluna[data-v-79262053] { display: flex; flex-direction: column; gap: 10px; height: 100%;
+}
+.pec-video[data-v-79262053] { width: 100%; max-width: 520px;
+}
+.pec-video-legenda[data-v-79262053] { font-size: 13px; line-height: 1.35; color: var(--tinta2); margin-top: -4px;
+}
+.pec-contagens[data-v-79262053] { display: flex; gap: 36px; align-items: flex-start;
+}
+.pec-nota[data-v-79262053] { font-size: 14px; line-height: 1.38; color: var(--tinta2);
+}

@@ -468,7 +468,53 @@
      "SE": [],
      "NE": []
     },
-    "anotacoes": []
+    "anotacoes": [
+     {
+      "ano": 2016,
+      "texto": "2016: receita ▲ +12,5%",
+      "grupo": "SE"
+     },
+     {
+      "ano": 2018,
+      "texto": "2018: tributos ▲ +20%",
+      "grupo": "SE"
+     }
+    ],
+    "leitura": {
+     "SE,NE": "Sobe devagar, de base baixa, nas duas regiões. Em 2016 a fatia cai porque a receita corrente (▲ +12,5%) cresce mais que os tributos (▲ +5,5%). Em 2018 os tributos têm ▲ +20,2%; a ligação com o ISS mínimo de 2% (LC 157, de 2016) não foi medida.",
+     "SP,MA": "Sobe nos dois estados. O imposto próprio se concentra nas cidades grandes."
+    },
+    "medida": "receita tributária",
+    "ultimo_ano": {
+     "SP": {
+      "n": 387,
+      "mediana": 0.091184,
+      "media": 0.09986,
+      "desvio": 0.048399,
+      "ano": 2025
+     },
+     "MA": {
+      "n": 124,
+      "mediana": 0.033635,
+      "media": 0.03921,
+      "desvio": 0.029003,
+      "ano": 2025
+     },
+     "SE": {
+      "n": 1118,
+      "mediana": 0.063994,
+      "media": 0.073602,
+      "desvio": 0.04423,
+      "ano": 2025
+     },
+     "NE": {
+      "n": 1168,
+      "mediana": 0.038168,
+      "media": 0.044835,
+      "desvio": 0.032774,
+      "ano": 2025
+     }
+    }
    },
    "componentes": [
     {
@@ -561,9 +607,12 @@
    "como_reparte": "Não se reparte: fica com quem arrecada. O rendimento financeiro cresce com o caixa e com a taxa de juros.",
    "mudancas": [],
    "tendencia": {
-    "texto": "Fatia pequena: 6,3% do total em 2024, mediana de 3,3% em São Paulo e de 1,0% no Maranhão. Só o rendimento das aplicações soma R$ 16,7 bilhões, 2,0% do total. A série longa não separa esta fatia; o efeito do juro alto depois de 2021 é hipótese.",
+    "texto": "Fatia pequena: 6,3% do total em 2024, mediana de 3,3% em São Paulo e de 1,0% no Maranhão. Só o rendimento das aplicações soma R$ 16,7 bi, 2,0% do total. A série longa não separa esta fatia; o efeito do juro alto depois de 2021 é hipótese.",
     "serie": null,
-    "anotacoes": []
+    "anotacoes": [],
+    "leitura": {
+     "retrato": "Fatia pequena: 6,3% do total das duas regiões em 2024. Só o rendimento das aplicações soma R$ 16,7 bi, 2,0% do total. A série longa não separa esta fatia; o efeito do juro alto depois de 2021 é hipótese."
+    }
    },
    "componentes": [
     {
@@ -646,7 +695,7 @@
     },
     {
      "ano": 2020,
-     "o_que": "LC 176: a União paga R$ 58 bilhões de 2020 a 2037 pela desoneração das exportações; 25% vão aos municípios.",
+     "o_que": "LC 176: a União paga R$ 58 bi de 2020 a 2037 pela desoneração das exportações; 25% vão aos municípios.",
      "efeito": "sobe",
      "conferido": true,
      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp176.htm"
@@ -667,7 +716,7 @@
     },
     {
      "ano": 2023,
-     "o_que": "LC 201: a União compensa R$ 27,0 bilhões aos estados pela perda de 2022; 25% são dos municípios.",
+     "o_que": "LC 201: a União compensa R$ 27,0 bi aos estados pela perda de 2022; 25% são dos municípios.",
      "efeito": "sobe",
      "conferido": true,
      "fonte": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp201.htm"
@@ -1864,7 +1913,42 @@
      "SE": [],
      "NE": []
     },
-    "anotacoes": []
+    "anotacoes": [],
+    "leitura": {
+     "SE,NE": "Desce no Sudeste e fica perto de 8% no Nordeste.",
+     "SP,MA": "Desce em São Paulo e sobe no Maranhão. O salto maranhense é de 2023 para 2024 (5,7% para 9,6%), junto com a regra nova de rateio; a causa não foi medida."
+    },
+    "medida": "ICMS + IPVA",
+    "ultimo_ano": {
+     "SP": {
+      "n": 387,
+      "mediana": 0.238037,
+      "media": 0.243921,
+      "desvio": 0.066437,
+      "ano": 2025
+     },
+     "MA": {
+      "n": 124,
+      "mediana": 0.097574,
+      "media": 0.109597,
+      "desvio": 0.060621,
+      "ano": 2025
+     },
+     "SE": {
+      "n": 1118,
+      "mediana": 0.174284,
+      "media": 0.192539,
+      "desvio": 0.07466,
+      "ano": 2025
+     },
+     "NE": {
+      "n": 1168,
+      "mediana": 0.083944,
+      "media": 0.099506,
+      "desvio": 0.056803,
+      "ano": 2025
+     }
+    }
    },
    "componentes": [
     {
@@ -1974,9 +2058,12 @@
     }
    ],
    "tendencia": {
-    "texto": "Muito concentrada. Soma R$ 28,3 bilhões em 2024, 3,4% do total (4,7% no Sudeste, 0,9% no Nordeste), mas a mediana municipal é 0,1% no Sudeste e zero no Nordeste. É a maior fatia em 58 municípios, 52 deles no Sudeste. Não há série longa no estudo.",
+    "texto": "Muito concentrada. Soma R$ 28,3 bi em 2024, 3,4% do total (4,7% no Sudeste, 0,9% no Nordeste), mas a mediana municipal é 0,1% no Sudeste e zero no Nordeste. É a maior fatia em 58 municípios, 52 deles no Sudeste. Não há série longa no estudo.",
     "serie": null,
-    "anotacoes": []
+    "anotacoes": [],
+    "leitura": {
+     "retrato": "Muito concentrada: soma R$ 28,3 bi em 2024, 3,4% do total (4,7% no Sudeste, 0,9% no Nordeste), e é a maior fatia em 58 municípios, 52 deles no Sudeste. Não há série longa no estudo."
+    }
    },
    "componentes": [
     {
@@ -2548,7 +2635,52 @@
      "SE": [],
      "NE": []
     },
-    "anotacoes": []
+    "anotacoes": [
+     {
+      "ano": 2020,
+      "texto": "2020: auxílio federal"
+     },
+     {
+      "ano": 2021,
+      "texto": "2021: FPM ▲ +46%",
+      "par": "SE,NE"
+     }
+    ],
+    "leitura": {
+     "SE,NE": "Desce nas duas regiões e se separa depois de 2022. Em 2020, com o auxílio federal da pandemia (LC 173 e Lei 14.041), a receita corrente tem ▲ +9,0% e o FPM, ▼ −4,6%. Em 2021 o FPM tem ▲ +45,7%: é a mediana da variação, de um ano para o outro, nos municípios de até 20 mil habitantes do Sudeste, na série do IPEADATA. O total nacional do FPM não foi conferido em fonte aberta.",
+     "SP,MA": "Desce no Maranhão desde 2002. Em São Paulo desce até 27,5% em 2020, o ano do auxílio federal da pandemia (LC 173 e Lei 14.041), e volta a subir."
+    },
+    "medida": "FPM",
+    "ultimo_ano": {
+     "SP": {
+      "n": 387,
+      "mediana": 0.355201,
+      "media": 0.37525,
+      "desvio": 0.108408,
+      "ano": 2025
+     },
+     "MA": {
+      "n": 124,
+      "mediana": 0.290388,
+      "media": 0.292419,
+      "desvio": 0.050413,
+      "ano": 2025
+     },
+     "SE": {
+      "n": 1118,
+      "mediana": 0.409283,
+      "media": 0.406362,
+      "desvio": 0.11535,
+      "ano": 2025
+     },
+     "NE": {
+      "n": 1168,
+      "mediana": 0.361186,
+      "media": 0.370362,
+      "desvio": 0.090049,
+      "ano": 2025
+     }
+    }
    },
    "componentes": [
     {
@@ -2625,7 +2757,7 @@
    "quem_paga": "O próprio estado e as próprias prefeituras, com 20% do FPM, do ICMS, do IPVA e de outras receitas. A União completa onde o valor por aluno fica baixo.",
    "garantia": "constitucional",
    "base_legal": "Constituição, art. 212-A (EC 108/2020), e Lei 14.113/2020. Dinheiro carimbado: só educação básica, com no mínimo 70% para pagar os profissionais.",
-   "como_reparte": "Dentro de cada estado, pelo número de matrículas de cada rede, com pesos por etapa. A complementação da União vai para os fundos e as redes com menos dinheiro por aluno.",
+   "como_reparte": "Dentro de cada estado, pelo número de matrículas de cada rede, com pesos por etapa. Quase toda a complementação da União vai para os fundos e as redes com menos dinheiro por aluno.",
    "mudancas": [
     {
      "ano": 1996,
@@ -2720,7 +2852,27 @@
      "NE": []
     },
     "serie_nota": "Mediana da parcela da receita-base (líquida), municípios de até 20 mil habitantes, contas anuais de 2022 a 2025; só São Paulo e Maranhão.",
-    "anotacoes": []
+    "anotacoes": [],
+    "leitura": {
+     "SP,MA": "Estável nos quatro anos medidos e muito diferente entre os estados. A série de 2002 a 2025 não traz o FUNDEB: por isso o gráfico começa em 2022 e só tem os dois estados."
+    },
+    "medida": "FUNDEB",
+    "ultimo_ano": {
+     "SP": {
+      "n": 371,
+      "mediana": 0.116028,
+      "media": 0.116018,
+      "desvio": 0.039764,
+      "ano": 2025
+     },
+     "MA": {
+      "n": 126,
+      "mediana": 0.376033,
+      "media": 0.36779,
+      "desvio": 0.086781,
+      "ano": 2025
+     }
+    }
    },
    "componentes": [
     {
@@ -2834,7 +2986,7 @@
     }
    ],
    "tendencia": {
-    "texto": "Subiu de 2022 a 2025. No município de até 20 mil habitantes a mediana passou de 5,2% para 6,8% da receita em São Paulo e de 10,5% para 12,1% no Maranhão. Em 2024 soma R$ 88,5 bilhões, 10,6% do total. A fatia conta só o repasse corrente; o SUS de convênio e de capital está em outras transferências.",
+    "texto": "Subiu de 2022 a 2025. No município de até 20 mil habitantes a mediana passou de 5,2% para 6,8% da receita em São Paulo e de 10,5% para 12,1% no Maranhão. Em 2024 soma R$ 88,5 bi, 10,6% do total. A fatia conta só o repasse corrente; o SUS de convênio e de capital está em outras transferências.",
     "serie": {
      "SP": [
       [
@@ -2876,7 +3028,27 @@
      "NE": []
     },
     "serie_nota": "Mediana da parcela da receita-base (líquida), municípios de até 20 mil habitantes, contas anuais de 2022 a 2025; só São Paulo e Maranhão.",
-    "anotacoes": []
+    "anotacoes": [],
+    "leitura": {
+     "SP,MA": "Sobe de 2022 a 2025 nos dois estados. Conta só o repasse corrente; o SUS de convênio e de capital está em outras transferências. Sem série de 2002 a 2025: o gráfico só tem os dois estados."
+    },
+    "medida": "SUS",
+    "ultimo_ano": {
+     "SP": {
+      "n": 371,
+      "mediana": 0.068465,
+      "media": 0.070958,
+      "desvio": 0.0276,
+      "ano": 2025
+     },
+     "MA": {
+      "n": 126,
+      "mediana": 0.120806,
+      "media": 0.121976,
+      "desvio": 0.033805,
+      "ano": 2025
+     }
+    }
    },
    "componentes": [
     {
@@ -3000,9 +3172,12 @@
     }
    ],
    "tendencia": {
-    "texto": "Fatia de 5,9% do total em 2024 (R$ 49,2 bilhões), com mediana municipal de 8,8% em São Paulo e 7,3% no Maranhão: pesa mais no município pequeno. É a parte menos previsível. A série longa e o painel de 2022 a 2025 não a isolam.",
+    "texto": "Fatia de 5,9% do total em 2024 (R$ 49,2 bi), com mediana municipal de 8,8% em São Paulo e 7,3% no Maranhão: pesa mais no município pequeno. É a parte menos previsível. A série longa e o painel de 2022 a 2025 não a isolam.",
     "serie": null,
-    "anotacoes": []
+    "anotacoes": [],
+    "leitura": {
+     "retrato": "É a parte menos previsível e pesa mais no município pequeno. Soma R$ 49,2 bi em 2024, 5,9% do total das duas regiões. A série longa e o painel de 2022 a 2025 não a isolam."
+    }
    },
    "componentes": [
     {
@@ -3102,7 +3277,7 @@
   {
    "rotulo": "Divide em três partes",
    "valor": "86,4%",
-   "texto": "Vai aos municípios que não são capital (o “interior” da lei). As capitais ficam com 10% e a reserva dos grandes do interior com 3,6%.",
+   "texto": "Vai aos municípios que não são capital (o “interior” da lei). Capitais: 10%. Reserva dos grandes do interior: 3,6%.",
    "conferido": true
   },
   {
@@ -3120,51 +3295,51 @@
   {
    "rotulo": "Piso até 10.188 habitantes",
    "valor": "0,6",
-   "texto": "Quem tem 900 ou 10 mil moradores recebe a mesma cota dentro do estado: R$ 17,5 milhões em São Paulo e R$ 15,9 milhões no Maranhão em 2024.",
+   "texto": "É o coeficiente de todo município até esse tamanho. Em 2024 ele valeu R$ 17,5 milhões em São Paulo e R$ 15,9 milhões no Maranhão, antes do desconto para o FUNDEB.",
    "conferido": true
   },
   {
    "rotulo": "Muito por habitante no minúsculo",
    "valor": "R$ 18,8 mil",
-   "texto": "FPM de 2024 por habitante de Borá (SP, 928 moradores na estimativa de 2024). Em Nova Iorque (MA, 4.412 moradores), R$ 3,6 mil.",
+   "texto": "FPM bruto de 2024 por habitante em Borá (SP, 928 moradores na estimativa de 2024). Em Nova Iorque (MA, 4.412 moradores), R$ 3,6 mil.",
    "conferido": true
   }
  ],
  "fundeb_passos": [
   {
-   "rotulo": "Estado e prefeituras separam 20%",
+   "rotulo": "Uma cesta de impostos",
    "valor": "20%",
-   "texto": "De uma cesta de impostos e repasses. Do estado: ICMS, IPVA, imposto sobre herança e doação e FPE. Das prefeituras: FPM e as cotas do ICMS, do IPVA, do ITR e do IPI-exportação. IPTU, ISS, ITBI e as cotas extras do FPM ficam fora.",
+   "texto": "De cada item da cesta. Do estado: ICMS, IPVA, imposto sobre herança e doação e FPE. Das prefeituras: FPM e cotas do ICMS, do IPVA, do ITR e do IPI‑exportação. IPTU, ISS, ITBI e as cotas extras do FPM ficam fora.",
    "conferido": true
   },
   {
-   "rotulo": "27 fundos independentes",
-   "valor": "27",
-   "texto": "Um por estado e um do Distrito Federal. O dinheiro não passa de um estado para outro: o FUNDEB é intraestadual. A regra é nacional; cada fundo reparte só dentro do seu estado.",
+   "rotulo": "Um fundo por estado",
+   "valor": "27 fundos",
+   "texto": "Um por estado e um do Distrito Federal, independentes um do outro no dinheiro: o que entra num não passa para outro. A regra é nacional.",
    "conferido": true
   },
   {
    "rotulo": "Volta conforme as matrículas",
    "valor": "100%",
-   "texto": "Todo o fundo é repartido entre o estado e as prefeituras pelo número de alunos de cada rede, com pesos por etapa.",
+   "texto": "Todo o fundo volta para o próprio estado e para os seus municípios, pelo número de alunos de cada rede, com pesos por etapa.",
    "conferido": true
   },
   {
    "rotulo": "Pequeno paulista põe mais",
    "valor": "93%",
-   "texto": "Dos municípios paulistas de até 5 mil habitantes são doadores. Borá pôs R$ 4,2 milhões e recebeu R$ 0,9 milhão em 2024.",
+   "texto": "Dos municípios paulistas de até 5 mil habitantes põem no fundo mais do que recebem. Borá pôs R$ 4,2 milhões e recebeu R$ 0,9 milhão em 2024.",
    "conferido": true
   },
   {
-   "rotulo": "União completa os mais pobres",
+   "rotulo": "União completa onde falta",
    "valor": "23%",
-   "texto": "Em 2026, do total dos fundos: 10 pontos ao estado com valor por aluno abaixo do mínimo nacional (VAAF), 10,5 à rede pobre em estado rico (VAAT) e 2,5 por resultado (VAAR). Era 10% até 2020 e 19% em 2024.",
+   "texto": "Do total dos fundos em 2026 (10% até 2020; 19% em 2024). Quase toda vai aos fundos e às redes com menos dinheiro por aluno; 2,5 pontos seguem resultado. Só esse dinheiro atravessa a divisa.",
    "conferido": true
   },
   {
    "rotulo": "No Maranhão, a maior receita",
    "valor": "89,3%",
-   "texto": "Dos municípios maranhenses têm o FUNDEB como maior fatia em 2024; em São Paulo, 1,3%. A complementação é 20,4% da receita das prefeituras maranhenses.",
+   "texto": "Dos municípios maranhenses têm o FUNDEB como maior fatia da receita em 2024. Em São Paulo, 1,3%.",
    "conferido": true
   }
  ],

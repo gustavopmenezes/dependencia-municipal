@@ -1,5 +1,5 @@
 ---
-titulo: De onde vem o dinheiro das prefeituras
+titulo: De onde vem o dinheiro das prefeituras?
 subtitulo: São Paulo e Maranhão, Sudeste e Nordeste nas contas municipais de 2024
 comparativo: São Paulo × Maranhão · Sudeste × Nordeste
 autor: Gustavo Paixão Menezes
@@ -43,9 +43,11 @@ Tabela. A pergunta em quatro leituras
 | Leitura | O que os dados mostram |
 |---|---|
 | Em número de prefeituras | São Paulo tem 150 municípios de até 5 mil habitantes; o Maranhão tem 5. Acima de 80% de dependência há 338 prefeituras paulistas (54% das do estado) e 210 maranhenses (98%). Acima de 90%, 92 paulistas (15%) e 184 maranhenses (86%). A ordem depende do corte |
-| Em reais por habitante | Até 5 mil habitantes, as transferências são de R$ 8,9 mil por habitante no Sudeste e R$ 8,5 mil no Nordeste, sem diferença que se distinga de zero. De 5 a 50 mil, o município paulista recebe de 9% a 12% a menos que o maranhense do mesmo tamanho |
+| Em reais por habitante | Até 5 mil habitantes, a mediana das transferências é de R$ 8,9 mil por habitante no Sudeste (média R$ 9,6 mil ± 3,4 mil)\* e de R$ 8,5 mil no Nordeste (média R$ 9,0 mil ± 2,2 mil)\*, sem diferença que se distinga de zero. De 5 a 50 mil, o município paulista recebe de 9% a 12% a menos que o maranhense do mesmo tamanho |
 | Em parcela da receita | A tamanho igual, até 50 mil habitantes, o Nordeste depende 6,7 pontos percentuais a mais que o Sudeste. É o teste registrado antes de ver o dado. Entre São Paulo e Maranhão a diferença é de 13,5 pontos, em conta exploratória, feita depois de ver o dado dos dois estados |
-| Em verba de deputado federal | Emenda federal paga em 2025, mediana dos municípios de até 20 mil habitantes: R$ 149 por habitante em São Paulo, a menor dos 13 estados, e R$ 357 no Maranhão |
+| Em verba de deputado federal | Emenda federal paga em 2025, mediana dos municípios de até 20 mil habitantes: R$ 149 por habitante em São Paulo (média R$ 195 ± 176)\*, a menor dos 13 estados, e R$ 357 no Maranhão (média R$ 411 ± 268)\* |
+
+\* A mediana é o município do meio; a média pesa os extremos; o desvio diz quanto os municípios se espalham. Onde média e mediana se afastam, poucos municípios puxam o conjunto.
 
 ## Dez números para guardar
 
@@ -62,8 +64,8 @@ Tabela. A pergunta em quatro leituras
    não separa ninguém.
 5. Por município ou por morador, a conta muda. **54%** das prefeituras paulistas recebem mais de 80% da receita
    de fora, mas nelas moram **7,1%** dos paulistas. No Maranhão, 98% das prefeituras e 78,5% da população.
-6. Uma prefeitura paulista de até 5 mil habitantes gasta **R$ 1.764** por habitante com Câmara e administração.
-   Uma de 20 a 50 mil gasta R$ 618. É custo fixo: o gasto por habitante cai depressa até perto de 20 mil
+6. Uma prefeitura paulista de até 5 mil habitantes gasta **R$ 1.764** por habitante com Câmara e administração,
+   na mediana (média R$ 1.997 ± 955)\*. Uma de 20 a 50 mil gasta R$ 618 (média R$ 743 ± 541)\*. É custo fixo: o gasto por habitante cai depressa até perto de 20 mil
    habitantes e depois para de cair.
 7. **93%** dos municípios paulistas de até 5 mil habitantes põem no FUNDEB mais do que recebem dele.
 8. Há **546** municípios logo acima dos degraus de população do FPM e **189** logo abaixo, no Censo de 2022. O
@@ -87,6 +89,18 @@ A segunda surpresa é de método. O número que mais circulou na imprensa em 202
 habitante, soma só FPM e FUNDEB. Com a receita inteira e contando por morador, em outro universo e com outra
 definição, a vantagem do município pequeno foi de 13% (PERES; MARQUES; ARMANI, 2025; conta deste estudo na
 seção 15).
+
+A terceira contraria uma hipótese do autor. Quem mais depende de receita externa tem mais receita com destino
+obrigatório, e não menos: na mediana, **42,2%** da receita do município paulista e **67,4%** da do maranhense já
+chegam com destino marcado. A diferença é o FUNDEB recebido (seção 3.4).
+
+## Onde o autor toma posição
+
+O autor tem posição sobre oito assuntos: a regra de escala das cidades (seção 12.7), as regiões como critério de
+dinheiro (13.8), a disputa das emendas no Supremo Tribunal Federal (14.5), as conclusões da nota do Centro de
+Estudos da Metrópole (15.9), quanto o município pequeno deveria receber (15.10), um plano único para os
+interiores (15.11), o verbo "extinguir" (16.11) e a centralização em país grande (21.6). Cada uma está numa caixa
+"Posição do autor". Logo depois vem o que os dados e a literatura dizem, inclusive onde o contrariam.
 
 ## O que o estudo não diz
 
@@ -113,21 +127,29 @@ na base, e as conclusões de 2024 resistiram. Mudaram a classificação de dois 
 arredondamentos, e o tom de algumas frases. Das duas pesquisas profundas só entrou o que foi aberto na fonte.
 A base foi refeita com 2022 a 2025 dos 13 estados.
 
-A Parte I traz as contas. A Parte II explica a regra por trás delas: a história das emancipações, a teoria de
-escala das cidades, a representação no Congresso e a linha do tempo das emendas. A Parte III lê com a mesma
-desconfiança as vozes do debate público, da nota técnica do Centro de Estudos da Metrópole aos vídeos de rede
-social, e lista as saídas em discussão. A Parte IV traz o método, a divisão do trabalho e uma reflexão sobre o
-uso de inteligência artificial em estudos como este. O Apêndice A explica as 8 fontes de receita de um
+A Parte I traz as contas, sempre com o conjunto antes da divisão. Nesta versão ela ganhou o gráfico de 2023
+refeito (seção 1.1), a conta do destino obrigatório (3.4), os anos de salto da série (9.6) e as regiões
+geográficas imediatas (10.1). A Parte II explica a regra por trás das contas: a história das emancipações, a
+teoria de escala das cidades e o seu limite, a representação no Congresso, as regiões na Constituição, a linha
+do tempo das emendas e as decisões do Supremo Tribunal Federal. A Parte III lê com a mesma desconfiança as vozes
+do debate público, da nota técnica do Centro de Estudos da Metrópole aos vídeos de rede social e à Frente
+Nacional de Prefeitas e Prefeitos, e lista as saídas em discussão. A Parte IV traz o método, a divisão do
+trabalho, uma reflexão sobre o uso de inteligência artificial em estudos como este e o que a literatura diz
+sobre país grande e centralização. O Apêndice A explica as 8 fontes de receita de um
 município: o que é cada sigla, quem paga, que regra garante o dinheiro e o que mudou.
 
-Os gráficos interativos, com a tabela por trás de cada um e a ficha de cada município, estão no deck que
-acompanha este e-book.
+Os gráficos interativos, com a tabela por trás de cada um e a ficha de cada município, estão no deck de
+slides que acompanha este e-book.
 
 <!-- parte: 10-numeros.md -->
 
 # Parte I. O que as contas mostram
 
 Esta parte responde, com as contas de 2024 de 3.356 municípios do Nordeste e do Sudeste e com a série de 2002 a 2025, se o interior profundo de São Paulo dependeria de receita externa em maior proporção, tanto quanto o Maranhão. Essa pergunta de partida admite quatro leituras, e o dado dá uma resposta diferente a cada uma. Aqui, transferências são a receita externa, o que a União e o estado repassam ao município, e verba negociada é a soma de convênio, transferência de capital e emenda. A receita tem oito fontes, seis externas (FPM, FUNDEB, cota do ICMS e do IPVA, SUS, royalties e outras transferências) e duas internas (tributos próprios e demais receitas próprias). O Apêndice A explica cada uma: o que é, quem paga, que regra garante o dinheiro e o que mudou.
+
+Cada conta aparece primeiro para o conjunto, os 13 estados juntos ou São Paulo e Maranhão juntos, e só depois dividida.
+
+> **Como ler.** Ao lado de cada mediana vêm a média e o desvio-padrão, na forma "81,2% (média 78,2% ± 12,4)\*". A mediana é o município do meio; a média pesa os extremos; o desvio diz quanto os municípios se espalham. Onde média e mediana se afastam, poucos municípios puxam o conjunto. O asterisco remete a esta nota. Os valores vêm de docs/tabelas/r5_medianas_media_desvio.csv, r5_j1_media_desvio_faixas.csv e r5_n2_destino_grupos.csv.
 
 Tabela. As quatro leituras da pergunta e o que as contas de 2024 dizem de cada uma
 
@@ -136,13 +158,30 @@ Tabela. As quatro leituras da pergunta e o que as contas de 2024 dizem de cada u
 | Parcela da receita | Transferências sobre a receita, a tamanho igual | O Nordeste depende 6,7 pontos percentuais a mais que o Sudeste (teste registrado antes). O maranhense, 13,5 pontos a mais que o paulista (conta exploratória) |
 | Reais por habitante | Transferências por habitante | Até 5 mil habitantes, Sudeste e Nordeste recebem o mesmo; de 5 a 50 mil, o paulista recebe de 9% a 12% a menos que o maranhense |
 | Verba negociada | Emenda federal e convênio | São Paulo tem a menor emenda federal por habitante dos 13 estados e, a tamanho igual, 2,2 pontos a mais de verba negociada com o governo do estado que o Maranhão |
-| Por município ou por morador | Prefeituras dependentes e quem mora nelas | Acima de 80% de dependência: 338 prefeituras paulistas (53,8%) e 210 maranhenses (97,7%). Acima de 90%: 92 (14,6%) e 184 (85,6%). Nelas moram 7,1% dos paulistas e 78,5% dos maranhenses |
+| Por município ou por morador | Prefeituras dependentes e quem mora nelas | Acima de 80% de dependência: 548 das 843 prefeituras dos dois estados (65,0%), sendo 338 paulistas (53,8%) e 210 maranhenses (97,7%). Nos 13 estados, 2.751 de 3.356 (82,0%). Acima de 90%: 92 paulistas (14,6%) e 184 maranhenses (85,6%). Nas que passam de 80% moram 7,1% dos paulistas e 78,5% dos maranhenses |
 
 ## 1. Quatro em cada cinco municípios paulistas são pequenos, e neles moram 15% dos paulistas
 
 O estudo cobre 3.462 municípios de 13 estados: 1.668 no Sudeste e 1.794 no Nordeste, dos quais 645 em São Paulo e 217 no Maranhão (IBGE, 2023). As contagens e as parcelas de população desta seção usam todos eles. As parcelas de receita usam os 3.356 com contas utilizáveis em 2024 (BRASIL, [2026]c).
 
-O palpite de que 80% dos municípios paulistas são pequenos estava certo. Têm até 50 mil habitantes 508 dos 645 municípios de São Paulo, ou 78,8%. No Maranhão são 195 de 217, ou 89,9%. No Sudeste, 1.411 (84,6%); no Nordeste, 1.619 (90,2%). O que separa os estados é quanta gente mora nesses municípios: 15,1% da população paulista e 51,7% da maranhense; 20,8% da população do Sudeste e 44,5% da do Nordeste.
+Nos 13 estados juntos, 3.030 dos 3.462 municípios têm até 50 mil habitantes, ou 87,5%, e neles mora 30,1% da população. Em São Paulo e no Maranhão juntos são 703 de 862, ou 81,6%, com 20,0% da população.
+
+Separando, o palpite de que 80% dos municípios paulistas são pequenos estava certo. Têm até 50 mil habitantes 508 dos 645 municípios de São Paulo, ou 78,8%. No Maranhão são 195 de 217, ou 89,9%. No Sudeste, 1.411 (84,6%); no Nordeste, 1.619 (90,2%). O que separa os estados é quanta gente mora nesses municípios: 15,1% da população paulista e 51,7% da maranhense; 20,8% da população do Sudeste e 44,5% da do Nordeste.
+
+Há dois 80% diferentes, e eles não dizem a mesma coisa. O primeiro conta municípios, do menor para o maior: até que tamanho vão os 80% menores e quanta gente mora neles. O segundo conta moradores, do maior município para o menor: quantos municípios bastam para somar 80% da população.
+
+Tabela. Os dois 80%: dos municípios e da população, Censo 2022
+
+| Grupo | 80% dos municípios, os menores | Vão até | Moram neles | 80% da população cabem em | O menor deles tem |
+|---|---:|---:|---:|---:|---:|
+| Sudeste e Nordeste | 2.770 de 3.462 | 31.843 hab. | 22,8% | 826 municípios (23,9%) | 26.692 hab. |
+| Sudeste | 1.335 de 1.668 | 36.844 hab. | 17,0% | 271 (16,2%) | 45.847 hab. |
+| Nordeste | 1.436 de 1.794 | 29.761 hab. | 32,0% | 641 (35,7%) | 18.412 hab. |
+| São Paulo e Maranhão | 690 de 862 | 44.438 hab. | 18,8% | 159 (18,4%) | 50.027 hab. |
+| São Paulo | 516 de 645 | 52.260 hab. | 16,1% | 102 (15,8%) | 72.022 hab. |
+| Maranhão | 174 de 217 | 32.511 hab. | 39,7% | 98 (45,2%) | 18.411 hab. |
+
+Em São Paulo, 102 municípios abrigam 80% da população, e os outros 543 dividem os 20% restantes. No Maranhão são 98 contra 119. A conta dos moradores parte dos maiores porque, do menor para o maior, a capital paulista sozinha tem 25,8% dos moradores do estado e a soma só chegaria a 80% no último município (docs/tabelas/r5_limiar_80_populacao.csv).
 
 No mapa da {fig:01_mapa_populacao_SP_MA}, quanto mais escuro o município, mais habitantes. Compare o oeste paulista, coberto pelos tons claros das faixas menores, com o Maranhão, onde o tom mais claro, o de até 5 mil habitantes, quase não aparece.
 
@@ -151,6 +190,30 @@ No mapa da {fig:01_mapa_populacao_SP_MA}, quanto mais escuro o município, mais 
 O peso econômico dos pequenos é menor ainda que o peso em população. Nos municípios paulistas de até 50 mil habitantes entra 14,9% da receita municipal do estado e só 5,5% dos tributos próprios. A {fig:03_peso_dos_pequenos_SP_MA} põe lado a lado, para três cortes de população (10.188, 20 mil e 50 mil habitantes), a parcela dos municípios, da população, da receita e dos tributos próprios. Ela usa só os municípios com contas utilizáveis, e por isso mostra 41% dos municípios paulistas na faixa de até 10.188 habitantes, e não os 42,6% da contagem de todos os municípios. Repare, no quadro de até 50 mil habitantes, que em São Paulo as barras encolhem muito da primeira linha para a última, e no Maranhão bem menos.
 
 ![Peso dos municípios pequenos em São Paulo e no Maranhão em 2024, entre os municípios com contas utilizáveis](relatorio/figuras/03_peso_dos_pequenos_SP_MA.png)
+
+### 1.1 O precedente: o gráfico de 2023 refeito
+
+Esta conta tem um precedente do próprio autor. O relatório final de sua iniciação científica, orientado por Marcel Fantin (MENEZES, 2023, p. 8-9), traz na página 9 o "Gráfico 1 - Percentual acumulado por faixa populacional dos municípios do Estado de São Paulo" e, na página 8, a frase: "89% dos municípios possui menos de 50.000 habitantes, administrando 3/4 do território e somando apenas 10% do PIB e 15% da população estadual". O gráfico tinha seis curvas: municípios, população, PIB, área municipal, área com cobertura vegetal e área urbana.
+
+A {fig:61_precedente_acumulado_SP} refaz o gráfico com o Censo 2022, o PIB dos municípios de 2023 e as contas de 2024. Saem as duas curvas de cobertura do solo, que este estudo não tem, e entram a receita e os tributos próprios. Olhe a marca de 50 mil habitantes: as curvas de municípios e de área estão no alto, e as outras quatro, embaixo.
+
+![Parcela acumulada de municípios, área, população, receita, PIB e tributos próprios em São Paulo, do menor município para o maior](relatorio/figuras/61_precedente_acumulado_SP.png)
+
+Tabela. Parcela acumulada até 50 mil habitantes, por grupo
+
+| Grupo | Municípios | Área | População | Receita | PIB | Tributos próprios |
+|---|---:|---:|---:|---:|---:|---:|
+| Sudeste e Nordeste | 87,5% | 81,5% | 30,1% | 31,0% | 18,2% | 10,3% |
+| Sudeste | 84,6% | 79,1% | 20,8% | 21,4% | 14,2% | 7,9% |
+| Nordeste | 90,2% | 82,9% | 44,5% | 50,1% | 33,5% | 20,8% |
+| São Paulo | 78,8% | 74,9% | 15,1% | 14,9% | 11,0% | 5,5% |
+| Maranhão | 89,9% | 78,6% | 51,7% | 57,8% | 39,6% | 27,1% |
+
+Municípios, área, população e PIB contam todos os municípios. Receita e tributos próprios contam os municípios com contas utilizáveis, sobre o total deles (docs/tabelas/r5_pibic_acumulado.csv).
+
+Dos quatro números da frase de 2023, três se confirmam e um cai. O território dá 74,9%, contra os 3/4 escritos. A população dá 15,1%, contra 15%. O PIB dá 11,0%, contra 10%, com a diferença de que o relatório usou o PIB de um ano anterior. Os municípios dão 78,8% (508 de 645), e não 89%. A base não reproduz o 89% em nenhum corte: até 100 mil habitantes são 87,9% (567 de 645). As barras do gráfico de 2023 marcavam 150, 123, 120, 116, 69, 58 e 9 municípios por faixa; a base dá 150, 123, 120, 115, 59, 69 e 9. A diferença de 116 para 115 é Mairinque, que ficou com 50.027 habitantes no resultado final do Censo. Duas barras diferem mais: de 50 a 100 mil habitantes, 69 no gráfico de 2023 e 59 na base; de 100 a 500 mil, 58 e 69. São dez municípios a mais numa faixa e a menos na outra, e a causa dessa diferença não foi apurada.
+
+### 1.2 Os municípios de até 10 mil habitantes
 
 A diferença entre os dois estados está na ponta de baixo. Estão na menor faixa do Fundo de Participação dos Municípios (FPM), de até 10.188 habitantes, 275 municípios paulistas (42,6%) e 44 maranhenses (20,3%). Têm até 5 mil habitantes 150 paulistas (23,3%) e 5 maranhenses (2,3%). Entre as regiões a distância é menor: até 5 mil habitantes, 397 municípios no Sudeste (23,8%) e 248 no Nordeste (13,8%); até 10.188, 776 (46,5%) e 630 (35,1%).
 
@@ -184,15 +247,13 @@ No mapa da {fig:05_mapa_maior_fatia_SP_MA}, São Paulo aparece em mosaico: FPM, 
 
 ![Maior fatia da receita de cada município de São Paulo e do Maranhão em 2024](relatorio/figuras/05_mapa_maior_fatia_SP_MA.png)
 
-Ampliando para os 13 estados, o mapa da {fig:11_mapa_maior_fatia_SE_NE} mostra onde a cor do FPM domina. Procure as manchas contínuas de FPM em Minas Gerais e na faixa que vai do Piauí à Paraíba, e a mancha de FUNDEB que cobre o Maranhão e parte do Ceará e da Bahia.
+Ampliando para os 13 estados, o mapa da {fig:11_mapa_maior_fatia_SE_NE} mostra onde a cor do FPM domina. Procure as manchas contínuas de FPM em Minas Gerais e na faixa que vai do Piauí à Paraíba, e a mancha de FUNDEB que cobre o Maranhão e parte do Ceará e da Bahia. Por estado, o FPM é a maior fonte em 82% dos municípios de Minas Gerais, 78% do Rio Grande do Norte, 74% da Paraíba, 63% de Pernambuco e de Sergipe, 53% de São Paulo, 51% do Piauí, 45% do Espírito Santo, 44% da Bahia, 28% do Ceará, 17% de Alagoas, 7% do Maranhão e 5% do Rio de Janeiro, onde os royalties lideram em 46%.
 
-Por estado, o FPM é a maior fonte em 82% dos municípios de Minas Gerais, 78% do Rio Grande do Norte, 74% da Paraíba, 63% de Pernambuco e de Sergipe, 53% de São Paulo, 51% do Piauí, 45% do Espírito Santo, 44% da Bahia, 28% do Ceará, 17% de Alagoas, 7% do Maranhão e 5% do Rio de Janeiro, onde os royalties lideram em 46%.
-
-![Maior fatia da receita de cada município do Sudeste e do Nordeste em 2024](relatorio/figuras/11_mapa_maior_fatia_SE_NE.png)
-
-O placar da {fig:12_placar_maior_fatia_por_uf} traz os estados em dois blocos, o Sudeste em cima e o Nordeste embaixo, sem ordená-los. Compare o primeiro trecho de cada barra, o do FPM: São Paulo fica no meio, entre os 82% de Minas Gerais e os 7% do Maranhão.
+O placar da {fig:12_placar_maior_fatia_por_uf} traz os estados em dois blocos, Sudeste em cima e Nordeste embaixo. No primeiro trecho de cada barra, o do FPM, São Paulo fica entre os 82% de Minas Gerais e os 7% do Maranhão.
 
 ![Parcela dos municípios de cada estado por fonte que é a maior fatia da receita em 2024](relatorio/figuras/12_placar_maior_fatia_por_uf.png)
+
+![Maior fatia da receita de cada município do Sudeste e do Nordeste em 2024](relatorio/figuras/11_mapa_maior_fatia_SE_NE.png)
 
 O resultado pouco intuitivo é este: na conta principal, quem se parece com o interior paulista é Minas Gerais, o Rio Grande do Norte, a Paraíba e o Piauí, estados de muito município minúsculo vivendo de FPM. O Maranhão é um caso à parte dentro do próprio Nordeste, com quase tudo vindo do FUNDEB e quase nenhum município minúsculo.
 
@@ -206,13 +267,15 @@ O resultado também não depende do ano. Na média de 2023 a 2025, no painel de 
 
 > **Como ler.** O mapa mostra só a maior fatia e joga fora mais da metade da receita. Onde a maior fatia tem 31% e a segunda 30%, o município aparece de uma cor só.
 
-Receitas de uma vez só mexem em casos isolados: o precatório do antigo FUNDEF, de R$ 1,4 bilhão em 159 municípios, quase todos do Nordeste; a outorga de concessão de saneamento em Alagoas e no Rio de Janeiro; e transferência de capital fora do comum, como em Biquinhas, em Minas Gerais, que recebeu do estado 59% da sua receita de 2024. A fatia "SUS" é só o repasse corrente de fundo a fundo; o SUS de convênio e de capital, R$ 3,493 bilhões em 2.339 municípios, fica em "outras transferências".
+Receitas de uma vez só mexem em casos isolados: o precatório do antigo FUNDEF, de R$ 1,4 bi em 159 municípios, quase todos do Nordeste; a outorga de concessão de saneamento em Alagoas e no Rio de Janeiro; e transferência de capital fora do comum, como em Biquinhas, em Minas Gerais, que recebeu do estado 59% da sua receita de 2024. A fatia "SUS" é só o repasse corrente de fundo a fundo; o SUS de convênio e de capital, R$ 3,493 bi em 2.339 municípios, fica em "outras transferências".
 
 > **O que o dado diz à pergunta.** Confirma que metade das prefeituras paulistas vive antes de tudo do FPM, contra 7% das maranhenses. Mas o dinheiro de fora do Maranhão vem por outro canal, o FUNDEB, e a comparação entre as regiões se inverte quando a contabilidade muda.
 
 ## 3. Em parcela da receita, o município maranhense depende mais em toda faixa de tamanho
 
-Dependência, aqui, é a parcela da receita que vem de transferências: a soma das seis fontes externas (FPM, FUNDEB, cota do ICMS e do IPVA, SUS, royalties e outras transferências) sobre a receita. Parte dessa receita externa tem destino obrigatório: o FUNDEB só paga escola e o SUS só paga saúde. Um município acima de 80% de dependência pode ter boa parte disso em verba carimbada, e não em dinheiro livre. A receita é líquida das deduções do FUNDEB e não inclui a previdência própria dos servidores.
+Dependência, aqui, é a parcela da receita que vem de transferências: a soma das seis fontes externas (FPM, FUNDEB, cota do ICMS e do IPVA, SUS, royalties e outras transferências) sobre a receita. Parte dessa receita externa tem destino obrigatório: o FUNDEB só paga escola e o SUS só paga saúde. Um município acima de 80% de dependência pode ter boa parte disso em verba carimbada, e não em dinheiro livre. A seção 3.4 mede quanto. A receita é líquida das deduções do FUNDEB e não inclui a previdência própria dos servidores.
+
+Primeiro o conjunto. Nos 3.356 municípios dos 13 estados, a mediana da dependência é 90,5% (média 87,1% ± 9,9)\*. Nos 843 de São Paulo e do Maranhão juntos, 85,5% (média 82,0% ± 12,7)\*. Separando: 86,3% no Sudeste (média 83,1% ± 11,0)\* e 92,9% no Nordeste (média 90,8% ± 6,7)\*; 81,2% em São Paulo (média 78,2% ± 12,4)\* e 94,1% no Maranhão (média 93,1% ± 4,4)\*. A média fica abaixo da mediana em todos os grupos: poucos municípios de receita própria alta a puxam para baixo. O Sudeste é mais espalhado que o Nordeste.
 
 Tabela. Mediana da parcela da receita que vem de transferências, por faixa de população, contas de 2024
 
@@ -223,8 +286,22 @@ Tabela. Mediana da parcela da receita que vem de transferências, por faixa de p
 | 10 a 20 mil | 81,5% | 94,4% | 86,0% | 93,3% |
 | 20 a 50 mil | 76,7% | 93,8% | 79,5% | 91,7% |
 | 50 a 100 mil | 68,2% | 89,8% | 70,7% | 86,5% |
+| todos os tamanhos | 81,2% | 94,1% | 86,3% | 92,9% |
 
 O valor maranhense da primeira linha é a mediana de cinco municípios.
+
+Tabela. Média e desvio-padrão\* da mesma parcela, por faixa de população, contas de 2024
+
+| Habitantes | SP | MA | Sudeste | Nordeste |
+|---|---:|---:|---:|---:|
+| até 5 mil | 89,5% ± 4,5 | 95,5% ± 2,8 | 91,0% ± 4,4 | 93,9% ± 3,4 |
+| 5 a 10 mil | 84,7% ± 5,1 | 94,8% ± 2,9 | 87,8% ± 5,7 | 92,8% ± 5,3 |
+| 10 a 20 mil | 81,1% ± 6,4 | 93,8% ± 3,5 | 85,0% ± 6,6 | 92,0% ± 5,0 |
+| 20 a 50 mil | 75,6% ± 7,2 | 93,3% ± 3,1 | 79,3% ± 7,6 | 90,1% ± 5,4 |
+| 50 a 100 mil | 66,1% ± 7,9 | 89,4% ± 3,4 | 70,1% ± 8,6 | 84,5% ± 7,1 |
+| todos os tamanhos | 78,2% ± 12,4 | 93,1% ± 4,4 | 83,1% ± 11,0 | 90,8% ± 6,7 |
+
+Dentro de cada faixa, o desvio paulista vai de uma vez e meia a mais de duas vezes o maranhense, e a média fica a no máximo 2,1 pontos da mediana (docs/tabelas/r5_j1_media_desvio_faixas.csv).
 
 ### 3.1 A tamanho igual, 13,5 pontos separam os dois estados
 
@@ -250,9 +327,20 @@ Parte da distância acompanha a economia local. Pondo o PIB por habitante na con
 
 ### 3.2 Por município, mais da metade de São Paulo; por morador, um em cada catorze
 
-Com o corte em 80% da receita vinda de transferências, estão acima dele 338 das 628 prefeituras paulistas com contas utilizáveis, ou 53,8%, e 210 das 215 maranhenses, ou 97,7%. No Sudeste são 70,1% e no Nordeste, 93,2%. Em número absoluto, São Paulo tem mais prefeituras nessa condição que o Maranhão.
+Com o corte em 80% da receita vinda de transferências, estão acima dele 2.751 das 3.356 prefeituras dos 13 estados com contas utilizáveis, ou 82,0%. Em São Paulo e no Maranhão juntos são 548 de 843, ou 65,0%. Separando: 338 das 628 paulistas, ou 53,8%, e 210 das 215 maranhenses, ou 97,7%; 1.145 das 1.633 do Sudeste, ou 70,1%, e 1.606 das 1.723 do Nordeste, ou 93,2%. Em número absoluto, São Paulo tem mais prefeituras nessa condição que o Maranhão.
 
-A contagem por morador dá outra figura. Nas 338 prefeituras paulistas mora 7,1% da população do estado, um paulista em cada catorze. Nas 210 maranhenses mora 78,5%, quase quatro em cada cinco moradores. No Sudeste a parcela é de 16,5% e no Nordeste, de 56,5%. O denominador é toda a população do estado ou da região, com ou sem contas utilizáveis. Somando todas as prefeituras, as transferências são 49% da receita dos municípios paulistas e 87% da dos maranhenses.
+Tabela. Prefeituras acima de 80% e de 90% de dependência e a população que mora nelas, contas de 2024
+
+| Grupo | Com contas | Acima de 80% | População nelas | Acima de 90% | População nelas |
+|---|---:|---:|---:|---:|---:|
+| Sudeste e Nordeste | 3.356 | 2.751 (82,0%) | 32,2% | 1.763 (52,5%) | 15,5% |
+| Sudeste | 1.633 | 1.145 (70,1%) | 16,5% | 518 (31,7%) | 4,0% |
+| Nordeste | 1.723 | 1.606 (93,2%) | 56,5% | 1.245 (72,3%) | 33,4% |
+| São Paulo e Maranhão | 843 | 548 (65,0%) | 16,6% | 276 (32,7%) | 7,7% |
+| São Paulo | 628 | 338 (53,8%) | 7,1% | 92 (14,6%) | 0,9% |
+| Maranhão | 215 | 210 (97,7%) | 78,5% | 184 (85,6%) | 52,4% |
+
+A contagem por morador dá outra figura. Nas 2.751 prefeituras dos 13 estados mora 32,2% da população, e nas 548 dos dois estados, 16,6%. Nas 338 paulistas mora 7,1% da população do estado, um paulista em cada catorze. Nas 210 maranhenses mora 78,5%, quase quatro em cada cinco moradores. No Sudeste a parcela é de 16,5% e no Nordeste, de 56,5%. O denominador é toda a população do estado ou da região, com ou sem contas utilizáveis. Somando todas as prefeituras, as transferências são 49% da receita dos municípios paulistas e 87% da dos maranhenses.
 
 Os municípios sem contas utilizáveis não mudam o quadro. Supondo todos abaixo ou todos acima do corte, a parcela fica entre 52,4% e 55,0% dos 645 paulistas e entre 96,8% e 97,7% dos 217 maranhenses.
 
@@ -287,11 +375,68 @@ Entre as regiões o quadro é o mesmo: nos municípios de até 20 mil habitantes
 
 A classe única descarta a informação que distingue os dois estados, que é a distância dentro da classe: um município com 81% e outro com 97% ficam do mesmo lado do corte de 80%. Por isso o estudo trabalha com a parcela contínua, com reais por habitante e com a população que mora nos municípios dependentes.
 
-> **O que o dado diz à pergunta.** Em parcela da receita a resposta é não: o município maranhense depende mais em toda faixa de tamanho e em todo corte de 50% a 95%. A resposta só é sim na contagem de prefeituras acima de 80%, que é maior em São Paulo porque o estado tem mais municípios.
+### 3.4 Quanto da receita tem destino obrigatório
+
+A dependência conta de onde o dinheiro vem. Esta seção conta quanto dele já chega com destino. O autor pediu a conta de quanto da receita é travado por destinações, para saber se a dependência de receita externa se explica por essa receita não ser vinculada. A conta é sobre a mesma receita da seção 3, que já vem sem os 20% aportados ao FUNDEB e com o FUNDEB contado pelo que o município recebe.
+
+O destino obrigatório tem duas partes, que não se sobrepõem. A primeira é o destino pela origem, o dinheiro que já chega carimbado: na educação, o FUNDEB recebido, com a complementação da União, os repasses do FNDE (salário-educação, merenda e transporte escolar) e o convênio corrente do estado para educação; na saúde, o SUS, corrente, de convênio e de capital; na assistência, o repasse do fundo nacional. A segunda é o destino pelo mínimo constitucional: 25% dos impostos e das transferências de impostos para a educação, descontado o que o município já aportou ao FUNDEB, e 15% para a saúde. O que sobra é a parcela sem destino obrigatório.
+
+Tabela. Parcela da receita com destino obrigatório, contas de 2024
+
+| Grupo | Municípios | Mediana | Média e desvio\* | Educação | Saúde | Sem destino |
+|---|---:|---:|---:|---:|---:|---:|
+| Sudeste e Nordeste | 3.356 | 48,8% | 50,2% ± 10,8 | 26,4% | 20,7% | 51,2% |
+| Sudeste | 1.633 | 42,3% | 42,4% ± 6,6 | 20,2% | 20,8% | 57,7% |
+| Nordeste | 1.723 | 58,2% | 57,6% ± 8,7 | 35,7% | 20,5% | 41,8% |
+| São Paulo e Maranhão | 843 | 44,7% | 48,4% ± 12,0 | 25,0% | 19,0% | 55,3% |
+| São Paulo | 628 | 42,2% | 42,3% ± 5,0 | 23,1% | 19,0% | 57,8% |
+| Maranhão | 215 | 67,4% | 66,3% ± 7,7 | 46,6% | 19,1% | 32,6% |
+
+As colunas de educação, saúde e sem destino são medianas, e por isso não somam exatamente a mediana do total. A assistência fica entre 0,3% e 0,7%. A {fig:60_destino_obrigatorio_grupos} mostra a mesma conta em médias, que somam 100%: o conjunto em cima e a divisão embaixo. Compare o trecho escuro, da educação, e o trecho seguinte, da saúde.
+
+![Parcela da receita com destino obrigatório para educação, saúde e assistência, e parcela sem destino, por grupo de municípios em 2024](relatorio/figuras/60_destino_obrigatorio_grupos.png)
+
+A saúde prende a mesma fatia em todos os grupos, perto de 20% da receita. Onde o SUS pesa menos, o mínimo de 15% pesa mais, e os dois se compensam. A diferença inteira está na educação: 46,6% no Maranhão contra 23,1% em São Paulo. É o FUNDEB recebido, que é 39,9% da receita na mediana maranhense (média 39,5% ± 9,0)\* e 12,6% na paulista (média 12,7% ± 4,2)\*.
+
+O resultado contraria a hipótese. O grupo que mais depende de receita externa é também o que tem mais receita com destino obrigatório. Da receita externa, 61,4% tem destino na mediana do Nordeste (média 61,0% ± 9,0)\* e 46,3% na do Sudeste (média 46,3% ± 8,7)\*; 70,4% no Maranhão (média 69,3% ± 8,0)\* e 47,6% em São Paulo (média 47,2% ± 7,4)\*. No conjunto dos 3.356 municípios, quanto maior a dependência, maior a parcela carimbada: a correlação de postos é de +0,38. Dentro de São Paulo a relação é fraca e de sinal contrário, -0,20, porque o município pequeno paulista depende de FPM, que não tem destino além dos mínimos.
+
+Tabela. Mediana da parcela da receita com destino obrigatório, por faixa de população, contas de 2024
+
+| Habitantes | SP | MA | Sudeste | Nordeste | Conjunto |
+|---|---:|---:|---:|---:|---:|
+| até 5 mil | 37,0% | 58,7% | 38,2% | 49,2% | 40,8% |
+| 5 a 10 mil | 42,5% | 61,4% | 42,2% | 56,8% | 47,6% |
+| 10 a 20 mil | 43,4% | 67,1% | 43,5% | 59,0% | 54,0% |
+| 20 a 50 mil | 44,6% | 70,4% | 44,8% | 61,6% | 54,3% |
+| 50 a 100 mil | 43,6% | 73,8% | 45,6% | 61,0% | 53,1% |
+| 100 a 500 mil | 44,7% | 64,0% | 45,7% | 56,2% | 48,1% |
+| mais de 500 mil | 41,8% | 44,2% | 44,5% | 44,8% | 44,8% |
+
+O menor município é o que tem mais receita sem destino: até 5 mil habitantes, 63,0% em São Paulo e 50,8% no Nordeste. No Maranhão a parcela presa sobe com o tamanho até 100 mil habitantes, junto com o FUNDEB. Na primeira linha o valor maranhense é de cinco municípios e, na última, de um só. A tabela seguinte traz a média e o desvio das mesmas células.
+
+Tabela. Média e desvio\* da parcela da receita com destino obrigatório, por faixa de população, contas de 2024
+
+| Habitantes | SP | MA | Sudeste | Nordeste | Conjunto |
+|---|---:|---:|---:|---:|---:|
+| até 5 mil | 37,5% ± 3,4 | 57,3% ± 5,1 | 38,0% ± 4,4 | 49,3% ± 7,0 | 42,4% ± 7,8 |
+| 5 a 10 mil | 42,9% ± 3,8 | 61,8% ± 8,1 | 42,3% ± 5,4 | 56,4% ± 8,2 | 49,2% ± 9,9 |
+| 10 a 20 mil | 43,6% ± 4,0 | 65,7% ± 6,8 | 43,5% ± 5,8 | 59,0% ± 7,3 | 53,1% ± 10,2 |
+| 20 a 50 mil | 44,2% ± 5,2 | 69,6% ± 6,4 | 44,2% ± 7,1 | 61,1% ± 8,0 | 54,2% ± 11,3 |
+| 50 a 100 mil | 44,0% ± 4,8 | 72,6% ± 3,5 | 45,3% ± 7,9 | 60,6% ± 8,6 | 53,0% ± 11,3 |
+| 100 a 500 mil | 44,0% ± 5,0 | 63,9% ± 8,4 | 45,5% ± 8,4 | 56,9% ± 7,5 | 48,7% ± 9,6 |
+| mais de 500 mil | 42,6% ± 2,3 | 44,2% | 46,3% ± 6,5 | 45,5% ± 6,3 | 46,0% ± 6,4 |
+
+Em reais por habitante, na mediana, o município paulista tem R$ 2.834 com destino (média R$ 3.053 ± 930)\* e R$ 3.754 sem destino (média R$ 4.393 ± 2.162)\*; o maranhense, R$ 3.736 (média R$ 3.988 ± 1.000)\* e R$ 1.885 (média R$ 2.065 ± 810)\*. Sem destino, a mediana é de R$ 3.626 no Sudeste (média R$ 4.417 ± 2.761)\* e de R$ 2.381 no Nordeste (média R$ 2.793 ± 1.449)\*. A conta é estável: nos quatro anos de 2022 a 2025 a mediana fica entre 41% e 43% em São Paulo e entre 66% e 67% no Maranhão.
+
+> **Ressalva.** Destino obrigatório é vinculação de receita, pela origem ou pelo mínimo. Não é gasto obrigatório. O mínimo é piso, e quem gasta mais que 25% e 15% por escolha não aparece. Folha de pessoal, dívida, precatório e repasse à Câmara são obrigação de gasto e ficam fora. Ficam fora também as regras de dentro do carimbo, como os 70% do FUNDEB para remuneração, e as restrições parciais de royalties, CIDE e multas de trânsito. A transferência especial, a emenda Pix, entra como livre, embora 70% dela tenha de ir para investimento. Sem destino obrigatório não quer dizer dinheiro solto: é o que paga a administração, a limpeza, a Câmara e a dívida. Numa variante ampla, que soma os demais convênios, as demais transferências de capital e a iluminação pública, a ordem não muda: 46,2% em São Paulo, 69,6% no Maranhão, 47,2% no Sudeste e 61,8% no Nordeste. O desvio desta seção é o populacional; os números, a definição e os scripts estão em docs/pesquisa/r5-numeros-2.md.
+
+> **O que o dado diz à pergunta.** Em parcela da receita a resposta é não: o município maranhense depende mais em toda faixa de tamanho e em todo corte de 50% a 95%. A resposta só é sim na contagem de prefeituras acima de 80%, que é maior em São Paulo porque o estado tem mais municípios. E a receita que mais depende de fora é também a mais carimbada: 67,4% com destino obrigatório no município maranhense mediano, 42,2% no paulista.
 
 ## 4. Em reais por habitante, o município minúsculo recebe o mesmo nas duas regiões
 
 A parcela da receita esconde o tamanho do cheque. Um município pode ter 90% da receita vinda de fora e receber pouco por habitante, ou o contrário. Esta seção mede as transferências em reais por habitante. O valor por habitante usa a estimativa de população de 2024; o Censo 2022 define só a faixa de tamanho.
+
+Primeiro o conjunto. Nos 3.356 municípios dos 13 estados, a mediana é de R$ 5.362 por habitante (média R$ 6.004 ± 2.653)\*. Nos 843 de São Paulo e do Maranhão juntos, R$ 5.217 (média R$ 5.853 ± 2.564)\*. No município de até 5 mil habitantes, R$ 8.729 nos 13 estados (média R$ 9.399 ± 3.014)\* e R$ 9.165 nos dois estados (média R$ 9.838 ± 2.794)\*. Em reais por habitante a média fica acima da mediana nos quatro casos: poucos municípios recebem muito por habitante.
 
 Tabela. Mediana das transferências por habitante, por faixa de população, contas de 2024
 
@@ -301,6 +446,17 @@ Tabela. Mediana das transferências por habitante, por faixa de população, con
 | 5 a 10 mil | R$ 5.913 | R$ 6.542 | R$ 5.785 | R$ 6.028 |
 | 10 a 20 mil | R$ 5.047 | R$ 5.661 | R$ 4.881 | R$ 5.387 |
 | 20 a 50 mil | R$ 4.265 | R$ 4.835 | R$ 4.314 | R$ 4.553 |
+
+Tabela. Média e desvio-padrão\* das transferências por habitante, por faixa de população, contas de 2024, em reais
+
+| Habitantes | SP | MA | Sudeste | Nordeste |
+|---|---:|---:|---:|---:|
+| até 5 mil | 9.905 ± 2.812 | 7.972 ± 1.375 | 9.635 ± 3.406 | 9.022 ± 2.206 |
+| 5 a 10 mil | 6.089 ± 1.185 | 6.672 ± 1.276 | 6.029 ± 1.595 | 6.306 ± 1.402 |
+| 10 a 20 mil | 5.166 ± 837 | 5.935 ± 1.252 | 5.251 ± 1.987 | 5.572 ± 1.121 |
+| 20 a 50 mil | 4.495 ± 1.429 | 5.123 ± 925 | 4.898 ± 2.331 | 4.761 ± 1.076 |
+
+Entre São Paulo e Maranhão, de 5 a 50 mil habitantes, a ordem das médias é a das medianas. Até 5 mil, a média maranhense, de cinco municípios, cai abaixo da mediana. Entre as regiões, de 20 a 50 mil habitantes a média do Sudeste passa a do Nordeste, ao contrário da mediana. O Sudeste é mais espalhado que o Nordeste em toda faixa.
 
 O efeito muda com o tamanho, e cada faixa tem um veredito próprio.
 
@@ -316,7 +472,7 @@ A {fig:14_transferencias_por_habitante_por_uf} mostra a distribuição nos munic
 
 ![Transferências por habitante nos municípios de até 20 mil habitantes de cada estado em 2024](relatorio/figuras/14_transferencias_por_habitante_por_uf.png)
 
-A resposta para o estado inteiro depende de como se conta. Na média dos municípios, São Paulo recebe R$ 5.925 por habitante e o Maranhão, R$ 5.642. Na mediana dos municípios, R$ 5.123 e R$ 5.375. Por morador, dividindo a soma das transferências pela soma da população, R$ 3.194 e R$ 4.527. São Paulo fica à frente na média por município porque tem muito município minúsculo, e fica atrás na mediana e por morador.
+A resposta para o estado inteiro depende de como se conta. Na média dos municípios, São Paulo recebe R$ 5.925 por habitante (desvio de R$ 2.851)\* e o Maranhão, R$ 5.642 (desvio de R$ 1.411)\*. Na mediana dos municípios, R$ 5.123 e R$ 5.375. Por morador, dividindo a soma das transferências pela soma da população, R$ 3.194 e R$ 4.527. São Paulo fica à frente na média por município porque tem muito município minúsculo, e fica atrás na mediana e por morador.
 
 O tamanho pesa mais que a região. O município do Sudeste de até 5 mil habitantes recebe cerca de R$ 3,5 mil a mais por habitante que o nordestino de 10 a 20 mil, que é o tamanho mais comum no Nordeste. É nessa comparação, entre o município típico de cada lugar, que a resposta é sim: o paulista de até 5 mil habitantes recebe em torno de R$ 9,2 mil por habitante, 72% a mais que o município maranhense mediano, com R$ 5,4 mil.
 
@@ -328,11 +484,34 @@ O mecanismo provável é a regra do FPM, que paga um piso igual a todo municípi
 
 A versão "verba de deputado" da pergunta pede uma medida do dinheiro que depende de negociação. O estudo usa duas. A medida restrita, que é a principal, soma convênios e transferências de capital lançados nas contas da prefeitura, sem o SUS (convênio corrente, convênio de capital e capital fundo a fundo) e sem o convênio corrente estadual de educação, que pode ser repasse regular. A medida ampla inclui essas duas parcelas e fica como teste de sensibilidade.
 
-> **Ressalva.** A medida ampla tem R$ 3,493 bilhões do SUS dentro, em 2.339 municípios, e a Lei de Responsabilidade Fiscal tira o SUS da categoria das transferências voluntárias (BRASIL, 2000, art. 25). A medida restrita deixa de fora também os convênios de capital da saúde, R$ 435 milhões entre os municípios com contas utilizáveis. Nenhuma das duas medidas é a transferência voluntária da lei. A seção 19.5 conta como as duas medidas mudaram ao longo da revisão.
+> **Ressalva.** A medida ampla tem R$ 3,493 bi do SUS dentro, em 2.339 municípios, e a Lei de Responsabilidade Fiscal tira o SUS da categoria das transferências voluntárias (BRASIL, 2000, art. 25). A medida restrita deixa de fora também os convênios de capital da saúde, R$ 435 milhões entre os municípios com contas utilizáveis. Nenhuma das duas medidas é a transferência voluntária da lei. A seção 19.5 conta como as duas medidas mudaram ao longo da revisão.
 
 ### 5.1 Emenda federal
 
-As emendas parlamentares federais pagas em 2025 a prefeituras e fundos municipais vêm do Portal da Transparência (BRASIL, 2026a). O valor pago inclui restos a pagar de anos anteriores. Na mediana dos municípios de até 20 mil habitantes, por habitante: Sergipe R$ 670, Piauí R$ 622, Paraíba R$ 586, Rio de Janeiro R$ 518, Rio Grande do Norte R$ 493, Pernambuco R$ 462, Alagoas R$ 454, Espírito Santo R$ 378, Maranhão R$ 357, Ceará R$ 294, Minas Gerais R$ 274, Bahia R$ 233 e São Paulo R$ 149. São Paulo é o último na mediana, na média e ponderando por população.
+As emendas parlamentares federais pagas em 2025 a prefeituras e fundos municipais vêm do Portal da Transparência (BRASIL, 2026a). O valor pago inclui restos a pagar de anos anteriores. Nos 2.247 municípios de até 20 mil habitantes dos 13 estados, a mediana é de R$ 322 por habitante (média R$ 411 ± 349)\*.
+
+Tabela. Emenda federal paga em 2025 por habitante, municípios de até 20 mil habitantes, em reais
+
+| Grupo | Municípios | Mediana | Média e desvio\* |
+|---|---:|---:|---:|
+| Sudeste e Nordeste | 2.247 | 322 | 411 ± 349 |
+| Sudeste | 1.096 | 237 | 297 ± 251 |
+| Nordeste | 1.151 | 442 | 520 ± 391 |
+| Sergipe | 51 | 670 | 701 ± 344 |
+| Piauí | 195 | 622 | 718 ± 369 |
+| Paraíba | 175 | 586 | 715 ± 521 |
+| Rio de Janeiro | 22 | 518 | 521 ± 251 |
+| Rio Grande do Norte | 134 | 493 | 530 ± 268 |
+| Pernambuco | 85 | 462 | 508 ± 266 |
+| Alagoas | 60 | 454 | 565 ± 534 |
+| Espírito Santo | 42 | 378 | 409 ± 228 |
+| Maranhão | 127 | 357 | 411 ± 268 |
+| Ceará | 87 | 294 | 349 ± 236 |
+| Minas Gerais | 656 | 274 | 340 ± 268 |
+| Bahia | 237 | 233 | 284 ± 268 |
+| São Paulo | 376 | 149 | 195 ± 176 |
+
+São Paulo é o último na mediana, na média e ponderando por população. Em todo estado a média fica acima da mediana, e o desvio vai de cerca de metade da média a quase a média inteira: poucos municípios recebem muito. No pequeno município paulista o desvio, de R$ 176, passa a mediana.
 
 Na {fig:16_emendas_por_habitante_por_uf}, os estados vão da maior para a menor mediana: São Paulo é o último, à direita, e o Maranhão, o nono dos 13.
 
@@ -340,29 +519,53 @@ Na {fig:16_emendas_por_habitante_por_uf}, os estados vão da maior para a menor 
 
 Em parcela da receita de 2025, a emenda federal equivale a 1,8% em São Paulo, 5,2% no Maranhão e 7,9% no Piauí. A base de 2025 cobre os 13 estados, e São Paulo é o último também nessa conta. Na mediana das regiões, 6,0% no Nordeste e 2,9% no Sudeste.
 
-Tabela. Emenda federal paga em 2025 sobre a receita do município, mediana dos municípios de até 20 mil habitantes
+Tabela. Emenda federal paga em 2025 sobre a receita do município, mediana dos municípios de até 20 mil habitantes {quebra}
 
-| Estado | Sobre a receita de 2025 | Sobre a receita de 2024 |
-|---|---:|---:|
-| Sergipe | 8,5% | 9,3% |
-| Piauí | 7,9% | 9,0% |
-| Paraíba | 7,5% | 8,4% |
-| Pernambuco | 7,2% | 8,0% |
-| Rio Grande do Norte | 6,5% | 7,2% |
-| Maranhão | 5,2% | 5,5% |
-| Rio de Janeiro | 5,1% | 5,8% |
-| Espírito Santo | 5,0% | 5,6% |
-| Alagoas | 4,8% | 5,3% |
-| Ceará | 4,3% | 4,8% |
-| Minas Gerais | 3,5% | 4,0% |
-| Bahia | 3,3% | 3,8% |
-| São Paulo | 1,8% | 2,0% |
-| Nordeste | 6,0% | 6,7% |
-| Sudeste | 2,9% | 3,2% |
+| Estado | Sobre a receita de 2025 | Média e desvio\*, 2025 | Sobre a receita de 2024 |
+|---|---:|---:|---:|
+| Nordeste | 6,0% | 6,4% ± 3,6 | 6,7% |
+| Sudeste | 2,9% | 3,4% ± 2,4 | 3,2% |
+| Sergipe | 8,5% | 8,3% ± 3,3 | 9,3% |
+| Piauí | 7,9% | 8,4% ± 3,4 | 9,0% |
+| Paraíba | 7,5% | 8,1% ± 3,7 | 8,4% |
+| Pernambuco | 7,2% | 7,5% ± 3,2 | 8,0% |
+| Rio Grande do Norte | 6,5% | 6,7% ± 3,0 | 7,2% |
+| Maranhão | 5,2% | 5,5% ± 3,1 | 5,5% |
+| Rio de Janeiro | 5,1% | 4,7% ± 2,2 | 5,8% |
+| Espírito Santo | 5,0% | 5,0% ± 2,6 | 5,6% |
+| Alagoas | 4,8% | 5,6% ± 3,8 | 5,3% |
+| Ceará | 4,3% | 4,7% ± 2,7 | 4,8% |
+| Minas Gerais | 3,5% | 4,0% ± 2,5 | 4,0% |
+| Bahia | 3,3% | 4,0% ± 2,9 | 3,8% |
+| São Paulo | 1,8% | 2,1% ± 1,7 | 2,0% |
 
-A coluna sobre a receita de 2024 fica para comparação. O recorte é o dos municípios de até 20 mil habitantes com contas utilizáveis em 2024; a coluna de 2025 usa os que também têm a receita de 2025 (2.213 de 2.247).
+As regiões vêm primeiro e os estados depois. A coluna sobre a receita de 2024 fica para comparação. O recorte é o dos municípios de até 20 mil habitantes com contas utilizáveis em 2024; a coluna de 2025 usa os que também têm a receita de 2025 (2.213 de 2.247).
 
 A tamanho igual, o município maranhense recebe R$ 240 a mais de emenda federal por habitante que o paulista, e o do Nordeste, R$ 235 a mais que o do Sudeste. É o que a regra produz. A cota de emenda é por parlamentar e por bancada, e São Paulo tem um deputado federal para cada 634 mil habitantes, contra um para cada 376 mil no Maranhão.
+
+A conta da regra da cadeira mostra o tamanho disso. Pelos valores de 2025 usados no estudo, cada deputado indica R$ 37,3 milhões e cada senador R$ 68,5 milhões em emendas individuais, e a emenda de bancada soma R$ 11,55 bi, repartidos por igual entre as 27 bancadas, R$ 427,8 milhões para cada uma. No país, a regra dá R$ 36,2 bi, ou R$ 178 por habitante. A emenda de comissão fica fora, porque não tem cota por estado. A tabela compara o que a regra dá a cada estado com o que ele teria se o mesmo total fosse repartido por habitante.
+
+Tabela. Emenda federal pela regra de 2025 e a mesma soma repartida por habitante
+
+| Estado | Deputados por milhão de hab. | Deputados e senadores por milhão de hab. | Pela regra (R$ milhões) | Por habitante (R$) | Repartida por habitante (R$ milhões) | Diferença |
+|---|---:|---:|---:|---:|---:|---:|
+| Brasil | 2,5 | 2,9 | 36.233 | 178 | 36.233 | 0% |
+| Roraima | 12,6 | 17,3 | 932 | 1.463 | 114 | -88% |
+| Sergipe | 3,6 | 5,0 | 932 | 422 | 394 | -58% |
+| Piauí | 3,1 | 4,0 | 1.006 | 308 | 584 | -42% |
+| Maranhão | 2,7 | 3,1 | 1.305 | 193 | 1.209 | -7% |
+| Pernambuco | 2,8 | 3,1 | 1.566 | 173 | 1.616 | +3% |
+| Ceará | 2,5 | 2,8 | 1.454 | 165 | 1.569 | +8% |
+| Bahia | 2,8 | 3,0 | 2.088 | 148 | 2.523 | +21% |
+| Rio de Janeiro | 2,9 | 3,1 | 2.349 | 146 | 2.865 | +22% |
+| Minas Gerais | 2,6 | 2,7 | 2.610 | 127 | 3.665 | +40% |
+| São Paulo | 1,6 | 1,6 | 3.244 | 73 | 7.924 | +144% |
+
+Roraima entra como o extremo do país; os outros são estados do estudo. A tabela traz as duas medidas da cadeira: só os deputados e, ao lado, deputados mais os três senadores. Roraima tem 12,6 deputados e 17,3 cadeiras no Congresso por milhão de habitantes; São Paulo, 1,6 nas duas. De Roraima a São Paulo, a regra dá 20 vezes mais por habitante: R$ 1.463 contra R$ 73. Repartida por habitante, a emenda de São Paulo iria de R$ 3,2 bi para R$ 7,9 bi. Ganhariam 10 estados (Pernambuco, Ceará, Rio Grande do Sul, Santa Catarina, Pará, Paraná, Bahia, Rio de Janeiro, Minas Gerais e São Paulo) e perderiam 17 unidades da federação. Por região, a regra dá R$ 395 por habitante no Norte, R$ 249 no Centro-Oeste, R$ 207 no Nordeste, R$ 159 no Sul e R$ 109 no Sudeste. Com a repartição por habitante, o Norte perderia 55%, o Centro-Oeste 29% e o Nordeste 14%; o Sul ganharia 12% e o Sudeste, 64%.
+
+O piso pesa mais que a Câmara. A parte fixa, de senadores e bancada, é 68% da emenda de um estado de 8 deputados e 19,5% da de São Paulo. Mesmo com a Câmara proporcional à população, com 112 cadeiras, São Paulo iria só de R$ 73 para R$ 108 por habitante, ainda abaixo dos R$ 178 do país. O Nordeste não é um bloco: quatro dos nove estados ficam perto ou abaixo da média do país (Maranhão R$ 193, Pernambuco R$ 173, Ceará R$ 165 e Bahia R$ 148), e a Bahia ganharia 21% com a repartição por habitante.
+
+Nos 13 estados a regra acompanha o pago: a correlação entre o valor por habitante pela regra e o pago de fato às prefeituras em 2025 é de 0,86. São 13 pontos; é associação, não prova de causa. A tabela das 27 unidades está em docs/tabelas/r5_emenda_regra_por_uf.csv. Os valores da regra vêm de docs/pesquisa/emendas.md; a norma que os fixa não foi reaberta nesta etapa.
 
 O arquivo só cobre prefeitura e fundo municipal. Em São Paulo, um terço da emenda paga em 2025 a favorecidos do estado vai para o governo estadual, para entidades e para empresas, e essa parte fica fora da conta.
 
@@ -370,7 +573,7 @@ O arquivo só cobre prefeitura e fundo municipal. Em São Paulo, um terço da em
 
 Na medida restrita, mediana dos municípios de até 20 mil habitantes, a verba negociada que vem da União equivale a 0,66% da receita em São Paulo e 0,75% no Maranhão, contra 3,3% no Piauí e 3,9% na Paraíba. Na medida ampla, 0,74% e 0,90%. O convênio federal de 2024 ficou abaixo do de 2023 e perto do de 2025: as medianas de 2023, 2024 e 2025 são 0,94%, 0,66% e 0,59% em São Paulo e 1,21%, 0,75% e 0,95% no Maranhão. A mediana da média dos três anos é 0,87% e 1,45%. Ela fica acima da mediana de cada ano porque convênio entra em pacote, num ano sim e noutro não, e a média tira os zeros. Não indica que 2024 foi baixo.
 
-A verba negociada que vem do governo do estado equivale a 2,5% da receita em São Paulo (2,45%) e 0,0% no Maranhão, na medida restrita. Na ampla, 4,2% e 0,0%. Os vizinhos de São Paulo divergem: 6,0% no Espírito Santo, 2,3% em Minas Gerais e 0,0% no Rio de Janeiro, na restrita.
+A verba negociada que vem do governo do estado equivale a 2,5% da receita em São Paulo (2,45%; média 3,1% ± 2,5)\* e 0,0% no Maranhão (média 0,2% ± 0,8)\*, na medida restrita. Na ampla, 4,2% e 0,0%. Os vizinhos de São Paulo divergem: 6,0% no Espírito Santo (média 6,3% ± 4,6)\*, 2,3% em Minas Gerais (média 3,3% ± 4,5)\* e 0,0% no Rio de Janeiro (média 0,03% ± 0,08)\*, na restrita.
 
 A {fig:18_voluntarias_do_estado_por_uf} mostra a verba estadual por estado, na medida restrita, da maior para a menor mediana. Espírito Santo, São Paulo e Minas Gerais vêm na frente, e o Rio de Janeiro é o último. Em oito dos nove estados do Nordeste a mediana fica abaixo de 1% da receita.
 
@@ -398,7 +601,7 @@ Falta a peça que decide esta versão da pergunta: emenda de deputado estadual e
 
 ### 6.1 Câmara e administração
 
-O custo da máquina é medido pelo gasto nas funções legislativa e de administração. Por habitante, ele é de duas a três vezes maior no município de até 5 mil habitantes que no de 20 a 50 mil: R$ 1.764 contra R$ 618 em São Paulo, R$ 1.520 contra R$ 648 no Sudeste e R$ 1.788 contra R$ 613 no Nordeste.
+O custo da máquina é medido pelo gasto nas funções legislativa e de administração. Por habitante, ele é de duas a três vezes maior no município de até 5 mil habitantes que no de 20 a 50 mil. Nas duas regiões juntas, a mediana é de R$ 1.606 (média R$ 1.851 ± 988)\* contra R$ 624 (média R$ 775 ± 562)\*. Separando: R$ 1.764 (média R$ 1.997 ± 955)\* contra R$ 618 (média R$ 743 ± 541)\* em São Paulo, R$ 1.520 (média R$ 1.777 ± 957)\* contra R$ 648 (média R$ 876 ± 754)\* no Sudeste e R$ 1.788 (média R$ 1.971 ± 1.026)\* contra R$ 613 (média R$ 704 ± 359)\* no Nordeste.
 
 Na {fig:07_custo_da_maquina_SP_MA}, o quadro da esquerda traz o gasto por habitante. Olhe a forma da curva: ela despenca até perto de 20 mil habitantes e depois fica plana. O quadro da direita divide os tributos próprios por esse gasto: a linha paulista só chega a 1, ponto em que os tributos pagam a máquina, perto de 10 mil habitantes, e a maranhense fica abaixo de 1 em todas as faixas.
 
@@ -424,11 +627,15 @@ Na {fig:15_criterio_pec188_por_uf}, a ordem dos estados é a da malha de municí
 
 A PEC foi arquivada em 22/12/2022, sem votação, e não há proposta em tramitação com esse critério. O texto do artigo foi lido em duas transcrições secundárias iguais, e não na proposta protocolada; a simulação segue a leitura da CNM, entidade que representa as prefeituras e se opôs à proposta (CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS, [2019]).
 
-### 6.3 FUNDEB: quem aporta e quem recebe
+### 6.3 FUNDEB (intraestadual): quem aporta e quem recebe
 
 Dos municípios paulistas de até 5 mil habitantes, 93% são doadores líquidos do FUNDEB: aportam 20% de um FPM e de um ICMS grandes para o tamanho deles e têm poucos alunos. No Sudeste são 91%. No Nordeste, 21% na mesma faixa e 1% de 5 a 50 mil habitantes. No Maranhão, nenhum dos cinco. O resultado resiste a tirar os 62 municípios com aporte suspeito, 27 deles no Piauí: 93% em São Paulo, 91% no Sudeste e 22% no Nordeste.
 
-Esse dinheiro não sai de São Paulo para o Maranhão. São 27 fundos, um por estado. Dentro do fundo paulista, o município minúsculo perde para os que têm mais alunos. Dentro do maranhense, todos os municípios ganham, do governo do estado e da complementação da União. O resultado é uma diferença de natureza: o dinheiro de fora do município pequeno paulista é livre, vindo de FPM e ICMS, e o do maranhense é carimbado para a educação. As contas anuais não separam os três tipos de complementação da União.
+Esse dinheiro não sai de São Paulo para o Maranhão. O FUNDEB não é um fundo nacional: são 27 fundos independentes, um por estado e um do Distrito Federal. Cada fundo reparte, dentro do próprio estado, o que o governo estadual e as prefeituras dali aportaram, conforme as matrículas. Só a complementação da União cruza a divisa.
+
+Nas contas de 2024 dos 3.356 municípios, as prefeituras aportaram R$ 57,2 bi, receberam dos fundos dos seus estados R$ 105,0 bi e receberam R$ 30,0 bi de complementação da União, que é 22,2% do FUNDEB recebido. Separando: a complementação é 3,8% do FUNDEB recebido no Sudeste e 38,4% no Nordeste. Em São Paulo as prefeituras aportaram R$ 19,3 bi e receberam do fundo paulista R$ 32,1 bi; a complementação foi de R$ 0,35 bi, ou 1,1% do FUNDEB recebido, e 244 das 628 prefeituras aportam mais do que recebem. No Maranhão as prefeituras aportaram R$ 2,6 bi e receberam do fundo maranhense R$ 5,8 bi; a complementação foi de R$ 7,4 bi, ou 56,0% do FUNDEB recebido. Todas as 215 recebem complementação e só 1 aporta mais do que recebe. Por habitante, a mediana do FUNDEB recebido é de R$ 843 em São Paulo e de R$ 2.206 no Maranhão (tabela docs/tabelas/r5_n2_fundeb_intraestadual.csv). A base vê só as prefeituras: o aporte do governo de cada estado ao seu fundo não está nela.
+
+Dentro do fundo paulista, o município minúsculo perde para os que têm mais alunos. Dentro do maranhense, quase todos os municípios ganham, do governo do estado e da complementação da União. O resultado é uma diferença de natureza: o dinheiro de fora do município pequeno paulista é livre, vindo de FPM e ICMS, e o do maranhense é carimbado para a educação. A seção 3.4 mede essa diferença. As contas anuais não separam os três tipos de complementação da União.
 
 > **O que o dado diz à pergunta.** O município minúsculo paulista não paga a própria Câmara e a própria administração com o que arrecada, e nisso se parece com o maranhense. A diferença está no tipo de dinheiro que recebe: livre em São Paulo, vinculado à educação no Maranhão.
 
@@ -510,11 +717,13 @@ Tabela. Mediana de quatro indicadores nos municípios de até 20 mil habitantes 
 
 As colunas de 2002 e de 2025 trazem a mediana dos municípios de cada ano, a mesma do deck e do Apêndice A. A mudança é a mediana da variação dentro de cada município presente nos dois anos, e por isso não é a subtração exata das duas colunas.
 
+Média e desvio\* das linhas que os têm calculados, em 2002 e em 2025: transferências correntes em São Paulo, 87,7% ± 8,1 e 85,2% ± 6,5; no Maranhão, 97,5% ± 1,7 e 93,8% ± 3,1; FPM em São Paulo, 38,7% ± 13,0 e 37,5% ± 10,8; cota-parte do ICMS em São Paulo, 27,5% ± 8,4 e 21,7% ± 6,6. Em São Paulo o desvio da dependência encolheu, de 8,1 para 6,5 pontos; no Maranhão quase dobrou, de 1,7 para 3,1.
+
 ### 9.1 O que tem teste e o que não tem
 
 Três tipos de afirmação desta seção passaram por teste, todos com municípios de até 20 mil habitantes. O primeiro é a mudança de 2002 a 2025 dentro do mesmo município, que está na tabela de quatro indicadores. O segundo é a tendência por década. O terceiro é a comparação entre a mudança do Sudeste e a do Nordeste. Todas as mudanças da tabela resistem à correção para comparações múltiplas. A exceção, fora da tabela, é a cota-parte do ICMS no Nordeste, que ficou parada: de 7,9% para 7,8% da receita corrente, variação que não se distingue de zero.
 
-Entre as regiões, a mediana da dependência foi de 92,3% em 2002 para 88,7% em 2025 no Sudeste e de 96,7% para 93,0% no Nordeste. Dentro de cada município presente nos dois anos, a queda mediana foi de 3,1 pontos percentuais no Sudeste e de 3,4 no Nordeste; ela não é a subtração das duas medianas. A diferença entre as duas quedas, medida pela mediana das diferenças entre pares de municípios, um de cada região, é de 0,6 ponto, com intervalo de 0,3 a 1,0. No peso do FPM, a mediana foi de 49,7% para 40,9% no Sudeste e de 52,5% para 36,1% no Nordeste. Dentro de cada município, a queda mediana foi de 6,5 pontos no Sudeste e de 16,1 no Nordeste; a diferença, de 9,4 pontos, tem intervalo de 8,7 a 10,2.
+Entre as regiões, a mediana da dependência foi de 92,3% em 2002 para 88,7% em 2025 no Sudeste e de 96,7% para 93,0% no Nordeste. Dentro de cada município presente nos dois anos, a queda mediana foi de 3,1 pontos percentuais no Sudeste e de 3,4 no Nordeste; ela não é a subtração das duas medianas. A diferença entre as duas quedas, medida pela mediana das diferenças entre pares de municípios, um de cada região, é de 0,6 ponto, com intervalo de 0,3 a 1,0. No peso do FPM, a mediana foi de 49,7% (média 46,4% ± 15,7)\* para 40,9% (média 40,6% ± 11,5)\* no Sudeste e de 52,5% (média 52,3% ± 12,3)\* para 36,1% (média 37,0% ± 9,0)\* no Nordeste. Dentro de cada município, a queda mediana foi de 6,5 pontos no Sudeste e de 16,1 no Nordeste; a diferença, de 9,4 pontos, tem intervalo de 8,7 a 10,2.
 
 Não têm teste as afirmações sobre quando a mudança ocorreu, sobre a causa dela e sobre a ordem dos estados. Elas vêm da leitura das curvas e de contas auxiliares, e estão marcadas como tal a seguir.
 
@@ -570,19 +779,60 @@ A resposta é que não distorce, no que o estudo afirma. A dependência a tamanh
 
 No FPM como maior fatia, o triênio repete 2024, mas há tendência: a distância entre as regiões foi de 11,6 pontos em 2023, 19,0 em 2024 e 22,2 em 2025, porque no Nordeste o FUNDEB vem passando o FPM. Por estado, 2024 fica a até 2 pontos do triênio em dez dos treze. Fogem Sergipe (62,7% em 2024 e 54,7% no triênio), Pernambuco (63,4% e 68,1%) e Espírito Santo (44,9% e 48,7%).
 
-O ano de 2024 pesa no investimento. No Nordeste ele é o pico dos três anos: na faixa de 10 a 20 mil habitantes, R$ 347 por habitante em 2023, R$ 507 em 2024 e R$ 421 em 2025, em reais de 2025. No Sudeste, 2024 repete 2023 e 2025 cai um terço: R$ 1.243, R$ 1.292 e R$ 864 na faixa de até 5 mil habitantes. O estudo não tem achado apoiado no investimento, mas toda razão "sobre o investimento" da seção 5 herda essa oscilação.
+O ano de 2024 pesa no investimento. No Nordeste ele é o pico dos três anos: na faixa de 10 a 20 mil habitantes, R$ 347 por habitante em 2023 (média R$ 441 ± 348)\*, R$ 507 em 2024 (média R$ 643 ± 497)\* e R$ 421 em 2025 (média R$ 530 ± 398)\*, em reais de 2025. No Sudeste, 2024 repete 2023 e 2025 cai um terço: R$ 1.243, R$ 1.292 e R$ 864 na faixa de até 5 mil habitantes. O estudo não tem achado apoiado no investimento, mas toda razão "sobre o investimento" da seção 5 herda essa oscilação.
 
-Sergipe é o estado em que 2024 foge por outro motivo. A dependência mediana até 20 mil habitantes foi de 91,3% em 2023, 84,6% em 2024 e 88,7% em 2025. Em 2024 as demais receitas próprias dos municípios sergipanos saltaram de R$ 94 para R$ 584 por habitante. É receita de uma vez só. A causa provável é a outorga da concessão de saneamento; a fonte não foi aberta.
+Sergipe é o estado em que 2024 foge por outro motivo. A dependência mediana até 20 mil habitantes foi de 91,3% em 2023 (média 90,0% ± 7,4)\*, 84,6% em 2024 (média 83,9% ± 6,0)\* e 88,7% em 2025 (média 87,8% ± 4,1)\*. Em 2024 as demais receitas próprias dos municípios sergipanos saltaram de R$ 94 para R$ 584 por habitante. É receita de uma vez só. A causa provável é a outorga da concessão de saneamento; a seção 9.6 traz o que se sabe dela.
 
 > **Ressalva.** Entre regiões, o intervalo que vale é o de erro agrupado por estado, e ele é largo: são 13 estados. Com ele, a diferença de dependência continua longe de zero (3,5 a 10,8 pontos), a de verba estadual também, a de verba federal encosta no zero e a do custo da máquina até 5 mil habitantes passa por ele. Os anos de 2023 e 2025 não passaram pela conferência de 2024: os alertas de FPM e de FUNDEB só existem para 2024. As transferências por habitante no Nordeste sobem 17% em termos reais de 2023 para 2024, na mediana dos municípios utilizáveis de cada ano até 20 mil habitantes (16,5% no painel dos três anos); essa alta não foi conferida em fonte externa.
+
+### 9.6 O que mexeu nos anos de salto
+
+As curvas desta seção têm degraus em alguns anos. Esta conta abre cada degrau em numerador e denominador. Ela usa os valores brutos da série longa, os municípios de até 20 mil habitantes presentes nos dois anos de cada par e a variação nominal mediana, município a município. A série mostra o que mexeu. Não mostra a causa.
+
+Tabela. FPM sobre a receita corrente nos anos de salto, municípios de até 20 mil habitantes
+
+| De um ano ao outro | Sudeste: peso do FPM | FPM | Receita corrente | Nordeste: peso do FPM | FPM | Receita corrente |
+|---|---:|---:|---:|---:|---:|---:|
+| 2018 a 2019 | 40,2% para 37,9% | +8,9% | +13,4% | 38,2% para 37,3% | +8,8% | +8,5% |
+| 2019 a 2020 | 37,9% para 32,6% | -4,6% | +9,0% | 37,2% para 32,8% | -4,5% | +8,4% |
+| 2020 a 2021 | 32,6% para 40,2% | +45,7% | +19,0% | 32,8% para 40,6% | +45,6% | +16,4% |
+| 2021 a 2022 | 40,2% para 41,3% | +25,8% | +22,1% | 40,6% para 40,3% | +25,8% | +27,2% |
+
+Cada linha conta só os municípios presentes nos dois anos do par. Por isso o Nordeste termina 2019 em 37,3% numa linha e começa em 37,2% na seguinte.
+
+O desenho é o mesmo nas duas regiões. Em 2020 mexeram os dois lados: o FPM caiu 4,6% em valor nominal e a receita corrente subiu 9%, puxada pelas transferências que não são FPM, que cresceram 20,6% no Sudeste e 17,9% no Nordeste. O peso do FPM caiu em 95% dos municípios do Sudeste e em 89% dos do Nordeste. Em 2021 a volta foi do numerador: o FPM subiu 46% em valor nominal, e as demais transferências ficaram paradas, com +3,5% no Sudeste e +0,1% no Nordeste. Em 2022 o FPM e a receita corrente cresceram juntos, perto de 25%, e a razão ficou. Depois de 2022 as regiões se separam pelo denominador: de 2023 a 2024 o FPM cresceu 16,2% nas duas, mas a receita corrente cresceu 13,5% no Sudeste e 20,9% no Nordeste, com as outras transferências a +24,0% no Nordeste.
+
+A regra de 2020 é compatível com esses números. A Lei Complementar 173 mandou a União entregar R$ 23 bi aos municípios em quatro parcelas naquele ano (BRASIL, 2020a), e a Lei 14.041 cobriu a queda nominal do FPM de março a novembro contra 2019, com dinheiro que não é FPM (BRASIL, 2020b). As duas leis foram lidas; o tamanho do efeito de cada uma na série não foi medido.
+
+Nos tributos próprios do Sudeste o degrau é de 2016 a 2018. O peso na receita corrente foi de 4,13% em 2015 para 3,62% em 2016, voltou a 4,30% em 2017 e chegou a 4,82% em 2018. A queda de 2016 foi do denominador: os tributos subiram 5,7% e a receita corrente, 12,5%, com o FPM a +14,5%. Em 2017 o denominador parou, com +1,0%. A alta de 2018 foi do numerador: os tributos subiram 20,2% em um ano, contra 5,2% da receita corrente, e o peso subiu em 75% dos municípios. No Nordeste o desenho é o mesmo e menor: 2,08% em 2016, 2,28% em 2017 e 2,55% em 2018.
+
+Tabela. Dependência nos estados com salto, municípios de até 20 mil habitantes, série longa
+
+| Estado e anos | Mediana da dependência | Transferências | Receita corrente | Resto da receita corrente, soma |
+|---|---:|---:|---:|---:|
+| Alagoas, 2021 a 2022 | 93,8% para 80,3% | +28,2% | +49,5% | R$ 152 milhões para R$ 764 milhões |
+| Alagoas, 2022 a 2023 | 80,3% para 90,4% | +6,6% | -4,8% | R$ 759 milhões para R$ 287 milhões |
+| Sergipe, 2023 a 2024 | 91,9% para 85,5% | +16,4% | +22,5% | R$ 170 milhões para R$ 321 milhões |
+| Sergipe, 2024 a 2025 | 85,5% para 88,8% | +14,8% | +11,0% | R$ 321 milhões para R$ 213 milhões |
+| Ceará, 2016 a 2017 | 95,0% para 94,4% | -1,7% | -0,1% | R$ 156 milhões para R$ 228 milhões |
+
+O resto é a receita corrente que não é transferência nem tributo: patrimonial, contribuições, serviços e outras receitas correntes. A soma muda de um par para o outro porque cada par conta só os municípios presentes nos seus dois anos. Os níveis são os da série longa, bruta, e por isso diferem dos da seção 9.5. Na série anual, com todos os municípios de cada ano, a média e o desvio\* da dependência são: em Alagoas, 92,8% ± 5,4 em 2021, 80,6% ± 10,8 em 2022 e 89,9% ± 4,9 em 2023; em Sergipe, 90,4% ± 7,1 em 2023, 85,3% ± 4,3 em 2024 e 88,4% ± 3,8 em 2025; no Ceará, 92,3% ± 6,0 em 2016 e 88,4% ± 14,7 em 2017. As variações de transferências e de receita corrente são medianas das variações de cada município; a média e o desvio delas não foram calculados.
+
+Em Alagoas, 2022 é o maior salto da série, de 13,5 pontos, e é do denominador. As transferências cresceram como nos outros estados, e o resto da receita corrente foi multiplicado por cinco: de 4,7% para 16,1% da receita corrente do grupo. A dependência caiu em 88% dos municípios, e em 31 de 60 a queda passou de 10 pontos. Em 2023 o resto voltou a 6,4% e a mediana voltou a 90%. Em Sergipe, 2024 tem o mesmo desenho, menor: queda de 6,4 pontos em 96% dos municípios, com o resto da receita corrente ao menos dobrando em 44 de 51, e devolução de metade em 2025.
+
+No Ceará de 2017 a mediana quase não mexe. O que aparece no gráfico é a mancha: o décimo inferior cai de 84,1% para 74,6% e o desvio vai de 6,0 para 14,7 pontos. São 11 de 82 municípios com queda de mais de 10 pontos. Em 9 deles o resto da receita corrente foi multiplicado por 3 a 52. Os outros 2, Umari e Granjeiro, têm receita corrente quase zerada naquele ano: é declaração quebrada que passa pelo crivo da série.
+
+> **Ressalva.** A série do IPEADATA não abre a conta que cresceu. Os números de Alagoas em 2022 e de Sergipe em 2024 são compatíveis com outorga de concessão de saneamento. Para Alagoas há notícia oficial: os blocos B e C do saneamento foram leiloados em 13/12/2021 por R$ 1,645 bi (GANDRA, 2021), e a Secretaria da Fazenda do estado informou, em 08/03/2022, que 61 municípios tinham recebido R$ 1,050 bi entre outorga e indenização (ALAGOAS, 2022).
+
+> **Ressalva.** Para Sergipe há notícia de imprensa do leilão da concessão da Deso, em 04/09/2024, com outorga de R$ 4,5 bi para 74 municípios (CAMPOS JR., 2024); a divisão entre estado e municípios não tem fonte oficial conferida. Para o Ceará de 2017 a série não diz o que é, e a hipótese do precatório do antigo FUNDEF não tem fonte que a confirme. Os números desta seção estão nas tabelas r5_n2_saltos de docs/tabelas.
 
 > **O que o dado diz à pergunta.** A distância entre o interior paulista e o maranhense é antiga e estável: cerca de 8,5 pontos em 2002 e em 2025. O que mudou aproxima os dois em um ponto só, o ICMS, que pesa menos em São Paulo e mais no Maranhão do que há 23 anos.
 
 ## 10. O oeste paulista concentra os municípios pequenos, mas a tamanho igual não depende mais que o resto do estado
 
-São Paulo tem 11 regiões geográficas intermediárias, a divisão do IBGE de 2017 dentro de cada estado. Ordenadas pela mediana da parcela da receita que vem de transferências em 2024, as quatro primeiras são as do oeste: Presidente Prudente, com 87,3% em 55 municípios; Marília, com 87,1% em 54; Araçatuba, com 85,6% em 41; e São José do Rio Preto, com 85,4% em 87. São também as de município menor. O município mediano tem 7.085 habitantes na região intermediária de Presidente Prudente, 6.383 na de Marília, 5.519 na de Araçatuba e 6.867 na de São José do Rio Preto. O FPM é a maior fatia da receita em 76,4%, 64,8%, 68,3% e 67,8% dos municípios dessas quatro regiões intermediárias.
+São Paulo tem 11 regiões geográficas intermediárias, a divisão do IBGE de 2017 dentro de cada estado. Ordenadas pela mediana da parcela da receita que vem de transferências em 2024, as quatro primeiras são as do oeste: Presidente Prudente, com 87,3% (média 85,0% ± 8,5)\* em 55 municípios; Marília, com 87,1% (média 84,1% ± 9,9)\* em 54; Araçatuba, com 85,6% (média 83,6% ± 8,1)\* em 41; e São José do Rio Preto, com 85,4% (média 83,1% ± 9,3)\* em 87. São também as de município menor. O município mediano tem 7.085 habitantes na região intermediária de Presidente Prudente, 6.383 na de Marília, 5.519 na de Araçatuba e 6.867 na de São José do Rio Preto. O FPM é a maior fatia da receita em 76,4%, 64,8%, 68,3% e 67,8% dos municípios dessas quatro regiões intermediárias.
 
-No meio da lista ficam Sorocaba, com 83,1%, Bauru, com 82,9%, Ribeirão Preto, com 80,0%, Araraquara, com 77,3%, e São José dos Campos, com 76,5%. No fim, Campinas, com 72,3% e município mediano de 31.328 habitantes, e São Paulo, com 65,6% e município mediano de 149.477. Na região intermediária de Campinas o FPM é a maior fatia em 35,6% dos municípios, e na de São Paulo, em 14,0%. Nenhuma região intermediária do Maranhão fica abaixo de 92%.
+No meio da lista ficam Sorocaba, com 83,1% (média 80,6% ± 10,5)\*, Bauru, com 82,9% (média 80,5% ± 9,1)\*, Ribeirão Preto, com 80,0% (média 78,3% ± 10,2)\*, Araraquara, com 77,3% (média 76,3% ± 10,6)\*, e São José dos Campos, com 76,5% (média 76,4% ± 13,3)\*. No fim, Campinas, com 72,3% (média 70,3% ± 11,4)\* e município mediano de 31.328 habitantes, e São Paulo, com 65,6% (média 62,1% ± 15,1)\* e município mediano de 149.477. Na região intermediária de Campinas o FPM é a maior fatia em 35,6% dos municípios, e na de São Paulo, em 14,0%. Nenhuma região intermediária do Maranhão fica abaixo de 92%.
 
 A {fig:49_longo_dep_corrente_SP_regioes_1} mostra as quatro regiões intermediárias do oeste na série longa, com a medida bruta da seção 9, um quadro para cada uma. Os quatro quadros se parecem: mediana perto de 90% em 2000 e entre 85% e 88% em 2025.
 
@@ -592,7 +842,34 @@ A tamanho igual, o oeste não se separa do resto do estado. Olhando só os munic
 
 O teste confirma a leitura. Comparando municípios do mesmo tamanho, as quatro regiões intermediárias do oeste dependem 0,9 ponto percentual a mais que o resto do estado, com intervalo de 95% de -0,2 a +2,0, que inclui o zero. O interior profundo paulista tem endereço porque é no oeste que estão os municípios pequenos. Um município do oeste não depende mais que outro do mesmo tamanho no Vale do Paraíba ou na região intermediária de Sorocaba.
 
-> **O que o dado diz à pergunta.** O lugar se confirma, a causa não. A dependência alta do oeste paulista vem do tamanho dos municípios, não da região intermediária, e mesmo a região intermediária paulista mais dependente fica mais de quatro pontos abaixo da maranhense menos dependente.
+### 10.1 Nas regiões geográficas imediatas, quatro de São Paulo alcançam a menor do Maranhão
+
+A região geográfica imediata é a divisão mais fina do IBGE de 2017, abaixo da intermediária. São Paulo tem 53 e o Maranhão, 22. A medida é a da seção 3, a parcela da receita que vem de transferências em 2024, nos municípios com contas utilizáveis.
+
+Tabela. Dependência por região geográfica imediata em São Paulo e no Maranhão, contas de 2024
+
+| Medida | São Paulo | Maranhão |
+|---|---:|---:|
+| Regiões imediatas | 53 | 22 |
+| Municípios com contas utilizáveis | 628 | 215 |
+| Dependência dos municípios, mediana | 81,2% | 94,1% |
+| Dependência dos municípios, média e desvio\* | 78,2% ± 12,4 | 93,1% ± 4,4 |
+| Menor mediana regional | 54,9% (Santos) | 89,4% (Açailândia) |
+| Maior mediana regional | 92,2% (Piraju) | 96,1% (Pinheiro) |
+| Regiões com mediana acima de 80% | 32 de 53 | 22 de 22 |
+| Regiões com mediana acima de 90% | 3 de 53 | 21 de 22 |
+| Desvio entre as medianas regionais | 8,6 | 1,4 |
+| Variação entre municípios explicada pela região | 39% | 12% |
+
+Três regiões imediatas paulistas passam de 90%: Piraju, com 92,2% (média 87,9% ± 6,2)\* em 5 municípios; Jales, com 91,1% (média 88,9% ± 5,8)\* em 13; e Itapeva, com 90,5% (média 88,4% ± 5,0)\* em 19. Logo abaixo vêm Araçatuba, com 89,5% (média 84,5% ± 8,9)\*; Marília, com 89,2% (média 85,7% ± 9,2)\*; Fernandópolis, com 88,9% (média 86,4% ± 7,5)\*; e Santa Fé do Sul, com 88,6% (média 84,0% ± 13,3)\*. As menos dependentes são Santos, com 54,9% (média 55,9% ± 16,4)\*; Caraguatatuba - Ubatuba - São Sebastião, com 59,9% (média 59,5% ± 7,4)\*; Campinas, com 64,9% (média 62,4% ± 11,5)\*; Amparo, com 66,0% (média 65,6% ± 9,6)\*; e São Paulo, com 67,0% (média 63,9% ± 14,0)\*.
+
+Na escala fina as duas distribuições se tocam. Quatro regiões imediatas de São Paulo têm mediana igual ou acima da menor do Maranhão, a de Açailândia, com 89,4% (média 88,4% ± 4,3)\*: Piraju, Jales, Itapeva e Araçatuba. Duas do Maranhão ficam abaixo da maior de São Paulo: Açailândia e Balsas, com 92,0% (média 90,3% ± 4,9)\*. Na escala das regiões intermediárias isso não acontece.
+
+No Maranhão a região quase não separa os municípios: as 22 medianas ficam entre 89,4% e 96,1%, e 20 delas acima de 92%. Em São Paulo a região separa bastante, e ainda assim há mais diferença dentro de cada região que entre elas: a região explica 39% da variação entre os municípios paulistas e 12% entre os maranhenses.
+
+> **Ressalva.** Região imediata com 4 ou 5 municípios tem mediana instável, e Piraju tem 5. A mediana da região conta municípios; o agregado conta reais. Na região de São Luís a mediana é 93,4% e o agregado é 72,5%, por causa da capital; na de Marília, 89,2% e 67,6%. As 75 regiões estão em docs/tabelas/r5_n2_imediatas.csv, com mediana, média, desvio, mínimo, máximo e agregado.
+
+> **O que o dado diz à pergunta.** O lugar se confirma, a causa não. A dependência alta do oeste paulista vem do tamanho dos municípios, não da região intermediária, e mesmo a região intermediária paulista mais dependente fica mais de quatro pontos abaixo da maranhense menos dependente. Só na escala mais fina, a das regiões imediatas, quatro paulistas alcançam a menos dependente do Maranhão.
 
 <!-- parte: 20-regra.md -->
 
@@ -642,7 +919,7 @@ O autor perguntou se a população é uma variável substituta da dependência, 
 
 ### 12.1 O que a teoria mede
 
-A teoria de escala mede isso em cidades grandes de outros países. Em sistemas de cidades, uma grandeza total Y costuma seguir Y = Y0 · N^β, em que N é a população. Com β acima de 1, a grandeza cresce mais que a população; abaixo de 1, menos. Bettencourt et al. (2007) mediram três famílias. Riqueza e inovação crescem mais: patentes novas com expoente 1,27 (Estados Unidos, 2001), PIB 1,15 (China, 2002). Necessidades individuais acompanham a população: moradias 1,00. Infraestrutura cresce menos: área de vias 0,83 (Alemanha). Geoffrey West popularizou a ideia em livro como "regra dos 15%"; o livro não foi consultado aqui.
+A teoria de escala mede isso em cidades grandes de outros países. Em sistemas de cidades, uma grandeza total Y costuma seguir Y = Y0 · N^β, em que N é a população. Com β acima de 1, a grandeza cresce mais que a população; abaixo de 1, menos. Bettencourt et al. (2007) mediram três famílias. Riqueza e inovação crescem mais: patentes novas com expoente 1,27 (Estados Unidos, 2001), PIB 1,15 (China, 2002). Necessidades individuais acompanham a população: moradias 1,00. Infraestrutura cresce menos: área de vias 0,83 (Alemanha). Geoffrey West, coautor do artigo, popularizou a ideia como "regra dos 15%". Em palestra de 2011, ele diz que, quando a cidade dobra, salários, riqueza, casos de aids e número de policiais sobem **15%** por habitante, e a infraestrutura rende uma economia de **15%** (WEST, 2011). O livro dele não foi consultado. A subseção 12.7 diz o que essa regra alcança e onde ela para.
 
 Dois críticos foram lidos pelo resumo. Um grupo liderado por Elsa Arcaute variou o recorte de "cidade" na Inglaterra e no País de Gales e achou expoentes que mudam muito com o recorte; só a versão de pré-publicação do artigo foi consultada, e a referência da publicação não foi conferida. Leitão et al. (2016) concluem que a evidência de não linearidade depende do modelo estatístico. No Brasil, Meirelles et al. (2018) acharam arrecadação de tributos crescendo mais que a população e serviços de investimento centralizado fora do previsto, o que atribuem a "decisões políticas de cima para baixo".
 
@@ -716,6 +993,38 @@ O tamanho não fecha a conta entre São Paulo e Maranhão. A Parte I mede 13,5 p
 - Bom ajuste não é mecanismo. O FPM tem R² de 0,91 sem economia urbana por trás, e o ISS acima de 1 pode ser regra de incidência e capacidade de cobrar.
 - São Paulo e Maranhão quase não se sobrepõem em PIB por habitante (mediana maranhense de R$ 12,6 mil; percentil 5 paulista de R$ 21,5 mil). O resíduo de 11,9 pontos é descrição, sem leitura causal.
 
+### 12.7 A escala das cidades diz que o município pequeno custa mais?
+
+> **Posição do autor.** Juntar-se em cidades é uma dinâmica espontânea, que age por baixo das regras fiscais. A mesma regra de escala aparece em países de sistemas e tributos diferentes. Ela pesa também no custo da saúde, e não só na receita e no PIB.
+
+**O que os dados dizem.** Nos municípios deste estudo, o que vem da economia cresce mais que a população, e o gasto cresce menos (seção 12.2). O repasse do SUS é receita, não custo de atendimento: o custo da saúde por tamanho de cidade este estudo não mede. A tabela do artigo de 2007 também não traz despesa pública. A teoria ajuda como parentesco de ideia. Não serve de prova, e o resto da seção mostra onde ela não fecha.
+
+A tabela refaz a conta do artigo de 2007 em outra unidade: quanto muda o valor **por habitante** quando a cidade dobra de tamanho. A fórmula é 2 elevado a (β - 1), menos 1. Os expoentes são os da tabela 1 de Bettencourt et al. (2007); a última coluna é conta deste estudo.
+
+Tabela. O que muda por habitante quando a cidade dobra, pelos expoentes de Bettencourt et al. (2007)
+
+| Grandeza | Onde e quando | Expoente | Por habitante, ao dobrar |
+|---|---|---:|---:|
+| Patentes novas | Estados Unidos, 2001 | 1,27 | +20,6% |
+| Crimes graves | Estados Unidos, 2003 | 1,16 | +11,7% |
+| Massa de salários | Estados Unidos, 2002 | 1,12 | +8,7% |
+| Total de moradias | Estados Unidos, 1990 | 1,00 | 0,0% |
+| Comprimento de cabos elétricos | Alemanha, 2002 | 0,87 | -8,6% |
+| Área de ruas | Alemanha, 2002 | 0,83 | -11,1% |
+| Postos de gasolina | Estados Unidos, 2001 | 0,77 | -14,7% |
+
+**O que a teoria diz.** A rede física por habitante encolhe com o tamanho: de **9% a 15%** a menos de rua, cabo e posto cada vez que a cidade dobra.
+
+**O que ela não mede.** Nenhuma linha da tabela do artigo é despesa pública. Não há gasto de prefeitura, custo de Câmara, escola nem posto de saúde. A frase do artigo sobre serviços sociais está na introdução, como contexto.
+
+**Nem tudo fica mais barato.** Na palestra, West põe o número de policiais entre o que **sobe** 15% por habitante (WEST, 2011), e o crime sobe com expoente 1,16. A teoria não diz "cidade maior, governo mais barato". Diz que a rede física rende mais e que a vida social fica mais intensa.
+
+**A amostra é outra.** São áreas metropolitanas dos Estados Unidos e cidades grandes da Alemanha e da China. Não há município de 2 mil habitantes. E a lei de potência é um ajuste médio, sem custo fixo.
+
+O limite aparece na conta. Com o expoente de 0,83, dobrar a cidade tira 11,1% do valor por habitante. Neste estudo, Câmara e administração têm expoente **0,14** até 5 mil habitantes: dobrar o município tira **45%** do gasto por habitante, quatro vezes a queda da rua alemã. Acima de 50 mil, com expoente 0,98, a queda é de 1%. Uma economia de escala como a de West valeria em todos os tamanhos. Aqui ela é forte embaixo e some em cima: é uma prefeitura, uma Câmara e um mínimo de equipe divididos por pouca gente.
+
+> **O que o dado diz à pergunta.** West explica por que a cidade grande arrecada mais por habitante. O custo alto do município minúsculo tem outra causa, o custo fixo, e é mais forte do que a teoria daria.
+
 ## 13. No Congresso, a cadeira a mais é do Norte pequeno e do Senado, e a emenda por habitante acompanha a cadeira por habitante
 
 O autor perguntou se o quadro fiscal tem a ver com o número de representantes, já que se costuma dizer que os estados do Nordeste pesam mais que sua população. O fenômeno existe e tem nome. O endereço que a queixa lhe dá está errado em boa parte.
@@ -776,17 +1085,17 @@ A regra dá R$ 73 por habitante em São Paulo, R$ 193 no Maranhão e R$ 1.463 em
 
 Tabela. Emenda pela regra de 2025 e emenda paga aos municípios de até 20 mil habitantes, nove dos 13 estados
 
-| Estado | Razão no Congresso | Regra, R$ por hab. | Mediana municipal paga em 2025, R$ por hab. | Emenda sobre a receita de 2024 |
-|---|---:|---:|---:|---:|
-| Sergipe | 1,70 | 422 | 670 | 9,3% |
-| Piauí | 1,36 | 308 | 622 | 9,0% |
-| Paraíba | 1,29 | 272 | 586 | 8,4% |
-| Rio de Janeiro | 1,04 | 146 | 518 | 5,8% |
-| Espírito Santo | 1,16 | 262 | 378 | 5,6% |
-| Maranhão | 1,06 | 193 | 357 | 5,5% |
-| Minas Gerais | 0,93 | 127 | 274 | 4,0% |
-| Bahia | 1,02 | 148 | 233 | 3,8% |
-| São Paulo | 0,56 | 73 | 149 | 2,0% |
+| Estado | Razão no Congresso | Regra, R$ por hab. | Mediana municipal paga em 2025, R$ por hab. | Média e desvio\*, R$ por hab. | Emenda sobre a receita de 2024 |
+|---|---:|---:|---:|---:|---:|
+| Sergipe | 1,70 | 422 | 670 | 701 ± 344 | 9,3% |
+| Piauí | 1,36 | 308 | 622 | 718 ± 369 | 9,0% |
+| Paraíba | 1,29 | 272 | 586 | 715 ± 521 | 8,4% |
+| Rio de Janeiro | 1,04 | 146 | 518 | 521 ± 251 | 5,8% |
+| Espírito Santo | 1,16 | 262 | 378 | 409 ± 228 | 5,6% |
+| Maranhão | 1,06 | 193 | 357 | 411 ± 268 | 5,5% |
+| Minas Gerais | 0,93 | 127 | 274 | 340 ± 268 | 4,0% |
+| Bahia | 1,02 | 148 | 233 | 284 ± 268 | 3,8% |
+| São Paulo | 0,56 | 73 | 149 | 195 ± 176 | 2,0% |
 
 Cada ponto desta comparação é um estado, não um município. Entre os 13 estados, a correlação entre a emenda pela regra e a mediana municipal é de 0,81 (Pearson) e 0,73 (Spearman); com a razão de representação no Congresso, 0,87. Sem São Paulo, a de Spearman cai para 0,66. A mediana municipal fica perto do dobro da regra, porque dentro de cada estado o município pequeno recebe mais por habitante que o grande.
 
@@ -802,13 +1111,44 @@ O teto de 70 explica a menor parte da distância. Com 112 deputados, São Paulo 
 
 > **O que o dado diz à pergunta.** Fato medido: São Paulo é o estado mais sub-representado, e seus municípios pequenos recebem a menor emenda federal por habitante entre os 13 estados. Interpretação: que uma coisa cause a outra município a município. A base não cobre o Norte, onde a regra daria o maior efeito.
 
+### 13.8 A Constituição usa as regiões para dividir dinheiro?
+
+Usa, em poucas regras, e nenhuma delas é a que pesa na receita do município deste estudo.
+
+A Constituição não tem a expressão "Grandes Regiões", que é do IBGE. Fala em "Regiões Norte, Nordeste e Centro-Oeste", em "regiões macroeconômicas" e em "desigualdades regionais", e não diz quais estados formam cada região (BRASIL, [2026]e).
+
+Tabela. Onde a Constituição usa a região como critério de dinheiro
+
+| Onde | O que diz | Desde quando |
+|---|---|---|
+| Art. 3º, III | É objetivo da República "reduzir as desigualdades sociais e regionais" | Texto de 1988 |
+| Art. 159, I, "c" | **3%** do imposto de renda e do IPI para programas de financiamento ao setor produtivo do Norte, do Nordeste e do Centro-Oeste, pelos bancos regionais | Texto de 1988 |
+| Ato das Disposições Transitórias, art. 34, § 10 | Reparte os 3%: 0,6% para o Norte, **1,8%** para o Nordeste e 0,6% para o Centro-Oeste | Texto de 1988 |
+| Art. 165, § 7º, e Ato das Disposições Transitórias, art. 35 | O orçamento federal deve "reduzir desigualdades inter-regionais, segundo critério populacional" | Texto de 1988 |
+| Ato das Disposições Transitórias, art. 42 | Da verba federal de irrigação, 20% no Centro-Oeste e 50% no Nordeste | Texto de 1988; prorrogado em 2004 e em 2015 |
+| Ato das Disposições Transitórias, art. 97 | Piso menor de pagamento de precatórios para estados e municípios do Norte, do Nordeste e do Centro-Oeste | Emenda Constitucional 62 (BRASIL, 2009) |
+
+No Fundo de Participação dos Estados, a região entrou pela lei, e não pela Constituição. A Lei Complementar 62 dava **85%** do fundo aos estados do Norte, do Nordeste e do Centro-Oeste e **15%** aos do Sul e do Sudeste (BRASIL, 1989). A Lei Complementar 143 tirou os dois percentuais do texto (BRASIL, 2013): de 2016 em diante cada estado recebe o que recebeu em 2015, corrigido, e só o excedente é repartido por população e pelo inverso da renda. Na prática, a divisão regional de 1989 ficou congelada na base. As duas leis foram lidas no texto do Planalto pela pesquisa deste estudo.
+
+O **FPM** não tem região. As alíneas do artigo 159 que tratam dele não citam nenhuma. O que o FPM de um município vale depende da faixa de população e do estado. A região divide dinheiro em três lugares: o crédito dos fundos constitucionais, que não é receita de prefeitura; o fundo dos estados; e a irrigação.
+
+> **Posição do autor.** As regiões são um agrupamento do IBGE, feito para a estatística. Para o autor, não deveriam virar critério político nem fiscal. A regra deveria olhar o município, e não em qual das cinco regiões ele está.
+
+**O que os dados dizem.** A posição tem apoio na regra principal. O FPM, o FUNDEB e a cota do ICMS não têm região. E, a tamanho igual, o repasse empata: até 5 mil habitantes, a mediana da receita externa é de **R$ 8,9 mil** por habitante no Sudeste (média R$ 9,6 mil ± 3,4 mil)\* e de **R$ 8,5 mil** no Nordeste (média R$ 9,0 mil ± 2,2 mil)\*.
+
+**Onde a posição não fecha.** A própria Constituição põe a redução da desigualdade regional entre os objetivos da República. E tirar a região da regra não tira a diferença do dado: a tamanho igual, o município do Nordeste depende **6,7 pontos** a mais que o do Sudeste, e os tributos próprios são 13% da receita no município médio do Sudeste e 7% no do Nordeste (seção 3). Um critério só por município, pela necessidade, mandaria mais por habitante para o Nordeste sem citar a região (seção 15.11).
+
+\* A mediana é o município do meio; a média pesa os extremos; o desvio diz quanto os municípios se espalham.
+
+> **Ressalva.** Não foram abertas a Lei 7.827/1989, que define a área de cada fundo constitucional, nem a ação que discute os critérios do fundo dos estados no STF.
+
 ## 14. De 1988 às emendas Pix, mudou a obrigação de pagar e o tamanho da cota; o critério de repartição ficou o mesmo
 
 A emenda parlamentar ao orçamento existe desde 1988. De 2013 a 2022, quatro mudanças tornaram o pagamento obrigatório e aumentaram a cota. A cota continua repartida por parlamentar e por bancada, e quem escolhe o município é o parlamentar.
 
 ### 14.1 A linha do tempo
 
-Tabela. Marcos das emendas parlamentares ao orçamento federal, 1988 a 2025 {quebra}
+Tabela. Marcos das emendas parlamentares ao orçamento federal, 1988 a 2026 {quebra}
 
 | Ano | Marco | O que mudou | Conferência |
 |---|---|---|---|
@@ -817,11 +1157,12 @@ Tabela. Marcos das emendas parlamentares ao orçamento federal, 1988 a 2025 {que
 | 2019 | Emenda Constitucional 100 | Emenda de bancada estadual obrigatória: até 1% da receita corrente líquida | Texto lido |
 | 2019 | Emenda Constitucional 105 | Transferência especial: repasse direto a estado e município, sem convênio | Texto lido |
 | 2020 | Marcador RP9 | O relator-geral distribui verba por indicação informal, sem registro de quem pediu | Lei não conferida; execução medida |
-| 2022 | STF, ADPFs 850, 851, 854 e 1014 | Por 6 a 5, o RP9 para criar despesa é declarado inconstitucional | Busca; página não aberta |
+| 2022 | STF, ADPFs 850, 851, 854 e 1014 | Em 19/12, por 6 a 5, com a ministra Rosa Weber de relatora, o uso do RP9 para criar despesa é declarado inconstitucional | Notícia oficial lida; acórdão não aberto |
 | 2022 | Emenda Constitucional 126 | Dois dias depois, a cota individual sobe de 1,2% para 2% | Texto lido |
-| 2024 | STF, agosto | Em 1º/08 o relator suspende as transferências especiais; em 14/08, as emendas obrigatórias; em 16/08 o plenário mantém as decisões por 11 a 0 | Fonte secundária |
+| 2024 | STF, agosto | Em 1º/08 o relator, ministro Flávio Dino, condiciona as transferências especiais à transparência e manda a CGU auditar; em 14/08 suspende as emendas obrigatórias; em 16/08 o plenário mantém as decisões por 11 a 0 | Notícias oficiais lidas |
 | 2024 | Lei Complementar 210 | Regras de objeto, plano de trabalho e limite de crescimento | Texto lido |
 | 2025 | Plano homologado no STF | Só se empenha emenda com o nome de quem indicou e de quem recebe | Notícia oficial lida |
+| 2026 | STF, ADPF 854 e ação penal | Em 17/03, a primeira condenação por desvio de emenda; em 23/08, ficam nulas as emendas indicadas por quem não tem mandato | Notícias oficiais lidas |
 
 Três marcos ficam fora por estarem só de memória na pesquisa: a CPI mista do Orçamento de 1993 e 1994, a Resolução 1/2006 do Congresso, que restringiu a emenda de relator a correção de erro e omissão, e a lei de diretrizes de 2014, primeira regra de execução obrigatória.
 
@@ -841,23 +1182,23 @@ Em todos os tipos, quem decide o município e o valor é um parlamentar ou um gr
 
 Três coisas os separam. Quem assina: na individual o autor sempre foi público; no RP9 e, até 2024, na de comissão, não era. Para quê: só a transferência especial dispensa finalidade; sabia-se quem mandou e para qual prefeitura, e não o que a prefeitura fez. E se o governo pode segurar: individual e bancada são obrigatórias; comissão e relator dependem de liberação, e é ali que cabe negociação de voto.
 
-Juntar tudo em "verba de deputado" está certo para a pergunta deste estudo, que é quem reparte e por qual critério. É impreciso para a pergunta jurídica: o STF derrubou o RP9 por falta de autoria e manteve a emenda obrigatória.
+Juntar tudo em "verba de deputado" está certo para a pergunta deste estudo, que é quem reparte e por qual critério. É impreciso para a pergunta jurídica: o STF derrubou o uso do RP9 para criar despesa, com ou sem autor à mostra, e em 2024 fixou que a obrigação de pagar não é absoluta: só se executa a emenda que cumpre transparência e rastreabilidade (seção 14.5).
 
 ### 14.3 Os apelidos e quem usa cada um
 
-"Orçamento secreto" é apelido da emenda de relator-geral, o RP9. Foi cunhado pelo jornal O Estado de S. Paulo em reportagem de Breno Pires de maio de 2021. Fontes secundárias dão o dia 8, e uma republicação do texto traz o dia 9; a página original do jornal não foi localizada. O que era secreto era o autor da indicação, não o gasto. Segundo resumo de busca, porque as páginas do STF não abriram: em 2021 e 2022 o termo foi usado pela oposição ao governo da época, os partidos que foram ao STF são Cidadania, PSB, PSOL e PV, e o tribunal adotou o termo no título do julgamento.
+"Orçamento secreto" é apelido da emenda de relator-geral, o RP9. Foi cunhado pelo jornal O Estado de S. Paulo em reportagem de Breno Pires de maio de 2021. Uma página da Abraji, de 15/12/2021, dá o dia 8 de maio para a publicação na internet e o título da reportagem, "Bolsonaro cria orçamento secreto em troca de apoio do Congresso"; a edição impressa é do dia 9. A página original do jornal não abriu. O que era secreto era o autor da indicação, não o gasto. Os partidos que foram ao STF são Cidadania, PSB, PSOL e PV, e a decisão de 2022 fala em "esquema do orçamento secreto" (BRASIL, 2025). Quem defendeu o mecanismo no julgamento foi a Advocacia-Geral da União do governo do ex-presidente Jair Bolsonaro, ao lado da advocacia da Câmara, segundo a pesquisa deste estudo sobre notícia da Agência Brasil de 07/12/2022.
 
 "Emenda Pix" é apelido de imprensa da transferência especial, por analogia com o sistema de pagamento do Banco Central: o dinheiro cai direto na conta. A pesquisa não localizou quem usou primeiro. Segundo resumo de busca, a Abraji usa o apelido na ação que moveu no STF.
 
-"Novo orçamento secreto" é atribuído pela pesquisa, sem conferência, à imprensa e à oposição ao governo atual, desde 2023, para a emenda de comissão.
+O apelido passou depois para a emenda de comissão. A Transparência Brasil escreveu, em julho de 2024, que a opacidade nas emendas "perpetua orçamento secreto" (ATOJI; PAVINI, 2024). A pesquisa deste estudo achou o mesmo uso em 2026 na CNN Brasil ("revivem orçamento secreto") e na fala de uma deputada do PSOL, partido autor das ações e da base do governo. O apelido não é só da oposição.
 
-Os apelidos nasceram em jornal. Leitura do autor, sem citação aberta: a oposição tende ao apelido, o governo e o comando do Congresso tendem ao nome técnico, e os papéis se inverteram de 2022 para 2023. Este relatório usa o nome oficial e põe o apelido entre aspas.
+Os apelidos nasceram em jornal. Leitura do autor, sem citação aberta: a oposição tende ao apelido, o governo e o comando do Congresso tendem ao nome técnico, e os papéis se inverteram de 2022 para 2023. A leitura fecha em parte: em 2024 e 2026 o apelido aparece também em organização de controle e em partido da base. Este relatório usa o nome oficial e põe o apelido entre aspas.
 
 ### 14.4 Os valores desde 2018
 
 A série é do Portal da Transparência (BRASIL, 2026a). O ano é o do orçamento da emenda, e o valor é o empenhado naquele exercício. As colunas por tipo estão em valores correntes; a última, a preços médios de 2025 pelo IPCA. Começa em 2018 porque o Portal está incompleto em 2014 e 2015 e traz em 2016 e 2017 um "relator" que não é o RP9.
 
-Tabela. Emendas ao orçamento federal por ano do orçamento da emenda, valor empenhado por tipo, em R$ bilhões
+Tabela. Emendas ao orçamento federal por ano do orçamento da emenda, valor empenhado por tipo, em R$ bi
 
 | Ano | Individual | Bancada | Comissão | Relator | Total a preços de 2025 |
 |---|---:|---:|---:|---:|---:|
@@ -870,19 +1211,50 @@ Tabela. Emendas ao orçamento federal por ano do orçamento da emenda, valor emp
 | 2024 | 24,7 | 8,4 | 11,7 | 0,0 | 47,1 |
 | 2025 | 24,3 | 11,6 | 11,2 | 0,0 | 47,1 |
 
-De 2018 a 2025, o empenhado real foi de R$ 17,4 bilhões para R$ 47,1 bilhões: 2,7 vezes. O pico foi 2020. De 2022 para 2023, o relator foi a zero, a individual quase dobrou e a de comissão foi de R$ 0,3 para R$ 6,9 bilhões. A transferência especial, dentro da coluna individual, foi de R$ 0,8 bilhão em 2020 para R$ 8,1 bilhões em 2024, a preços de 2025. O ano de 2026 está parcial: R$ 38,6 bilhões empenhados até setembro.
+De 2018 a 2025, o empenhado real foi de R$ 17,4 bi para R$ 47,1 bi: 2,7 vezes. O pico foi 2020. De 2022 para 2023, o relator foi a zero, a individual quase dobrou e a de comissão foi de R$ 0,3 para R$ 6,9 bi. A transferência especial, dentro da coluna individual, foi de R$ 0,8 bi em 2020 para R$ 8,1 bi em 2024, a preços de 2025. O ano de 2026 está parcial: R$ 38,6 bi empenhados até setembro.
 
-O valor pago leva à mesma conclusão. Somando às emendas de cada orçamento o que foi pago depois, como restos a pagar, o pago vai de R$ 15,6 bilhões no orçamento de 2018 para R$ 41,4 bilhões no de 2024, a preços de 2025: 2,7 vezes. Pelo ano em que o dinheiro saiu do caixa, seja qual for o orçamento de origem, foram R$ 18,7 bilhões em 2018 e R$ 41,2 bilhões em 2024: 2,2 vezes. O crescimento resiste aos dois critérios. A série por ano do pagamento e por tipo não foi feita.
+O valor pago leva à mesma conclusão. Somando às emendas de cada orçamento o que foi pago depois, como restos a pagar, o pago vai de R$ 15,6 bi no orçamento de 2018 para R$ 41,4 bi no de 2024, a preços de 2025: 2,7 vezes. Pelo ano em que o dinheiro saiu do caixa, seja qual for o orçamento de origem, foram R$ 18,7 bi em 2018 e R$ 41,2 bi em 2024: 2,2 vezes. O crescimento resiste aos dois critérios. A série por ano do pagamento e por tipo não foi feita.
 
-Para 2026, a Agência Senado noticiou cerca de R$ 61 bilhões em emendas na lei orçamentária, a Lei 15.346, publicada em 14/01/2026 (ORÇAMENTO..., 2026). São R$ 26,6 bilhões de emendas individuais, R$ 11,2 bilhões de bancada, R$ 12,1 bilhões de comissão e R$ 11,1 bilhões acolhidos na programação dos ministérios, sob gestão do Executivo. As três primeiras parcelas, as que deputados e senadores direcionam, somam R$ 49,9 bilhões. O número da lei e os valores vêm da notícia; o anexo da lei não foi aberto. A parcela das emendas na despesa discricionária da União não entra aqui: as duas fontes localizadas não foram abertas e não coincidem.
+Para 2026, a Agência Senado noticiou cerca de R$ 61 bi em emendas na lei orçamentária, a Lei 15.346, publicada em 14/01/2026 (ORÇAMENTO..., 2026). São R$ 26,6 bi de emendas individuais, R$ 11,2 bi de bancada, R$ 12,1 bi de comissão e R$ 11,1 bi acolhidos na programação dos ministérios, sob gestão do Executivo. As três primeiras parcelas, as que deputados e senadores direcionam, somam R$ 49,9 bi. O número da lei e os valores vêm da notícia; o anexo da lei não foi aberto. A parcela das emendas na despesa discricionária da União não entra aqui: as duas fontes localizadas não foram abertas e não coincidem.
 
-### 14.5 O STF e a Lei Complementar 210
+### 14.5 O que o STF decidiu, quem relatou e como terminou?
 
-O julgamento de dezembro de 2022 fixou que a emenda do relator-geral serve só para corrigir erros e omissões. Em 1º/08/2024, o relator das ações, ministro Flávio Dino, suspendeu as transferências especiais. Em 14/08, suspendeu a execução das emendas obrigatórias até haver regras de transparência e rastreabilidade. Em 16/08, o plenário manteve as decisões por 11 a 0, segundo notícia da Agência Brasil do mesmo dia. Ficaram fora da suspensão as obras em andamento e os casos de calamidade.
+São três grupos de ações. Só o primeiro teve o mérito julgado.
 
-A resposta do Congresso foi a Lei Complementar 210 (BRASIL, 2024): emenda de bancada só para projeto estruturante e sem rateio entre os membros; emenda de comissão com objeto preciso; plano de trabalho para a transferência especial; limite de crescimento do total. Em 26/02/2025, o STF homologou o plano de trabalho do Congresso e do Executivo. Segundo resumo de busca, em 2025 e 2026 houve operações da Polícia Federal sobre emendas. Investigação não é condenação.
+Tabela. Ações no STF sobre emendas parlamentares, situação em 6 de outubro de 2026
 
-> **Ressalva.** As páginas do STF bloquearam a leitura. As datas e o placar de agosto de 2024 e a homologação de 26/02/2025 foram conferidos em fonte secundária aberta, a Agência Brasil e a Agência Senado. As datas e os placares de 2021 a 2023, os autores das ações e as operações policiais vêm de resumo de busca ou de memória. Estão conferidas no texto oficial as quatro emendas constitucionais e a Lei Complementar 210.
+| Ações | Quem entrou | O que pedem | Relator | Situação |
+|---|---|---|---|---|
+| ADPFs 850, 851, 854 e 1014 | Cidadania, PSB, PSOL e PV | Derrubar a emenda de relator (RP9) | Rosa Weber; depois, Flávio Dino | Mérito julgado em 19/12/2022, por **6 a 5**. A ADPF 854 continua aberta, para fiscalizar o cumprimento |
+| ADIs 7688 e 7695 | Abraji, na primeira | Derrubar a transferência especial | Flávio Dino | Liminar de 1º/08/2024, mantida por **11 a 0**. Mérito não julgado |
+| ADI 7697 | PSOL | Derrubar a execução obrigatória | Flávio Dino | Liminar de 14/08/2024, mantida por **11 a 0**. Mérito não julgado |
+
+**O julgamento de 2022.** A relatora foi a ministra Rosa Weber, então presidente do tribunal. Votaram com ela Edson Fachin, Luís Roberto Barroso, Luiz Fux, Cármen Lúcia e Ricardo Lewandowski. Ficaram vencidos Alexandre de Moraes, Dias Toffoli, Nunes Marques, André Mendonça e Gilmar Mendes (VERDÉLIO, 2022). O tribunal declarou incompatíveis com a Constituição "as práticas orçamentárias viabilizadoras do chamado 'esquema do orçamento secreto', consistentes no uso indevido das emendas do Relator-Geral do orçamento para efeito de inclusão de novas despesas públicas ou programações", no trecho que uma nota do Senado transcreve (BRASIL, 2025). A decisão vai além do segredo: proíbe usar a emenda de relator para criar despesa, com ou sem autor à mostra.
+
+**As decisões de 2024.** Em 1º de agosto, o ministro Flávio Dino condicionou as transferências especiais ao registro dos dados antes do pagamento e mandou a Controladoria-Geral da União auditar. Não as suspendeu (RICHTER, 2024b). Em 14 de agosto, suspendeu o pagamento das emendas obrigatórias até haver regras de transparência e rastreabilidade, com exceção para obra em andamento e calamidade (RICHTER, 2024a). Em 16 de agosto, o plenário manteve as decisões por 11 a 0 (RICHTER, 2024c). Segundo a nota do Senado, o tribunal fixou ali que a obrigação de pagar a emenda não é absoluta (BRASIL, 2025).
+
+**A resposta do Congresso e a liberação.** A Lei Complementar 210 (BRASIL, 2024) trouxe regras: emenda de bancada só para projeto estruturante e sem rateio entre os membros; emenda de comissão com objeto preciso; plano de trabalho para a transferência especial; limite de crescimento do total. Em 2 de dezembro de 2024 o relator liberou a execução sob condições, com a emenda de comissão fixada em **R$ 11,5 bi** para 2025 (MINISTRO..., 2024). Em 23 de dezembro, suspendeu cerca de **R$ 4,2 bi** de emendas de comissão sem registro nem aprovação nas comissões e mandou a Polícia Federal investigar (PEDUZZI, 2024). Em 26 de fevereiro de 2025, homologou o plano de trabalho do Congresso e do Executivo.
+
+**Em 2026.** Em 17 de março, a 1ª Turma condenou por corrupção passiva, por 4 a 0, dois deputados federais e um suplente, em caso de emendas de 2020 (RICHTER, 2026). É a única condenação desta lista: bloqueio de bens e investigação não são condenação. Em 23 de agosto, o relator declarou nulas as emendas indicadas por dirigente de partido sem mandato e por ex-parlamentar (MÁXIMO, 2026).
+
+**O desfecho.** Em 6 de outubro de 2026 não havia desfecho. Não foi achada notícia de julgamento do mérito das três ações de 2024. É ausência de notícia, e não prova de que o julgamento não houve.
+
+**O que mudou.** A emenda de relator foi a zero. A regra passou a exigir o nome de quem indica e de quem recebe. O pagamento obrigatório ficou condicionado à transparência. Metade do que era emenda de relator virou emenda individual, que tem autor público.
+
+**O que não mudou.** O dinheiro não saiu do Congresso. Relator e comissão somavam R$ 8,9 bi empenhados em 2022; só a comissão teve **R$ 11,7 bi** em 2024, em valores correntes. O total das emendas foi de R$ 29,2 bi em 2022 para **R$ 47,1 bi** em 2025, a preços de 2025: 61% a mais. Em valores correntes, sem descontar a inflação, foi de R$ 25,5 bi para R$ 47,1 bi: 85% a mais (tabela de 14.4). O critério de repartição é o mesmo: a cadeira, e não o habitante nem a necessidade (seção 13.6). E ainda há autor oculto. Segundo levantamento da Transparência Brasil, em 2025 a Câmara destinou **R$ 1,3 bi** em emendas de comissão em nome da liderança de partido, sem dizer qual deputado escolheu quem recebe: 16% dos R$ 7,9 bi dessa modalidade (NUNES, 2026). O levantamento foi lido pela reportagem, e não no original.
+
+> **Posição do autor.** Para o autor, a disputa para barrar o "orçamento secreto" ficou no discurso. Na prática, o que houve foi troca de nome.
+
+**O que os dados dizem.** A posição se sustenta pela metade.
+
+- A favor: o volume cresceu, quem decide continua sendo o parlamentar, e um sexto da emenda de comissão da Câmara de 2025 saiu sem autor individual.
+- Contra: houve efeito medido. O pagamento das emendas obrigatórias ficou suspenso de 14 de agosto a 2 de dezembro de 2024, R$ 4,2 bi foram travados e houve condenação.
+- Em parte: o canal já existia. O marcador da emenda de comissão existe no orçamento desde 2020, ao lado do de relator. O dinheiro mudou para um canal que já existia e estava quase vazio (R$ 0,3 bi em 2022). O apelido é que passou de um para o outro.
+- Contra: o segredo diminuiu. De 2020 a 2022, o autor não aparecia em nenhuma emenda de relator. Em 2025, 84% da emenda de comissão da Câmara não saiu em nome de liderança (conta sobre o número da reportagem).
+
+A frase que os dados aguentam: o STF fechou um canal e o dinheiro passou para outros dois. Mudou o caminho e diminuiu o segredo. O volume e quem decide, não.
+
+> **Ressalva.** As páginas do STF bloquearam a leitura, e nenhum acórdão foi lido no original. As decisões vêm da Agência Brasil, que é agência pública federal, da Agência Câmara e de uma nota do Senado, órgãos do Congresso, que é parte nos processos. A homologação de 26/02/2025 vem de notícia oficial. Quem entrou com a ADI 7695 não foi lido. Estão conferidas no texto oficial as quatro emendas constitucionais e a Lei Complementar 210.
 
 ### 14.6 A ponte com o estudo: quanto a emenda pesa no município pequeno
 
@@ -1014,9 +1386,11 @@ Nem a nota nem este estudo medem demanda: custo de um pacote padrão de serviço
 
 ### 15.9 A discordância do autor e o que os dados sustentam dela
 
-O autor deste estudo discorda das conclusões da nota. É posição de quem mora no interior paulista, e pede a mesma desconfiança aplicada ao centro que estuda a metrópole. Os dados sustentam quatro partes da discordância: o rótulo "federal" está errado para o FUNDEB; a vantagem do pequeno muda com o universo e a definição (52% na soma das quatro receitas da nota, 13% na receita-base por morador das duas regiões em 2024); a nota não tem dado de emenda nem medida de demanda; e quem menos tem é a cidade média e grande do Nordeste.
+> **Posição do autor.** O autor deste estudo discorda das conclusões da nota. É posição de quem mora no interior paulista, e pede a mesma desconfiança aplicada ao centro que estuda a metrópole.
 
-Os dados não sustentam outras três. A direção da nota está certa e se repete em 2024. No município de até 5 mil habitantes a diferença é grande (58% acima das faixas de 10 a 50 mil habitantes, no Sudeste), e é a faixa em que São Paulo tem mais prefeituras. E este estudo, como a nota, não mede demanda: não pode afirmar que o pequeno recebe o que deveria.
+**O que os dados sustentam.** Quatro partes da discordância: o rótulo "federal" está errado para o FUNDEB; a vantagem do pequeno muda com o universo e a definição (52% na soma das quatro receitas da nota, 13% na receita-base por morador das duas regiões em 2024); a nota não tem dado de emenda nem medida de demanda; e quem menos tem é a cidade média e grande do Nordeste.
+
+**O que os dados não sustentam.** Outras três. A direção da nota está certa e se repete em 2024. No município de até 5 mil habitantes a diferença é grande (58% acima das faixas de 10 a 50 mil habitantes, no Sudeste), e é a faixa em que São Paulo tem mais prefeituras. E este estudo, como a nota, não mede demanda: não pode afirmar que o pequeno recebe o que deveria.
 
 Tabela. Afirmações que circularam, o que a nota diz e o que este estudo encontra
 
@@ -1029,13 +1403,13 @@ Tabela. Afirmações que circularam, o que a nota diz e o que este estudo encont
 | A receita de capital do pequeno é quase o dobro | Sim, na média dos municípios | Por morador, empata: R$ 333 e R$ 340 |
 | Municípios pequenos não deveriam existir | Nega propor fusão ou extinção | Frase não localizada na nota nem nas matérias; fórmulas próximas em 16.12 |
 
-### 15.10 Posição do autor
+### 15.10 O município pequeno deveria receber mais? A posição do autor e os dados
 
-> **Como ler.** Esta subseção é posição do autor. O que os dados medem está nas subseções anteriores.
+Este relatório resume a tese da nota assim: o município pequeno recebe por habitante mais do que o grande, e **a demanda não justifica**. O resumo é deste estudo. A frase da nota é que eles "recebem muito mais do que deveriam [...] considerando o que seriam suas demandas concretas" (PERES; MARQUES; ARMANI, 2025, p. 22). É juízo de valor, e não medida: a nota não mede demanda, e este estudo também não.
 
-Este relatório resume a tese da nota assim: o município pequeno recebe por habitante mais do que o grande, e **a demanda não justifica**.
+> **Posição do autor.** O Estado pode e deve incentivar os municípios menores e mais atrasados a se desenvolver, porque isso beneficia a todos no futuro, e eles não deveriam ficar desamparados. A parcela deles poderia ser até maior, porque administram a maior parte do território.
 
-**"A demanda não justifica"** é juízo de valor, não medida: a nota não mede demanda, e este estudo também não. O autor defende o contrário. Para ele, o Estado pode e deve incentivar os municípios menores e mais atrasados a se desenvolver, porque isso beneficia a todos no futuro, e eles não deveriam ficar desamparados. A proporção poderia ser até maior: os municípios de até 50 mil habitantes administram 81% do território dos 13 estados, com 30% da população.
+**O que os dados dizem.** A conta da área confere: os municípios de até 50 mil habitantes administram 81% do território dos 13 estados, com 30% da população. Ela não decide a questão.
 
 Tabela. Parcela dos municípios, da área e da população em municípios de até 20 mil e de até 50 mil habitantes, 2022
 
@@ -1052,7 +1426,34 @@ Tabela. Parcela dos municípios, da área e da população em municípios de at�
 | 13 estados | até 20 mil | 67,3% | 50,4% | 14,9% |
 | 13 estados | até 50 mil | 87,5% | 81,5% | 30,1% |
 
-A conta é deste estudo, com a área e a população do Censo de 2022 (IBGE, 2023). Ela não decide a questão. Área administrada não mede serviço prestado nem custo. E o argumento pesa de modo diferente em cada estado: nos municípios de até 50 mil habitantes mora 51,7% da população do Maranhão e 15,1% da de São Paulo.
+A conta é deste estudo, com a área e a população do Censo de 2022 (IBGE, 2023). Área administrada não mede serviço prestado nem custo. E o argumento pesa de modo diferente em cada estado: nos municípios de até 50 mil habitantes mora **51,7%** da população do Maranhão e **15,1%** da de São Paulo.
+
+**Onde a posição não fecha.** O município de até 5 mil habitantes já recebe a maior receita por morador de todas as faixas, e parte dela paga custo fixo: Câmara e administração levam 15% da receita no minúsculo do Sudeste e 18% no do Nordeste, contra 12% a 13% de 20 a 50 mil habitantes (seção 16.2). Dar mais sem mudar o desenho paga mais prefeitura antes de pagar mais serviço. E em 23 anos de regra favorável a dependência quase não saiu do lugar (seção 9): o repasse sustentou o município pequeno, e a série não mostra que o tenha tornado menos dependente.
+
+### 15.11 Um plano único para todos os interiores? A posição do autor e a crítica
+
+O autor pediu que a posição dele fosse criticada. Ela vai primeiro, e a crítica logo depois.
+
+> **Posição do autor.** O autor é a favor de desenvolver o interior e torná-lo menos dependente, investindo nele agora mais do que a proporção. Não sabe se concorda com tratar o sofrimento do interior paulista como menor que a do Nordeste. Quer um projeto único de país, em que todos os interiores sejam beneficiados e nenhum estado saia prejudicado na proporção. Ele mesmo avisa: "pode ser meu viés".
+
+**O que os dados sustentam.**
+
+- Na emenda parlamentar, a repartição segue a cadeira, e não a necessidade nem um plano. Pela regra de 2025 são **R$ 73** por habitante em São Paulo, R$ 193 no Maranhão e R$ 1.463 em Roraima. Repartida por habitante, a mesma soma daria a São Paulo **144%** a mais (seção 5.1). O canal favorece o estado de pouca população, pobre ou não: quem mais ganha é o Norte.
+- Na regra principal, o FPM, os interiores já são tratados de modo parecido. Até 5 mil habitantes, a receita externa por habitante empata entre Sudeste e Nordeste: mediana de R$ 8,9 mil (média R$ 9,6 mil ± 3,4 mil)\* e de R$ 8,5 mil (média R$ 9,0 mil ± 2,2 mil)\*.
+
+**Onde a posição não fecha.**
+
+- "Investir mais no interior" e "não diferenciar estados" só cabem juntos se o critério for o município: tamanho, capacidade de arrecadar, necessidade. Mas um critério por necessidade manda mais por habitante para o Nordeste, porque a base própria lá é menor. Os tributos próprios são **12,6%** da receita do município médio no Sudeste e **6,6%** no Nordeste. A receita sem destino obrigatório é de **R$ 3.754** por habitante na mediana de São Paulo (média R$ 4.393 ± 2.162)\* e de **R$ 1.885** na do Maranhão (média R$ 2.065 ± 810)\* (seção 3.4). Tratar igual pela necessidade não dá valores iguais por estado.
+- "Sem prejudicar estados na proporção" não fecha com fundo de tamanho fixo: o que um ganha, outro deixa de receber. Quem defende uma fórmula nova precisa dizer quem paga a transição.
+
+**O que os dados não dizem.**
+
+- A dificuldade de cada interior não foi medida. O estudo mede o dinheiro que entra, e não o serviço que chega nem o custo de atender. Em recurso por morador o interior paulista está melhor; em verba política, pior. As duas coisas são verdadeiras, e nenhuma responde quem precisa mais.
+- O que responderia é uma medida, por município, da distância entre o custo de um pacote padrão de serviços e a capacidade de arrecadar. É a proposta de repartir pelo hiato fiscal, de Mendes, Miranda e Cosio (2008). Este estudo não tem essa medida (seção 18, pergunta 6).
+
+Uma hipótese do autor caiu na conta. Ele perguntou se a dependência viria de a receita não ser vinculada. Deu o contrário: quem mais depende tem mais receita com destino obrigatório. Na mediana, **42,2%** da receita do município paulista e **67,4%** da do maranhense têm destino obrigatório, e a diferença é o FUNDEB recebido (seção 3.4). A definição conta vinculação de receita, e não gasto obrigatório como folha e dívida.
+
+\* A mediana é o município do meio; a média pesa os extremos; o desvio diz quanto os municípios se espalham.
 
 ## 16. Cada voz do debate acerta um pedaço e omite a regra do FPM
 
@@ -1096,7 +1497,7 @@ As fichas seguem a mesma ordem. O viés é dito pelo vínculo, pelo financiament
 
 ### 16.4 Frente Nacional de Prefeitas e Prefeitos, na reportagem da BBC
 
-**Quem e quando.** A Frente Nacional de Prefeitas e Prefeitos (FNP) se descreve, na página da entidade, como dirigida só por prefeitas e prefeitos em exercício; diz reunir todas as capitais e os municípios com mais de 80 mil habitantes, 415 cidades médias e grandes (página aberta em 6 de outubro de 2026). Fala por dados fornecidos a uma reportagem da BBC News Brasil feita em Borá, de 30 de setembro de 2024, véspera de eleição municipal (ALVIM, 2024).
+**Quem e quando.** A Frente Nacional de Prefeitas e Prefeitos (FNP) se descreve, na página da entidade, como dirigida só por prefeitas e prefeitos em exercício; diz reunir todas as capitais e os municípios com mais de 80 mil habitantes, 415 cidades médias e grandes, com 61% da população e 74% do PIB do país, em dado de 2021 (página aberta em 6 de outubro de 2026). São cerca de 7% dos municípios. A subseção 16.13 lê a entidade com mais vagar. Fala por dados fornecidos a uma reportagem da BBC News Brasil feita em Borá, de 30 de setembro de 2024, véspera de eleição municipal (ALVIM, 2024).
 
 **Tese e prova.** O município pequeno vive de transferência. Segundo a entidade, o FPM foi 18,5% da receita corrente dos municípios em 2022 e 45,1% nos de até 10.188 habitantes. Em 2023, 94,8% de 5.434 municípios tinham 50% ou mais da receita corrente vinda de fora, e "cerca de 19%" tinham 80% ou mais.
 
@@ -1139,7 +1540,7 @@ Tabela. Sete vozes do debate: lugar de fala, tese, omissão e confronto com os d
 | Gazeta do Povo, 2019 | Jornal descrito por colunista da casa como à direita | 872 municípios podem acabar | População atingida; definição de receita própria | Geografia confere; total depende da definição |
 | Amorim, 2026 | Consultor e palestrante | Menos prefeitura, mais serviço | FPM; conta de economia | Máquina cara confere; cobertor curto é outra conta, não feita aqui |
 | CNM, folheto de 2019 | Representa prefeitos | O critério é ruim; extinguir fere a federação | Custo da máquina por habitante | Contagem confere; omissão pesa |
-| FNP na BBC, 2024 | Entidade de prefeitos em exercício; reúne capitais e cidades com mais de 80 mil habitantes | O pequeno vive de transferência | Tratamento do FUNDEB e das deduções | Borá confere; os 19% medem outra coisa, e a ficha do indicador não foi localizada |
+| FNP na BBC, 2024 | Entidade de prefeitos em exercício; reúne capitais e cidades com mais de 80 mil habitantes, 7% dos municípios | O pequeno vive de transferência | Tratamento do FUNDEB e das deduções; que a entidade pede a revisão do FPM | Borá confere; os 19% medem outra coisa, e a ficha do indicador não foi localizada |
 | CEM e cobertura, 2025 | Centro da metrópole, com verba da FAPESP | O pequeno recebe mais, e a demanda não justifica | Custo fixo; regiões; emenda; demanda | Direção confere; tamanho muda com a definição; demanda sem medida |
 | Terra e DINO, 2020 | Empresa de software | A ameaça pede gestão digital | Que é texto pago | Números conferem; remédio não |
 | Mendes, 2020 | Pesquisador associado do Insper | Mudar o FPM em vez de extinguir | Custo fixo; contagem do perdedor | Queda do FPM confere; vantagem do Sudeste some a tamanho igual |
@@ -1196,9 +1597,11 @@ Fontes: (GOVERNO..., 2019b), (CARDIM, 2019), (GOVERNO..., 2019a), (PEREIRA, 2019
 
 O verbo "extinguir" saiu inclusive no título da agência oficial, lido na republicação da CartaCapital. O Estado de Minas escreveu "fusão". Um mês depois o presidente disse o contrário: "Não vai ser extinto o município, ele vai ser incorporado por outro". Na mesma fala, disse que a medida "não é ponto de honra" e que o Congresso tinha liberdade para decidir (VILELA, 2019). No dia da entrega, o ministro disse que cabia ao Congresso conversar sobre o assunto (CARDIM, 2019). Não foi localizada fala dele com a palavra "fusão".
 
-O autor deste estudo lembrava o vídeo como parte de um contexto anti-bolsonarista. Essa lembrança não se sustenta para a Gazeta do Povo: as fontes consultadas situam o jornal à direita (CRUZ, 2026; TAVARES, 2020), e o vídeo não faz juízo sobre o governo nem defende ou ataca a medida. O que se sustenta é outra coisa: seis dos sete títulos lidos usaram verbo de fim ("extinguir", "tirar do mapa"), que não é o do texto da proposta. Na incorporação, a prefeitura e a Câmara do município incorporado deixam de existir; o território e os moradores passam ao município vizinho. Não foi localizado registro publicado de motivação eleitoral ou regional para a medida.
+> **Posição do autor.** "Extinguir" é verbo que assusta: soa como o fim do município de quem lê. Para o autor, a proposta juntava estruturas político-administrativas redundantes; não apagava o lugar. Ele lembrava o vídeo da Gazeta do Povo como parte de um contexto anti-bolsonarista.
 
-> **Posição do autor.** "Extinguir" é verbo que assusta: soa como o fim do município de quem lê. Para o autor, a proposta juntava estruturas político-administrativas redundantes; não apagava o lugar.
+**O que se sustenta.** Seis dos sete títulos lidos usaram verbo de fim ("extinguir", "tirar do mapa"), que não é o do texto da proposta. O território e os moradores passariam ao município vizinho.
+
+**Onde não fecha.** Na incorporação, a prefeitura e a Câmara do município incorporado deixam de existir: para quem trabalha nelas ou depende delas, o verbo dos títulos descreve o que aconteceria. A lembrança do contexto não se sustenta para a Gazeta do Povo: as fontes consultadas situam o jornal à direita (CRUZ, 2026; TAVARES, 2020), e o vídeo não faz juízo sobre o governo nem defende ou ataca a medida. Não foi localizado registro publicado de motivação eleitoral ou regional para a medida.
 
 ### 16.12 Vozes que faltavam
 
@@ -1212,13 +1615,47 @@ As sete fichas não têm prefeito de município pequeno, parlamentar que defenda
 
 **Um parlamentar do Nordeste que defende a emenda.** Flávio Nogueira (PT-PI), deputado federal e candidato à reeleição, em sabatina de 29 de setembro de 2026: "as emendas são muito importantes. Não sei o porquê de tantas críticas às emendas". Ele fala em "prefeituras pobres que vivem mais dos recursos de Fundo de Participação" (SÃO..., 2026). É candidato em campanha, e a emenda é instrumento do mandato dele.
 
-**A FNP, em 2026.** Em carta aos candidatos a presidente, noticiada em 30 de setembro de 2026, a entidade pede que nenhuma obrigação nova seja passada aos municípios sem o recurso para custeá-la, regra do artigo 167 da Constituição incluída pela Emenda Constitucional 128, e defende mudar os critérios de distribuição do FPM (VIEIRA, 2026). A carta foi lida pela notícia, não no original.
+**A FNP, em 2026.** Em carta aos candidatos a presidente, noticiada em 30 de setembro de 2026, a entidade pede que nenhuma obrigação nova seja passada aos municípios sem o recurso para custeá-la, regra do artigo 167 da Constituição incluída pela Emenda Constitucional 128, e defende mudar os critérios de distribuição do FPM (VIEIRA, 2026). A carta foi depois lida no original (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, 2026a) e é tratada em 16.13.
 
 Marcos Mendes, que defende mudar o FPM em vez de extinguir municípios, já tem ficha em 16.7.
 
 Duas ressalvas de conferência. O endereço da BBC não abriu pela ferramenta em 6 de outubro: as falas de Paiva e de Ziulkoski foram conferidas na cópia da matéria guardada pelo estudo e numa reprodução dela. E a postagem do Ranking dos Políticos de 2 de agosto de 2025, que propõe fundir municípios de menos de 119 mil habitantes, o corte de Dantas Junior e Diniz (2025), não abriu e fica fora desta lista.
 
 **A origem de "nem deveriam existir".** A frase não está na nota do CEM nem nas matérias sobre ela. Foram achadas duas fórmulas próximas, anteriores à nota. Luiz Felipe d'Avila, em artigo do Virtu republicado pelo Instituto Millenium em 6 de novembro de 2020: "Mais de mil municípios brasileiros não deveriam existir" (D'AVILA, 2020). E um artigo de opinião na Gazeta do Povo, de 20 de janeiro de 2019, que fala de "uma prefeitura que sequer deveria existir" (SANT'ANNA, 2019). Nenhuma das duas é a frase exata, e não foi achado um autor único.
+
+### 16.13 A quem a FNP representa, o que ela pede e quem perde com o pedido?
+
+A ficha de 16.4 ficou no número que a entidade deu à BBC. Esta subseção lê a entidade inteira, pelos documentos dela e pelos de quem a contesta.
+
+**Quem é.** A FNP diz reunir as capitais e os municípios com mais de 80 mil habitantes. São 415 cidades em cerca de 5.570: **7%** das prefeituras e, pela conta da própria entidade, **61%** da população. As duas contas são verdadeiras. A FNP usa a da população quando fala em nome "dos municípios", e a Confederação Nacional de Municípios (CNM) usa a outra.
+
+**O que pede.** A carta aos candidatos a presidente, de setembro de 2026, foi lida inteira (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, 2026a). Ela diz que "o dinheiro está indo na contramão da população" e que o subfinanciamento "atinge especialmente os municípios mais populosos". Pede a "revisão dos critérios de partilha" do FPM, "com a adoção de regras de transição". Não traz fórmula. Pede também o cumprimento da Emenda Constitucional 128, "uma representação municipal que considere o peso populacional das cidades" no comitê do novo imposto, a recomposição da tabela do SUS e dinheiro federal permanente para o transporte.
+
+**Com que medida.** Em outubro de 2025 a entidade lançou uma plataforma que ordena os municípios pela receita por habitante. O secretário-executivo, Gilberto Perre, explicou a escolha: "Temos muitos índices, mas e o dinheiro disponível por habitante? Esse nos pareceu um indicador muito fácil para comparar" (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, 2025a). A plataforma não foi aberta.
+
+**O que a CNM responde.** Paulo Ziulkoski, presidente da CNM: "O FPM é hoje a transferência mais distributiva, transparente e segura dos recursos públicos no Brasil". Para ele, mudar o critério privilegiaria os grandes centros (MORAES, 2026). Na mesma reportagem, a FNP dá R$ 10.886 de receita externa por habitante nos municípios de até 5 mil habitantes, contra média de R$ 6.837. Este estudo mede, em 2024, mediana de R$ 8,9 mil no Sudeste (média R$ 9,6 mil ± 3,4 mil)\* e de R$ 8,5 mil no Nordeste (média R$ 9,0 mil ± 2,2 mil)\* na mesma faixa (seção 4). São contas diferentes, no país inteiro e pela média de um lado, em duas regiões e pela mediana do outro. A direção é a mesma.
+
+**O conflito pelo voto.** No comitê que vai gerir o novo imposto sobre bens e serviços, os municípios têm 27 cadeiras. A FNP alegava um acordo, 14 para a CNM e 13 para ela. Ziulkoski negou: "Nunca houve esse acordo. Nunca houve. Mentira de quem está dizendo" (COMITÊ..., 2025). A saída veio por lei. Segundo a FNP, a lei sancionada em janeiro de 2026 fixa "13 assentos baseados no critério populacional (vagas vinculadas à atuação da FNP) e 14 assentos baseados no número de municípios (CNM)" (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, 2026b). O texto da lei não foi aberto.
+
+**O que conseguiu.** Três coisas. As 13 cadeiras. A Emenda Constitucional 136, de 2025, que limitou o pagamento de precatórios a uma faixa de 1% a 5% da receita corrente líquida e alongou dívidas municipais; a descrição é a da notícia da própria FNP, e o texto da emenda não foi aberto (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, 2025b). E a Emenda Constitucional 128, que a FNP e a CNM reivindicam ao mesmo tempo: desde 2022, a lei não pode impor encargo a estado ou município "sem a previsão de fonte orçamentária e financeira necessária à realização da despesa" (BRASIL, 2022). A própria carta de 2026 admite que a regra não vem sendo cumprida: "têm sido recorrentes medidas que obrigam gastos aos municípios, como a instituição de pisos salariais". A emenda proíbe; não prevê sanção nem compensação.
+
+**O que pediu e não levou.** A revisão do FPM segue como pedido. O ISS com os municípios, que a entidade defendia em dezembro de 2022, segundo notícia dela mesma: a Emenda Constitucional 132, de 2023, trocou o imposto pelo IBS. E o cumprimento da Emenda Constitucional 128, pelo que a própria carta admite.
+
+**Quem perde com o pedido.** O FPM é um fundo de tamanho dado. Dar mais por habitante à cidade grande é dar menos ao município pequeno, e a carta não diz quem paga a transição. Um consultor de fora das duas entidades, François de Bremaeker, simulou a versão mais simples, repartir o fundo só pela população: **8,80%** dos municípios do país ganhariam e **91,20%** perderiam; no Nordeste, **96,26%** perderiam (BREMAEKER, 2026). Três cuidados. O próprio autor avisa que simula um "entendimento raso da proposta", e não uma fórmula da FNP. O título do texto, que chama a proposta de absurda, já é opinião. E a conta não foi refeita aqui: foram lidas as 12 primeiras páginas de 112.
+
+Tabela. A pauta da FNP diante dos dados deste estudo
+
+| O que a FNP diz | O que os dados deste estudo mostram | O que fica de fora |
+|---|---|---|
+| O dinheiro vai na contramão da população | Confere na direção: a receita externa por habitante é a maior na faixa de até 5 mil habitantes | O custo fixo: Câmara e administração custam R$ 1.764 por habitante no paulista de até 5 mil e R$ 618 no de 20 a 50 mil |
+| O subfinanciamento atinge a cidade populosa | Quem menos tem por morador é a cidade média e grande do Nordeste (seção 15.9) | A cidade grande do Sudeste arrecada mais tributo próprio; receita por habitante não mede custo nem demanda |
+| Rever o FPM, com transição | O FPM é a maior fatia em 65% dos municípios do Sudeste e em 47% dos do Nordeste | Quem paga a transição; a fórmula |
+
+> **O que o dado diz à pergunta.** A FNP e este estudo veem o mesmo fato: o FPM por habitante é muito maior no município minúsculo. Receita por habitante alta não prova sobra, porque o custo fixo se divide por pouca gente. O que fazer com o fato é escolha política, e a FNP é parte interessada, como a CNM.
+
+\* A mediana é o município do meio; a média pesa os extremos; o desvio diz quanto os municípios se espalham.
+
+> **Ressalva.** Não abriram a página da CNM sobre a Emenda Constitucional 128, o texto da Emenda Constitucional 136, o texto da lei do comitê gestor, a lista de filiados da FNP nem a plataforma de indicadores. O artigo publicado no site da FNP em novembro de 2025, que defende a revisão do fundo, foi lido só de segunda mão e não entra. Os números de saúde da carta não trazem fonte.
 
 ## 17. Nenhuma das saídas em debate é grande, barata e sem perdedor
 
@@ -1255,6 +1692,8 @@ Hoje o FPM do interior é repartido em 18 faixas de população, com piso até 1
 
 Pela lógica dessas propostas, perderia o município de até 10.188 habitantes sem base própria, e ganhariam o município de 20 a 100 mil habitantes e a periferia metropolitana populosa. Nenhuma troca de fórmula foi feita no Brasil, e por isso não há avaliação.
 
+O pedido voltou em 2026, na carta da FNP aos candidatos a presidente, sem fórmula (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, 2026a). A única conta localizada é de um crítico da proposta: repartido só pela população, o fundo daria mais a 8,80% dos municípios do país e menos a 91,20%, e no Nordeste perderiam 96,26% (BREMAEKER, 2026). A conta não foi refeita aqui, e a hipótese não é fórmula da entidade (seção 16.13).
+
 Este estudo acrescenta que a mudança não seria "tirar do Nordeste": o FPM é a maior fatia em 65% dos municípios do Sudeste e em 47% dos do Nordeste. E a mesma cota vale 10% a mais em São Paulo que no Maranhão.
 
 ### 17.3 As outras cinco opções
@@ -1267,7 +1706,7 @@ Este estudo acrescenta que a mudança não seria "tirar do Nordeste": o FPM é a
 
 **Reforma tributária.** A cota municipal do IBS será repartida 80% pela população, 10% por indicadores de educação, 5% por preservação ambiental e 5% em partes iguais (Constituição, artigo 158, § 2º). Hoje, no ICMS, ao menos 65% seguem o valor adicionado. A transição começa em 2029 e só termina em 2077. Gobetti e Monteiro (2023, p. 4 e 13) simularam a troca num cenário estático, com 85% por população, que era a regra em discussão. Nele, 480 dos 645 municípios paulistas ganhariam e 165 perderiam; no Maranhão, 204 de 217 ganhariam. A nota lista 32 cidades com risco de queda, em geral sedes de refinaria ou de hidrelétrica. Uma delas é Sandovalina, no oeste paulista, parte do interior profundo. A simulação não usa a regra aprovada, e não há efeito medido. No município pequeno paulista a cota do ICMS já caiu de 26% para 21% da receita corrente entre 2002 e 2025.
 
-**Transparência e auditoria automática.** A Controladoria-Geral da União declara, para 2024, em página sem data, mais de 161 mil processos de compra analisados por seu sistema de triagem, 212 auditorias sobre compras de R$ 30,57 bilhões e R$ 1,25 bilhão de benefício financeiro (BRASIL, [202-]). O número é do órgão que opera a ferramenta, sem comparação com o que o auditor acharia sem ela.
+**Transparência e auditoria automática.** A Controladoria-Geral da União declara, para 2024, em página sem data, mais de 161 mil processos de compra analisados por seu sistema de triagem, 212 auditorias sobre compras de R$ 30,57 bi e R$ 1,25 bi de benefício financeiro (BRASIL, [202-]). O número é do órgão que opera a ferramenta, sem comparação com o que o auditor acharia sem ela.
 
 A tabela trata cada saída como hipótese. Quem ganharia e quem perderia depende do desenho, e só a fusão tem efeito medido, em outros países.
 
@@ -1358,6 +1797,8 @@ com o logaritmo da população e erro-padrão robusto. Dentro de cada família d
 para o número de testes. Nas comparações entre regiões vale o resultado mais conservador entre o erro robusto e o
 agrupado por estado. O que foi decidido depois de ver resultado leva a marca "pós-verificação".
 
+Onde o texto diz uma mediana, a média e o desvio-padrão vão ao lado, com asterisco, quando estão calculados nas tabelas do estudo. Não estão calculados para as variações medianas de um ano para o outro da seção 9.6, e ali só a mediana aparece. Há dois desvios em uso, o amostral e o populacional (este só na seção 3.4); com centenas de municípios por grupo, a diferença não chega à casa decimal mostrada.
+
 Os municípios do estudo são o universo, não uma amostra. O teste responde se a diferença caberia no acaso de um
 processo que gera municípios parecidos, e pesa menos que o tamanho do efeito.
 
@@ -1398,13 +1839,13 @@ Tabela. Números que mudaram com a correção da verba negociada restrita
 | Verba estadual a tamanho igual, São Paulo menos Maranhão | 2,3 pontos (2,1 a 2,5) | 2,2 pontos (2,0 a 2,5) |
 | Prefeituras maranhenses de até 20 mil habitantes que lançaram zero de verba estadual | 84 de 127 | 90 de 127 |
 | Verba negociada sobre o investimento, paulista de até 5 mil habitantes | 53% | 49% |
-| SUS dentro da medida ampla | R$ 3,058 bilhões em 2.142 municípios | R$ 3,493 bilhões em 2.339 |
+| SUS dentro da medida ampla | R$ 3,058 bi em 2.142 municípios | R$ 3,493 bi em 2.339 |
 
 Não mudaram os 3.356 municípios utilizáveis, a dependência, a maior fatia, as elasticidades, a medida ampla, a
 emenda sobre a receita e a verba federal a tamanho igual (0,9 ponto a menos em São Paulo).
 
 **Receita corrente e poupança corrente.** Duas colunas da base, a receita corrente líquida e a poupança corrente,
-contavam como receita corrente a transferência de capital de instituições privadas: R$ 3,346 bilhões em 107
+contavam como receita corrente a transferência de capital de instituições privadas: R$ 3,346 bi em 107
 municípios. Foi corrigido. Nenhum achado usava as duas colunas.
 
 **Precisão no deck.** O deck interativo passou a receber a dependência de cada município com oito casas decimais
@@ -1454,7 +1895,7 @@ A conferência interna derrubou onze frases. Três exemplos: a afirmação de qu
 por habitante não vale para o município de até 5 mil habitantes, onde há empate; a frase de que o FUNDEB tira do
 paulista para dar ao maranhense estava errada no mecanismo, porque cada fundo é estadual; e uma elasticidade
 única do custo da máquina escondia uma curva. Na primeira rodada, a revisão do GPT e do Grok mudou a medida de
-verba negociada, que incluía repasse do SUS (R$ 3,493 bilhões, na classificação desta versão), e a leitura de
+verba negociada, que incluía repasse do SUS (R$ 3,493 bi, na classificação desta versão), e a leitura de
 três seções. Os erros estavam na leitura.
 
 Dois avisos ficam do processo. Uma análise de vídeo trazida para o estudo, feita por outro modelo, não conferia
@@ -1481,7 +1922,7 @@ município no Maranhão veio como 4 a 5 mil habitantes, quando as duas fontes do
 mesmo de São Paulo. Das duas pesquisas só entrou o que foi aberto na fonte.
 
 A conferência também corrigiu o autor. Ele lembrava o vídeo de 2019 como parte de um contexto anti-bolsonarista,
-e as fontes não sustentam isso para o jornal que o publicou (seção 16.11).
+e as fontes não sustentam isso para o jornal que o publicou (seção 16.11). Mais quatro correções vieram na rodada seguinte. O relatório de iniciação científica dele, de 2023, dizia que 89% dos municípios paulistas têm menos de 50 mil habitantes; a conta refeita dá **78,8%** (seção 1.1). A hipótese de que a dependência viria de receita não vinculada deu o contrário (seção 3.4). A leitura de que a disputa das emendas foi só troca de nome se sustenta pela metade (seção 14.5). E a ideia de que país grande tende a centralizar vai contra a literatura localizada (seção 21.6). As posições dele continuam no texto, em caixa própria, com a crítica logo depois.
 
 ### 20.3 O que isso permite afirmar
 
@@ -1513,7 +1954,7 @@ de sustentar em público.
 
 O uso documentado é de triagem, com um auditor no fim. A ferramenta Alice, da Controladoria-Geral da União, lê
 editais e aponta risco. A página do órgão publica, para 2024, mais de 161 mil processos analisados, 212
-auditorias sobre compras de R$ 30,57 bilhões e R$ 1,25 bilhão de benefício financeiro (BRASIL, [202-]). São
+auditorias sobre compras de R$ 30,57 bi e R$ 1,25 bi de benefício financeiro (BRASIL, [202-]). São
 números de quem opera a ferramenta, sem comparação com o que o auditor acharia sem ela. Não foi localizado, numa
 busca curta, caso documentado em que análise de orçamento feita por modelo de linguagem tenha mudado uma decisão
 de gasto.
@@ -1561,6 +2002,31 @@ A resposta honesta à pergunta do autor fica no meio. Não há tendência que to
 não há razão para achar que nada muda. Fica mais barato fazer a pergunta certa e mais caro sustentar o número
 errado. O resto continua sendo decisão de quem vota.
 
+### 21.6 País grande tende a centralizar? A posição do autor e a literatura
+
+O autor escreveu, como reflexão, o que acha que trava a revisão do pacto federativo. A posição vai na caixa. Depois vem o que uma pesquisa de literatura feita para este estudo achou, inclusive onde o contraria.
+
+> **Posição do autor.** Para o autor, rever o pacto federativo "permeia imposto, mas também leis e autonomia". No caminho ele vê "um Judiciário centralizado e autoritário como tendência de países grandes em termos de extensão e de população", dois fatores que pesam "de forma separada" e "nem sempre ligados como parecem".
+
+**O que a literatura diz, no sentido contrário.**
+
+- País populoso tende a ter governos regionais mais fortes, e não mais fracos. Em 80 países, a correlação entre a população e a autoridade dos governos regionais é de **0,68**, em 2010 (HOOGHE; MARKS, 2016, p. 29 e 60-61 do arquivo consultado). O índice mede estados e províncias; não mede municípios. E os autores testam a própria teoria com o próprio índice.
+- País extenso tende a gastar de forma mais descentralizada: em 78 países, a área tem efeito positivo sobre a descentralização fiscal (PICKARD, 2020). Esse estudo não põe a população ao lado da área.
+- O Brasil gasta de forma descentralizada. Estados e municípios fizeram **44,4%** do gasto público em 2020, e os municípios sozinhos, **19,2%** (OCDE; CGLU, 2022b). A média dos países federais é de 41,9% (OCDE; CGLU, 2022a). O ano é de pandemia.
+- No modelo de Alesina e Spolaore (1997, p. 1046), o que centraliza é o regime, e não o tamanho: aplicado para dentro de um país, o resultado deles implica que ditaduras devem ser mais centralizadas que democracias.
+- No volume, o Judiciário brasileiro é estadual: **62,2 milhões** dos 80,6 milhões de processos pendentes em dezembro de 2024 estavam na Justiça Estadual (CONSELHO NACIONAL DE JUSTIÇA, 2025). Os tribunais estaduais aplicam, na maior parte, lei federal.
+- Nenhum estudo localizado testa tamanho do país contra centralização do Judiciário. Uma síntese sobre tribunais em federações diz que as cortes supremas tendem a favorecer o centro em federações de qualquer tamanho, e que as exceções mais citadas são países com mais de uma nação dentro, como Bélgica, Canadá e Espanha (POPELIER; BIELEN, 2018).
+
+**O que se sustenta em parte.**
+
+- Área e população pesam de modo diferente, como o autor intuiu. Na autoridade dos governos regionais conta a população, e a área quase some quando as duas entram juntas (HOOGHE; MARKS, 2016, p. 151 do arquivo consultado). Na nota de Estado de direito conta a área: em 127 países, quanto maior o território, pior a nota, e a população não explica (HANSSON; OLSSON, 2006, p. 17-18 do arquivo consultado). Só que nenhum dos dois resultados aponta para mais centralização. O mecanismo de Hansson e Olsson é o centro que não alcança o interior.
+- O STF centraliza quando julga lei estadual. Em 4.727 ações diretas de 1988 a 2012, as leis estaduais são o alvo mais frequente e o que mais cai (COSTA; BENVINDO, 2013). Quando a disputa é por dinheiro, é o contrário: nos conflitos diretos entre a União e os estados julgados de 1988 a 2019, os estados venceram cerca de **79%** dos julgamentos de mérito (DANTAS, 2020). Na pandemia, o tribunal reconheceu a competência de estados e municípios em 19 de 24 ações (GODOY; TRANJAN, 2023).
+- A regra é centralizada no Brasil, e o caminho é o Congresso mais que o tribunal. Arretche (2013) sustenta que a União tem poder amplo de legislar e que os estados não têm veto no Congresso. É o elo com este estudo: a regra do FPM e a cota das emendas são feitas ali (seção 13).
+
+**Onde a posição não fecha.** A frase junta dinheiro, lei e tribunal e supõe que andam juntos. No Brasil não andam: o gasto é descentralizado, a lei é centralizada e o tribunal decide para os dois lados conforme o assunto. "Autoritário" é juízo. Nenhum dos textos abertos mede isso, e nenhum o liga ao tamanho do país.
+
+> **Ressalva.** Os três artigos brasileiros sobre o STF e o de Arretche foram lidos por resumo automático da página, e os números deles pedem conferência no texto. Vários clássicos do tema não abriram e ficam fora: Oates, Panizza, Arzaghi e Henderson, Aroney e Kincaid. Ficam também fora, por estarem só de memória, Montesquieu, os artigos federalistas de Madison e o livro de Dahl e Tufte sobre tamanho e democracia. A pesquisa foi feita por modelo de linguagem, em um dia.
+
 <!-- parte: 80-apendice-fontes.md -->
 
 # Apêndice A. As 8 fontes de receita de um município
@@ -1580,23 +2046,25 @@ Tabela. As oito fontes de receita do município e o peso médio de cada uma em 2
 | Tributos próprios | interna | Moradores e empresas do município | Constituição, como direito de cobrar | 12,6% | 6,6% |
 | Demais receitas próprias | interna | Bancos, concessionárias, usuários | Nenhuma garantia de repasse | 4,4% | 2,6% |
 
-O peso é a média simples da parcela de cada fonte na receita dos municípios com contas utilizáveis: 1.633 no Sudeste e 1.723 no Nordeste. Somadas, as externas dão 83% no Sudeste e 91% no Nordeste. A média por município não é a soma do dinheiro: em reais, os tributos próprios são a maior fonte, com 28,4% dos R$ 831,7 bilhões de 2024, porque o imposto próprio se concentra nas cidades grandes.
+O peso é a média simples da parcela de cada fonte na receita dos municípios com contas utilizáveis: 1.633 no Sudeste e 1.723 no Nordeste. Nos 3.356 municípios juntos, as externas dão 87,1% na média (mediana 90,5%; desvio de 9,9 pontos)\*. Separando, dão 83% no Sudeste e 91% no Nordeste. No FPM, a mediana é 29,5% no Sudeste (média 29,7% ± 13,0)\* e 28,8% no Nordeste (média 29,6% ± 8,9)\*: o peso médio é o mesmo, e o Sudeste é mais espalhado. A média por município não é a soma do dinheiro: em reais, os tributos próprios são a maior fonte, com 28,4% dos R$ 831,7 bi de 2024, porque o imposto próprio se concentra nas cidades grandes.
+
+\*A mediana é o município do meio; a média pesa os extremos; o desvio diz quanto os municípios se espalham. Onde média e mediana se afastam, poucos municípios puxam o conjunto.
 
 ### A.1 FPM
 
-É uma fatia fixa do imposto de renda e do IPI que a União é obrigada a dividir entre todas as prefeituras (Constituição, art. 159, I). O dinheiro é livre, salvo os mínimos de saúde e educação. A repartição está na explicação "Como funciona o FPM", adiante.
+É uma fatia fixa do imposto de renda e do IPI que a União é obrigada a dividir entre todas as prefeituras (Constituição, art. 159, I). O dinheiro é livre, salvo os mínimos de saúde e educação: 15% e 25% dele têm destino obrigatório, e a seção 3.4 faz a conta para a receita inteira. A repartição está na explicação "Como funciona o FPM", adiante.
 
 Em 1981, o Decreto-Lei 1.881 fixou as faixas de população, e os limites são os mesmos até hoje. Em 1996 e em 2006, as Emendas Constitucionais 14 e 53 passaram a reter 15% e depois 20% do fundo para a educação. Três emendas acrescentaram 1% cada uma: a 55, de 2007, a 84, de 2014, e a 112, de 2021, esta em escada, com 0,25% em 2022 e 2023, 0,5% em 2024 e 1% desde 2025. Em 2019 e em 2023, as Leis Complementares 165 e 198 protegeram o coeficiente de quem perdeu população; a de 2023 corta a proteção aos poucos, em dez anos. Em 2024 havia 93 municípios paulistas e 51 maranhenses protegidos.
 
-A tendência: o FPM perdeu peso no Nordeste e voltou em São Paulo. Em 2024 é a maior fonte em 1.865 dos 3.356 municípios, 53,2% dos paulistas e 7,0% dos maranhenses.
+A tendência: o FPM perdeu peso no Nordeste e voltou em São Paulo. A série tem dois degraus. Em 2020 o peso do FPM na receita corrente do município de até 20 mil habitantes caiu de 37,9% para 32,6% no Sudeste e de 37,2% para 32,8% no Nordeste, porque o FPM encolheu cerca de 4,5% e as outras transferências cresceram. Em 2021 voltou a 40,2% e 40,6%, com o FPM 46% maior em valor nominal. A seção 9.6 abre a conta. Em 2024 é a maior fonte em 1.865 dos 3.356 municípios, 53,2% dos paulistas e 7,0% dos maranhenses.
 
-### A.2 FUNDEB
+### A.2 FUNDEB (intraestadual)
 
-É o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação, que paga a escola pública. O dinheiro é carimbado: só paga educação básica, e no mínimo 70% vai para os profissionais (Constituição, art. 212-A; Lei 14.113/2020, art. 26). A repartição está em "Como funciona o FUNDEB".
+É o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação, que paga a escola pública. Não é um fundo nacional: são 27 fundos, um por estado e um do Distrito Federal, e só a complementação da União entra de fora do estado. O dinheiro é carimbado: só paga educação básica, e no mínimo 70% vai para os profissionais (Constituição, art. 212-A; Lei 14.113/2020, art. 26). A repartição está em "Como funciona o FUNDEB".
 
 Em 1996, a Emenda 14 criou o FUNDEF, com 15% da cesta e só para o ensino fundamental. Em 2006, a Emenda 53 criou o FUNDEB, com 20% e toda a educação básica. Em 2020, a Emenda 108 tornou o fundo permanente e elevou a complementação da União de 10% para 23% do total, em escada: 12% em 2021, 15%, 17%, 19% em 2024, 21% em 2025 e 23% em 2026.
 
-A tendência é de estabilidade nos quatro anos medidos. No município de até 20 mil habitantes, o FUNDEB foi de 11,3% da receita em 2022 para 11,6% em 2025 em São Paulo, e de 39,0% para 37,6% no Maranhão.
+A tendência é de estabilidade nos quatro anos medidos. No município de até 20 mil habitantes, o FUNDEB foi de 11,3% da receita em 2022 para 11,6% em 2025 em São Paulo, e de 39,0% para 37,6% no Maranhão. Em 2024 a complementação da União foi 22,2% do FUNDEB recebido pelas prefeituras dos 13 estados: 3,8% no Sudeste e 38,4% no Nordeste; 1,1% em São Paulo e 56,0% no Maranhão (seção 6.3).
 
 ### A.3 Cota do ICMS e do IPVA
 
@@ -1612,7 +2080,7 @@ A tendência: desce em São Paulo e sobe no Maranhão. É a maior fonte em 147 m
 
 Em 2012, a Lei Complementar 141 fixou em 15% dos impostos e cotas o mínimo que o município aplica em saúde. Em 2015, a Emenda 86 mandou metade das emendas individuais para a saúde, e parte do SUS municipal passou a vir por indicação de parlamentar.
 
-A tendência é de alta de 2022 a 2025. No município de até 20 mil habitantes, de 5,2% para 6,8% da receita em São Paulo e de 10,5% para 12,1% no Maranhão. A fatia conta só o repasse corrente; o SUS de convênio e de capital, R$ 3,493 bilhões, está em outras transferências.
+A tendência é de alta de 2022 a 2025. No município de até 20 mil habitantes, de 5,2% para 6,8% da receita em São Paulo e de 10,5% para 12,1% no Maranhão. A fatia conta só o repasse corrente; o SUS de convênio e de capital, R$ 3,493 bi, está em outras transferências.
 
 ### A.5 Royalties e compensações
 
@@ -1640,7 +2108,7 @@ A tendência é de alta lenta, a partir de base baixa. É a maior fonte em 133 m
 
 ### A.8 Demais receitas próprias
 
-É o que a prefeitura ganha sem ser tributo nem repasse: juros do dinheiro aplicado, aluguéis, concessões, tarifas e multas. É uma classe contábil do estudo, e não uma fonte criada por norma. Soma R$ 52,3 bilhões em 2024, dos quais R$ 16,7 bilhões de rendimento de aplicações.
+É o que a prefeitura ganha sem ser tributo nem repasse: juros do dinheiro aplicado, aluguéis, concessões, tarifas e multas. É uma classe contábil do estudo, e não uma fonte criada por norma. Soma R$ 52,3 bi em 2024, dos quais R$ 16,7 bi de rendimento de aplicações.
 
 Tabela. Mediana da parcela da receita corrente nos municípios de até 20 mil habitantes, 2002 e 2025
 
@@ -1651,13 +2119,13 @@ Tabela. Mediana da parcela da receita corrente nos municípios de até 20 mil ha
 | Cota do IPVA | 1,5% e 2,6% | 0,1% e 0,4% | 1,0% e 2,2% | 0,1% e 0,4% |
 | Receita tributária | 4,4% e 9,1% | 1,9% e 3,4% | 3,5% e 6,4% | 2,1% e 3,8% |
 
-Em cada célula, o primeiro número é de 2002 e o segundo, de 2025. É a mediana simples de cada ano, sobre a receita corrente bruta do IPEADATA (IPEA, 2026). A tabela da seção 9 traz os mesmos valores; a coluna de mudança de lá usa só os municípios presentes nos dois anos.
+Em cada célula, o primeiro número é de 2002 e o segundo, de 2025. É a mediana simples de cada ano, sobre a receita corrente bruta do IPEADATA (IPEA, 2026). A tabela da seção 9 traz os mesmos valores; a coluna de mudança de lá usa só os municípios presentes nos dois anos. Média e desvio\* do FPM, em 2002 e em 2025: 38,7% ± 13,0 e 37,5% ± 10,8 em São Paulo; 46,4% ± 15,7 e 40,6% ± 11,5 no Sudeste; 52,3% ± 12,3 e 37,0% ± 9,0 no Nordeste. Da cota do ICMS em São Paulo: 27,5% ± 8,4 e 21,7% ± 6,6. As demais células não têm média calculada.
 
 ### Como funciona o FPM
 
 A Constituição fixa a fatia: 22,5% do imposto de renda e do IPI, pagos a cada dez dias, mais três parcelas de 1%, pagas em julho, setembro e dezembro. Em 2025 isso soma 25,5% da arrecadação dos dois impostos; em 2024, 25,0%. O dinheiro se divide em três: 10% para as capitais, 3,6% para uma reserva dos municípios grandes do interior e 86,4% para o interior.
 
-A parte do interior é repartida primeiro entre os estados, por percentuais fixos desde 1990: São Paulo fica com 14,26% e o Maranhão com 3,97%. Dentro do estado, cada município recebe conforme um coeficiente que sobe em 18 degraus com a população, de 0,6 a 4,0. O piso de 0,6 vale para todos até 10.188 habitantes. Em 2024, essa cota mínima foi de R$ 17,5 milhões em São Paulo e R$ 15,9 milhões no Maranhão, para 900 ou para 10 mil moradores.
+A parte do interior é repartida primeiro entre os estados, por percentuais fixos desde 1990: São Paulo fica com 14,26% e o Maranhão com 3,97%. Dentro do estado, cada município recebe conforme um coeficiente que sobe em 18 degraus com a população, de 0,6 a 4,0. O piso de 0,6 vale para todos até 10.188 habitantes. Em 2024, essa cota mínima foi de R$ 17,5 milhões em São Paulo e R$ 15,9 milhões no Maranhão, para 900 ou para 10 mil moradores. Os valores de FPM desta explicação são brutos, antes dos 20% que ficam no FUNDEB.
 
 Por isso o município minúsculo recebe muito por habitante. Borá, em São Paulo, com 928 moradores, recebeu R$ 18,8 mil de FPM bruto por habitante em 2024, pela estimativa de população do ano. Nova Iorque, no Maranhão, com 4.412 moradores, recebeu R$ 3,6 mil. No interior, a regra não olha a renda do município. Olha o estado e a faixa de população.
 
@@ -1665,7 +2133,7 @@ Por isso o município minúsculo recebe muito por habitante. Borá, em São Paul
 
 O FUNDEB não é um fundo nacional. São 27, e o dinheiro não passa de um estado para outro. Cada governo estadual e cada prefeitura deixa no fundo do seu estado 20% de uma cesta de receitas. Na prefeitura entram o FPM e as cotas do ICMS, do IPVA, do imposto territorial rural e do IPI das exportações. IPTU, ISS, ITBI e as três parcelas extras do FPM ficam fora. Todo o fundo volta para o estado e para as prefeituras conforme as matrículas de cada rede, com pesos por etapa e jornada.
 
-Quem tem muita receita e poucos alunos põe mais do que recebe. É o caso do município pequeno paulista: Borá deixou R$ 4,2 milhões no fundo em 2024 e recebeu R$ 0,9 milhão, e 93% dos paulistas de até 5 mil habitantes põem mais do que recebem.
+Quem tem muita receita e poucos alunos põe mais do que recebe. É o caso do município pequeno paulista: Borá deixou R$ 4,2 milhões no fundo em 2024 e recebeu R$ 0,9 milhão, e 93% dos paulistas de até 5 mil habitantes põem mais do que recebem. No estado inteiro, as prefeituras paulistas puseram R$ 19,3 bi e receberam do fundo paulista R$ 32,1 bi em 2024, e 244 das 628 põem mais do que recebem. No Maranhão puseram R$ 2,6 bi e receberam do fundo maranhense R$ 5,8 bi, e só 1 das 215 põe mais do que recebe.
 
 A União completa os fundos e as redes com menos dinheiro por aluno, em três tipos.
 
@@ -1685,15 +2153,23 @@ Os pontos são percentuais do total dos fundos e somam os 23%. É isso que expli
 
 231 CIDADES de Minas ficam sujeitas à fusão. **Estado de Minas**, Belo Horizonte, 6 nov. 2019. Disponível em: https://www.em.com.br/app/noticia/politica/2019/11/06/interna_politica,1098750/231-cidades-de-minas-ficam-sujeitas-a-fusao.shtml. Acesso em: 6 out. 2026.
 
+ALAGOAS. Secretaria de Estado da Fazenda. **61 municípios de Alagoas recebem do Governo do Estado R$ 1,050 bi, entre outorga e indenização, para saneamento básico das regiões do Sertão, Agreste, Litoral e Zona da Mata**. Maceió: Sefaz, 8 mar. 2022. Disponível em: https://www.sefaz.al.gov.br/noticias/item/3104-61-municipios-recebem-do-governo-de-alagoas-r-1-050-bi-entre-outorga-e-indenizacao. Acesso em: 6 out. 2026.
+
+ALESINA, Alberto; SPOLAORE, Enrico. On the number and size of nations. **The Quarterly Journal of Economics**, [*s. l.*], v. 112, n. 4, p. 1027-1056, 1997. Disponível em: https://sites.tufts.edu/enricospolaore/files/2012/08/sizeofnations.pdf. Acesso em: 6 out. 2026.
+
 ALLERS, Maarten A.; GEERTSEMA, J. Bieuwe. The effects of local government amalgamation on public spending, taxation, and service levels: evidence from 15 years of municipal consolidation. **Journal of Regional Science**, [*s. l.*], v. 56, n. 4, p. 659-682, 2016. DOI: 10.1111/jors.12268. Disponível em: https://www.coelo.nl/images/artikelen/The_effects_of_local_government_amalgamation_on_public_spending_taxation_and_service_levels.pdf. Acesso em: 6 out. 2026.
 
 ALVIM, Mariana. Eleições municipais: por que tantos municípios do Brasil não conseguem se sustentar. **BBC News Brasil**, Borá, 30 set. 2024. Disponível em: https://www.bbc.com/portuguese/articles/c62djwz739wo. Acesso em: 5 out. 2026.
 
 AMORIM, Ricardo. **menos prefeiturasV2_REELS.mp4**. [*S. l.*], 2 mar. 2026. 1 vídeo (2 min 13 s). Facebook: ricardo.amorim.ricam. Disponível em: https://www.facebook.com/ricardo.amorim.ricam/videos/menos-prefeiturasv2_reelsmp4/1630069598019298/. Acesso em: 5 out. 2026.
 
+ARRETCHE, Marta. Quando instituições federativas fortalecem o governo central? **Novos Estudos CEBRAP**, São Paulo, n. 95, p. 37-53, mar. 2013. DOI: 10.1590/S0101-33002013000100003. Disponível em: https://www.scielo.br/j/nec/a/GJnGZZNXJ8cTyRHTkcgtCqc/?lang=pt. Acesso em: 6 out. 2026.
+
 ARRETCHE, Marta; RODDEN, Jonathan. Política distributiva na Federação: estratégias eleitorais, barganhas legislativas e coalizões de governo. **Dados**, Rio de Janeiro, v. 47, n. 3, p. 549-576, 2004. DOI: 10.1590/S0011-52582004000300004. Disponível em: https://doi.org/10.1590/S0011-52582004000300004. Acesso em: 5 out. 2026.
 
 AS CIDADES que Paulo Guedes pode tirar do mapa | Gazeta Notícias. Curitiba: Gazeta do Povo, 6 nov. 2019. 1 vídeo (3 min 32 s). Publicado pelo canal Gazeta do Povo. Disponível em: https://www.youtube.com/watch?v=07sAUPw8LLI. Acesso em: 5 out. 2026.
+
+ATOJI, Marina Iemini; PAVINI, Cristiano. **Nota técnica**: opacidade nas emendas parlamentares perpetua orçamento secreto. [*S. l.*]: Transparência Brasil, jul. 2024. 44 p. Disponível em: https://www.transparencia.org.br/downloads/publicacoes/continuidadedoorcamentosecreto.pdf. Acesso em: 6 out. 2026.
 
 BAIÃO, Alexandre Lima; COUTO, Cláudio Gonçalves. A eficácia do pork barrel: a importância de emendas orçamentárias e prefeitos aliados na eleição de deputados. **Opinião Pública**, Campinas, v. 23, n. 3, p. 714-753, 2017. DOI: 10.1590/1807-01912017233714. Disponível em: https://doi.org/10.1590/1807-01912017233714. Acesso em: 6 out. 2026.
 
@@ -1711,45 +2187,85 @@ BRANDT, Cristina Thedim. A criação de municípios após a Constituição de 19
 
 BRASIL. Câmara dos Deputados. **Número de deputados por estado**. Brasília, DF: Câmara dos Deputados, [2026]d. Disponível em: https://www2.camara.leg.br/a-camara/conheca/historia/numero-de-deputados-por-estado. Acesso em: 6 out. 2026.
 
+BRASIL. [Constituição (1988)]. **Constituição da República Federativa do Brasil de 1988**. Brasília, DF: Presidência da República, [2026]e. Texto compilado. Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm. Acesso em: 6 out. 2026.
+
 BRASIL. Controladoria-Geral da União. **Alice**. Brasília, DF: CGU, [202-]. Disponível em: https://www.gov.br/cgu/pt-br/assuntos/auditoria-e-fiscalizacao/alice. Acesso em: 5 out. 2026.
 
 BRASIL. Controladoria-Geral da União. **Portal da Transparência**: emendas parlamentares. Brasília, DF: CGU, 2026a. Arquivo em lote EmendasParlamentares.zip, com arquivos datados de 1 out. 2026 (emendas de 2014 a 2026). Disponível em: https://portaldatransparencia.gov.br/download-de-dados/emendas-parlamentares. Acesso em: 5 out. 2026.
+
+BRASIL. **Emenda Constitucional nº 62, de 2009**. Brasília, DF: Presidência da República, 2009. Altera o art. 100 da Constituição e acrescenta o art. 97 ao Ato das Disposições Constitucionais Transitórias. Trecho lido pela pesquisa deste estudo no texto do Planalto; endereço não conferido, não aberto nesta rodada.
+
+BRASIL. **Emenda Constitucional nº 128, de 22 de dezembro de 2022**. Brasília, DF: Presidência da República, 2022. Acrescenta o § 7º ao art. 167 da Constituição. Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc128.htm. Acesso em: 6 out. 2026.
+
+BRASIL. **Lei Complementar nº 62, de 28 de dezembro de 1989**. Brasília, DF: Presidência da República, 1989. Critérios de rateio do Fundo de Participação dos Estados. Lida pela pesquisa deste estudo no texto do Planalto; endereço não conferido, não aberto nesta rodada.
 
 BRASIL. **Lei Complementar nº 78, de 30 de dezembro de 1993**. Disciplina a fixação do número de Deputados, nos termos do art. 45, § 1º, da Constituição Federal. Brasília, DF: Presidência da República, 1993. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp78.htm. Acesso em: 5 out. 2026.
 
 BRASIL. **Lei Complementar nº 101, de 2000**. Brasília, DF: Presidência da República, 2000. Lei de Responsabilidade Fiscal. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm. Acesso em: 5 out. 2026.
 
+BRASIL. **Lei Complementar nº 143, de 2013**. Brasília, DF: Presidência da República, 2013. Altera os critérios de rateio do Fundo de Participação dos Estados. Lida pela pesquisa deste estudo no texto do Planalto; endereço não conferido, não aberto nesta rodada.
+
+BRASIL. **Lei Complementar nº 173, de 27 de maio de 2020**. Brasília, DF: Presidência da República, 2020a. Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19). Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp173.htm. Acesso em: 6 out. 2026.
+
 BRASIL. **Lei Complementar nº 198, de 28 de junho de 2023**. Brasília, DF: Presidência da República, 2023. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp198.htm. Acesso em: 5 out. 2026.
 
 BRASIL. **Lei Complementar nº 210, de 25 de novembro de 2024**. Dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual; e dá outras providências. Brasília, DF: Presidência da República, 2024. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp210.htm. Acesso em: 5 out. 2026.
+
+BRASIL. **Lei nº 14.041, de 18 de agosto de 2020**. Brasília, DF: Presidência da República, 2020b. Apoio financeiro da União aos entes federativos que recebem recursos do FPE e do FPM. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14041.htm. Acesso em: 6 out. 2026.
 
 BRASIL. Secretaria do Tesouro Nacional. **Capag Municípios**: posição de 1 set. 2026. Brasília, DF: STN, 2026b. Planilha publicada no Tesouro Transparente. Disponível em: https://www.tesourotransparente.gov.br/ckan/dataset/capag-municipios. Acesso em: 5 out. 2026.
 
 BRASIL. Secretaria do Tesouro Nacional. **SICONFI**: API de dados abertos: Declaração de Contas Anuais (DCA). Brasília, DF: STN, [2026]c. Disponível em: https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca. Documentação em: https://apidatalake.tesouro.gov.br/docs/siconfi/. Acesso em: 5 out. 2026.
 
+BRASIL. Senado Federal. **Nota informativa**: decisões do STF sobre emendas parlamentares (ADPF 854, ADI 7688, 7695, 7697): posição em 26/02/2025 e desdobramentos. Brasília, DF: Senado Federal, 27 fev. 2025. 26 p. Disponível em: https://www12.senado.leg.br/orcamento/documentos/estudos/tipos-de-estudos/notas-tecnicas-e-informativos/nota-informativa-decisoes-stf-versao-final.pdf. Acesso em: 6 out. 2026.
+
 BRASIL. Senado Federal. **Proposta de Emenda à Constituição nº 188, de 2019**. PEC do Pacto Federativo. Brasília, DF: Senado Federal, 2019. Ficha de tramitação. Disponível em: https://www25.senado.leg.br/web/atividade/materias/-/materia/139704. Acesso em: 6 out. 2026.
+
+BREMAEKER, François E. J. de. **A proposta absurda de alteração da distribuição da transferência do FPM**. [*S. l.*]: Observatório de Informações Municipais, mar. 2026. 112 p. Disponível em: https://informacoesmunicipais.com.br/wp-content/uploads/2026/03/1002-Proposta-de-alteracao-do-FPM.pdf. Acesso em: 6 out. 2026.
+
+CAMPOS JR., Geraldo. Iguá vence leilão de saneamento de Sergipe com R$ 4,5 bi. **Poder360**, Brasília, DF, 4 set. 2024. Disponível em: https://www.poder360.com.br/poder-infra/igua-vence-leilao-de-saneamento-de-sergipe-com-lance-de-r-45-bi/. Acesso em: 6 out. 2026.
 
 CARDIM, Maria Eduarda. Após aprovação da PEC, 1.254 cidades brasileiras podem ser extintas. **Correio Braziliense**, Brasília, DF, 5 nov. 2019. Disponível em: https://www.correiobraziliense.com.br/app/noticia/economia/2019/11/05/internas_economia,803981/apos-aprovacao-da-pec-1-254-cidades-brasileiras-podem-ser-extintas.shtml. Acesso em: 6 out. 2026.
 
 CENTRO DE ESTUDOS DA METRÓPOLE. **Distribuição de recursos federais e emendas parlamentares favorecem municípios muito pequenos no Brasil**. São Paulo: CEM, 11 ago. 2025. Disponível em: https://centrodametropole.fflch.usp.br/pt-br/noticia/distribuicao-de-recursos-federais-e-emendas-parlamentares-favorecem-municipios-muito. Acesso em: 5 out. 2026.
 
+COMITÊ gestor do IBS: impasse entre municípios vai parar no Congresso. **Congresso em Foco**, Brasília, DF, 11 abr. 2025. Disponível em: https://www.congressoemfoco.com.br/noticia/107665/comite-gestor-do-ibs-impasse-entre-municipios-vai-parar-no-congresso. Acesso em: 6 out. 2026.
+
 CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS. **Municípios que podem ser extintos de acordo com a PEC do pacto federativo**. Brasília, DF: CNM, [2019?]. 45 p. Disponível em: https://cnm.org.br/storage/biblioteca/1217_Munic%C3%83%C2%ADpios_Podem_Ser_Extintos.pdf. Acesso em: 5 out. 2026.
 
 CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS. **PEC 188/2019**: Pacto Federativo e extinção de Municípios. Brasília, DF: CNM, [2019]. Folheto. Disponível em: https://cnm.org.br/storage/biblioteca/documentos/Folder_Mobilizac%CC%A7a%CC%83o.pdf. Acesso em: 5 out. 2026.
 
+CONSELHO NACIONAL DE JUSTIÇA. **Justiça em números 2025**: sumário executivo. Brasília, DF: CNJ, 2025. Disponível em: https://www.cnj.jus.br/wp-content/uploads/2025/10/sumario-executivo-2025.pdf. Acesso em: 6 out. 2026.
+
 CORBI, Raphael; PAPAIOANNOU, Elias; SURICO, Paolo. Regional transfer multipliers. **The Review of Economic Studies**, [*s. l.*], v. 86, n. 5, p. 1901-1934, 2019. DOI: 10.1093/restud/rdy069. Disponível em: https://lbsresearch.london.edu/id/eprint/1037/9/Regional_Transfer_Multipliers_Rev_Econ_Stud_2019_86.pdf. Acesso em: 6 out. 2026.
 
+COSTA, Alexandre Araújo; BENVINDO, Juliano Zaiden. **A quem interessa o controle concentrado de constitucionalidade?** O descompasso entre teoria e prática na defesa dos direitos fundamentais. [*S. l.*]: Arcos, 2013. Disponível em: https://arcos.org.br/a-quem-interessa-o-controle-concentrado-de-constitucionalidade/. Acesso em: 6 out. 2026.
+
 CRUZ, Paulo. Uma "Gazeta do Povo" incomoda muita gente. **Gazeta do Povo**, Curitiba, 12 ago. 2026. Coluna. Disponível em: https://www.gazetadopovo.com.br/vozes/paulo-cruz/gazeta-do-povo-guilherme-cunha-pereira-orientacao-editorial/. Acesso em: 6 out. 2026.
+
+DANTAS, Andrea de Quadros. O STF como árbitro da federação: uma análise empírica dos conflitos federativos em sede de ACO. **Revista Direito GV**, São Paulo, v. 16, n. 2, 2020. DOI: 10.1590/2317-6172201964. Disponível em: https://scielo.br/j/rdgv/a/vjcH8FNWDYMRRWcQRHKC6JJ/?lang=pt. Acesso em: 6 out. 2026.
 
 DANTAS JUNIOR, Amarando Francisco; DINIZ, Josedilton Alves. Arranjos federativos e federalismo fiscal: uma proposta de fusão municipal no Brasil. **Cadernos Gestão Pública e Cidadania**, São Paulo, v. 30, e92857, 2025. DOI: 10.12660/cgpc.v30.92857. Disponível em: https://periodicos.fgv.br/cgpc/article/view/92857. Acesso em: 5 out. 2026.
 
 D'AVILA, Luiz Felipe. **Micromunicípios precisam ser extintos**. [*S. l.*]: Instituto Millenium, 6 nov. 2020. Artigo do Virtu, de 6 nov. 2020, republicado pelo instituto. Disponível em: https://institutomillenium.org.br/micromunicipios-precisam-ser-extintos/. Acesso em: 6 out. 2026.
 
+FRENTE NACIONAL DE PREFEITAS E PREFEITOS. [**Carta aos candidatos à Presidência da República**]. Brasília, DF: FNP, set. 2026a. 6 p. Disponível em: https://multimidia.fnp.org.br/images/Documentos/Carta%20aos%20presenci%C3%A1veis.rev29.9.26.pdf. Acesso em: 6 out. 2026.
+
+FRENTE NACIONAL DE PREFEITAS E PREFEITOS. **Comitê Gestor é sancionado com acordo defendido pela FNP preservado em lei**. Brasília, DF: FNP, 13 jan. 2026b. Disponível em: https://fnp.org.br/noticias/item/3709-comite-gestor-do-ibs-e-sancionado-com-acordo-defendido-pela-fnp-preservado-em-lei. Acesso em: 6 out. 2026.
+
+FRENTE NACIONAL DE PREFEITAS E PREFEITOS. **FNP lança plataforma inédita que mostra a desigualdade de financiamento entre os municípios**. Brasília, DF: FNP, 30 out. 2025a. Disponível em: https://fnp.org.br/noticias/item/3649-fnp-lanca-plataforma-inedita-que-mostra-a-desigualdade-de-financiamento-entre-os-municipios. Acesso em: 6 out. 2026.
+
+FRENTE NACIONAL DE PREFEITAS E PREFEITOS. **PEC 66 é promulgada e presidente do Congresso destaca atuação da FNP**. Brasília, DF: FNP, 9 set. 2025b. Disponível em: https://fnp.org.br/noticias/item/3612-pec-66-e-promulgada-e-presidente-do-congresso-destaca-atuacao-da-fnp. Acesso em: 6 out. 2026.
+
 GADENNE, Lucie. Tax me, but spend wisely? Sources of public finance and government accountability. **American Economic Journal: Applied Economics**, [*s. l.*], v. 9, n. 1, p. 274-314, 2017. DOI: 10.1257/app.20150509. Disponível em: https://doi.org/10.1257/app.20150509. Acesso em: 6 out. 2026.
+
+GANDRA, Alana. Leilão de dois blocos de saneamento de Alagoas arrecada R$ 1,6 bilhão. **Agência Brasil**, Rio de Janeiro, 13 dez. 2021. Disponível em: https://agenciabrasil.ebc.com.br/economia/noticia/2021-12/leilao-de-dois-blocos-de-saneamento-de-alagoas-arrecada-r-16-bilhao. Acesso em: 6 out. 2026.
 
 GIBSON, Edward L.; CALVO, Ernesto. Federalism and low-maintenance constituencies: territorial dimensions of economic reform in Argentina. **Studies in Comparative International Development**, [*s. l.*], v. 35, n. 3, p. 32-55, 2000. DOI: 10.1007/BF02699765. Disponível em: https://doi.org/10.1007/BF02699765. Acesso em: 5 out. 2026.
 
 GOBETTI, Sérgio Wulff; MONTEIRO, Priscila Kaiser. Impactos redistributivos da reforma tributária: estimativas atualizadas. **Carta de Conjuntura**, Brasília, DF: Ipea, n. 60, Nota de Conjuntura 18, 3º trim. 2023. 14 p. Divulgado em 28 ago. 2023. Disponível em: https://repositorio.ipea.gov.br/bitstreams/079492a6-d88a-42ac-bd75-127454c35f23/download. Acesso em: 6 out. 2026.
+
+GODOY, Miguel Gualano de; TRANJAN, Renata Naomi. Supremo Tribunal Federal e federalismo: antes e durante a pandemia. **Revista Direito GV**, São Paulo, v. 19, e2311, 2023. DOI: 10.1590/2317-6172202311. Disponível em: https://www.scielo.br/j/rdgv/a/SZ7NGsLwC9H76m8KrvjhhKg/?lang=pt. Acesso em: 6 out. 2026.
 
 GOMES, Gustavo Maia; MAC DOWELL, Maria Cristina. **Descentralização política, federalismo fiscal e criação de municípios**: o que é mau para o econômico nem sempre é bom para o social. Brasília, DF: Ipea, fev. 2000. (Texto para Discussão, n. 706). Disponível em: https://repositorio.ipea.gov.br/handle/11058/2339. Acesso em: 5 out. 2026.
 
@@ -1757,7 +2273,11 @@ GOVERNO propõe extinção de um quarto dos municípios brasileiros. **Exame**, 
 
 GOVERNO propõe extinguir municípios incapazes de se manterem. **CartaCapital**, São Paulo, 5 nov. 2019b. Texto da Agência Brasil. Disponível em: https://www.cartacapital.com.br/economia/governo-propoe-extinguir-municipios-incapazes-de-se-manterem/. Acesso em: 6 out. 2026.
 
+HANSSON, Gustav; OLSSON, Ola. **Country size and the rule of law**: resuscitating Montesquieu. Gotemburgo: Universidade de Gotemburgo, 2006. (Working Papers in Economics, n. 200). Disponível em: https://gupea.ub.gu.se/handle/2077/2721. Acesso em: 6 out. 2026.
+
 HIROI, Taeko. Paradox of redistribution: legislative overrepresentation and regional development in Brazil. **Publius: The Journal of Federalism**, [*s. l.*], v. 49, n. 4, p. 642-670, 2019. DOI: 10.1093/publius/pjy043. Disponível em: https://doi.org/10.1093/publius/pjy043. Acesso em: 5 out. 2026.
+
+HOOGHE, Liesbet; MARKS, Gary. **Community, scale, and regional governance**. Oxford: Oxford University Press, 2016. Versão consultada: prova de revisão. Disponível em: https://hooghe.web.unc.edu/wp-content/uploads/sites/11492/2021/02/Hooghe-Marks_2016_Community-Scale-and-Regional-Governance.pdf. Acesso em: 6 out. 2026.
 
 IBGE. **Censo Demográfico 2022**: população residente e área territorial. Rio de Janeiro: IBGE, 2023. Tabela 4714 do SIDRA. Disponível em: https://sidra.ibge.gov.br/tabela/4714. Acesso em: 5 out. 2026.
 
@@ -1771,19 +2291,33 @@ LORRAN, Tácio; LIMA, Rafaela; MARCHESINI, Lucas. Plano de Guedes tira ao menos 
 
 MAIS de 90% dos municípios com menos de 5 mil habitantes estão sob ameaça de serem extintos. **Terra**, [*s. l.*], 15 jan. 2020. Conteúdo distribuído por DINO Divulgador de Notícias. Disponível em: https://www.terra.com.br/noticias/dino/mais-de-90-dos-municipios-com-menos-de-5-mil-habitantes-estao-sob-ameaca-de-serem-extintos,f4e6b789a2f6db4ed7fec776ed5f43bcb2xc4b27.html. Acesso em: 5 out. 2026.
 
+MÁXIMO, Wellton. Dino anula emendas indicadas por dirigentes partidários sem mandato. **Agência Brasil**, Brasília, DF, 23 ago. 2026. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/dino-anula-emendas-indicadas-por-dirigentes-partidarios-sem-mandato. Acesso em: 6 out. 2026.
+
 MEIRELLES, João; RODRIGUES NETO, Camilo; FERREIRA, Fernando Fagundes; RIBEIRO, Fabiano Lemes; BINDER, Claudia Rebeca. Evolution of urban scaling: evidence from Brazil. **PLoS ONE**, San Francisco, v. 13, n. 10, e0204574, 2018. DOI: 10.1371/journal.pone.0204574. Disponível em: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204574. Acesso em: 5 out. 2026.
 
 MENDES, Marcos. Fundo de Participação dos Municípios precisa mudar. **Folha de S.Paulo**, São Paulo, 4 jan. 2020. Disponível em: https://www1.folha.uol.com.br/colunas/marcos-mendes/2020/01/fundo-de-participacao-dos-municipios-precisa-mudar.shtml. Acesso em: 5 out. 2026.
 
 MENDES, Marcos; MIRANDA, Rogério Boueri; COSIO, Fernando Blanco. **Transferências intergovernamentais no Brasil**: diagnóstico e proposta de reforma. Brasília, DF: Senado Federal, Consultoria Legislativa, abr. 2008. (Texto para Discussão, n. 40). Disponível em: https://www12.senado.leg.br/publicacoes/estudos-legislativos/tipos-de-estudos/textos-para-discussao/td-40-transferencias-intergovernamentais-no-brasil-diagnostico-e-proposta-de-reforma/@@download/file/TD40-MarcosMendes_RogerioBoueri_FernandoB.Cosio.pdf. Acesso em: 5 out. 2026.
 
+MENEZES, Gustavo Paixão. **Suporte à decisão para políticas públicas em mudanças climáticas**: construção de coleções anuais de mapas de temperatura de superfície terrestre para os municípios do estado de São Paulo. Orientador: Marcel Fantin. 2023. Relatório final (Iniciação Científica, PIBIC 2022-2023) - Instituto de Arquitetura e Urbanismo, Universidade de São Paulo, São Carlos, 2023. Não publicado; sem endereço público.
+
 MINAS GERAIS. Controladoria-Geral do Estado. **Convênios de saída de recursos**. Belo Horizonte: CGE, 2026. Conjunto de dados. Disponível em: https://dados.mg.gov.br/pt_PT/dataset/convenios-saida. Acesso em: 6 out. 2026.
 
+MINISTRO do STF permite ao governo retomar execução das emendas parlamentares. **Agência Câmara de Notícias**, Brasília, DF, 2 dez. 2024. Disponível em: https://www.camara.leg.br/noticias/1116531-ministro-do-stf-permite-ao-governo-retomar-execucao-das-emendas-parlamentares/. Acesso em: 6 out. 2026.
+
 MONASTERIO, Leonardo Monteiro. **O FPM e a estranha distribuição da população dos pequenos municípios brasileiros**. Brasília, DF: Ipea, mar. 2013. (Texto para Discussão, n. 1818). Disponível em: https://www.econstor.eu/bitstream/10419/91464/1/745123341.pdf. Acesso em: 5 out. 2026.
+
+MORAES, André Fleury. Distribuição de recursos privilegia cidades pequenas e amplia desigualdade. **Diário da Manhã**, Goiânia, 25 abr. 2026. Texto da Folhapress. Disponível em: https://www.dm.com.br/economia/distribuicao-de-recursos-privilegia-cidades-pequenas-e-amplia-desigualdade/. Acesso em: 6 out. 2026.
 
 MUNICÍPIOS pequenos recebem mais recursos "per capita" que metrópoles com maiores desafios urbanos. **Jornal da USP**, São Paulo, 25 ago. 2025. Rádio USP, Jornal da USP no Ar. Disponível em: https://jornal.usp.br/radio-usp/municipios-pequenos-recebem-mais-recursos-per-capita-que-metropoles-com-maiores-desafios-urbanos/. Acesso em: 5 out. 2026.
 
 NICOLAU, Jairo Marconi. As distorções na representação dos estados na Câmara dos Deputados brasileira. **Dados**, Rio de Janeiro, v. 40, n. 3, p. 441-464, 1997. DOI: 10.1590/S0011-52581997000300006. Disponível em: https://doi.org/10.1590/S0011-52581997000300006. Acesso em: 5 out. 2026.
+
+NUNES, Vinícius. Câmara destinou R$ 1,3 bilhão em emendas sem revelar quais deputados escolheram os beneficiários. **CartaCapital**, São Paulo, 13 jul. 2026. Disponível em: https://www.cartacapital.com.br/politica/camara-destinou-r-13-bilhao-em-emendas-sem-revelar-quais-deputados-escolheram-os-beneficiarios/. Acesso em: 6 out. 2026.
+
+OCDE; CGLU. **2022 synthesis report**: World Observatory on Subnational Government Finance and Investment: highlights. [*S. l.*]: OCDE; CGLU, 2022a. Disponível em: https://www.sng-wofi.org/2022%20Highlights.pdf. Acesso em: 6 out. 2026.
+
+OCDE; CGLU. **Brazil**: country and territory profiles. [*S. l.*]: World Observatory on Subnational Government Finance and Investment, 2022b. Página datada de mar. 2022, com dados de 2020. Disponível em: https://www.sng-wofi.org/country_profiles/brazil.html. Acesso em: 6 out. 2026.
 
 OLIVEIRA, Débora Tazinasso de; OLIVEIRA, Antonio Gonçalves de. (In)sustentabilidade financeira municipal: a frágil metodologia proposta pela PEC do Pacto Federativo. **Revista de Administração Pública**, Rio de Janeiro, v. 57, n. 5, e2023-0012, 2023. DOI: 10.1590/0034-761220230012. Disponível em: https://www.scielo.br/j/rap/a/qC49PCkNPfLKqGxsVS4JmkR/?lang=pt. Acesso em: 5 out. 2026.
 
@@ -1791,11 +2325,25 @@ ORÇAMENTO 2026 é sancionado com previsão de superávit de R$ 34,2 bi. **Agên
 
 PADRÃO de distribuição de emendas parlamentares prejudica cidades grandes. **Agência FAPESP**, São Paulo, 29 set. 2025. Disponível em: https://agencia.fapesp.br/padrao-de-distribuicao-de-emendas-parlamentares-prejudica-cidades-grandes/55979. Acesso em: 5 out. 2026.
 
+PEDUZZI, Pedro. Dino suspende o pagamento de R$ 4,2 bilhões em emendas de comissão. **Agência Brasil**, Brasília, DF, 23 dez. 2024. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2024-12/dino-suspende-o-pagamento-de-r-42-bilhoes-em-emendas-de-comissao. Acesso em: 6 out. 2026.
+
 PEREIRA, Roger. Governo fala em extinguir municípios com menos de 5 mil habitantes. **Gazeta do Povo**, Curitiba, 5 nov. 2019. Atualizado em 18 nov. 2019. Disponível em: https://www.gazetadopovo.com.br/republica/governo-fala-em-extinguir-municipios-com-menos-de-5-mil-habitantes/. Acesso em: 6 out. 2026.
 
 PERES, Ursula Dias; MARQUES, Eduardo; ARMANI, Gabriela. **Municípios e a questão fiscal no Brasil**: mais do que heterogêneos? São Paulo: Centro de Estudos da Metrópole, 2025. (Nota Técnica Políticas Públicas, Cidades e Desigualdades, n. 23). Disponível em: https://centrodametropole.fflch.usp.br/sites/centrodametropole.fflch.usp.br/files/inline-files/nt23.pdf. Acesso em: 5 out. 2026.
 
+PICKARD, H. Explaining fiscal decentralization and the role of ethnic diversity. **Scottish Journal of Political Economy**, [*s. l.*], v. 67, n. 5, p. 469-485, 2020. Disponível em: https://eprints.whiterose.ac.uk/id/eprint/159160/15/sjpe.12246.pdf. Acesso em: 6 out. 2026.
+
+POPELIER, P.; BIELEN, S. How courts decide federalism disputes. **Publius: The Journal of Federalism**, [*s. l.*], 2018. Versão consultada: cópia em PDF. Disponível em: https://fiscalfederalism.eu/wp-content/uploads/2020/05/BE-Lit-2018-Popelier-Bielen-How-Courts-Decide-Federalism-Disputes-1.pdf. Acesso em: 6 out. 2026. Volume, número e páginas não conferidos.
+
 REINGEWERTZ, Yaniv. Do municipal amalgamations work? Evidence from municipalities in Israel. **Journal of Urban Economics**, [*s. l.*], v. 72, n. 2-3, p. 240-251, 2012. DOI: 10.1016/j.jue.2012.06.001. Disponível em: https://ideas.repec.org/a/eee/juecon/v72y2012i2p240-251.html. Acesso em: 6 out. 2026.
+
+RICHTER, André. Dino cita existência de "atacadistas de emendas" ao condenar deputados. **Agência Brasil**, Brasília, DF, 17 mar. 2026. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/dino-cita-existencia-de-atacadistas-de-emendas-ao-condenar-deputados. Acesso em: 6 out. 2026.
+
+RICHTER, André. Dino suspende pagamento de emendas impositivas. **Agência Brasil**, Brasília, DF, 14 ago. 2024a. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/dino-suspende-pagamento-de-emendas-impositivas. Acesso em: 6 out. 2026.
+
+RICHTER, André. Por decisão de Dino, CGU deverá fazer auditoria nas emendas PIX. **Agência Brasil**, Brasília, DF, 1 ago. 2024b. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/por-decisao-de-dino-cgu-devera-fazer-auditoria-nas-emendas-pix. Acesso em: 6 out. 2026.
+
+RICHTER, André. Por unanimidade, STF mantém decisão de Dino que suspendeu emendas. **Agência Brasil**, Brasília, DF, 16 ago. 2024c. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/por-unanimidade-stf-mantem-decisao-de-dino-que-suspendeu-emendas. Acesso em: 6 out. 2026.
 
 SAMUELS, David; SNYDER, Richard. The value of a vote: malapportionment in comparative perspective. **British Journal of Political Science**, [*s. l.*], v. 31, n. 4, p. 651-671, 2001. DOI: 10.1017/S0007123401000254. Disponível em: https://doi.org/10.1017/S0007123401000254. Acesso em: 5 out. 2026.
 
@@ -1827,8 +2375,12 @@ TAVARES, Camilla Quesada. Do jornalismo informativo ao de posição: a "guinada 
 
 TOMIO, Fabricio Ricardo de Limas. A criação de municípios após a Constituição de 1988. **Revista Brasileira de Ciências Sociais**, São Paulo, v. 17, n. 48, p. 61-89, fev. 2002. Disponível em: http://www.scielo.br/j/rbcsoc/a/N7LsY44n4sQLmsw6yJJt3dS/?lang=pt. Acesso em: 5 out. 2026.
 
+VERDÉLIO, Andreia. STF considera orçamento secreto inconstitucional. **Agência Brasil**, Brasília, DF, 19 dez. 2022. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2022-12/stf-considera-orcamento-secreto-inconstitucional. Acesso em: 6 out. 2026.
+
 VIEIRA, Douglas. Frente de prefeitos entrega carta com propostas aos candidatos à Presidência. **A Crítica**, [*s. l.*], 30 set. 2026. Disponível em: https://acritica.net/politica/fnp-carta-propostas-presidenciaveis-2026/. Acesso em: 6 out. 2026.
 
 VILELA, Pedro Rafael. Extinção de municípios não é "ponto de honra", diz Bolsonaro. **Agência Brasil**, Brasília, DF, 4 dez. 2019. Disponível em: https://agenciabrasil.ebc.com.br/politica/noticia/2019-12/extincao-de-municipios-nao-e-ponto-de-honra-diz-bolsonaro. Acesso em: 6 out. 2026.
+
+WEST, Geoffrey. **The surprising math of cities and corporations**. [*S. l.*]: TED, jul. 2011. 1 vídeo (17 min 16 s). Palestra na conferência TEDGlobal 2011. Disponível em: https://www.ted.com/talks/geoffrey_west_the_surprising_math_of_cities_and_corporations. Acesso em: 6 out. 2026.
 
 A lista completa das fontes consultadas, incluídas as que não foram conferidas, está no arquivo docs/REFERENCIAS.md do repositório do estudo.

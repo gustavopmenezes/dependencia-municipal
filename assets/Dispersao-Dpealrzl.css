@@ -1,0 +1,8 @@
+
+.gm-q.traco.dispersao-leg-outro { height: 1.5px; background: var(--tinta2);
+}
+/* amostra da linha de referência: traço vertical tracejado */
+.gm-q.dispersao-leg-ref { width: 0; height: 13px; border-left: 1.5px dashed #52524e; background: none;
+}
+.dispersao-leg-tri { display: inline-block; width: 0; height: 0; flex: none; border-left: 4.5px solid transparent; border-right: 4.5px solid transparent; border-bottom: 8px solid #52524e;
+}

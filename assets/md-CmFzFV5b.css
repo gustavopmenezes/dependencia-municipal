@@ -1,0 +1,21 @@
+
+.saidas-tabela[data-v-149b073b] { width: 100%; font-size: 16px; line-height: 1.36; table-layout: fixed;
+}
+.saidas-tabela th[data-v-149b073b] { font-size: 13px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--mudo); padding-bottom: 6px;
+}
+.saidas-tabela td[data-v-149b073b] { vertical-align: top; padding: 7px 18px 7px 0;
+}
+.saidas-tabela th[data-v-149b073b]:nth-child(1) { width: 18%;
+}
+.saidas-tabela th[data-v-149b073b]:nth-child(2) { width: 28%;
+}
+.saidas-tabela th[data-v-149b073b]:nth-child(3) { width: 28%;
+}
+.saidas-tabela th[data-v-149b073b] { white-space: nowrap;
+}
+.saidas-tabela td[data-v-149b073b] { text-wrap: pretty;
+}
+.saidas-janela[data-v-149b073b] { display: block; width: fit-content; margin-top: 5px; padding: 1px 7px; border: 1.5px solid var(--tinta); border-radius: 3px; font-size: 13px; font-weight: 600; line-height: 1.4; color: var(--tinta);
+}
+.saidas-legenda[data-v-149b073b] { margin: 8px 0 0; font-size: 15px; line-height: 1.38; color: var(--tinta2);
+}

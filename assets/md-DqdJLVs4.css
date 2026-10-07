@@ -1,0 +1,13 @@
+
+.cadeira-emenda-botao-realce { font-size: 13.5px;
+}
+/* contorno da cor do fundo: a linha de grade não corta o valor */
+.cadeira-emenda-valor { font-weight: 600; paint-order: stroke; stroke: #faf9f6; stroke-width: 3.5px; stroke-linejoin: round;
+}
+.cadeira-emenda-legenda { display: inline-flex; flex-wrap: wrap; gap: 3px 14px; font-size: 13.5px;
+}
+
+.cadeira-emenda-sobe[data-v-3d6ee0b6] { color: #008300; font-weight: 600; white-space: nowrap;
+}
+.cadeira-emenda-desce[data-v-3d6ee0b6] { color: #e34948; font-weight: 600; white-space: nowrap;
+}

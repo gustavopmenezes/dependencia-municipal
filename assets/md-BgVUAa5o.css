@@ -1,0 +1,18 @@
+
+/* a instrução desce para a linha dos botões juntos e separados, à direita deles, e não ocupa altura */
+.dica-do-desenho.custo-dica[data-v-708e8a36] { position: relative; z-index: 2; top: 63px; height: 0; margin: 0; text-align: right; white-space: nowrap; pointer-events: none;
+}
+.custo-tabela[data-v-708e8a36] { width: 100%; border-collapse: collapse; margin: 8px 0 10px; font-size: 14.5px; font-variant-numeric: tabular-nums;
+}
+.custo-tabela th[data-v-708e8a36] { text-align: right; font-weight: 600; font-size: 13px; color: var(--tinta2); border-bottom: 1px solid var(--cinza2); padding: 2px 4px;
+}
+.custo-tabela td[data-v-708e8a36] { text-align: right; padding: 2px 4px; border-bottom: 1px solid var(--fio); white-space: nowrap;
+}
+.custo-tabela th[data-v-708e8a36]:first-child, .custo-tabela td[data-v-708e8a36]:first-child { text-align: left; padding-left: 0;
+}
+.custo-tabela tr.custo-uf td[data-v-708e8a36] { border-top: 2px solid var(--cinza2);
+}
+.custo-texto[data-v-708e8a36] { font-size: 17px; line-height: 1.42;
+}
+.custo-texto p[data-v-708e8a36] { margin: 0 0 9px;
+}

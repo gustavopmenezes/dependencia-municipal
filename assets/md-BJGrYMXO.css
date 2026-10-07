@@ -1,0 +1,272 @@
+
+.arte-capa[data-v-5cd04afc] { position: relative; margin: 0; display: flex; flex-direction: column; gap: 10px; height: 100%; justify-content: center;
+}
+
+/* etiquetas-legenda */
+.arte-capa-etiquetas[data-v-5cd04afc] { display: flex; flex-wrap: wrap; gap: 10px;
+}
+.arte-capa-etiqueta[data-v-5cd04afc] {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-family: var(--sans);
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--tinta2);
+  background: var(--papel);
+  border: 1.5px solid var(--cinza2);
+  border-radius: 999px;
+  padding: 9px 16px 9px 14px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: border-color 0.15s, background 0.15s, color 0.15s;
+}
+.arte-capa-etiqueta[data-v-5cd04afc]:hover { border-color: var(--tinta); color: var(--tinta);
+}
+.arte-capa-etiqueta[data-v-5cd04afc]:focus-visible { outline: 2px solid var(--tinta); outline-offset: 2px;
+}
+.arte-capa-etiqueta .arte-capa-marca[data-v-5cd04afc] { opacity: 0.45;
+}
+.arte-capa-etiqueta:hover .arte-capa-marca[data-v-5cd04afc] { opacity: 0.8;
+}
+.arte-capa-etiqueta.arte-capa-etiqueta-ativa[data-v-5cd04afc] {
+  color: var(--tinta);
+  font-weight: 700;
+  border-color: var(--tinta);
+  box-shadow: inset 0 0 0 1px var(--tinta);
+  cursor: default;
+}
+.arte-capa-etiqueta.arte-capa-etiqueta-ativa .arte-capa-marca[data-v-5cd04afc] { opacity: 1;
+}
+.arte-capa-vezes[data-v-5cd04afc] { font-weight: 400; color: var(--mudo); margin: 0 2px;
+}
+.arte-capa-marca[data-v-5cd04afc] { display: inline-block; width: 12px; height: 12px; flex: none;
+}
+.arte-capa-marca-redonda[data-v-5cd04afc] { background: var(--sp); border-radius: 50%;
+}
+.arte-capa-marca-quadrada[data-v-5cd04afc] { background: var(--ma);
+}
+
+/* alternadores */
+.arte-capa-controles[data-v-5cd04afc] { display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+}
+.arte-capa-alternador[data-v-5cd04afc] { display: inline-flex; border: 1px solid var(--cinza2); border-radius: 999px; overflow: hidden; background: var(--papel);
+}
+.arte-capa-alternador button[data-v-5cd04afc] {
+  font-family: var(--sans);
+  font-size: 13.5px;
+  font-weight: 600;
+  line-height: 1.1;
+  color: var(--tinta2);
+  background: transparent;
+  border: 0;
+  padding: 6px 11px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.arte-capa-alternador button + button[data-v-5cd04afc] { border-left: 1px solid var(--cinza2);
+}
+.arte-capa-alternador button[data-v-5cd04afc]:hover { background: #f4f3ee; color: var(--tinta);
+}
+.arte-capa-alternador button.arte-capa-ligado[data-v-5cd04afc] { background: var(--tinta); color: #fff;
+}
+.arte-capa-alternador button[data-v-5cd04afc]:focus-visible { outline: 2px solid var(--tinta); outline-offset: -2px;
+}
+/* somados: os dois eixos estão no desenho, o alternador descansa */
+.arte-capa-alternador.arte-capa-alternador-parado[data-v-5cd04afc] { border-style: dashed;
+}
+.arte-capa-alternador.arte-capa-alternador-parado button[data-v-5cd04afc] { cursor: default;
+}
+.arte-capa-alternador.arte-capa-alternador-parado button.arte-capa-ligado[data-v-5cd04afc] { background: #6d6d68; color: #fff;
+}
+.arte-capa-botao-tabela[data-v-5cd04afc] { margin-left: auto; padding: 6px 11px; font-size: 13.5px;
+}
+
+/* desenho */
+.arte-capa-desenho[data-v-5cd04afc] { width: 100%; height: auto; display: block; overflow: visible; user-select: none; -webkit-user-select: none;
+}
+.arte-capa-espera[data-v-5cd04afc] { aspect-ratio: 660 / 500;
+}
+.arte-capa-grade[data-v-5cd04afc] { stroke: #e1e0d9; stroke-width: 1; shape-rendering: crispEdges;
+}
+.arte-capa-linha-eixo[data-v-5cd04afc] { stroke: #52514e; stroke-width: 1; shape-rendering: crispEdges;
+}
+.arte-capa-eixo[data-v-5cd04afc] { font-size: 13px; fill: #52514e; font-variant-numeric: lining-nums tabular-nums;
+}
+.arte-capa-eixo-nome[data-v-5cd04afc] { font-size: 13.5px; fill: #52514e;
+}
+.arte-capa-coluna[data-v-5cd04afc] { fill-opacity: 0.4; shape-rendering: crispEdges;
+}
+.arte-capa-contorno[data-v-5cd04afc] { fill: none; stroke-width: 2; stroke-linejoin: round;
+}
+.arte-capa-curva[data-v-5cd04afc] { fill: none; stroke-width: 2.4; stroke-linejoin: round;
+}
+.arte-capa-metade[data-v-5cd04afc] { stroke: #1f2a37; stroke-width: 1.3; stroke-dasharray: 6 4;
+}
+.arte-capa-faixa[data-v-5cd04afc] { fill-opacity: 0.3;
+}
+.arte-capa-mediana[data-v-5cd04afc] { stroke-width: 2.4;
+}
+.arte-capa-media[data-v-5cd04afc] { stroke-width: 2; stroke-dasharray: 5 4;
+}
+.arte-capa-halo[data-v-5cd04afc] { stroke: #faf9f6; stroke-width: 5; stroke-opacity: 0.8;
+}
+.arte-capa-ponto[data-v-5cd04afc] { stroke: #faf9f6; stroke-width: 2;
+}
+.arte-capa-mediana-texto[data-v-5cd04afc] {
+  font-size: 14px;
+  font-weight: 700;
+  fill: #1f2a37;
+  font-variant-numeric: lining-nums tabular-nums;
+  paint-order: stroke;
+  stroke: #faf9f6;
+  stroke-width: 4px;
+  stroke-linejoin: round;
+}
+.arte-capa-final[data-v-5cd04afc] { font-size: 14px; font-weight: 700; fill: #1f2a37; font-variant-numeric: lining-nums tabular-nums;
+}
+.arte-capa-grupo[data-v-5cd04afc] { font-size: 17px; font-weight: 700; fill: #1f2a37; paint-order: stroke; stroke: #faf9f6; stroke-width: 4px; stroke-linejoin: round;
+}
+.arte-capa-conta[data-v-5cd04afc] { font-size: 14.5px; font-weight: 400; fill: #52514e; font-variant-numeric: lining-nums tabular-nums;
+}
+.arte-capa-alvo[data-v-5cd04afc] { fill: transparent; cursor: pointer;
+}
+.arte-capa-alvo[data-v-5cd04afc]:hover { fill: #1f2a37; fill-opacity: 0.07;
+}
+.arte-capa-leitura[data-v-5cd04afc] { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 16px; font-size: 13.5px; line-height: 1.3; color: var(--tinta2);
+}
+.arte-capa-chave[data-v-5cd04afc] { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap;
+}
+.arte-capa-chave-mudo[data-v-5cd04afc] { color: var(--mudo); margin-left: auto;
+}
+.arte-capa-chave-nota[data-v-5cd04afc] { white-space: normal; color: var(--tinta2);
+}
+.arte-capa-chave-vista[data-v-5cd04afc] { margin-left: auto; font-weight: 600; color: var(--tinta2);
+}
+.arte-capa-chave-vista b[data-v-5cd04afc] { color: var(--tinta);
+}
+.arte-capa-chave-cheio[data-v-5cd04afc] { display: inline-block; width: 0; height: 15px; border-left: 2.4px solid #1f2a37;
+}
+.arte-capa-chave-tracejado[data-v-5cd04afc] { display: inline-block; width: 0; height: 15px; border-left: 2px dashed #1f2a37;
+}
+.arte-capa-chave-faixa[data-v-5cd04afc] { display: inline-block; width: 22px; height: 12px; border-radius: 2px; background: #1f2a37; opacity: 0.3;
+}
+.arte-capa-dica[data-v-5cd04afc] { left: 0; top: 0;
+}
+.arte-capa-dica-linha[data-v-5cd04afc] { display: flex; align-items: center; gap: 6px; margin-top: 3px;
+}
+.arte-capa-dica .arte-capa-marca[data-v-5cd04afc] { width: 10px; height: 10px;
+}
+.arte-capa-dica .arte-capa-marca-clara[data-v-5cd04afc] { background: #8f84e0;
+}
+.arte-capa-dica .arte-capa-marca-cinza[data-v-5cd04afc] { background: #b0b0ab;
+}
+
+.capa[data-v-e4eb000a] {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 660px;
+  gap: 40px;
+  padding: 40px 48px 40px 56px;
+}
+.capa-esquerda[data-v-e4eb000a] {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-width: 0;
+}
+.capa-alto[data-v-e4eb000a] {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+}
+.capa h1[data-v-e4eb000a] {
+  font-size: 56px;
+  line-height: 1.06;
+  font-weight: 600;
+  letter-spacing: -0.012em;
+  max-width: 470px;
+}
+/* letra de abertura de livro: ocupa duas linhas do título, grossa */
+.capa-titulo-inicial[data-v-e4eb000a] {
+  float: left;
+  font-family: var(--serifa);
+  font-size: 138px;
+  line-height: 0.78;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 6px 10px 0 -4px;
+  color: var(--tinta);
+}
+/* a interrogação forte: maior e mais grossa que o título, sem mexer na altura da linha */
+.capa-titulo-interrogacao[data-v-e4eb000a] {
+  display: inline-block;
+  font-family: var(--serifa);
+  font-size: 1.75em;
+  font-weight: 700;
+  line-height: 0;
+  margin-left: 0.04em;
+  vertical-align: -0.12em;
+  color: var(--tinta);
+}
+.capa-pergunta[data-v-e4eb000a] {
+  margin: 24px 0 0;
+  font-family: var(--serifa);
+  font-style: italic;
+  font-size: 24px;
+  line-height: 1.3;
+  color: var(--tinta2);
+  max-width: 460px;
+  text-wrap: balance;
+}
+.capa-acoes[data-v-e4eb000a] {
+  margin-top: 22px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px 16px;
+  min-height: 32px;
+}
+.capa-notas svg[data-v-e4eb000a] { width: 16px; height: 16px; flex: none;
+}
+.capa-notas-abertas[data-v-e4eb000a] { color: var(--papel); background: var(--tinta); border-color: var(--tinta);
+}
+.capa-tecla[data-v-e4eb000a] {
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1;
+  border: 1px solid var(--cinza2);
+  border-radius: 4px;
+  padding: 2px 5px 1px;
+  margin-left: 2px;
+}
+.capa-notas-abertas .capa-tecla[data-v-e4eb000a] { border-color: var(--papel);
+}
+.capa-leitura[data-v-e4eb000a] {
+  font-size: 15px;
+  color: var(--tinta2);
+  white-space: nowrap;
+  font-variant-numeric: lining-nums tabular-nums;
+}
+.capa-baixo[data-v-e4eb000a] {
+  border-top: 1px solid var(--fio);
+  padding-top: 14px;
+  font-size: 17px;
+  line-height: 1.4;
+}
+.capa-autor[data-v-e4eb000a] { font-weight: 600;
+}
+.capa-contato[data-v-e4eb000a] { font-weight: 400; color: var(--tinta2);
+}
+.capa-arte[data-v-e4eb000a] {
+  position: relative;
+  min-width: 0;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.capa-resto[data-v-e4eb000a] { display: none;
+}

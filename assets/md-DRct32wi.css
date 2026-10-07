@@ -1,0 +1,4 @@
+
+/* a pintura é escura: clareada para a figura aparecer também em impressão em preto e branco */
+img[data-v-27054c76] { filter: brightness(1.7) contrast(0.92);
+}

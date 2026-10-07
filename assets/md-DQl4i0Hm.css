@@ -1,0 +1,23 @@
+
+.interior-lado[data-v-10476563] { font-size: 15px; line-height: 1.36;
+}
+.interior-lado p[data-v-10476563] { margin: 0 0 7px;
+}
+.interior-sobe[data-v-10476563] { color: #008300; font-weight: 600; white-space: nowrap;
+}
+.interior-lado p.interior-nota[data-v-10476563] { font-size: 13px; line-height: 1.32; color: var(--tinta2); margin: 0 0 5px;
+}
+.interior-tabela td span[data-v-10476563] { display: block; font-size: 13px; line-height: 1.15; color: var(--tinta2); white-space: nowrap;
+}
+.interior-tabela td b[data-v-10476563] { font-weight: 600;
+}
+.interior-tabela[data-v-10476563] { width: 100%; border-collapse: collapse; font-size: 14px; margin: 0 0 7px; font-variant-numeric: tabular-nums;
+}
+.interior-tabela th[data-v-10476563] { text-align: right; font-weight: 600; font-size: 13px; color: var(--tinta2); border-bottom: 1px solid var(--cinza2); padding: 3px 4px;
+}
+.interior-tabela td[data-v-10476563] { text-align: right; vertical-align: top; line-height: 1.2; padding: 1px 4px; border-bottom: 1px solid var(--fio);
+}
+.interior-tabela th[data-v-10476563]:first-child, .interior-tabela td[data-v-10476563]:first-child { text-align: left; padding-left: 0;
+}
+.interior-tabela tr.interior-resto td[data-v-10476563] { border-top: 2px solid var(--cinza2);
+}

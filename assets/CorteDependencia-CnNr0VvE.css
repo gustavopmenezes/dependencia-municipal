@@ -1,0 +1,8 @@
+
+.corte-campo-passo { border-radius: 999px;
+}
+.corte-tocar-passo { display: inline-flex; border-radius: 999px;
+}
+/* a frase muda de tamanho de uma vista para a outra: três linhas reservadas, para o gráfico não pular */
+.gm-rod:has(> .corte-resposta) { min-height: calc(3 * 1.35em);
+}

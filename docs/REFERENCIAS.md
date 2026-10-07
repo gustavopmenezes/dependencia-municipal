@@ -2,7 +2,9 @@
 
 Lista única das referências do estudo, montada em 6 out. 2026 a partir das seções de referências e das fichas de `docs/pesquisa/*.md`, de `fontes/INDICE.md` e da seção "Fontes" de `docs/METODO.md`. Critério: nos grupos de "Dados" a "Imprensa, vídeos e redes" só entra o que foi aberto e conferido na fonte durante a pesquisa, ou o que é fonte primária de dado usado no cálculo. O que os arquivos de pesquisa marcam como "de memória", "não conferido", "não aberto", "em revisão" ou incompleto fica no grupo "Citadas mas não conferidas" e não entra em entrega enquanto a pendência indicada não for resolvida. As referências seguem a ABNT NBR 6023:2018, em ordem alfabética dentro de cada grupo. A data de acesso é a registrada no arquivo de pesquisa (5 out. 2026 na primeira montagem; 6 out. 2026 no que entrou ou foi corrigido na rodada 2 da revisão, a partir de `docs/pesquisa/pesquisa-profunda-gemini.md`, `pesquisa-profunda-chatgpt.md`, `fatos-rodada-3.md` e `glossario-receitas.md`; os arquivos de `fontes/arquivos/` foram baixados em 5 e 6 out. 2026). Onde só a referência bibliográfica ou só o resumo foi conferido, a entrada diz isso entre colchetes, e número nenhum dessa obra entra em entrega sem a marca do arquivo de pesquisa. Onde falta um elemento, a referência traz o que há e termina com "[dado incompleto: falta X]"; nenhum dado bibliográfico foi completado de memória. Em periódico estrangeiro sem local registrado na pesquisa usa-se [*S. l.*].
 
-Total: 171 referências conferidas (20 de dados, 41 de normas e decisões, 51 de livros, artigos e textos para discussão, 15 de notas técnicas e documentos de entidades, 44 de imprensa, vídeos e redes) e 77 itens citados mas não conferidos (linhas do grupo, algumas com mais de um documento). Na montagem de 5 out. 2026 eram 108 e 72 (o texto dizia 107; os parágrafos somavam 108); a rodada 2 da revisão acrescentou 63 conferidas, corrigiu seis (Brollo *et al.*, Corbi, Papaioannou e Surico, Samuels e Snyder, Tomio, a Lei Complementar nº 198 e a matéria da Agência Senado de 15 jan. 2026) e passou seis linhas das não conferidas para as conferidas.
+Total: 217 referências conferidas (20 de dados, 44 de normas e decisões, 60 de livros, artigos e textos para discussão, 29 de notas técnicas e documentos de entidades, 64 de imprensa, vídeos e redes) e 78 itens citados mas não conferidos (linhas do grupo, algumas com mais de um documento). Antes da camada 2 da rodada 5 eram 171 e 77. Na montagem de 5 out. 2026 eram 108 e 72 (o texto dizia 107; os parágrafos somavam 108); a rodada 2 da revisão acrescentou 63 conferidas, corrigiu seis (Brollo *et al.*, Corbi, Papaioannou e Surico, Samuels e Snyder, Tomio, a Lei Complementar nº 198 e a matéria da Agência Senado de 15 jan. 2026) e passou seis linhas das não conferidas para as conferidas.
+
+A camada 2 da rodada 5 (6 out. 2026) acrescentou 46 conferidas: as fontes novas dos slides e do e-book, listadas em `revisao/claude/camada2-fontes-novas.json`. Autor, título e data das notícias foram lidos na página em 6 out. 2026. A matéria da Agência Brasil de 16 ago. 2024, que estava pelo título, passou a entrar pelo autor (RICHTER, 2024c). As páginas do Planalto não abriram nessa data (conexão recusada): a Emenda Constitucional nº 128, a Lei Complementar nº 173 e a Lei nº 14.041 entram com número e data, e a descrição depois da editora vem dos arquivos de pesquisa, não da ementa lida. Quatro obras foram lidas só por resumo automático da página (Arretche, 2013; Costa e Benvindo, 2013; Dantas, 2020; Godoy e Tranjan, 2023), e a entrada diz. O e-book cita (RICHTER, 2026) para a matéria que aqui é (RICHTER, 2026a), e (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, 2025) para a que aqui é 2025a, porque esta lista tem mais uma obra do mesmo autor e ano. A nota informativa do Senado recebeu a chave (BRASIL, 2025b); (BRASIL, 2025) segue sendo o Projeto de Lei Complementar nº 177. As fotografias e pinturas das aberturas de seção têm crédito em `fontes/imagens/CREDITOS.md` e não entram nesta lista.
 
 ## Dados
 
@@ -68,6 +70,8 @@ BRASIL. [Constituição (1988)]. **Emenda Constitucional nº 112, de 27 de outub
 
 BRASIL. [Constituição (1988)]. **Emenda Constitucional nº 126, de 21 de dezembro de 2022**. Altera a Constituição Federal, para dispor sobre as emendas individuais ao projeto de lei orçamentária, e o Ato das Disposições Constitucionais Transitórias. Brasília, DF: Presidência da República, 2022. Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc126.htm. Acesso em: 5 out. 2026.
 
+BRASIL. [Constituição (1988)]. **Emenda Constitucional nº 128, de 22 de dezembro de 2022**. Brasília, DF: Presidência da República, 2022. Acrescenta o § 7º ao art. 167 da Constituição Federal. Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc128.htm. Acesso em: 6 out. 2026.
+
 BRASIL. [Constituição (1988)]. **Emenda Constitucional nº 132, de 2023**. Brasília, DF: Presidência da República, 2023. Disponível em: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm. Acesso em: 5 out. 2026. [dado incompleto: falta dia e mês da emenda e a ementa]
 
 BRASIL. **Decreto-Lei nº 1.881, de 1981**. Brasília, DF: Presidência da República, 1981. Disponível em: https://www.planalto.gov.br/ccivil_03/decreto-lei/1965-1988/del1881.htm. Acesso em: 5 out. 2026. [dado incompleto: falta dia e mês do decreto-lei e a ementa]
@@ -85,6 +89,8 @@ BRASIL. **Lei Complementar nº 141, de 13 de janeiro de 2012**. Regulamenta o §
 BRASIL. **Lei Complementar nº 157, de 29 de dezembro de 2016**. Altera a Lei Complementar nº 116, de 31 de julho de 2003, que dispõe sobre o Imposto Sobre Serviços de Qualquer Natureza, a Lei nº 8.429, de 2 de junho de 1992 (Lei de Improbidade Administrativa), e a Lei Complementar nº 63, de 11 de janeiro de 1990 [...]. Brasília, DF: Presidência da República, 2016. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp157.htm. Acesso em: 6 out. 2026.
 
 BRASIL. **Lei Complementar nº 165, de 2019**. Brasília, DF: Presidência da República, 2019. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp165.htm. Acesso em: 5 out. 2026. [dado incompleto: falta dia e mês da lei e a ementa]
+
+BRASIL. **Lei Complementar nº 173, de 27 de maio de 2020**. Brasília, DF: Presidência da República, 2020. Programa Federativo de Enfrentamento ao Coronavírus SARS-CoV-2 (Covid-19). Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp173.htm. Acesso em: 6 out. 2026.
 
 BRASIL. **Lei Complementar nº 176, de 29 de dezembro de 2020**. Institui transferências obrigatórias da União para os Estados, o Distrito Federal e os Municípios, por prazo ou fato determinado; declara atendida a regra de cessação contida no § 2º do art. 91 do Ato das Disposições Constitucionais Transitórias (ADCT); e altera a Lei nº 13.885, de 17 de outubro de 2019. Brasília, DF: Presidência da República, 2020. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp176.htm. Acesso em: 6 out. 2026.
 
@@ -112,6 +118,8 @@ BRASIL. **Lei nº 13.540, de 18 de dezembro de 2017**. Altera as Leis nº 7.990,
 
 BRASIL. **Lei nº 13.661, de 8 de maio de 2018**. Altera a Lei nº 8.001, de 13 de março de 1990, para definir as parcelas pertencentes aos Estados e aos Municípios do produto da Compensação Financeira pela Utilização de Recursos Hídricos (CFURH). Brasília, DF: Presidência da República, 2018. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13661.htm. Acesso em: 6 out. 2026.
 
+BRASIL. **Lei nº 14.041, de 18 de agosto de 2020**. Brasília, DF: Presidência da República, 2020. Apoio financeiro da União aos entes federativos que recebem recursos do FPE e do FPM. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14041.htm. Acesso em: 6 out. 2026.
+
 BRASIL. **Lei nº 14.113, de 2020**. Brasília, DF: Presidência da República, 2020. Lei do Fundeb. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L14113.htm. Acesso em: 5 out. 2026. [dado incompleto: falta dia e mês da lei e a ementa]
 
 BRASIL. Senado Federal. **Proposta de Emenda à Constituição nº 188, de 2019**. PEC do Pacto Federativo. Autoria: senador Fernando Bezerra Coelho e outros. Brasília, DF: Senado Federal, 2019. Ficha de tramitação; situação: arquivada ao final da legislatura em 22 dez. 2022. Disponível em: https://www25.senado.leg.br/web/atividade/materias/-/materia/139704. Acesso em: 6 out. 2026.
@@ -132,11 +140,15 @@ SUPREMO mantém número de deputados federais para 2026. **Supremo Tribunal Fede
 
 ## Livros, artigos e textos para discussão
 
+ALESINA, Alberto; SPOLAORE, Enrico. On the number and size of nations. **The Quarterly Journal of Economics**, [*s. l.*], v. 112, n. 4, p. 1027-1056, 1997. Disponível em: https://sites.tufts.edu/enricospolaore/files/2012/08/sizeofnations.pdf. Acesso em: 6 out. 2026.
+
 ALLERS, Maarten A.; GEERTSEMA, J. Bieuwe. The effects of local government amalgamation on public spending, taxation, and service levels: evidence from 15 years of municipal consolidation. **Journal of Regional Science**, [*s. l.*], v. 56, n. 4, p. 659-682, 2016. DOI: 10.1111/jors.12268. Disponível em: https://www.coelo.nl/images/artikelen/The_effects_of_local_government_amalgamation_on_public_spending_taxation_and_service_levels.pdf. Acesso em: 6 out. 2026.
 
 AMARAL, Silvâni Maria Sehnem do; BLATT, Carine Raquel. Consórcio intermunicipal para a aquisição de medicamentos: impacto no desabastecimento e no custo. **Revista de Saúde Pública**, São Paulo, v. 45, n. 4, 2011. DOI: 10.1590/S0034-89102011005000016. Disponível em: http://www.scielo.br/j/rsp/a/thRk93KQnmCGM4TVypsQhSy/?lang=pt. Acesso em: 6 out. 2026. [dado incompleto: faltam as páginas; só o resumo foi lido]
 
 ARRETCHE, Marta. Federalismo e igualdade territorial: uma contradição em termos? **Dados**, Rio de Janeiro, v. 53, n. 3, p. 587-620, 2010. DOI: 10.1590/S0011-52582010000300003. Disponível em: https://doi.org/10.1590/S0011-52582010000300003. Acesso em: 5 out. 2026.
+
+ARRETCHE, Marta. Quando instituições federativas fortalecem o governo central? **Novos Estudos CEBRAP**, São Paulo, n. 95, p. 37-53, mar. 2013. DOI: 10.1590/S0101-33002013000100003. Disponível em: https://www.scielo.br/j/nec/a/GJnGZZNXJ8cTyRHTkcgtCqc/?lang=pt. Acesso em: 6 out. 2026. [lido por resumo automático da página]
 
 ARRETCHE, Marta; RODDEN, Jonathan. Política distributiva na Federação: estratégias eleitorais, barganhas legislativas e coalizões de governo. **Dados**, Rio de Janeiro, v. 47, n. 3, p. 549-576, 2004. DOI: 10.1590/S0011-52582004000300004. Disponível em: https://doi.org/10.1590/S0011-52582004000300004. Acesso em: 5 out. 2026.
 
@@ -172,6 +184,10 @@ CASELLI, Francesco; MICHAELS, Guy. Do oil windfalls improve living standards? Ev
 
 CORBI, Raphael; PAPAIOANNOU, Elias; SURICO, Paolo. Regional transfer multipliers. **The Review of Economic Studies**, [*s. l.*], v. 86, n. 5, p. 1901-1934, 2019. DOI: 10.1093/restud/rdy069. Disponível em: https://lbsresearch.london.edu/id/eprint/1037/9/Regional_Transfer_Multipliers_Rev_Econ_Stud_2019_86.pdf. Acesso em: 6 out. 2026.
 
+COSTA, Alexandre Araújo; BENVINDO, Juliano Zaiden. **A quem interessa o controle concentrado de constitucionalidade?** O descompasso entre teoria e prática na defesa dos direitos fundamentais. [*S. l.*]: Arcos, 2013. Disponível em: https://arcos.org.br/a-quem-interessa-o-controle-concentrado-de-constitucionalidade/. Acesso em: 6 out. 2026. Lido por resumo automático da página.
+
+DANTAS, Andrea de Quadros. O STF como árbitro da federação: uma análise empírica dos conflitos federativos em sede de ACO. **Revista Direito GV**, São Paulo, v. 16, n. 2, 2020. DOI: 10.1590/2317-6172201964. Disponível em: https://scielo.br/j/rdgv/a/vjcH8FNWDYMRRWcQRHKC6JJ/?lang=pt. Acesso em: 6 out. 2026. Lido por resumo automático da página.
+
 DANTAS JUNIOR, Amarando Francisco; DINIZ, Josedilton Alves. Arranjos federativos e federalismo fiscal: uma proposta de fusão municipal no Brasil. **Cadernos Gestão Pública e Cidadania**, São Paulo, v. 30, e92857, 2025. DOI: 10.12660/cgpc.v30.92857. Disponível em: https://periodicos.fgv.br/cgpc/article/view/92857. Acesso em: 5 out. 2026.
 
 FIRPO, Sergio; PONCZEK, Vladimir; SANFELICE, Viviane. The relationship between federal budget amendments and local electoral power. **Journal of Development Economics**, [*s. l.*], v. 116, p. 186-198, 2015. DOI: 10.1016/j.jdeveco.2015.04.005. Disponível em: https://doi.org/10.1016/j.jdeveco.2015.04.005. Acesso em: 6 out. 2026. [só a referência foi conferida]
@@ -182,9 +198,15 @@ GIBSON, Edward L.; CALVO, Ernesto. Federalism and low-maintenance constituencies
 
 GOBETTI, Sérgio Wulff; MONTEIRO, Priscila Kaiser. Impactos redistributivos da reforma tributária: estimativas atualizadas. **Carta de Conjuntura**, Brasília, DF: Ipea, n. 60, Nota de Conjuntura 18, 3º trim. 2023. 14 p. Divulgado em 28 ago. 2023. Disponível em: https://repositorio.ipea.gov.br/bitstreams/079492a6-d88a-42ac-bd75-127454c35f23/download. Acesso em: 6 out. 2026.
 
+GODOY, Miguel Gualano de; TRANJAN, Renata Naomi. Supremo Tribunal Federal e federalismo: antes e durante a pandemia. **Revista Direito GV**, São Paulo, v. 19, e2311, 2023. DOI: 10.1590/2317-6172202311. Disponível em: https://www.scielo.br/j/rdgv/a/SZ7NGsLwC9H76m8KrvjhhKg/?lang=pt. Acesso em: 6 out. 2026. [lido por resumo automático da página]
+
 GOMES, Gustavo Maia; MAC DOWELL, Maria Cristina. **Descentralização política, federalismo fiscal e criação de municípios**: o que é mau para o econômico nem sempre é bom para o social. Brasília, DF: Ipea, fev. 2000. (Texto para Discussão, n. 706). Disponível em: https://repositorio.ipea.gov.br/handle/11058/2339. Acesso em: 5 out. 2026.
 
+HANSSON, Gustav; OLSSON, Ola. **Country size and the rule of law**: resuscitating Montesquieu. Gotemburgo: Universidade de Gotemburgo, 2006. (Working Papers in Economics, n. 200). Disponível em: https://gupea.ub.gu.se/handle/2077/2721. Acesso em: 6 out. 2026.
+
 HIROI, Taeko. Paradox of redistribution: legislative overrepresentation and regional development in Brazil. **Publius: The Journal of Federalism**, [*s. l.*], v. 49, n. 4, p. 642-670, 2019. DOI: 10.1093/publius/pjy043. Disponível em: https://doi.org/10.1093/publius/pjy043. Acesso em: 5 out. 2026.
+
+HOOGHE, Liesbet; MARKS, Gary. **Community, scale, and regional governance**. Oxford: Oxford University Press, 2016. Versão consultada: prova de revisão. Disponível em: https://hooghe.web.unc.edu/wp-content/uploads/sites/11492/2021/02/Hooghe-Marks_2016_Community-Scale-and-Regional-Governance.pdf. Acesso em: 6 out. 2026.
 
 LEITÃO, J. C.; MIOTTO, J. M.; GERLACH, M.; ALTMANN, E. G. Is this scaling nonlinear? **Royal Society Open Science**, London, v. 3, 150649, 2016. DOI: 10.1098/rsos.150649. Versão consultada: arXiv:1604.02872. Disponível em: https://arxiv.org/abs/1604.02872. Acesso em: 5 out. 2026.
 
@@ -207,6 +229,10 @@ NZOBONIMPA, Stany; SAVARD, Jean-François; LAWARÉE, Justin. Generative AI in pu
 OLIVEIRA, Débora Tazinasso de; OLIVEIRA, Antonio Gonçalves de. (In)sustentabilidade financeira municipal: a frágil metodologia proposta pela PEC do Pacto Federativo. **Revista de Administração Pública**, Rio de Janeiro, v. 57, n. 5, e2023-0012, 2023. DOI: 10.1590/0034-761220230012. Disponível em: https://www.scielo.br/j/rap/a/qC49PCkNPfLKqGxsVS4JmkR/?lang=pt. Acesso em: 5 out. 2026.
 
 PERES, Ursula Dias. Governança do orçamento de São Paulo revisitada pós 2014: da escassez à sobra de recursos. **Estudos Avançados**, São Paulo, v. 38, n. 111, p. 7-29, maio/ago. 2024. DOI: 10.1590/s0103-4014.202438111.002. Disponível em: https://www.scielo.br/j/ea/a/VYtmwZ6zyHVjPDgMDV5W34B/?lang=pt. Acesso em: 5 out. 2026.
+
+PICKARD, Harry. Explaining fiscal decentralization and the role of ethnic diversity. **Scottish Journal of Political Economy**, [*s. l.*], v. 67, n. 5, p. 469-485, 2020. Disponível em: https://eprints.whiterose.ac.uk/id/eprint/159160/15/sjpe.12246.pdf. Acesso em: 6 out. 2026.
+
+POPELIER, P.; BIELEN, S. How courts decide federalism disputes. **Publius: The Journal of Federalism**, [*s. l.*], 2018. Versão consultada: cópia em PDF. Disponível em: https://fiscalfederalism.eu/wp-content/uploads/2020/05/BE-Lit-2018-Popelier-Bielen-How-Courts-Decide-Federalism-Disputes-1.pdf. Acesso em: 6 out. 2026. [dado incompleto: faltam volume, número e páginas]
 
 REINGEWERTZ, Yaniv. Do municipal amalgamations work? Evidence from municipalities in Israel. **Journal of Urban Economics**, [*s. l.*], v. 72, n. 2-3, p. 240-251, 2012. DOI: 10.1016/j.jue.2012.06.001. Disponível em: https://ideas.repec.org/a/eee/juecon/v72y2012i2p240-251.html. Acesso em: 6 out. 2026. [só o resumo foi lido]
 
@@ -236,7 +262,11 @@ VAZQUEZ, Daniel Arias; FONSECA, Sérgio Luiz Doscher da; NASCIMENTO, Paulo Meyer
 
 ## Notas técnicas, relatórios e documentos de entidades
 
+ALAGOAS. Secretaria de Estado da Fazenda. **61 municípios de Alagoas recebem do Governo do Estado R$ 1,050 bi, entre outorga e indenização, para saneamento básico das regiões do Sertão, Agreste, Litoral e Zona da Mata**. Maceió: Sefaz, 8 mar. 2022. Disponível em: https://www.sefaz.al.gov.br/noticias/item/3104-61-municipios-recebem-do-governo-de-alagoas-r-1-050-bi-entre-outorga-e-indenizacao. Acesso em: 6 out. 2026.
+
 ALMEIDA, Acir; DOMINGUEZ, Maria. **Gastos públicos por emendas orçamentárias**: uma revisão de literatura. Brasília, DF: Ipea, 2025. 21 p. (Relatório de Pesquisa). Disponível em: https://repositorio.ipea.gov.br/entities/publication/5b0c408e-bc9c-42f9-b3ef-c66aaee2adc3. Acesso em: 6 out. 2026. [só a referência e o resumo foram conferidos; o PDF devolveu erro 401]
+
+ATOJI, Marina Iemini; PAVINI, Cristiano. **Nota técnica**: opacidade nas emendas parlamentares perpetua orçamento secreto. [*S. l.*]: Transparência Brasil, jul. 2024. 44 p. Disponível em: https://www.transparencia.org.br/downloads/publicacoes/continuidadedoorcamentosecreto.pdf. Acesso em: 6 out. 2026.
 
 BASSI, Camillo de Moraes. **PEC do Pacto Federativo – PEC nº 188/2019**: uma discussão sobre a descentralização do salário-educação. Brasília, DF: Ipea, jul. 2020. (Nota Técnica Disoc, n. 83). Disponível em: http://repositorio.ipea.gov.br/handle/11058/10142. Acesso em: 5 out. 2026.
 
@@ -244,21 +274,45 @@ BRASIL. Controladoria-Geral da União. **Alice**. Brasília, DF: CGU, [202-]. Di
 
 BRASIL. Secretaria do Tesouro Nacional. **Cartilha do FPM**. Brasília, DF: STN, [20--]. Disponível em: https://cdn.tesouro.gov.br/sistemas-internos/apex/producao/sistemas/thot/arquivos/publicacoes/28549_909191/anexos/6370_978491/Cartilha%20FPM.pdf. Acesso em: 5 out. 2026. [dado incompleto: faltam o título exato da capa e a data de publicação]
 
+BRASIL. Senado Federal. **Nota informativa**: decisões do STF sobre emendas parlamentares (ADPF 854, ADI 7688, 7695, 7697): posição em 26/02/2025 e desdobramentos. Brasília, DF: Senado Federal, 27 fev. 2025. 26 p. Disponível em: https://www12.senado.leg.br/orcamento/documentos/estudos/tipos-de-estudos/notas-tecnicas-e-informativos/nota-informativa-decisoes-stf-versao-final.pdf. Acesso em: 6 out. 2026.
+
+BRASIL. Tribunal de Contas da União. **Painel de dados**: precatórios do Fundef. Brasília, DF: TCU, [2019]. 4 p. Sem data no texto; o arquivo foi criado em 5 dez. 2019. Disponível em: https://portal.tcu.gov.br/data/files/62/20/E9/A4/97CDE610A9F02DE6E18818A8/precatorios_do_fundef_atualizado.pdf. Acesso em: 6 out. 2026.
+
+BREMAEKER, François E. J. de. **A proposta absurda de alteração da distribuição da transferência do FPM**. [*S. l.*]: Observatório de Informações Municipais, mar. 2026. 112 p. Disponível em: https://informacoesmunicipais.com.br/wp-content/uploads/2026/03/1002-Proposta-de-alteracao-do-FPM.pdf. Acesso em: 6 out. 2026. Lidas as 12 primeiras páginas.
+
 CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS. **Municípios que podem ser extintos de acordo com a PEC do pacto federativo**. Brasília, DF: CNM, [2019?]. 45 p. Disponível em: https://cnm.org.br/storage/biblioteca/1217_Munic%C3%83%C2%ADpios_Podem_Ser_Extintos.pdf. Acesso em: 5 out. 2026. [dado incompleto: falta a data de publicação; o PDF não informa o ano dos dados]
 
 CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS. **Nota técnica sobre a distribuição do IBS e o coeficiente de participação**. Brasília, DF: CNM, abr. 2025. (Nota Técnica CTAT, n. 4). Disponível em: https://cnm.org.br/storage/biblioteca/2025/Notas_Tecnicas/202504_NT_CTAT_04_Distribuicao_IBS_Coeficiente_participacao.pdf. Acesso em: 5 out. 2026. [dado incompleto: falta o título exato; título e número da série deduzidos do nome do arquivo]
 
 CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS. **PEC 188/2019**: Pacto Federativo e extinção de Municípios. Brasília, DF: CNM, [2019]. Folheto. Disponível em: https://cnm.org.br/storage/biblioteca/documentos/Folder_Mobilizac%CC%A7a%CC%83o.pdf. Acesso em: 5 out. 2026.
 
+CONSELHO NACIONAL DE JUSTIÇA. **Justiça em números 2025**: sumário executivo. Brasília, DF: CNJ, 2025. Disponível em: https://www.cnj.jus.br/wp-content/uploads/2025/10/sumario-executivo-2025.pdf. Acesso em: 6 out. 2026.
+
 FIRJAN. **IFGF 2025**: Índice Firjan de Gestão Fiscal: ano-base 2024. Rio de Janeiro: Firjan, set. 2025. Disponível em: https://www.firjan.com.br/data/files/E6/06/90/DD/9226991031B91689D8284EA8/IFGF_2025.pdf. Acesso em: 5 out. 2026.
 
 FIRJAN. **IFGF 2025**: anexo metodológico. Rio de Janeiro: Firjan, 2025. Disponível em: https://www.firjan.com.br/data/files/8B/B6/AF/0C/E595991031B91689D8284EA8/Anexo%20Metodologico.pdf. Acesso em: 5 out. 2026.
+
+FRENTE NACIONAL DE PREFEITAS E PREFEITOS. [**Carta aos candidatos à Presidência da República**]. Brasília, DF: FNP, set. 2026. 6 p. Sem título no documento; começa por "Senhor candidato à Presidência da República". Disponível em: https://multimidia.fnp.org.br/images/Documentos/Carta%20aos%20presenci%C3%A1veis.rev29.9.26.pdf. Acesso em: 6 out. 2026.
+
+FRENTE NACIONAL DE PREFEITAS E PREFEITOS. **Comitê Gestor é sancionado com acordo defendido pela FNP preservado em lei**. Brasília, DF: FNP, 13 jan. 2026. Disponível em: https://fnp.org.br/noticias/item/3709-comite-gestor-do-ibs-e-sancionado-com-acordo-defendido-pela-fnp-preservado-em-lei. Acesso em: 6 out. 2026.
+
+FRENTE NACIONAL DE PREFEITAS E PREFEITOS. **FNP lança plataforma inédita que mostra a desigualdade de financiamento entre os municípios**. Brasília, DF: FNP, 30 out. 2025. Disponível em: https://fnp.org.br/noticias/item/3649-fnp-lanca-plataforma-inedita-que-mostra-a-desigualdade-de-financiamento-entre-os-municipios. Acesso em: 6 out. 2026.
+
+FRENTE NACIONAL DE PREFEITAS E PREFEITOS. **Histórico e visão**. Brasília, DF: FNP, [20--]. Página sem data; traz dados de 2021. Disponível em: https://fnp.org.br/fnp/historico. Acesso em: 6 out. 2026.
 
 FRENTE NACIONAL DE PREFEITAS E PREFEITOS. **Multi Cidades**: FPM. [*S. l.*]: FNP, [2026?]. Disponível em: https://multicidadesonline.com.br/receita/fpm/. Acesso em: 5 out. 2026. [dado incompleto: faltam o ano e o número da edição do anuário e o local]
 
 FRENTE NACIONAL DE PREFEITAS E PREFEITOS. **Multi Cidades**: receita per capita. [*S. l.*]: FNP, [2026?]. Disponível em: https://multicidadesonline.com.br/panorama/receita-per-capita/. Acesso em: 5 out. 2026. [dado incompleto: faltam o ano e o número da edição do anuário e o local]
 
+FRENTE NACIONAL DE PREFEITAS E PREFEITOS. **PEC 66 é promulgada e presidente do Congresso destaca atuação da FNP**. Brasília, DF: FNP, 9 set. 2025. Disponível em: https://fnp.org.br/noticias/item/3612-pec-66-e-promulgada-e-presidente-do-congresso-destaca-atuacao-da-fnp. Acesso em: 6 out. 2026.
+
 IPEA. **Para onde vai o Pix?** Características das emendas individuais por transferência especial. Brasília, DF: Ipea, jun. 2026. Disponível em: https://www.ipea.gov.br/portal/publicacao-item?id=366f77e6-78cf-4f6d-87ab-7cda51ecb82f. Acesso em: 5 out. 2026. [dado incompleto: faltam os autores e a série; só o resumo foi lido]
+
+MENEZES, Gustavo Paixão. **Suporte à decisão para políticas públicas em mudanças climáticas**: construção de coleções anuais de mapas de temperatura de superfície terrestre para os municípios do estado de São Paulo. Orientador: Marcel Fantin. 2023. Relatório final (Iniciação Científica, PIBIC 2022-2023) - Instituto de Arquitetura e Urbanismo, Universidade de São Paulo, São Carlos, 2023. Não publicado; sem endereço público.
+
+OCDE; CGLU. **2022 synthesis report**: World Observatory on Subnational Government Finance and Investment: highlights. [*S. l.*]: OCDE; CGLU, 2022. Disponível em: https://www.sng-wofi.org/2022%20Highlights.pdf. Acesso em: 6 out. 2026.
+
+OCDE; CGLU. **Brazil**: country and territory profiles. [*S. l.*]: World Observatory on Subnational Government Finance and Investment, 2022. Página datada de mar. 2022, com dados de 2020. Disponível em: https://www.sng-wofi.org/country_profiles/brazil.html. Acesso em: 6 out. 2026.
 
 PERES, Ursula Dias; MARQUES, Eduardo; ARMANI, Gabriela. **Municípios e a questão fiscal no Brasil**: mais do que heterogêneos? São Paulo: Centro de Estudos da Metrópole, 2025. (Nota Técnica Políticas Públicas, Cidades e Desigualdades, n. 23). Disponível em: https://centrodametropole.fflch.usp.br/sites/centrodametropole.fflch.usp.br/files/inline-files/nt23.pdf. Acesso em: 5 out. 2026.
 
@@ -294,7 +348,13 @@ BOLSONARO e as plataformas que o levaram à vitória. **Gazeta do Povo**, Curiti
 
 BONILHA, Ivan Lelis. A PEC 188 de 2019 e a viabilidade municipal. **Instituto Rui Barbosa**, [*s. l.*], 13 ago. 2020. Disponível em: https://irbcontas.org.br/artigos/a-pec-188-de-2019-e-a-viabilidade-municipal/. Acesso em: 6 out. 2026. [dado incompleto: título deduzido do endereço; traz a transcrição do art. 115 proposto]
 
+CAMPOS JR., Geraldo. Iguá vence leilão de saneamento de Sergipe com R$ 4,5 bi. **Poder360**, Brasília, DF, 4 set. 2024. Disponível em: https://www.poder360.com.br/poder-infra/igua-vence-leilao-de-saneamento-de-sergipe-com-lance-de-r-45-bi/. Acesso em: 6 out. 2026.
+
+CARMO, Wendal. Em ano eleitoral, deputados liberam gasto irrestrito de verbas da venda da Deso para governador e prefeitos. **Mangue Jornalismo**, Aracaju, 6 abr. 2026. Disponível em: https://manguejornalismo.org/em-ano-eleitoral-deputados-liberam-gasto-irrestrito-de-verbas-da-venda-da-deso-para-governador-e-prefeitos/. Acesso em: 6 out. 2026.
+
 CENTRO DE ESTUDOS DA METRÓPOLE. **Distribuição de recursos federais e emendas parlamentares favorecem municípios muito pequenos no Brasil**. São Paulo: CEM, 11 ago. 2025. Disponível em: https://centrodametropole.fflch.usp.br/pt-br/noticia/distribuicao-de-recursos-federais-e-emendas-parlamentares-favorecem-municipios-muito. Acesso em: 5 out. 2026. [dado incompleto: endereço a conferir; os dois arquivos de pesquisa trazem grafias diferentes do endereço]
+
+COMITÊ gestor do IBS: impasse entre municípios vai parar no Congresso. **Congresso em Foco**, Brasília, DF, 11 abr. 2025. Disponível em: https://www.congressoemfoco.com.br/noticia/107665/comite-gestor-do-ibs-impasse-entre-municipios-vai-parar-no-congresso. Acesso em: 6 out. 2026.
 
 CONGRESSO aprova Orçamento de R$ 6,5 trilhões e R$ 61 bilhões em emendas. **Agência Senado**, Brasília, DF, 19 dez. 2025. Disponível em: https://www12.senado.leg.br/noticias/materias/2025/12/19/congresso-aprova-orcamento-de-r-6-5-trilhoes-e-r-61-bilhoes-em-emendas. Acesso em: 6 out. 2026. [dado incompleto: título deduzido do endereço]
 
@@ -310,6 +370,8 @@ EXTINÇÃO de municípios não é ponto de honra, diz Bolsonaro. **Agência Bras
 
 FUSÃO de municípios poderia reduzir desigualdades municipais e aumentar a autonomia local, aponta estudo. **Ciência na Rua**, [*s. l.*], 31 jul. 2025. Disponível em: https://ciencianarua.net/fusao-de-municipios-poderia-reduzir-desigualdades-municipais-e-aumentar-a-autonomia-local-aponta-estudo/. Acesso em: 5 out. 2026.
 
+GANDRA, Alana. Leilão de dois blocos de saneamento de Alagoas arrecada R$ 1,6 bilhão. **Agência Brasil**, Rio de Janeiro, 13 dez. 2021. Disponível em: https://agenciabrasil.ebc.com.br/economia/noticia/2021-12/leilao-de-dois-blocos-de-saneamento-de-alagoas-arrecada-r-16-bilhao. Acesso em: 6 out. 2026.
+
 GAZETA DO POVO. **[Matéria sobre os municípios que seriam extintos pela PEC do Pacto Federativo]**. Curitiba: Gazeta do Povo, [2019]. Disponível em: https://www.gazetadopovo.com.br/republica/saiba-quais-municipios-brasileiros-extintos-pec-pacto-federativo/. Acesso em: 5 out. 2026. [dado incompleto: faltam o título, o autor e a data da matéria]
 
 GOVERNO fala em extinguir municípios com menos de 5 mil habitantes. **Gazeta do Povo**, Curitiba, 5 nov. 2019. Atualizado em 18 nov. 2019. Disponível em: https://www.gazetadopovo.com.br/republica/governo-fala-em-extinguir-municipios-com-menos-de-5-mil-habitantes/. Acesso em: 6 out. 2026.
@@ -318,17 +380,31 @@ GOVERNO propõe extinção de um quarto dos municípios brasileiros. **Exame**, 
 
 GOVERNO propõe extinguir municípios incapazes de se manterem. **CartaCapital**, São Paulo, 5 nov. 2019. Texto da Agência Brasil. Disponível em: https://www.cartacapital.com.br/economia/governo-propoe-extinguir-municipios-incapazes-de-se-manterem/. Acesso em: 6 out. 2026.
 
+LABOISSIÈRE, Paula. Frente de prefeitos apresenta carta com propostas aos presidenciáveis. **Agência Brasil**, Brasília, DF, 30 set. 2026. Disponível em: https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/frente-de-prefeitos-apresenta-carta-com-propostas-aos-presidenciaveis. Acesso em: 6 out. 2026.
+
 LULA veta projeto que aumenta de 513 para 531 o número de deputados federais. **Agência Câmara de Notícias**, Brasília, DF, 17 jul. 2025. Disponível em: https://www.camara.leg.br/noticias/1181279-LULA-VETA-PROJETO-QUE-AUMENTA-DE-513-PARA-531-O-NUMERO-DE-DEPUTADOS-FEDERAIS. Acesso em: 5 out. 2026.
 
 MAIS de 90% dos municípios com menos de 5 mil habitantes estão sob ameaça de serem extintos. **Terra**, [*s. l.*], 15 jan. 2020. Conteúdo distribuído por DINO Divulgador de Notícias. Disponível em: https://www.terra.com.br/noticias/dino/mais-de-90-dos-municipios-com-menos-de-5-mil-habitantes-estao-sob-ameaca-de-serem-extintos,f4e6b789a2f6db4ed7fec776ed5f43bcb2xc4b27.html. Acesso em: 5 out. 2026.
 
+MÁXIMO, Wellton. Dino anula emendas indicadas por dirigentes partidários sem mandato. **Agência Brasil**, Brasília, DF, 23 ago. 2026. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2026-08/dino-anula-emendas-indicadas-por-dirigentes-partidarios-sem-mandato. Acesso em: 6 out. 2026.
+
 MENDES, Marcos. Fundo de Participação dos Municípios precisa mudar. **Folha de S.Paulo**, São Paulo, 4 jan. 2020. Disponível em: https://www1.folha.uol.com.br/colunas/marcos-mendes/2020/01/fundo-de-participacao-dos-municipios-precisa-mudar.shtml. Acesso em: 5 out. 2026.
+
+MINISTRA do STF libera execução das emendas do relator. **Agência Brasil**, Brasília, DF, 7 dez. 2021. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2021-12/ministra-do-stf-libera-execucao-das-emendas-do-relator. Acesso em: 6 out. 2026.
+
+MINISTRO do STF permite ao governo retomar execução das emendas parlamentares. **Agência Câmara de Notícias**, Brasília, DF, 2 dez. 2024. Disponível em: https://www.camara.leg.br/noticias/1116531-ministro-do-stf-permite-ao-governo-retomar-execucao-das-emendas-parlamentares/. Acesso em: 6 out. 2026.
+
+MORAES, André Fleury. Distribuição de recursos privilegia cidades pequenas e amplia desigualdade. **Diário da Manhã**, Goiânia, 25 abr. 2026. Texto da Folhapress. Disponível em: https://www.dm.com.br/economia/distribuicao-de-recursos-privilegia-cidades-pequenas-e-amplia-desigualdade/. Acesso em: 6 out. 2026.
 
 MUNICÍPIOS menores pagam mais. **Pesquisa FAPESP**, São Paulo, ed. 359, jan. 2026. Disponível em: https://revistapesquisa.fapesp.br/municipios-menores-pagam-mais/. Acesso em: 5 out. 2026.
 
 MUNICÍPIOS pequenos recebem mais recursos "per capita" que metrópoles com maiores desafios urbanos. **Jornal da USP**, São Paulo, 25 ago. 2025. Rádio USP, Jornal da USP no Ar. Disponível em: https://jornal.usp.br/radio-usp/municipios-pequenos-recebem-mais-recursos-per-capita-que-metropoles-com-maiores-desafios-urbanos/. Acesso em: 5 out. 2026.
 
 MUNICÍPIOS que poderiam ser extintos: pequenos e com pouca receita. **Gazeta do Povo**, Curitiba, 6 nov. 2019. Atualizado em 6 dez. 2019. Infográfico. Disponível em: https://infograficos.gazetadopovo.com.br/politica/municipios-que-poderiam-ser-extintos/. Acesso em: 5 out. 2026.
+
+NUNES, Vinícius. Câmara destinou R$ 1,3 bilhão em emendas sem revelar quais deputados escolheram os beneficiários. **CartaCapital**, São Paulo, 13 jul. 2026. Relata levantamento da Transparência Brasil, que não foi aberto no original. Disponível em: https://www.cartacapital.com.br/politica/camara-destinou-r-13-bilhao-em-emendas-sem-revelar-quais-deputados-escolheram-os-beneficiarios/. Acesso em: 6 out. 2026.
+
+OLIVON, Beatriz. Nova legislação destrava nomeação dos municípios para o Comitê Gestor do IBS. **APET**, [*S. l.*], 20 jan. 2026. Reprodução de reportagem do Valor Econômico. Disponível em: https://apet.org.br/noticia/nova-legislacao-destrava-nomeacao-dos-municipios-para-o-comite-gestor-do-ibs/. Acesso em: 6 out. 2026.
 
 ORÇAMENTO 2026 é sancionado com veto a R$ 400 milhões em emendas. **Agência Senado**, Brasília, DF, 15 jan. 2026. Disponível em: https://www12.senado.leg.br/noticias/materias/2026/01/15/orcamento-2026-e-sancionado-com-veto-a-r-400-milhoes-em-emendas. Acesso em: 5 out. 2026. [em 6 out. 2026 a matéria da Agência Senado do mesmo dia sobre a sanção foi aberta em https://www12.senado.leg.br/noticias/materias/2026/01/15/orcamento-2026-e-sancionado-com-previsao-de-superavit-de-rs-34-2-bi; segundo o GPT, o título mudou no destino]
 
@@ -338,15 +414,29 @@ PADRÃO de distribuição de emendas parlamentares prejudica cidades grandes. **
 
 PEDIDO de Flávio Dino suspende julgamento do STF sobre royalties do petróleo. **Imirante**, São Luís, 8 maio 2026. Disponível em: https://m.imirante.com/noticias/brasil/2026/05/08/ipolitica-pedido-de-flavio-dino-suspende-julgamento-do-stf-sobre-royalties-do-petroleo. Acesso em: 6 out. 2026. [dado incompleto: título deduzido do endereço]
 
+PEDUZZI, Pedro. Dino suspende o pagamento de R$ 4,2 bilhões em emendas de comissão. **Agência Brasil**, Brasília, DF, 23 dez. 2024. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2024-12/dino-suspende-o-pagamento-de-r-42-bilhoes-em-emendas-de-comissao. Acesso em: 6 out. 2026.
+
 PIRES, Breno. Bolsonaro cria orçamento secreto em troca de apoio do Congresso. **Política Livre**, Salvador, 9 maio 2021. Texto da Estadão Conteúdo. Disponível em: https://www.politicalivre.com.br/2021/05/bolsonaro-cria-orcamento-secreto-em-troca-de-apoio-do-congresso. Acesso em: 6 out. 2026. [republicação; a página original de O Estado de S. Paulo não foi localizada]
 
 PLANO de Guedes tira ao menos 807 municípios do país. Veja quais. **Metrópoles**, Brasília, DF, 7 nov. 2019. Disponível em: https://www.metropoles.com/brasil/economia-br/plano-de-guedes-tira-ao-menos-807-municipios-do-pais-veja-quais. Acesso em: 6 out. 2026.
 
-POR UNANIMIDADE, STF mantém decisão de Dino que suspendeu emendas. **Agência Brasil**, Brasília, DF, 16 ago. 2024. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/por-unanimidade-stf-mantem-decisao-de-dino-que-suspendeu-emendas. Acesso em: 6 out. 2026. [dado incompleto: título deduzido do endereço]
+PONTES, Felipe. STF: placar de 8 a 2 confirma suspensão de emendas do relator. **Agência Brasil**, Brasília, DF, 10 nov. 2021. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2021-11/stf-placar-de-8-2-confirma-suspensao-de-emendas-do-relator. Acesso em: 6 out. 2026.
 
 REFORMA tributária: substituição do ICMS e do ISS pelo IBS transfere recursos para os municípios onde a população está. **Consultor Jurídico**, São Paulo, 6 ago. 2025. Disponível em: https://www.conjur.com.br/2025-ago-06/reforma-tributaria-substituicao-do-icms-e-do-iss-pelo-ibs-transfere-recursos-para-os-municipios-onde-a-populacao-esta/. Acesso em: 5 out. 2026. [dado incompleto: faltam os autores (texto da LCA); título e data deduzidos do endereço]
 
 REPORTAGENS são base para início de investigações sobre poder público. **Abraji**, São Paulo, 15 dez. 2021. Disponível em: https://www.abraji.org.br/noticias/reportagens-sao-base-para-inicio-de-investigacoes-sobre-poder-publico. Acesso em: 6 out. 2026.
+
+RICHTER, André. Dino cita existência de "atacadistas de emendas" ao condenar deputados. **Agência Brasil**, Brasília, DF, 17 mar. 2026a. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/dino-cita-existencia-de-atacadistas-de-emendas-ao-condenar-deputados. Acesso em: 6 out. 2026.
+
+RICHTER, André. Dino proíbe saques em espécie de emendas parlamentares. **Agência Brasil**, Brasília, DF, 3 mar. 2026b. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2026-03/dino-proibe-saques-em-especie-de-emendas-parlamentares. Acesso em: 6 out. 2026.
+
+RICHTER, André. Dino suspende pagamento de emendas impositivas. **Agência Brasil**, Brasília, DF, 14 ago. 2024a. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/dino-suspende-pagamento-de-emendas-impositivas. Acesso em: 6 out. 2026.
+
+RICHTER, André. Por decisão de Dino, CGU deverá fazer auditoria nas emendas PIX. **Agência Brasil**, Brasília, DF, 1 ago. 2024b. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/por-decisao-de-dino-cgu-devera-fazer-auditoria-nas-emendas-pix. Acesso em: 6 out. 2026.
+
+RICHTER, André. Por unanimidade, STF mantém decisão de Dino que suspendeu emendas. **Agência Brasil**, Brasília, DF, 16 ago. 2024c. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/por-unanimidade-stf-mantem-decisao-de-dino-que-suspendeu-emendas. Acesso em: 6 out. 2026.
+
+RICHTER, André. STF tem maioria para referendar decisão que homologou plano de emendas. **Agência Brasil**, Brasília, DF, 28 fev. 2025. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2025-02/stf-tem-maioria-para-referendar-decisao-que-homologou-plano-de-emendas. Acesso em: 6 out. 2026.
 
 SANTOS, Adélcio Machado dos; SOUZA, Fabiano Henrique da Silva; BARROS, Gabriel Lucas Scardini. Da EC 15 à LC 230: o ciclo da reorganização territorial municipal. **Consultor Jurídico**, São Paulo, 20 maio 2026. Disponível em: https://conjur.com.br/2026-mai-20/da-ec-15-1996-a-lc-230-2026-ciclo-da-reorganizacao-territorial-municipal-2/. Acesso em: 5 out. 2026.
 
@@ -356,6 +446,10 @@ STF invalida forma de cálculo de cotas do salário-educação. **Migalhas**, [*
 
 STF mantém 513 deputados e adia redistribuição de cadeiras para 2030. **Congresso em Foco**, Brasília, DF, 2 out. 2025. Disponível em: https://www.congressoemfoco.com.br/noticia/112576/stf-mantem-513-deputados-e-adia-redistribuicao-de-cadeiras-para-2030. Acesso em: 5 out. 2026.
 
+
+VERDÉLIO, Andreia. STF considera orçamento secreto inconstitucional. **Agência Brasil**, Brasília, DF, 19 dez. 2022. Disponível em: https://agenciabrasil.ebc.com.br/justica/noticia/2022-12/stf-considera-orcamento-secreto-inconstitucional. Acesso em: 6 out. 2026.
+
+WEST, Geoffrey. **The surprising math of cities and corporations**. [*S. l.*]: TED, jul. 2011. 1 vídeo (17 min 16 s). Palestra na conferência TEDGlobal 2011. Disponível em: https://www.ted.com/talks/geoffrey_west_the_surprising_math_of_cities_and_corporations. Acesso em: 6 out. 2026.
 ## Citadas mas não conferidas (não entram em entrega)
 
 Cada linha traz a obra como aparece no arquivo de pesquisa e o que falta para ela poder entrar. Nenhuma destas vai para o deck nem para o relatório antes de a pendência ser resolvida.
@@ -414,6 +508,7 @@ Cada linha traz a obra como aparece no arquivo de pesquisa e o que falta para el
 - BANCO MUNDIAL. Revisão das despesas públicas do Brasil ("Um ajuste justo"), síntese. Nov. 2017. Relatório nº 121480. Falta: abrir (https://documents1.worldbank.org/curated/en/884871511196609355/pdf/121480-REVISED-PORTUGUESE-Brazil-Public-Expenditure-Review-Overview-Portuguese-Final-revised.pdf); título exato não conferido; o que diz sobre município pequeno não foi lido.
 - CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS. **Nota sobre a proposta do governo federal de extinção de Municípios**. 6 nov. 2019. Falta: abrir; a página volta sem texto (ver divergências).
 - CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS. Parecer jurídico sobre a extinção de municípios (https://cnm.org.br/biblioteca/exibe/3808). Falta: abrir.
+- IBGE. **Divisão regional do Brasil em regiões geográficas imediatas e regiões geográficas intermediárias**: 2017. Rio de Janeiro: IBGE, 2017. Citada no deck, no slide "O interior profundo tem endereço", como (IBGE, 2017). Falta: abrir (o catálogo da Biblioteca do IBGE devolveu erro 403 em 6 out. 2026).
 - INSTITUIÇÃO FISCAL INDEPENDENTE. **Nota Técnica nº 57**: despesas discricionárias e emendas parlamentares (2014 a 2024). 11 nov. 2024. Falta: abrir.
 - IPEA. Capítulo de livro sobre emancipação (https://portalantigo.ipea.gov.br/agencia/images/stories/PDFs/livros/Capitulo1_30.pdf). Falta: abrir; título, autores e obra desconhecidos.
 - MINISTÉRIO PÚBLICO DE CONTAS DO ESTADO DE SÃO PAULO. Parecer TC-A-7019/026/19, metodologia de contabilização do Fundeb na RCL. Falta: abrir.
@@ -488,6 +583,8 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 |---|---|---|
 | (231 CIDADES..., 2019) | 231 CIDADES | Imprensa |
 | (A DESCENTRALIZAÇÃO..., 2000) | A DESCENTRALIZAÇÃO | Imprensa |
+| (ALAGOAS, 2022) | ALAGOAS | Notas técnicas |
+| (ALESINA; SPOLAORE, 1997) | ALESINA | Livros e artigos |
 | (ALLERS; GEERTSEMA, 2016) | ALLERS | Livros e artigos |
 | (ALMEIDA; DOMINGUEZ, 2025) | ALMEIDA | Notas técnicas |
 | (ALVIM, 2024) | ALVIM | Imprensa |
@@ -496,10 +593,12 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (AMORIM, 2026) | AMORIM | Imprensa |
 | (APÓS..., 2019) | APÓS | Imprensa |
 | (ARRETCHE, 2010) | ARRETCHE | Livros e artigos |
+| (ARRETCHE, 2013) | ARRETCHE | Livros e artigos |
 | (ARRETCHE; RODDEN, 2004) | ARRETCHE | Livros e artigos |
 | (AS "15 SEMANAS"..., 2020) | AS "15 SEMANAS" | Imprensa |
 | (AS CIDADES..., 2019) | AS CIDADES | Imprensa |
 | (ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, [202-]) | ASSEMBLEIA | Imprensa |
+| (ATOJI; PAVINI, 2024) | ATOJI | Notas técnicas |
 | (BAIÃO; COUTO, 2017) | BAIÃO (A eficácia do pork barrel) | Livros e artigos |
 | (BAIÃO; COUTO; JUCÁ, 2018) | BAIÃO (A execução das emendas) | Livros e artigos |
 | (BALTAR; BALTAR, 2018) | BALTAR | Livros e artigos |
@@ -533,6 +632,7 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (BRASIL, 2016) | BRASIL. Lei Complementar nº 157 | Normas |
 | (BRASIL, 2017) | BRASIL. Lei nº 13.540 | Normas |
 | (BRASIL, 2018) | BRASIL. Lei nº 13.661 | Normas |
+| (BRASIL, [2019]) | BRASIL. Tribunal de Contas da União. Painel de dados | Notas técnicas |
 | (BRASIL, 2019a) | BRASIL. [Constituição (1988)]. Emenda Constitucional nº 100 | Normas |
 | (BRASIL, 2019b) | BRASIL. [Constituição (1988)]. Emenda Constitucional nº 105 | Normas |
 | (BRASIL, 2019c) | BRASIL. Lei Complementar nº 165 | Normas |
@@ -541,10 +641,13 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (BRASIL, 2020a) | BRASIL. [Constituição (1988)]. Emenda Constitucional nº 108 | Normas |
 | (BRASIL, 2020b) | BRASIL. Lei nº 14.113 | Normas |
 | (BRASIL, 2020c) | BRASIL. Lei Complementar nº 176 | Normas |
+| (BRASIL, 2020d) | BRASIL. Lei Complementar nº 173 | Normas |
+| (BRASIL, 2020e) | BRASIL. Lei nº 14.041 | Normas |
 | (BRASIL, 2021a) | BRASIL. [Constituição (1988)]. Emenda Constitucional nº 109 | Normas |
 | (BRASIL, 2021b) | BRASIL. [Constituição (1988)]. Emenda Constitucional nº 112 | Normas |
 | (BRASIL, 2022a) | BRASIL. [Constituição (1988)]. Emenda Constitucional nº 126 | Normas |
 | (BRASIL, 2022b) | BRASIL. Lei Complementar nº 194 | Normas |
+| (BRASIL, 2022c) | BRASIL. [Constituição (1988)]. Emenda Constitucional nº 128 | Normas |
 | (BRASIL, 2023a) | BRASIL. [Constituição (1988)]. Emenda Constitucional nº 132 | Normas |
 | (BRASIL, 2023b) | BRASIL. Lei Complementar nº 198 | Normas |
 | (BRASIL, 2023c) | BRASIL. Tribunal de Contas da União. Decisão Normativa nº 207 | Normas |
@@ -552,6 +655,7 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (BRASIL, 2024a) | BRASIL. Lei Complementar nº 210 | Normas |
 | (BRASIL, 2024b) | BRASIL. Tribunal de Contas da União. Decisão Normativa nº 213 | Normas |
 | (BRASIL, 2025) | BRASIL. Senado Federal. Projeto de Lei Complementar nº 177 | Normas |
+| (BRASIL, 2025b) | BRASIL. Senado Federal. Nota informativa | Notas técnicas |
 | (BRASIL, 2026a) | BRASIL. Controladoria-Geral da União. Portal da Transparência | Dados |
 | (BRASIL, [2026]b) | BRASIL. Ministério da Gestão e da Inovação em Serviços Públicos. Transferegov.br | Dados |
 | (BRASIL, 2026c) | BRASIL. Secretaria do Tesouro Nacional. Capag Municípios | Dados |
@@ -562,17 +666,24 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (BRASIL, [2026]h) | BRASIL. Câmara dos Deputados. Número de deputados por estado | Dados |
 | (BRASIL, [2026]i) | BRASIL. Lei nº 8.742, texto compilado | Normas |
 | (BRASIL, [2026]j) | BRASIL. Lei nº 9.478, texto compilado | Normas |
+| (BREMAEKER, 2026) | BREMAEKER | Notas técnicas |
 | (BROLLO *et al.*, 2013) | BROLLO | Livros e artigos |
 | (BUGARIN; MARCINIUK, 2017) | BUGARIN | Livros e artigos |
 | (BYRNES; DOLLERY, 2002) | BYRNES | Livros e artigos |
+| (CAMPOS JR., 2024) | CAMPOS JR. | Imprensa |
+| (CARMO, 2026) | CARMO | Imprensa |
 | (CASELLI; MICHAELS, 2013) | CASELLI | Livros e artigos |
 | (CENTRO DE ESTUDOS DA METRÓPOLE, 2025) | CENTRO | Imprensa |
+| (COMITÊ..., 2025) | COMITÊ | Imprensa |
 | (CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS, [2019]) | CONFEDERAÇÃO (PEC 188/2019, folheto) | Notas técnicas |
 | (CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS, [2019?]) | CONFEDERAÇÃO (Municípios que podem ser extintos) | Notas técnicas |
 | (CONFEDERAÇÃO NACIONAL DE MUNICÍPIOS, 2025) | CONFEDERAÇÃO (Nota técnica sobre o IBS) | Notas técnicas |
 | (CONGRESSO..., 2025) | CONGRESSO | Imprensa |
+| (CONSELHO NACIONAL DE JUSTIÇA, 2025) | CONSELHO | Notas técnicas |
 | (CORBI; PAPAIOANNOU; SURICO, 2019) | CORBI | Livros e artigos |
+| (COSTA; BENVINDO, 2013) | COSTA | Livros e artigos |
 | (CRUZ, 2026) | CRUZ | Imprensa |
+| (DANTAS, 2020) | DANTAS | Livros e artigos |
 | (DANTAS JUNIOR; DINIZ, 2025) | DANTAS JUNIOR | Livros e artigos |
 | (DINO..., 2025) | DINO | Imprensa |
 | (ESTUDO..., 2025) | ESTUDO aponta | Imprensa |
@@ -582,18 +693,27 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (FIRJAN, 2025b) | FIRJAN (IFGF 2025, estudo) | Notas técnicas |
 | (FIRJAN, 2025c) | FIRJAN (anexo metodológico) | Notas técnicas |
 | (FIRPO; PONCZEK; SANFELICE, 2015) | FIRPO | Livros e artigos |
+| (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, [20--]) | FRENTE (Histórico e visão) | Notas técnicas |
+| (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, 2025a) | FRENTE (FNP lança plataforma inédita) | Notas técnicas |
+| (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, 2025b) | FRENTE (PEC 66 é promulgada) | Notas técnicas |
+| (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, 2026a) | FRENTE (Carta aos candidatos à Presidência) | Notas técnicas |
 | (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, [2026?]a) | FRENTE (Multi Cidades: FPM) | Notas técnicas |
+| (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, 2026b) | FRENTE (Comitê Gestor é sancionado) | Notas técnicas |
 | (FRENTE NACIONAL DE PREFEITAS E PREFEITOS, [2026?]b) | FRENTE (Multi Cidades: receita per capita) | Notas técnicas |
 | (FUSÃO..., 2025) | FUSÃO | Imprensa |
 | (GADENNE, 2017) | GADENNE | Livros e artigos |
+| (GANDRA, 2021) | GANDRA | Imprensa |
 | (GAZETA DO POVO, [2019]) | GAZETA | Imprensa |
 | (GIBSON; CALVO, 2000) | GIBSON | Livros e artigos |
 | (GOBETTI; MONTEIRO, 2023) | GOBETTI | Livros e artigos |
+| (GODOY; TRANJAN, 2023) | GODOY | Livros e artigos |
 | (GOMES; MAC DOWELL, 2000) | GOMES | Livros e artigos |
 | (GOVERNO..., 2019a) | GOVERNO fala em extinguir (Gazeta do Povo) | Imprensa |
 | (GOVERNO..., 2019b) | GOVERNO propõe extinção (Exame) | Imprensa |
 | (GOVERNO..., 2019c) | GOVERNO propõe extinguir (CartaCapital, texto da Agência Brasil) | Imprensa |
+| (HANSSON; OLSSON, 2006) | HANSSON | Livros e artigos |
 | (HIROI, 2019) | HIROI | Livros e artigos |
+| (HOOGHE; MARKS, 2016) | HOOGHE | Livros e artigos |
 | (IBGE, 2020) | IBGE (Regiões de influência das cidades 2018) | Dados |
 | (IBGE, 2022) | IBGE (Censo Demográfico 2022: prévia da população) | Dados |
 | (IBGE, 2023) | IBGE (Censo Demográfico 2022) | Dados |
@@ -605,35 +725,54 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (IBGE, [2026]f) | IBGE (Produto Interno Bruto dos Municípios) | Dados |
 | (IPEA, 2026a) | IPEA (Ipeadata) | Dados |
 | (IPEA, 2026b) | IPEA (Para onde vai o Pix?) | Notas técnicas |
+| (LABOISSIÈRE, 2026) | LABOISSIÈRE | Imprensa |
 | (LEITÃO *et al.*, 2016) | LEITÃO | Livros e artigos |
 | (LITSCHIG, 2012) | LITSCHIG (Are rules-based government programs) | Livros e artigos |
 | (LITSCHIG; MORRISON, 2013) | LITSCHIG (The impact of intergovernmental transfers) | Livros e artigos |
 | (LUDUVICE; DE BIASE, 2020) | LUDUVICE | Livros e artigos |
 | (LULA..., 2025) | LULA | Imprensa |
 | (MAIS..., 2020) | MAIS | Imprensa |
+| (MÁXIMO, 2026) | MÁXIMO | Imprensa |
 | (MEIRELLES *et al.*, 2018) | MEIRELLES | Livros e artigos |
 | (MENDES, 2020) | MENDES (Folha de S.Paulo) | Imprensa |
 | (MENDES; MIRANDA; COSIO, 2008) | MENDES | Livros e artigos |
+| (MENEZES, 2023) | MENEZES | Notas técnicas |
 | (MINAS GERAIS, 2026) | MINAS GERAIS | Dados |
+| (MINISTRA..., 2021) | MINISTRA | Imprensa |
+| (MINISTRO..., 2024) | MINISTRO | Imprensa |
 | (MONASTERIO, 2013) | MONASTERIO | Livros e artigos |
+| (MORAES, 2026) | MORAES | Imprensa |
 | (MUNICÍPIOS..., 2019) | MUNICÍPIOS que poderiam ser extintos | Imprensa |
 | (MUNICÍPIOS..., 2025) | MUNICÍPIOS pequenos recebem | Imprensa |
 | (MUNICÍPIOS..., 2026) | MUNICÍPIOS menores pagam mais | Imprensa |
 | (NICOLAU, 1997) | NICOLAU | Livros e artigos |
+| (NUNES, 2026) | NUNES | Imprensa |
 | (NZOBONIMPA; SAVARD; LAWARÉE, 2026) | NZOBONIMPA | Livros e artigos |
+| (OCDE; CGLU, 2022a) | OCDE (2022 synthesis report) | Notas técnicas |
+| (OCDE; CGLU, 2022b) | OCDE (Brazil: country and territory profiles) | Notas técnicas |
 | (OLIVEIRA; OLIVEIRA, 2023) | OLIVEIRA | Livros e artigos |
+| (OLIVON, 2026) | OLIVON | Imprensa |
 | (ORÇAMENTO..., 2026) | ORÇAMENTO | Imprensa |
 | (PACOTE..., 2019) | PACOTE | Imprensa |
 | (PADRÃO..., 2025) | PADRÃO | Imprensa |
 | (PEDIDO..., 2026) | PEDIDO | Imprensa |
+| (PEDUZZI, 2024) | PEDUZZI | Imprensa |
 | (PERES, 2024) | PERES (Governança do orçamento) | Livros e artigos |
 | (PERES; MARQUES; ARMANI, 2025) | PERES | Notas técnicas |
+| (PICKARD, 2020) | PICKARD | Livros e artigos |
 | (PIRES, 2021) | PIRES | Imprensa |
 | (PLANO..., 2019) | PLANO | Imprensa |
-| (POR UNANIMIDADE..., 2024) | POR UNANIMIDADE | Imprensa |
+| (PONTES, 2021) | PONTES | Imprensa |
+| (POPELIER; BIELEN, 2018) | POPELIER | Livros e artigos |
 | (REFORMA..., 2025) | REFORMA | Imprensa |
 | (REINGEWERTZ, 2012) | REINGEWERTZ | Livros e artigos |
 | (REPORTAGENS..., 2021) | REPORTAGENS | Imprensa |
+| (RICHTER, 2024a) | RICHTER (Dino suspende pagamento) | Imprensa |
+| (RICHTER, 2024b) | RICHTER (Por decisão de Dino) | Imprensa |
+| (RICHTER, 2024c) | RICHTER (Por unanimidade) | Imprensa |
+| (RICHTER, 2025) | RICHTER (STF tem maioria) | Imprensa |
+| (RICHTER, 2026a) | RICHTER (Dino cita existência) | Imprensa |
+| (RICHTER, 2026b) | RICHTER (Dino proíbe saques) | Imprensa |
 | (ROESEL, 2017) | ROESEL | Livros e artigos |
 | (SAMUELS; SNYDER, 2001) | SAMUELS | Livros e artigos |
 | (SANTOS; SOUZA; BARROS, 2026) | SANTOS | Imprensa |
@@ -657,18 +796,20 @@ Em obra sem autor a chave é a primeira palavra do título, em caixa alta, segui
 | (TODOS PELA EDUCAÇÃO, 2023) | TODOS | Notas técnicas |
 | (TOMIO, 2002) | TOMIO | Livros e artigos |
 | (VAZQUEZ; FONSECA; NASCIMENTO, 2026) | VAZQUEZ | Livros e artigos |
+| (VERDÉLIO, 2022) | VERDÉLIO | Imprensa |
+| (WEST, 2011) | WEST | Imprensa |
 
 ## Contagem
 
 | Grupo | Referências |
 |---|---|
 | Dados | 20 |
-| Normas e decisões | 41 |
-| Livros, artigos e textos para discussão | 51 |
-| Notas técnicas, relatórios e documentos de entidades | 15 |
-| Imprensa, vídeos e redes | 44 |
-| Total conferido | 171 |
-| Citadas mas não conferidas (linhas) | 77 |
+| Normas e decisões | 44 |
+| Livros, artigos e textos para discussão | 60 |
+| Notas técnicas, relatórios e documentos de entidades | 29 |
+| Imprensa, vídeos e redes | 64 |
+| Total conferido | 217 |
+| Citadas mas não conferidas (linhas) | 78 |
 
-Contagem refeita em 6 out. 2026, depois da rodada 2 da revisão, contando os parágrafos de cada grupo. A tabela de
-chaves tem uma linha por referência conferida (171).
+Contagem refeita em 6 out. 2026, depois da camada 2 da rodada 5, contando os parágrafos de cada grupo. A tabela de
+chaves tem uma linha por referência conferida (217).
