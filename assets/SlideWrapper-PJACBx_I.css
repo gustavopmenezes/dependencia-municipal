@@ -1,0 +1,560 @@
+
+.slidev-slide-container[data-v-3f6a97cf] {
+  position:relative;width:100%;height:100%;overflow:hidden;
+}
+.slidev-slide-content[data-v-3f6a97cf] {
+  --slidev-slide-container-scale: var(--slidev-slide-scale);
+  transform: translate(-50%, -50%) scale(var(--slidev-slide-scale));
+  position:absolute;left:50%;top:50%;overflow:hidden;--un-bg-opacity:1;background-color:rgb(255 255 255 / var(--un-bg-opacity));
+}.dark .slidev-slide-content[data-v-3f6a97cf]{--un-bg-opacity:1;background-color:rgb(18 18 18 / var(--un-bg-opacity));}
+
+/* a área do deck encolhe para dar lugar ao painel; o Slidev reescala o slide sozinho */
+html.notas-ed-baixo #page-root { height: calc(100% - var(--notas-ed-reserva, 0px));
+}
+html.notas-ed-lado #page-root { width: calc(100% - var(--notas-ed-reserva, 0px));
+}
+.notas-ed {
+  --notas-ed-letra: clamp(15px, 1.2vw, 23px);
+  --notas-ed-miuda: max(13px, calc(var(--notas-ed-letra) * 0.8));
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  z-index: 3;
+  box-sizing: border-box;
+  display: flex;
+  background: var(--papel, #fff);
+  color: var(--tinta, #1f2a37);
+  font-family: var(--sans, 'Segoe UI', Arial, sans-serif);
+  font-size: var(--notas-ed-letra);
+  line-height: 1.42;
+}
+.notas-ed-em-baixo {
+  left: 0;
+  border-top: 2px solid var(--tinta, #1f2a37);
+  padding: 0.7em 1.6em 0.65em;
+  gap: 1.6em;
+  flex-direction: row;
+}
+.notas-ed-em-lado {
+  top: 0;
+  border-left: 2px solid var(--tinta, #1f2a37);
+  padding: 1.2em 1.3em;
+  gap: 1em;
+  flex-direction: column;
+}
+.notas-ed-cabeca {
+  flex: none;
+  display: flex;
+  gap: 0.35em;
+  font-size: var(--notas-ed-miuda);
+  line-height: 1.2;
+}
+.notas-ed-em-baixo .notas-ed-cabeca { flex-direction: column; align-items: flex-start; width: 10.5em;
+}
+.notas-ed-em-lado .notas-ed-cabeca { flex-direction: row; flex-wrap: wrap; align-items: baseline; column-gap: 0.8em;
+}
+.notas-ed-titulo {
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.notas-ed-slide { color: var(--tinta2, #52514e); font-variant-numeric: tabular-nums;
+}
+.notas-ed-fechar {
+  font: inherit;
+  font-weight: 600;
+  color: var(--tinta, #1f2a37);
+  background: var(--fundo, #faf9f6);
+  border: 1px solid var(--cinza2, #b0b0ab);
+  border-radius: 999px;
+  padding: 0.3em 0.8em;
+  cursor: pointer;
+}
+.notas-ed-em-baixo .notas-ed-fechar { margin-top: auto;
+}
+.notas-ed-em-lado .notas-ed-fechar { margin-left: auto;
+}
+.notas-ed-fechar:hover { border-color: var(--tinta, #1f2a37);
+}
+.notas-ed-fechar kbd {
+  font: inherit;
+  font-weight: 700;
+  border: 1px solid var(--cinza2, #b0b0ab);
+  border-radius: 4px;
+  padding: 0 0.35em;
+  margin-left: 0.3em;
+  background: var(--papel, #fff);
+}
+.notas-ed-miolo {
+  flex: 1;
+  min-width: 0;
+  min-height: 0;
+  position: relative;
+  display: flex;
+}
+.notas-ed-corpo {
+  flex: 1;
+  min-width: 0;
+  min-height: 0;
+  display: flex;
+  gap: 1.6em;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+/* texto que não coube: a barra de rolagem fica sempre à vista, escura, e o botão "continua" marca o pé */
+.notas-ed-rola .notas-ed-corpo {
+  overflow-y: scroll;
+  padding-right: 0.6em;
+}
+@supports not selector(::-webkit-scrollbar) {
+.notas-ed-rola .notas-ed-corpo { scrollbar-width: thin; scrollbar-color: var(--tinta2, #52514e) var(--fundo, #faf9f6);
+}
+}
+.notas-ed-rola .notas-ed-corpo::-webkit-scrollbar { width: 9px;
+}
+.notas-ed-rola .notas-ed-corpo::-webkit-scrollbar-track { background: var(--fundo, #faf9f6);
+}
+.notas-ed-rola .notas-ed-corpo::-webkit-scrollbar-thumb { background: var(--tinta2, #52514e); border-radius: 5px;
+}
+/* enquanto há texto abaixo, o pé do corpo esmaece: a última linha à vista some aos poucos, sob o botão */
+.notas-ed-tem-mais .notas-ed-miolo::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 12px;
+  bottom: 0;
+  height: 2.2em;
+  background: linear-gradient(to bottom, transparent, var(--papel, #fff) 75%);
+  pointer-events: none;
+}
+/* na coluna ao lado a letra é menor que na faixa de baixo: a coluna é estreita e a nota inteira tem de caber nela */
+.notas-ed-em-lado { --notas-ed-letra: clamp(15px, 0.9vw, 18px);
+}
+.notas-ed-continua {
+  position: absolute;
+  right: 1.4em;
+  bottom: 0;
+  font: inherit;
+  font-size: var(--notas-ed-miuda);
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--papel, #fff);
+  background: var(--tinta, #1f2a37);
+  border: 0;
+  border-radius: 999px;
+  padding: 0.3em 0.8em;
+  cursor: pointer;
+  box-shadow: 0 0 0 3px var(--papel, #fff);
+  z-index: 1;
+}
+.notas-ed-em-lado .notas-ed-corpo { flex-direction: column; gap: 1.1em;
+}
+.notas-ed-em-lado .notas-ed-narracao, .notas-ed-em-lado .notas-ed-contraponto { flex: none; align-self: stretch;
+}
+/* janela estreita (celular em pé): cabeçalho numa linha, narração e contraponto um embaixo do outro */
+.notas-ed-estreita { flex-direction: column; gap: 0.6em; padding: 0.7em 1em;
+}
+.notas-ed-estreita .notas-ed-cabeca { flex-direction: row; flex-wrap: wrap; align-items: baseline; column-gap: 0.8em; width: auto;
+}
+.notas-ed-estreita .notas-ed-fechar { margin-top: 0; margin-left: auto;
+}
+.notas-ed-estreita .notas-ed-corpo { flex-direction: column; gap: 0.7em;
+}
+.notas-ed-estreita .notas-ed-narracao, .notas-ed-estreita .notas-ed-contraponto { flex: none; align-self: stretch;
+}
+.notas-ed-contraponto p:first-of-type::first-letter { text-transform: uppercase;
+}
+.notas-ed-narracao { flex: 1.5; min-width: 0;
+}
+.notas-ed-contraponto {
+  flex: 1;
+  min-width: 0;
+  align-self: flex-start;
+  border-left: 3px solid var(--tinta, #1f2a37);
+  padding-left: 0.9em;
+  color: var(--tinta2, #52514e);
+}
+.notas-ed-rotulo {
+  display: block;
+  font-size: var(--notas-ed-miuda);
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--tinta2, #52514e);
+  margin-bottom: 0.15em;
+}
+.notas-ed p { margin: 0;
+}
+.notas-ed p + p, .notas-ed p + .notas-ed-bloco, .notas-ed-bloco + p { margin-top: 0.55em;
+}
+.notas-ed-bloco ul, .notas-ed-bloco ol, ul.notas-ed-bloco, ol.notas-ed-bloco { margin: 0; padding-left: 1.2em; list-style: disc;
+}
+.notas-ed strong, .notas-ed b { font-weight: 700;
+}
+.notas-ed a { text-decoration: underline;
+}
+@media print {
+.notas-ed { display: none;
+}
+}
+
+.tabela-dados[data-v-9728c09d] {
+  position: absolute;
+  inset: 0;
+  z-index: 60;
+  background: rgba(31, 42, 55, 0.22);
+  display: flex;
+  align-items: flex-end;
+  font-family: var(--sans);
+  color: var(--tinta);
+}
+.gaveta[data-v-9728c09d] {
+  width: 100%;
+  height: 80%;
+  background: var(--fundo);
+  border-top: 1px solid var(--cinza3);
+  border-radius: 14px 14px 0 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+.topo[data-v-9728c09d] {
+  flex: none;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 16px 32px 12px;
+  border-bottom: 1px solid var(--fio);
+}
+.titulos[data-v-9728c09d] { min-width: 0;
+}
+.titulos .olho[data-v-9728c09d] { font-size: 11.5px;
+}
+.titulos h2[data-v-9728c09d] {
+  font-family: var(--serifa);
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 1.2;
+  margin: 2px 0 0;
+}
+.nota-tabela[data-v-9728c09d] { margin: 3px 0 0; font-size: 14px; color: var(--tinta2);
+}
+.controles[data-v-9728c09d] { display: flex; align-items: center; gap: 8px; flex: none;
+}
+.busca[data-v-9728c09d] {
+  width: 230px;
+  font: inherit;
+  font-size: 15px;
+  color: var(--tinta);
+  background: var(--papel);
+  border: 1px solid var(--cinza2);
+  border-radius: 999px;
+  padding: 6px 14px;
+  outline: none;
+}
+.busca[data-v-9728c09d]:focus { border-color: var(--tinta);
+}
+.busca[data-v-9728c09d]::placeholder { color: var(--mudo);
+}
+kbd[data-v-9728c09d] {
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--mudo);
+  border: 1px solid var(--cinza2);
+  border-radius: 4px;
+  padding: 1px 4px;
+}
+.rolagem[data-v-9728c09d] {
+  flex: 1 1 0;
+  min-height: 0;
+  overflow: auto;
+  padding: 0 32px;
+  outline: none;
+  scrollbar-width: thin;
+  scrollbar-color: var(--cinza2) transparent;
+}
+table[data-v-9728c09d] {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  font-size: 15px;
+  line-height: 1.3;
+  font-variant-numeric: tabular-nums lining-nums;
+}
+thead th[data-v-9728c09d] {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--fundo);
+  border-bottom: 1px solid var(--tinta2);
+  padding: 0;
+  text-align: left;
+  white-space: nowrap;
+}
+thead th button[data-v-9728c09d] {
+  font: inherit;
+  font-size: 13.5px;
+  font-weight: 600;
+  color: var(--tinta2);
+  background: none;
+  border: 0;
+  padding: 9px 22px 7px 0;
+  cursor: pointer;
+  width: 100%;
+  text-align: inherit;
+}
+thead th.ativa button[data-v-9728c09d] { color: var(--tinta);
+}
+thead th button[data-v-9728c09d]:hover { color: var(--tinta); text-decoration: underline;
+}
+.seta[data-v-9728c09d] { display: inline-block; width: 1.1em; font-size: 9px; text-align: right; vertical-align: 1px;
+}
+th.num[data-v-9728c09d], td.num[data-v-9728c09d] { text-align: right;
+}
+th.num button[data-v-9728c09d] { padding: 9px 22px 7px 12px;
+}
+td[data-v-9728c09d] {
+  padding: 5px 22px 5px 0;
+  border-bottom: 1px solid var(--fio);
+  white-space: nowrap;
+  max-width: 420px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+td.num[data-v-9728c09d] { padding: 5px 22px 5px 12px;
+}
+thead th:last-child button[data-v-9728c09d], td[data-v-9728c09d]:last-child { padding-right: 0;
+}
+tbody tr:hover td[data-v-9728c09d] { background: #f1f0ea;
+}
+tr.clicavel[data-v-9728c09d] { cursor: pointer;
+}
+.vazio[data-v-9728c09d] { color: var(--mudo); padding: 18px 0; text-align: left;
+}
+.pe[data-v-9728c09d] {
+  flex: none;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 8px 32px 10px;
+  border-top: 1px solid var(--fio);
+  font-size: 13px;
+  color: var(--tinta2);
+}
+.dica-pe[data-v-9728c09d] { margin-left: auto; color: var(--mudo);
+}
+.elo[data-v-9728c09d] {
+  font: inherit;
+  color: var(--tinta);
+  background: none;
+  border: 0;
+  padding: 0;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.gaveta-enter-active[data-v-9728c09d], .gaveta-leave-active[data-v-9728c09d] { transition: opacity 0.2s ease;
+}
+.gaveta-enter-active .gaveta[data-v-9728c09d], .gaveta-leave-active .gaveta[data-v-9728c09d] { transition: transform 0.25s ease;
+}
+.gaveta-enter-from[data-v-9728c09d], .gaveta-leave-to[data-v-9728c09d] { opacity: 0;
+}
+.gaveta-enter-from .gaveta[data-v-9728c09d], .gaveta-leave-to .gaveta[data-v-9728c09d] { transform: translateY(24px);
+}
+
+.termo-gloss-camada {
+  position: absolute;
+  inset: 0;
+  z-index: 40;
+  pointer-events: none;
+  transition: opacity 0.18s ease;
+}
+.termo-gloss-camada.termo-gloss-escondida {
+  visibility: hidden;
+  opacity: 0;
+}
+.termo-gloss-alvo {
+  position: absolute;
+  box-sizing: border-box;
+  pointer-events: auto;
+  cursor: help;
+  border-bottom: 1.5px dotted var(--cinza3, #84847f);
+  border-radius: 2px;
+  outline: none;
+  /* o retângulo medido vai até a base da linha; sobe o pontilhado para junto da letra */
+  transform: translateY(-2px);
+}
+.termo-gloss-alvo:hover,
+.termo-gloss-alvo.termo-gloss-aceso {
+  border-bottom-color: var(--tinta, #1f2a37);
+  background-color: rgba(251, 233, 168, 0.38);
+}
+.termo-gloss-alvo:focus-visible {
+  outline: 2px solid var(--tinta, #1f2a37);
+  outline-offset: 1px;
+}
+.termo-gloss-balao {
+  position: absolute;
+  box-sizing: border-box;
+  pointer-events: auto;
+  padding: 12px 14px 11px;
+  background: var(--papel, #ffffff);
+  border: 1px solid var(--cinza2, #b0b0ab);
+  border-radius: 8px;
+  box-shadow: 0 6px 22px rgba(31, 42, 55, 0.18);
+  font-family: var(--sans);
+  color: var(--tinta, #1f2a37);
+  text-align: left;
+}
+.termo-gloss-rotulo {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.25;
+}
+.termo-gloss-nome {
+  margin-top: 1px;
+  font-size: 13.5px;
+  font-style: italic;
+  line-height: 1.3;
+  color: var(--tinta2, #52514e);
+}
+.termo-gloss-texto {
+  margin: 7px 0 0;
+  font-size: 14.5px;
+  line-height: 1.38;
+}
+.termo-gloss-atalho {
+  margin-top: 9px;
+  padding-top: 7px;
+  border-top: 1px solid var(--fio, #e1e0d9);
+  font-size: 13.5px;
+  line-height: 1.3;
+}
+.termo-gloss-ir {
+  cursor: pointer;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.termo-gloss-ir:hover {
+  color: var(--sp, #eb6834);
+}
+.termo-gloss-aqui {
+  color: var(--tinta2, #52514e);
+}
+
+.rodape[data-v-66ccbbd0] {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 44px;
+  padding: 0 32px 6px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  font-family: var(--sans);
+  font-size: 13px;
+  line-height: 1;
+  color: var(--mudo);
+  pointer-events: none;
+  z-index: 5;
+}
+.pilula[data-v-66ccbbd0] {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--tinta2);
+  border: 1px solid var(--cinza2);
+  border-radius: 999px;
+  padding: 5px 11px 4px;
+  background: var(--fundo);
+  white-space: nowrap;
+}
+/* o emoji não leva o espaçamento das versaletes e fica um ponto maior, para se ler */
+.pilula-emoji[data-v-66ccbbd0] {
+  letter-spacing: 0;
+  font-size: 14px;
+  margin-right: 6px;
+}
+.passos[data-v-66ccbbd0] {
+  white-space: nowrap;
+  font-weight: 600;
+  color: var(--tinta2);
+}
+.credito[data-v-66ccbbd0] {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* botão das notas do editor: discreto, do tamanho da linha do rodapé. O ponto é vazado em slide sem nota e
+   cheio em slide com nota; o botão escurece quando as notas estão abertas. */
+.rodape-notas[data-v-66ccbbd0] {
+  pointer-events: auto;
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font: inherit;
+  font-weight: 600;
+  line-height: 1;
+  color: var(--tinta2);
+  background: var(--fundo);
+  border: 1px solid var(--cinza2);
+  border-radius: 999px;
+  padding: 5px 10px 4px 9px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.rodape-notas[data-v-66ccbbd0]:hover { border-color: var(--tinta2); color: var(--tinta);
+}
+.rodape-notas-sinal[data-v-66ccbbd0] {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  border: 1.5px solid var(--cinza2);
+  box-sizing: border-box;
+}
+.rodape-notas-com .rodape-notas-sinal[data-v-66ccbbd0] { background: var(--tinta); border-color: var(--tinta);
+}
+.rodape-notas-abertas[data-v-66ccbbd0] { color: var(--papel); background: var(--tinta); border-color: var(--tinta);
+}
+.rodape-notas-abertas[data-v-66ccbbd0]:hover { color: var(--papel);
+}
+.rodape-notas-abertas .rodape-notas-sinal[data-v-66ccbbd0] { border-color: var(--papel);
+}
+.rodape-notas-abertas.rodape-notas-com .rodape-notas-sinal[data-v-66ccbbd0] { background: var(--papel); border-color: var(--papel);
+}
+.rodape-notas-leitor[data-v-66ccbbd0] {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+.contador[data-v-66ccbbd0] {
+  font-variant-numeric: tabular-nums;
+  color: var(--tinta2);
+  font-weight: 600;
+}
+
+.disable-view-transition[data-v-e82d7056] * {
+  view-transition-name: none !important;
+}
+.slidev-page[data-v-e82d7056] {
+  position: absolute;
+  inset: 0;
+
+  /* Zoom handling */
+  --slidev-slide-zoom-scale: 1;
+  width: calc(100% / var(--slidev-slide-zoom-scale));
+  height: calc(100% / var(--slidev-slide-zoom-scale));
+  transform-origin: top left;
+  scale: var(--slidev-slide-zoom-scale);
+  /* slide scale = container scale * zoom scale */
+  --slidev-slide-scale: calc(var(--slidev-slide-container-scale) * var(--slidev-slide-zoom-scale));
+}

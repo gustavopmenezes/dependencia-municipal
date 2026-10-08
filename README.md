@@ -1,4 +1,4 @@
-# De onde vem o dinheiro das prefeituras
+# Da onde vem o dinheiro das prefeituras
 
 **Sudeste × Nordeste · São Paulo × Maranhão.** Contas municipais de 2024, série de 2002 a 2025.
 
@@ -36,7 +36,7 @@ partir do endereço original.
 
 ## Como citar
 
-MENEZES, Gustavo Paixão. **De onde vem o dinheiro das prefeituras**: São Paulo e Maranhão, Sudeste e Nordeste nas
+MENEZES, Gustavo Paixão. **Da onde vem o dinheiro das prefeituras**: São Paulo e Maranhão, Sudeste e Nordeste nas
 contas municipais de 2024. São Carlos, 2026. Disponível em:
 https://gustavopmenezes.github.io/dependencia-municipal/relatorio.pdf. Acesso em: 6 out. 2026.
 

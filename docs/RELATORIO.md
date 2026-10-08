@@ -1,5 +1,5 @@
 ---
-titulo: De onde vem o dinheiro das prefeituras?
+titulo: Da onde vem o dinheiro das prefeituras?
 subtitulo: São Paulo e Maranhão, Sudeste e Nordeste nas contas municipais de 2024
 comparativo: São Paulo × Maranhão · Sudeste × Nordeste
 autor: Gustavo Paixão Menezes
