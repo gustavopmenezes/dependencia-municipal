@@ -6,7 +6,7 @@ autor: Gustavo Paixão Menezes
 assinatura: Gustavo Menezes
 contato: gustavopmenezes@usp.br
 local: São Carlos
-data: 2026-10-06
+data: 2026-10-12
 olho: Contas municipais de 2024 · série de 2002 a 2025
 versao: versão 1
 url: https://gustavopmenezes.github.io/dependencia-municipal/
@@ -37,6 +37,16 @@ e o Maranhão, 5. O texto a chama de região intermediária.
 Interior profundo não é divisão oficial. Aqui foi assumido assim: o oeste paulista são as quatro regiões
 intermediárias de Presidente Prudente, Marília, Araçatuba e São José do Rio Preto, medidas em conjunto. O Vale do
 Ribeira não tem região intermediária própria e aparece no mapa.
+
+**A resposta, com as palavras do deck.** Em maior proporção, sim. Tanto quanto o Maranhão, não. Na maior parte da
+receita: em 247 das 250 prefeituras do interior profundo com contas utilizáveis, a receita externa passa da metade.
+Numa parcela maior que a do resto do estado: 3 em cada 4 (75,6%) passam de 80% de receita externa, contra 4 em cada
+10 (39,4%) no resto de São Paulo; a tamanho igual, até 50 mil habitantes, a diferença é de +1,3 ponto percentual
+(intervalo de 95% de 0,2 a 2,4). Tanto quanto o Maranhão, não: lá, quase todas as prefeituras passam de 80% (97,7%)
+e 6 em cada 7 passam de 90% (85,6%), contra 1 em cada 4 (24,0%) no interior profundo; a tamanho igual, o interior
+profundo fica 12,0 pontos abaixo do Maranhão (intervalo de 10,9 a 13,1). O município do meio\* tem 86,0% de receita
+externa no interior profundo (média 83,8% ± 9,0), 76,6% no resto de São Paulo (média 74,6% ± 13,0) e 94,1% no
+Maranhão (média 93,1% ± 4,4). A conta inteira, com o recorte do interior profundo, está na seção 22.5.
 
 Tabela. A pergunta em quatro leituras
 
